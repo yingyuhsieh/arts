@@ -1,0 +1,25 @@
+{
+  "manifest": "/Users/yingyuhsieh/Desktop/mcp/arts/Melchior Broederlam/tw_slides/范艾克之前：通往可見世界的大門_slide_manifest.json",
+  "original_count": 24,
+  "supplemental_count": 3,
+  "original_final": {
+    "from": "范艾克之前：通往可見世界的大門_slide_0024.png",
+    "to": "范艾克之前：通往可見世界的大門_slide_0027.png",
+    "sha256": "210acbf5410ddaf54c1ea81107796fee97c75a2bc180f2e4a4984af77d23edda"
+  },
+  "supplemental_renames": [
+    {
+      "from": "范艾克之前：通往可見世界的大門_slide_0025.png",
+      "to": "范艾克之前：通往可見世界的大門_slide_0024.png"
+    },
+    {
+      "from": "范艾克之前：通往可見世界的大門_slide_0026.png",
+      "to": "范艾克之前：通往可見世界的大門_slide_0025.png"
+    },
+    {
+      "from": "范艾克之前：通往可見世界的大門_slide_0027.png",
+      "to": "范艾克之前：通往可見世界的大門_slide_0026.png"
+    }
+  ],
+  "subtitle": "/Users/yingyuhsieh/Desktop/mcp/arts/Melchior Broederlam/tw_slides/subtitle/范艾克之前：通往可見世界的大門.txt"
+}

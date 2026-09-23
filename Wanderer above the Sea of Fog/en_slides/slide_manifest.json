@@ -1,0 +1,25 @@
+{
+  "source_video": "../Demystifying_the_Wanderer.mp4",
+  "canvas": { "width": 1280, "height": 720 },
+  "scene_detection_threshold": 0.12,
+  "slides": [
+    { "slide": 1, "file": "update/slide_001.png", "start": 0.0, "end": 27.75 },
+    { "slide": 2, "file": "update/slide_002.png", "start": 27.75, "end": 58.75 },
+    { "slide": 3, "file": "update/slide_003.png", "start": 58.75, "end": 86.666667 },
+    { "slide": 4, "file": "update/slide_004.png", "start": 86.666667, "end": 118.166667 },
+    { "slide": 5, "file": "update/slide_005.png", "start": 118.166667, "end": 148.041667 },
+    { "slide": 6, "file": "update/slide_006.png", "start": 148.041667, "end": 177.375 },
+    { "slide": 7, "file": "update/slide_007.png", "start": 177.375, "end": 203.125 },
+    { "slide": 8, "file": "update/slide_008.png", "start": 203.125, "end": 233.041667 },
+    { "slide": 9, "file": "update/slide_009.png", "start": 233.041667, "end": 262.875 },
+    { "slide": 10, "file": "update/slide_010.png", "start": 262.875, "end": 281.166667 },
+    { "slide": 11, "file": "update/slide_011.png", "start": 281.166667, "end": 313.458333 },
+    { "slide": 12, "file": "update/slide_012.png", "start": 313.458333, "end": 346.833333 },
+    { "slide": 13, "file": "update/slide_013.png", "start": 346.833333, "end": 377.625 },
+    { "slide": 14, "file": "update/slide_014.png", "start": 377.625, "end": 411.125 },
+    { "slide": 15, "file": "update/slide_015.png", "start": 411.125, "end": 444.458333 },
+    { "slide": 16, "file": "update/slide_016.png", "start": 444.458333, "end": 473.625 },
+    { "slide": 17, "file": "update/slide_017.png", "start": 473.625, "end": 504.291667 },
+    { "slide": 18, "file": "update/slide_018.png", "start": 504.291667, "end": 507.356009, "role": "source outro" }
+  ]
+}

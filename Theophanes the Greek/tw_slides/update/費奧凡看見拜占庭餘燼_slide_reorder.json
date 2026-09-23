@@ -1,0 +1,17 @@
+{
+  "manifest": "D:\\mcp\\arts\\Theophanes the Greek\\tw_slides\\費奧凡看見拜占庭餘燼_slide_manifest.json",
+  "original_count": 18,
+  "supplemental_count": 1,
+  "original_final": {
+    "from": "費奧凡看見拜占庭餘燼_slide_0018.png",
+    "to": "費奧凡看見拜占庭餘燼_slide_0019.png",
+    "sha256": "f5183c21af25e79d41bf3f050a3c85ca4903b82a42727d690b4588ad7920fca5"
+  },
+  "supplemental_renames": [
+    {
+      "from": "費奧凡看見拜占庭餘燼_slide_0019.png",
+      "to": "費奧凡看見拜占庭餘燼_slide_0018.png"
+    }
+  ],
+  "subtitle": "D:\\mcp\\arts\\Theophanes the Greek\\tw_slides\\subtitle\\費奧凡看見拜占庭餘燼.txt"
+}

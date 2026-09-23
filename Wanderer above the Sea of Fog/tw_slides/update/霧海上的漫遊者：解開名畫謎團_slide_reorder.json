@@ -1,0 +1,17 @@
+{
+  "manifest": "/Users/yingyuhsieh/Desktop/mcp/arts/Wanderer above the Sea of Fog/tw_slides/霧海上的漫遊者：解開名畫謎團_slide_manifest.json",
+  "original_count": 24,
+  "supplemental_count": 1,
+  "original_final": {
+    "from": "霧海上的漫遊者：解開名畫謎團_slide_0024.png",
+    "to": "霧海上的漫遊者：解開名畫謎團_slide_0025.png",
+    "sha256": "4c665baa807f2aa63cd2267d85919f15a26dbd840eb639c3eaf92d66098c7225"
+  },
+  "supplemental_renames": [
+    {
+      "from": "霧海上的漫遊者：解開名畫謎團_slide_0025.png",
+      "to": "霧海上的漫遊者：解開名畫謎團_slide_0024.png"
+    }
+  ],
+  "subtitle": "/Users/yingyuhsieh/Desktop/mcp/arts/Wanderer above the Sea of Fog/tw_slides/subtitle/霧海上的漫遊者：解開名畫謎團.txt"
+}

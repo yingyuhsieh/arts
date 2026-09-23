@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1050" viewBox="0 0 1800 1050">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f8f2e5"/><stop offset="1" stop-color="#e8dcc5"/>
+    </linearGradient>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M0,0 L12,6 L0,12 Z" fill="#7f2f2f"/>
+    </marker>
+    <style>
+      .title{font:700 52px Georgia,serif;fill:#3e2b24}.sub{font:28px Arial,sans-serif;fill:#5a4a43}
+      .city{font:700 34px Arial,sans-serif;fill:#fff}.role{font:25px Arial,sans-serif;fill:#3e2b24}
+      .year{font:700 23px Arial,sans-serif;fill:#7f2f2f}.route{stroke:#7f2f2f;stroke-width:10;fill:none;marker-end:url(#arrow)}
+      .note{font:22px Arial,sans-serif;fill:#67584f}.box{fill:#2f5d62;stroke:#21464a;stroke-width:4}
+    </style>
+  </defs>
+  <rect width="1800" height="1050" fill="url(#bg)"/>
+  <text x="900" y="85" text-anchor="middle" class="title">Burgundian Altarpiece Production Flow</text>
+  <text x="900" y="130" text-anchor="middle" class="sub">Dendermonde → Dijon / Champmol → Ypres → Dijon / Champmol</text>
+
+  <path class="route" d="M310 385 C465 260 575 260 730 385"/>
+  <path class="route" d="M895 475 C880 680 720 760 505 745"/>
+  <path class="route" d="M640 745 C920 830 1230 720 1420 520"/>
+
+  <g transform="translate(105 315)"><rect class="box" rx="24" width="360" height="170"/>
+    <text x="180" y="60" text-anchor="middle" class="city">Dendermonde</text>
+    <text x="180" y="105" text-anchor="middle" class="role" fill="#fff">wood carving</text>
+    <text x="180" y="142" text-anchor="middle" class="year" fill="#f6d79a">1390</text></g>
+
+  <g transform="translate(720 315)"><rect class="box" rx="24" width="360" height="170"/>
+    <text x="180" y="60" text-anchor="middle" class="city">Dijon / Champmol</text>
+    <text x="180" y="105" text-anchor="middle" class="role" fill="#fff">ducal review</text>
+    <text x="180" y="142" text-anchor="middle" class="year" fill="#f6d79a">1391</text></g>
+
+  <g transform="translate(260 665)"><rect class="box" rx="24" width="380" height="170"/>
+    <text x="190" y="60" text-anchor="middle" class="city">Ypres</text>
+    <text x="190" y="105" text-anchor="middle" class="role" fill="#fff">painting &amp; gilding</text>
+    <text x="190" y="142" text-anchor="middle" class="year" fill="#f6d79a">1391–1398</text></g>
+
+  <g transform="translate(1320 350)"><rect class="box" rx="24" width="365" height="180"/>
+    <text x="182" y="58" text-anchor="middle" class="city">Champmol</text>
+    <text x="182" y="103" text-anchor="middle" class="role" fill="#fff">transport &amp; installation</text>
+    <text x="182" y="143" text-anchor="middle" class="year" fill="#f6d79a">1398–1399</text></g>
+
+  <g transform="translate(1060 705)">
+    <rect x="0" y="0" width="590" height="190" rx="20" fill="#fffaf0" stroke="#aa927a" stroke-width="3"/>
+    <text x="30" y="48" class="year">Packing recorded in 1398</text>
+    <text x="30" y="91" class="note">leather · timber · iron fittings · lead nails</text>
+    <text x="30" y="142" class="note">Production-flow visualization</text>
+    <text x="30" y="174" class="note">Exact road segments are not documented.</text>
+  </g>
+</svg>

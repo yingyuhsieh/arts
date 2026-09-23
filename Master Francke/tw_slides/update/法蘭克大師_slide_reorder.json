@@ -1,0 +1,21 @@
+{
+  "manifest": "D:\\mcp\\arts\\Master Francke\\tw_slides\\法蘭克大師_slide_manifest.json",
+  "original_count": 21,
+  "supplemental_count": 2,
+  "original_final": {
+    "from": "法蘭克大師_slide_0021.png",
+    "to": "法蘭克大師_slide_0023.png",
+    "sha256": "b71764d8cc08b37bc80ff02b904c70621deb08f1eb66073e8b922c1bb88a2468"
+  },
+  "supplemental_renames": [
+    {
+      "from": "法蘭克大師_slide_0022.png",
+      "to": "法蘭克大師_slide_0021.png"
+    },
+    {
+      "from": "法蘭克大師_slide_0023.png",
+      "to": "法蘭克大師_slide_0022.png"
+    }
+  ],
+  "subtitle": "D:\\mcp\\arts\\Master Francke\\tw_slides\\subtitle\\法蘭克大師.txt"
+}

@@ -1,0 +1,21 @@
+{
+  "manifest": "/Users/yingyuhsieh/Desktop/mcp/arts/Melchior Broederlam/en_slides/Before_Van_Eyck__A_Door_Opens_slide_manifest.json",
+  "original_count": 23,
+  "supplemental_count": 2,
+  "original_final": {
+    "from": "Before_Van_Eyck__A_Door_Opens_slide_0023.png",
+    "to": "Before_Van_Eyck__A_Door_Opens_slide_0025.png",
+    "sha256": "a261cb1b9efa548bf859e07c9ede4a518f2e4971be7c2fa7fa75cebb5ad08a53"
+  },
+  "supplemental_renames": [
+    {
+      "from": "Before_Van_Eyck__A_Door_Opens_slide_0024.png",
+      "to": "Before_Van_Eyck__A_Door_Opens_slide_0023.png"
+    },
+    {
+      "from": "Before_Van_Eyck__A_Door_Opens_slide_0025.png",
+      "to": "Before_Van_Eyck__A_Door_Opens_slide_0024.png"
+    }
+  ],
+  "subtitle": "/Users/yingyuhsieh/Desktop/mcp/arts/Melchior Broederlam/en_slides/subtitle/Before_Van_Eyck__A_Door_Opens.txt"
+}

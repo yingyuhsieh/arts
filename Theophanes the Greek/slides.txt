@@ -1,0 +1,35 @@
+Modify Theophanes the Greek\tw_slides\update\費奧凡看見拜占庭餘燼_slide_0002.png and make description clear and add Theophanes the Greek\images\image Ilyina_Transfiguration_church,_Novgorod.JPG and mark "Church of the Transfiguration on Ilyina Street" and add image Theophanes the Greek\images\Christ Pantocrator.pngChrist Pantocrator.png and add image Theophanes the Greek\images\Christ Pantocrator in the dome at Church of the Transfiguration on Ilyina Street.jpg mark "Christ Pantocrator"
+Modify Theophanes the Greek\tw_slides\update\費奧凡看見拜占庭餘燼_slide_0003.png and make description clear and replace center image to Theophanes the Greek\images\The fresco of Christ Pantocrator in the dome at Church of the Transfiguration on Ilyina Street.jpg
+Modify Theophanes the Greek\tw_slides\update\費奧凡看見拜占庭餘燼_slide_0004.png and add image Theophanes the Greek\images\St. Daniel the Stylite.jpg and mark "St. Daniel the Stylite"
+Modify Theophanes the Greek\tw_slides\update\費奧凡看見拜占庭餘燼_slide_0005.png and add image Theophanes the Greek\images\seth.jpg and mark "Seth"
+Modify Theophanes the Greek\tw_slides\update\費奧凡看見拜占庭餘燼_slide_0006.png and make description clear
+Modify Theophanes the Greek\tw_slides\update\費奧凡看見拜占庭餘燼_slide_0007.png 左邊圖加註 "Saint Alypius the Stylite" 右邊圖加註 "Stylite Saints Novgorod"
+Modify Theophanes the Greek\tw_slides\update\費奧凡看見拜占庭餘燼_slide_0008.png and make description clear
+Modify Theophanes the Greek\tw_slides\update\費奧凡看見拜占庭餘燼_slide_0010.png and and add image Theophanes the Greek\images\Theophanes the Greek and Daniel Chorny paint the Nativity Church in the Kremlin.jpg and mark "Theophanes the Greek and Daniel Chorny paint the Nativity Church in the Kremlin" and make description clear
+Modify Theophanes the Greek\tw_slides\update\費奧凡看見拜占庭餘燼_slide_0011.png and make description clear
+Modify Theophanes the Greek\tw_slides\update\費奧凡看見拜占庭餘燼_slide_0012.png and add image Theophanes the Greek\images\Five-panel Deesis row iconostasis in the Cathedral of the Annunciation in the Moscow Kremlin by Theophanes the Greek 1405.jpg and make description clear
+
+Modify Theophanes the Greek\tw_slides\update\費奧凡看見拜占庭餘燼_slide_0013.png and left image is Theophanes the Greek\images\Transfiguration.jpeg and right image is D:\mcp\arts\Andrei Rublev\images\1408 Arhangel Mikhail.jpg and make description clear
+Modify Theophanes the Greek\tw_slides\update\費奧凡看見拜占庭餘燼_slide_0014.png and left image is  Theophanes the Greek\images\IMG-011_John_the_Baptist_Annunciation_Deesis.jpg mark "John the Baptist Annunciation Deesis" and right image is Theophanes the Greek\images\IMG-012_Apostle_Paul_Annunciation_Deesis.jpg mark "Apostle Paul Annunciation"
+Modify Theophanes the Greek\tw_slides\update\費奧凡看見拜占庭餘燼_slide_0016.png and add image Theophanes the Greek\images\260000.jpg and use description "壁畫碎片 (約 2,300 個托盤)"
+
+Modify Theophanes the Greek\tw_slides\update\費奧凡看見拜占庭餘燼_slide_0017.png and add image Theophanes the Greek\images\IMG-009_Christ_Pantocrator_Annunciation_Deesis.jpg mark "Christ Pantocrator Annunciation" and make description clear
+Modify Theophanes the Greek\tw_slides\update\費奧凡看見拜占庭餘燼_slide_0018.png and add image Theophanes the Greek\images\IMG-008_Transfiguration_circle_of_Theophanes.jpg and make description clear
+Modify Theophanes the Greek\en_slides\update\Theophanes_the_Greek_slide_0002.png and make description clear and add Theophanes the Greek\images\image Ilyina_Transfiguration_church,_Novgorod.JPG and mark "Church of the Transfiguration on Ilyina Street" and add image Theophanes the Greek\images\Christ Pantocrator.pngChrist Pantocrator.png and add image Theophanes the Greek\images\Christ Pantocrator in the dome at Church of the Transfiguration on Ilyina Street.jpg mark "Christ Pantocrator"
+Modify Theophanes the Greek\en_slides\update\Theophanes_the_Greek_slide_0003.png and make description clear and replace center image to Theophanes the Greek\images\The fresco of Christ Pantocrator in the dome at Church of the Transfiguration on Ilyina Street.jpg
+Modify Theophanes the Greek\en_slides\update\Theophanes_the_Greek_slide_0004.png and make description and flow clear
+Modify Theophanes the Greek\en_slides\update\Theophanes_the_Greek_slide_0005.png and add image Theophanes the Greek\images\seth.jpg and mark "Seth"
+Modify Theophanes the Greek\en_slides\update\Theophanes_the_Greek_slide_0007.png and replace image to Theophanes the Greek\images\IMG-008_Transfiguration_circle_of_Theophanes and mark "Transfiguration circle of Theophanes" nad make description clear
+Modify Theophanes the Greek\en_slides\update\Theophanes_the_Greek_slide_0008.png and replace left image Theophanes the Greek\images\IMG-003_Saint_Macarius_Novgorod_1378.jpg and mark "Saint Macarius Novgorod" and right image replace Theophanes the Greek\images\IMG-005_Stylite_Saints_Novgorod_1378.jpg mark "Stylite Saints Novgorod"
+Modify Theophanes the Greek\en_slides\update\Theophanes_the_Greek_slide_0009.png replace image to Theophanes the Greek\images\IMG-004_Prophet_Elijah_Novgorod_1378.jpg mark "Prophet Elijah Novgorod"
+Modify Theophanes the Greek\en_slides\update\Theophanes_the_Greek_slide_0010.png and left image is Theophanes the Greek\images\Transfiguration.jpeg and right image is D:\mcp\arts\Andrei Rublev\images\1408 Arhangel Mikhail.jpg and make description clear
+
+Use style of Theophanes the Greek\en_slides\update\Theophanes_the_Greek_slide_0009.png to
+Modify Theophanes the Greek\en_slides\update\Theophanes_the_Greek_slide_0011.png and make description and flow clear
+Modify Theophanes the Greek\en_slides\update\Theophanes_the_Greek_slide_0012.png and make description and flow clear
+Modify Theophanes the Greek\en_slides\update\Theophanes_the_Greek_slide_0013.png and make description and flow clear
+Modify Theophanes the Greek\en_slides\update\Theophanes_the_Greek_slide_0014.png and add image Theophanes the Greek\images\260000.jpg  and use description "Fresco fragments about 2,300 trays"
+Modify Theophanes the Greek\en_slides\update\Theophanes_the_Greek_slide_0015.png and add image Theophanes the Greek\images\IMG-008_Transfiguration_circle_of_Theophanes.jpg and make description clear
+
+
+Use Theophanes the Greek\tw_slides\update\費奧凡看見拜占庭餘燼_slide_0016.png and change description to English and replace Theophanes the Greek\en_slides\update\Theophanes_the_Greek_slide_0014.png

@@ -1,0 +1,44 @@
+Modify The Transfiguration\tw_slides\update\耶穌顯聖容：天堂、人間與拉斐爾的最終傑作_slide_0002.png make description clear and use image D:\mcp\arts\The Transfiguration\images\Raphael Santi.jpg
+Modify The Transfiguration\tw_slides\update\耶穌顯聖容：天堂、人間與拉斐爾的最終傑作_slide_0003.png and use image D:\mcp\arts\The Transfiguration\images\Mosaic Altar of the Transfiguration_4.jpg and make it large and make description clear
+Modify The Transfiguration\tw_slides\update\耶穌顯聖容：天堂、人間與拉斐爾的最終傑作_slide_0004.png and add image D:\mcp\arts\The Transfiguration\images\Pope Leo X with two cardinals.jpg and image D:\mcp\arts\The Transfiguration\images\Sebastiano Serlio.jpg mark "Sebastiano Serlio" and make description clear
+Modify The Transfiguration\tw_slides\update\耶穌顯聖容：天堂、人間與拉斐爾的最終傑作_slide_0006.png and replace left image by D:\mcp\arts\The Transfiguration\images\山上的光.png and right image by D:\mcp\arts\The Transfiguration\images\山下的人群.png and make description clear
+
+
+
+Modify The Transfiguration\tw_slides\update\耶穌顯聖容：天堂、人間與拉斐爾的最終傑作_slide_0005png and make description clear
+Modify The Transfiguration\tw_slides\update\耶穌顯聖容：天堂、人間與拉斐爾的最終傑作_slide_0007.png and use image D:\mcp\arts\The Transfiguration\images\Mosaic Altar of the Transfiguration_1.jpg and make it bigger and make description clear
+Modify The Transfiguration\tw_slides\update\耶穌顯聖容：天堂、人間與拉斐爾的最終傑作_slide_0008.png and add image D:\mcp\arts\The Transfiguration\images\山上的光.png and make description clear
+Modify The Transfiguration\tw_slides\update\耶穌顯聖容：天堂、人間與拉斐爾的最終傑作_slide_0009.png and add image D:\mcp\arts\The Transfiguration\images\father.and.kid.png and make description clear
+Modify The Transfiguration\tw_slides\update\耶穌顯聖容：天堂、人間與拉斐爾的最終傑作_slide_00010.png and add image D:\mcp\arts\The Transfiguration\images\serpene.lady.png and make description clear
+Modify The Transfiguration\tw_slides\update\耶穌顯聖容：天堂、人間與拉斐爾的最終傑作_slide_00012.png and add image D:\mcp\arts\The Transfiguration\images\山下的人群.png and make description clear
+Modify The Transfiguration\tw_slides\update\耶穌顯聖容：天堂、人間與拉斐爾的最終傑作_slide_00013.png and make description clear
+Modify The Transfiguration\tw_slides\update\耶穌顯聖容：天堂、人間與拉斐爾的最終傑作_slide_00014.png and make description clear
+Modify The Transfiguration\tw_slides\update\耶穌顯聖容：天堂、人間與拉斐爾的最終傑作_slide_00015.png and make description clear
+Modify The Transfiguration\tw_slides\update\耶穌顯聖容：天堂、人間與拉斐爾的最終傑作_slide_00016.png and make flow and description clear
+Modify The Transfiguration\tw_slides\update\耶穌顯聖容：天堂、人間與拉斐爾的最終傑作_slide_00017.png and make description clear
+Modify The Transfiguration\tw_slides\update\耶穌顯聖容：天堂、人間與拉斐爾的最終傑作_slide_00018.png and replace left image by D:\mcp\arts\The Transfiguration\images\Mosaic Altar of the Transfiguration_3.jpg.png and make description clear
+Modify The Transfiguration\tw_slides\update\耶穌顯聖容：天堂、人間與拉斐爾的最終傑作_slide_00019.png and use D:\mcp\arts\The Transfiguration\images\image Raphael Santi.jpg  and make description clear
+
+
+
+Modify The Transfiguration\en_slides\update\The_Transfiguration_slide_0002.png and remove 1 and make description clear
+Modify The Transfiguration\tw_slides\update\耶穌顯聖容：天堂、人間與拉斐爾的最終傑作_slide_0003.png make description clear and use image D:\mcp\arts\The Transfiguration\images\Raphael Santi.jpg
+Modify The Transfiguration\en_slides\update\The_Transfiguration_slide_0004.png and replace left image by D:\mcp\arts\The Transfiguration\images\山上的光.png and right image by D:\mcp\arts\The Transfiguration\images\山下的人群.png and make description clear
+Modify The Transfiguration\en_slides\update\The_Transfiguration_slide_0005.png and remove 2 and make description clear
+The Transfiguration\en_slides\update\The_Transfiguration_slide_0006.png and add image D:\mcp\arts\The Transfiguration\images\Pope Leo X with two cardinals.jpg and image D:\mcp\arts\The Transfiguration\images\Sebastiano Serlio.jpg mark "Sebastiano Serlio" and make description clear
+Modify The Transfiguration\en_slides\update\The_Transfiguration_slide_0007.png and make image and description clear
+Modify The Transfiguration\en_slides\update\The_Transfiguration_slide_0008.png and remove 3 and make description clear
+Modify The Transfiguration\en_slides\update\The_Transfiguration_slide_0009.png and make description clear
+Modify The Transfiguration\en_slides\update\The_Transfiguration_slide_0010.png and add image D:\mcp\arts\The\ Transfiguration\images\山下的人群.png and make description clear
+Modify The Transfiguration\en_slides\update\The_Transfiguration_slide_0011.png and remove 4 and make description clear
+Modify The Transfiguration\en_slides\update\The_Transfiguration_slide_0012.png and make description clear
+Modify The Transfiguration\en_slides\update\The_Transfiguration_slide_0013.pngand and add image D:\mcp\arts\The Transfiguration\images\山上的光.png and make description clear
+Modify The Transfiguration\en_slides\update\The_Transfiguration_slide_0014.png and make description clear
+Modify The Transfiguration\en_slides\update\The_Transfiguration_slide_0015.png and add image D:\mcp\arts\The Transfiguration\images\father.and.kid.png and make description clear
+Modify The Transfiguration\en_slides\update\The_Transfiguration_slide_0011.png and remove 5 and make description clear
+Modify The Transfiguration\en_slides\update\The_Transfiguration_slide_0017.png and make description clear
+Modify The Transfiguration\en_slides\update\The_Transfiguration_slide_0018.png and make description clear
+Modify The Transfiguration\en_slides\update\The_Transfiguration_slide_0019.png and make flow and description clear
+Modify The Transfiguration\en_slides\update\The_Transfiguration_slide_0020.png and make description clear
+Modify The Transfiguration\en_slides\update\The_Transfiguration_slide_0021.png and make description clear
+Modify The Transfiguration\en_slides\update\The_Transfiguration_slide_0022.png and make description clear

@@ -1,0 +1,21 @@
+{
+  "manifest": "D:\\mcp\\arts\\The Garden of Earthly Delights\\en_slides\\Bosch_s_Visual_Mystery_slide_manifest.json",
+  "original_count": 24,
+  "supplemental_count": 2,
+  "original_final": {
+    "from": "Bosch_s_Visual_Mystery_slide_0024.png",
+    "to": "Bosch_s_Visual_Mystery_slide_0026.png",
+    "sha256": "1089552342b7a156ac3d0a916a10e279be22c339b07260139ad50d3c92820ef6"
+  },
+  "supplemental_renames": [
+    {
+      "from": "Bosch_s_Visual_Mystery_slide_0025.png",
+      "to": "Bosch_s_Visual_Mystery_slide_0024.png"
+    },
+    {
+      "from": "Bosch_s_Visual_Mystery_slide_0026.png",
+      "to": "Bosch_s_Visual_Mystery_slide_0025.png"
+    }
+  ],
+  "subtitle": "D:\\mcp\\arts\\The Garden of Earthly Delights\\en_slides\\subtitle\\Bosch_s_Visual_Mystery.txt"
+}
