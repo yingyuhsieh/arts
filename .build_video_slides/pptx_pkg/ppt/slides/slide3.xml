@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<p:sld xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:p="http://schemas.openxmlformats.org/presentationml/2006/main"><p:cSld><p:spTree>
+<p:nvGrpSpPr><p:cNvPr id="1" name=""/><p:cNvGrpSpPr/><p:nvPr/></p:nvGrpSpPr><p:grpSpPr><a:xfrm><a:off x="0" y="0"/><a:ext cx="0" cy="0"/><a:chOff x="0" y="0"/><a:chExt cx="0" cy="0"/></a:xfrm></p:grpSpPr>
+<p:pic><p:nvPicPr><p:cNvPr id="2" name="Misty oil landscape background"/><p:cNvPicPr><a:picLocks noChangeAspect="1"/></p:cNvPicPr><p:nvPr/></p:nvPicPr>
+    <p:blipFill><a:blip r:embed="rId2"/><a:stretch><a:fillRect/></a:stretch></p:blipFill>
+    <p:spPr><a:xfrm><a:off x="0" y="0"/><a:ext cx="12192000" cy="6858000"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:ln><a:noFill/></a:ln></p:spPr></p:pic><p:sp>
+      <p:nvSpPr><p:cNvPr id="3" name="Content veil"/><p:cNvSpPr/><p:nvPr/></p:nvSpPr>
+      <p:spPr><a:xfrm><a:off x="476250" y="361950"/><a:ext cx="11239500" cy="5905500"/></a:xfrm>
+      <a:prstGeom prst="roundRect"><a:avLst/></a:prstGeom><a:solidFill><a:srgbClr val="F6F5F0"><a:alpha val="88000"/></a:srgbClr></a:solidFill><a:ln><a:noFill/></a:ln></p:spPr>
+      <p:txBody><a:bodyPr/><a:lstStyle/><a:p><a:endParaRPr lang="zh-TW"/></a:p></p:txBody>
+    </p:sp><p:sp>
+      <p:nvSpPr><p:cNvPr id="4" name="Title"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr>
+      <p:spPr><a:xfrm><a:off x="714375" y="571500"/><a:ext cx="10477500" cy="552450"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:noFill/><a:ln><a:noFill/></a:ln></p:spPr>
+      <p:txBody><a:bodyPr wrap="square" anchor="mid" lIns="0" rIns="0" tIns="0" bIns="0"/><a:lstStyle/><a:p><a:pPr algn="l"/><a:r><a:rPr lang="zh-TW" sz="3400" b="1" i="0"><a:solidFill><a:srgbClr val="253631"/></a:solidFill><a:latin typeface="PingFang TC"/><a:ea typeface="PingFang TC"/><a:cs typeface="PingFang TC"/></a:rPr><a:t>尺度與構圖改變了觀看的位置</a:t></a:r><a:endParaRPr lang="zh-TW" sz="3400"/></a:p></p:txBody>
+    </p:sp><p:sp>
+      <p:nvSpPr><p:cNvPr id="5" name="Intro"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr>
+      <p:spPr><a:xfrm><a:off x="714375" y="1190625"/><a:ext cx="10572750" cy="523875"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:noFill/><a:ln><a:noFill/></a:ln></p:spPr>
+      <p:txBody><a:bodyPr wrap="square" anchor="mid" lIns="0" rIns="0" tIns="0" bIns="0"/><a:lstStyle/><a:p><a:pPr algn="l"/><a:r><a:rPr lang="zh-TW" sz="2000" b="0" i="0"><a:solidFill><a:srgbClr val="334641"/></a:solidFill><a:latin typeface="PingFang TC"/><a:ea typeface="PingFang TC"/><a:cs typeface="PingFang TC"/></a:rPr><a:t>《霧海上的漫遊者》把人物放大並置於中央。《海邊的修士》則讓人幾乎消失在天地之間。</a:t></a:r><a:endParaRPr lang="zh-TW" sz="2000"/></a:p></p:txBody>
+    </p:sp><p:pic><p:nvPicPr><p:cNvPr id="6" name="Wanderer composition"/><p:cNvPicPr><a:picLocks noChangeAspect="1"/></p:cNvPicPr><p:nvPr/></p:nvPicPr>
+    <p:blipFill><a:blip r:embed="rId3"/><a:stretch><a:fillRect/></a:stretch></p:blipFill>
+    <p:spPr><a:xfrm><a:off x="904875" y="1952625"/><a:ext cx="3143250" cy="4000500"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:ln w="12700"><a:solidFill><a:srgbClr val="D8D7CF"/></a:solidFill></a:ln></p:spPr></p:pic><p:pic><p:nvPicPr><p:cNvPr id="7" name="Monk by the Sea"/><p:cNvPicPr><a:picLocks noChangeAspect="1"/></p:cNvPicPr><p:nvPr/></p:nvPicPr>
+    <p:blipFill><a:blip r:embed="rId4"/><a:stretch><a:fillRect/></a:stretch></p:blipFill>
+    <p:spPr><a:xfrm><a:off x="5715000" y="2238375"/><a:ext cx="5334000" cy="3209925"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:ln w="12700"><a:solidFill><a:srgbClr val="D8D7CF"/></a:solidFill></a:ln></p:spPr></p:pic><p:sp>
+      <p:nvSpPr><p:cNvPr id="8" name="Left caption"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr>
+      <p:spPr><a:xfrm><a:off x="4238625" y="3000375"/><a:ext cx="1285875" cy="1047750"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:noFill/><a:ln><a:noFill/></a:ln></p:spPr>
+      <p:txBody><a:bodyPr wrap="square" anchor="mid" lIns="0" rIns="0" tIns="0" bIns="0"/><a:lstStyle/><a:p><a:pPr algn="c"/><a:r><a:rPr lang="zh-TW" sz="1700" b="1" i="0"><a:solidFill><a:srgbClr val="40544F"/></a:solidFill><a:latin typeface="PingFang TC"/><a:ea typeface="PingFang TC"/><a:cs typeface="PingFang TC"/></a:rPr><a:t>人物主導畫面</a:t></a:r><a:endParaRPr lang="zh-TW" sz="1700"/></a:p><a:p><a:pPr algn="c"/><a:r><a:rPr lang="zh-TW" sz="1700" b="1" i="0"><a:solidFill><a:srgbClr val="40544F"/></a:solidFill><a:latin typeface="PingFang TC"/><a:ea typeface="PingFang TC"/><a:cs typeface="PingFang TC"/></a:rPr><a:t>勝利感與不安同時存在</a:t></a:r><a:endParaRPr lang="zh-TW" sz="1700"/></a:p></p:txBody>
+    </p:sp><p:sp>
+      <p:nvSpPr><p:cNvPr id="9" name="Right caption"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr>
+      <p:spPr><a:xfrm><a:off x="6048375" y="5572125"/><a:ext cx="4619625" cy="285750"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:noFill/><a:ln><a:noFill/></a:ln></p:spPr>
+      <p:txBody><a:bodyPr wrap="square" anchor="mid" lIns="0" rIns="0" tIns="0" bIns="0"/><a:lstStyle/><a:p><a:pPr algn="c"/><a:r><a:rPr lang="zh-TW" sz="1700" b="1" i="0"><a:solidFill><a:srgbClr val="40544F"/></a:solidFill><a:latin typeface="PingFang TC"/><a:ea typeface="PingFang TC"/><a:cs typeface="PingFang TC"/></a:rPr><a:t>人物被自然壓縮成微小尺度</a:t></a:r><a:endParaRPr lang="zh-TW" sz="1700"/></a:p></p:txBody>
+    </p:sp><p:sp>
+      <p:nvSpPr><p:cNvPr id="10" name="Source"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr>
+      <p:spPr><a:xfrm><a:off x="666750" y="6448425"/><a:ext cx="10858500" cy="190500"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:noFill/><a:ln><a:noFill/></a:ln></p:spPr>
+      <p:txBody><a:bodyPr wrap="square" anchor="mid" lIns="0" rIns="0" tIns="0" bIns="0"/><a:lstStyle/><a:p><a:pPr algn="r"/><a:r><a:rPr lang="zh-TW" sz="1050" b="0" i="0"><a:solidFill><a:srgbClr val="4D5E5B"/></a:solidFill><a:latin typeface="PingFang TC"/><a:ea typeface="PingFang TC"/><a:cs typeface="PingFang TC"/></a:rPr><a:t>影片 02:27–03:32</a:t></a:r><a:endParaRPr lang="zh-TW" sz="1050"/></a:p></p:txBody>
+    </p:sp>
+</p:spTree></p:cSld><p:clrMapOvr><a:masterClrMapping/></p:clrMapOvr></p:sld>

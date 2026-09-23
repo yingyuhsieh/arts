@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <rect width="1600" height="900" fill="#eef2f3"/>
+  <path d="M0 585 C220 500 360 560 520 505 C690 445 800 510 980 430 C1170 345 1360 430 1600 330 L1600 900 L0 900 Z" fill="#c8d5cc"/>
+  <path d="M0 640 C210 560 420 650 610 560 C790 475 955 555 1160 455 C1345 365 1460 420 1600 390" fill="none" stroke="#80998a" stroke-width="8" opacity="0.75"/>
+  <path d="M270 110 C330 230 350 330 450 420 C560 520 690 540 810 640" fill="none" stroke="#76a6c8" stroke-width="16" opacity="0.75"/>
+  <text x="90" y="90" font-family="Arial, sans-serif" font-size="50" font-weight="700" fill="#21343d">Saxon Switzerland &amp; Bohemia</text>
+  <text x="90" y="145" font-family="Arial, sans-serif" font-size="28" fill="#4b5d65">Schematic reference — proposed source motifs, not a reconstruction of one viewpoint</text>
+  <text x="240" y="210" font-family="Arial, sans-serif" font-size="32" font-weight="700" fill="#2e5368">DRESDEN</text>
+  <circle cx="420" cy="430" r="17" fill="#8d4c34"/>
+  <text x="450" y="420" font-family="Arial, sans-serif" font-size="32" fill="#27363d">Gamrig</text>
+  <circle cx="760" cy="500" r="17" fill="#8d4c34"/>
+  <text x="790" y="490" font-family="Arial, sans-serif" font-size="32" fill="#27363d">Kaiserkrone area</text>
+  <circle cx="870" cy="570" r="17" fill="#8d4c34"/>
+  <text x="900" y="560" font-family="Arial, sans-serif" font-size="32" fill="#27363d">Zirkelstein</text>
+  <circle cx="1080" cy="690" r="17" fill="#8d4c34"/>
+  <text x="1110" y="680" font-family="Arial, sans-serif" font-size="32" fill="#27363d">Rosenberg / Kaltenberg</text>
+  <line x1="70" y1="615" x2="1530" y2="615" stroke="#a57866" stroke-width="5" stroke-dasharray="18 14"/>
+  <text x="90" y="600" font-family="Arial, sans-serif" font-size="27" fill="#805544">Approximate Saxony–Bohemia transition</text>
+  <text x="90" y="790" font-family="Arial, sans-serif" font-size="29" fill="#27363d">Friedrich combined motifs recorded at different places and times.</text>
+  <text x="90" y="835" font-family="Arial, sans-serif" font-size="26" fill="#5d6c72">Place identifications remain scholarly proposals; the painting is not a literal panorama.</text>
+</svg>

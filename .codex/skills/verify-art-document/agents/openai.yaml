@@ -1,0 +1,4 @@
+interface:
+  display_name: "Verify Art Document"
+  short_description: "Review artist stories for accuracy and flow"
+  default_prompt: "Use $verify-art-document to review this artist or artwork document and give numbered revision suggestions."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "TW Make Video"
+  short_description: "Create 4K static Chinese narration videos"
+  default_prompt: "Use $tw-make-video to turn a Chinese subtitle file and an image folder into a 4K natural male-voice video."

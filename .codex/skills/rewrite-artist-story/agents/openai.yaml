@@ -1,0 +1,4 @@
+interface:
+  display_name: "Rewrite Artist Story"
+  short_description: "Turn artist notes into a vivid sourced blog story"
+  default_prompt: "Use $rewrite-artist-story to rewrite this artist Markdown file as a compelling, source-checked blog article."

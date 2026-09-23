@@ -1,0 +1,4 @@
+interface:
+  display_name: "Video to Styled Slides"
+  short_description: "Create source-enriched slides with preserved endings"
+  default_prompt: "Use $video-to-slides to extract this video, enrich it with relevant author images, and keep the original final slide at the end."

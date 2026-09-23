@@ -1,0 +1,4 @@
+interface:
+  display_name: "Create Google Doc Image Info"
+  short_description: "Build image-reference Google Docs from sources"
+  default_prompt: "Use $create-google-doc-image-info to create a Google Doc containing the named images from my source file."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Create YouTube Contents"
+  short_description: "Plan bilingual visual-first art-history videos"
+  default_prompt: "Use $create-youtube-contents with my reference files to create a bilingual, source-checked YouTube content plan and image asset list."

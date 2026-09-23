@@ -1,0 +1,4 @@
+interface:
+  display_name: "台灣中文音訊與投影片 4K 整合"
+  short_description: "整合台灣華語音訊、繁體中文稿與投影片並輸出 4K MP4"
+  default_prompt: "使用 $tw-video-integrate-audio-slide，將台灣中文音訊、中文字幕稿及 PNG 投影片依可靠時間資訊整合成 YouTube 4K MP4。"

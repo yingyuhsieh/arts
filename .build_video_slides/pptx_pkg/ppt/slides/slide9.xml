@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<p:sld xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:p="http://schemas.openxmlformats.org/presentationml/2006/main"><p:cSld><p:spTree>
+<p:nvGrpSpPr><p:cNvPr id="1" name=""/><p:cNvGrpSpPr/><p:nvPr/></p:nvGrpSpPr><p:grpSpPr><a:xfrm><a:off x="0" y="0"/><a:ext cx="0" cy="0"/><a:chOff x="0" y="0"/><a:chExt cx="0" cy="0"/></a:xfrm></p:grpSpPr>
+<p:pic><p:nvPicPr><p:cNvPr id="2" name="Misty oil landscape background"/><p:cNvPicPr><a:picLocks noChangeAspect="1"/></p:cNvPicPr><p:nvPr/></p:nvPicPr>
+    <p:blipFill><a:blip r:embed="rId2"/><a:stretch><a:fillRect/></a:stretch></p:blipFill>
+    <p:spPr><a:xfrm><a:off x="0" y="0"/><a:ext cx="12192000" cy="6858000"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:ln><a:noFill/></a:ln></p:spPr></p:pic><p:sp>
+      <p:nvSpPr><p:cNvPr id="3" name="Content veil"/><p:cNvSpPr/><p:nvPr/></p:nvSpPr>
+      <p:spPr><a:xfrm><a:off x="476250" y="361950"/><a:ext cx="11239500" cy="5905500"/></a:xfrm>
+      <a:prstGeom prst="roundRect"><a:avLst/></a:prstGeom><a:solidFill><a:srgbClr val="F6F5F0"><a:alpha val="91000"/></a:srgbClr></a:solidFill><a:ln><a:noFill/></a:ln></p:spPr>
+      <p:txBody><a:bodyPr/><a:lstStyle/><a:p><a:endParaRPr lang="zh-TW"/></a:p></p:txBody>
+    </p:sp><p:sp>
+      <p:nvSpPr><p:cNvPr id="4" name="Title"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr>
+      <p:spPr><a:xfrm><a:off x="714375" y="571500"/><a:ext cx="10477500" cy="552450"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:noFill/><a:ln><a:noFill/></a:ln></p:spPr>
+      <p:txBody><a:bodyPr wrap="square" anchor="mid" lIns="0" rIns="0" tIns="0" bIns="0"/><a:lstStyle/><a:p><a:pPr algn="l"/><a:r><a:rPr lang="zh-TW" sz="3400" b="1" i="0"><a:solidFill><a:srgbClr val="253631"/></a:solidFill><a:latin typeface="PingFang TC"/><a:ea typeface="PingFang TC"/><a:cs typeface="PingFang TC"/></a:rPr><a:t>收藏史留下約 120 年的空白</a:t></a:r><a:endParaRPr lang="zh-TW" sz="3400"/></a:p></p:txBody>
+    </p:sp><p:sp>
+      <p:nvSpPr><p:cNvPr id="5" name="Intro"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr>
+      <p:spPr><a:xfrm><a:off x="857250" y="1238250"/><a:ext cx="10287000" cy="523875"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:noFill/><a:ln><a:noFill/></a:ln></p:spPr>
+      <p:txBody><a:bodyPr wrap="square" anchor="mid" lIns="0" rIns="0" tIns="0" bIns="0"/><a:lstStyle/><a:p><a:pPr algn="l"/><a:r><a:rPr lang="zh-TW" sz="2100" b="0" i="0"><a:solidFill><a:srgbClr val="31443E"/></a:solidFill><a:latin typeface="PingFang TC"/><a:ea typeface="PingFang TC"/><a:cs typeface="PingFang TC"/></a:rPr><a:t>作品約在 1817 年完成，但可追查的流傳紀錄直到 1938 年左右才重新出現。</a:t></a:r><a:endParaRPr lang="zh-TW" sz="2100"/></a:p></p:txBody>
+    </p:sp><p:cxnSp><p:nvCxnSpPr><p:cNvPr id="6" name="Line 6"/><p:cNvCxnSpPr/><p:nvPr/></p:nvCxnSpPr>
+    <p:spPr><a:xfrm><a:off x="1381125" y="3238500"/><a:ext cx="9429750" cy="0"/></a:xfrm><a:prstGeom prst="line"><a:avLst/></a:prstGeom><a:ln w="28575"><a:solidFill><a:srgbClr val="627771"/></a:solidFill></a:ln></p:spPr></p:cxnSp><p:sp>
+      <p:nvSpPr><p:cNvPr id="7" name="Gap highlight"/><p:cNvSpPr/><p:nvPr/></p:nvSpPr>
+      <p:spPr><a:xfrm><a:off x="1381125" y="3028950"/><a:ext cx="4905375" cy="419100"/></a:xfrm>
+      <a:prstGeom prst="roundRect"><a:avLst/></a:prstGeom><a:solidFill><a:srgbClr val="B9C8C3"><a:alpha val="48000"/></a:srgbClr></a:solidFill><a:ln><a:noFill/></a:ln></p:spPr>
+      <p:txBody><a:bodyPr/><a:lstStyle/><a:p><a:endParaRPr lang="zh-TW"/></a:p></p:txBody>
+    </p:sp><p:sp>
+      <p:nvSpPr><p:cNvPr id="8" name="Gap label"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr>
+      <p:spPr><a:xfrm><a:off x="2524125" y="2381250"/><a:ext cx="2667000" cy="428625"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:noFill/><a:ln><a:noFill/></a:ln></p:spPr>
+      <p:txBody><a:bodyPr wrap="square" anchor="mid" lIns="0" rIns="0" tIns="0" bIns="0"/><a:lstStyle/><a:p><a:pPr algn="c"/><a:r><a:rPr lang="zh-TW" sz="2000" b="1" i="0"><a:solidFill><a:srgbClr val="40564F"/></a:solidFill><a:latin typeface="PingFang TC"/><a:ea typeface="PingFang TC"/><a:cs typeface="PingFang TC"/></a:rPr><a:t>約 120 年紀錄空白</a:t></a:r><a:endParaRPr lang="zh-TW" sz="2000"/></a:p></p:txBody>
+    </p:sp><p:sp>
+      <p:nvSpPr><p:cNvPr id="9" name="Point 約 1817"/><p:cNvSpPr/><p:nvPr/></p:nvSpPr>
+      <p:spPr><a:xfrm><a:off x="1304925" y="3162300"/><a:ext cx="152400" cy="152400"/></a:xfrm>
+      <a:prstGeom prst="roundRect"><a:avLst/></a:prstGeom><a:solidFill><a:srgbClr val="6C3F2D"><a:alpha val="100000"/></a:srgbClr></a:solidFill><a:ln><a:noFill/></a:ln></p:spPr>
+      <p:txBody><a:bodyPr/><a:lstStyle/><a:p><a:endParaRPr lang="zh-TW"/></a:p></p:txBody>
+    </p:sp><p:sp>
+      <p:nvSpPr><p:cNvPr id="10" name="Year 約 1817"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr>
+      <p:spPr><a:xfrm><a:off x="762000" y="3524250"/><a:ext cx="1238250" cy="266700"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:noFill/><a:ln><a:noFill/></a:ln></p:spPr>
+      <p:txBody><a:bodyPr wrap="square" anchor="mid" lIns="0" rIns="0" tIns="0" bIns="0"/><a:lstStyle/><a:p><a:pPr algn="c"/><a:r><a:rPr lang="zh-TW" sz="1600" b="1" i="0"><a:solidFill><a:srgbClr val="2C3E38"/></a:solidFill><a:latin typeface="PingFang TC"/><a:ea typeface="PingFang TC"/><a:cs typeface="PingFang TC"/></a:rPr><a:t>約 1817</a:t></a:r><a:endParaRPr lang="zh-TW" sz="1600"/></a:p></p:txBody>
+    </p:sp><p:sp>
+      <p:nvSpPr><p:cNvPr id="11" name="Label 完成"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr>
+      <p:spPr><a:xfrm><a:off x="571500" y="3857625"/><a:ext cx="1619250" cy="428625"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:noFill/><a:ln><a:noFill/></a:ln></p:spPr>
+      <p:txBody><a:bodyPr wrap="square" anchor="top" lIns="0" rIns="0" tIns="0" bIns="0"/><a:lstStyle/><a:p><a:pPr algn="c"/><a:r><a:rPr lang="zh-TW" sz="1350" b="0" i="0"><a:solidFill><a:srgbClr val="53635F"/></a:solidFill><a:latin typeface="PingFang TC"/><a:ea typeface="PingFang TC"/><a:cs typeface="PingFang TC"/></a:rPr><a:t>完成</a:t></a:r><a:endParaRPr lang="zh-TW" sz="1350"/></a:p></p:txBody>
+    </p:sp><p:sp>
+      <p:nvSpPr><p:cNvPr id="12" name="Point 1938／39"/><p:cNvSpPr/><p:nvPr/></p:nvSpPr>
+      <p:spPr><a:xfrm><a:off x="6210300" y="3162300"/><a:ext cx="152400" cy="152400"/></a:xfrm>
+      <a:prstGeom prst="roundRect"><a:avLst/></a:prstGeom><a:solidFill><a:srgbClr val="6C3F2D"><a:alpha val="100000"/></a:srgbClr></a:solidFill><a:ln><a:noFill/></a:ln></p:spPr>
+      <p:txBody><a:bodyPr/><a:lstStyle/><a:p><a:endParaRPr lang="zh-TW"/></a:p></p:txBody>
+    </p:sp><p:sp>
+      <p:nvSpPr><p:cNvPr id="13" name="Year 1938／39"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr>
+      <p:spPr><a:xfrm><a:off x="5667375" y="3524250"/><a:ext cx="1238250" cy="266700"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:noFill/><a:ln><a:noFill/></a:ln></p:spPr>
+      <p:txBody><a:bodyPr wrap="square" anchor="mid" lIns="0" rIns="0" tIns="0" bIns="0"/><a:lstStyle/><a:p><a:pPr algn="c"/><a:r><a:rPr lang="zh-TW" sz="1600" b="1" i="0"><a:solidFill><a:srgbClr val="2C3E38"/></a:solidFill><a:latin typeface="PingFang TC"/><a:ea typeface="PingFang TC"/><a:cs typeface="PingFang TC"/></a:rPr><a:t>1938／39</a:t></a:r><a:endParaRPr lang="zh-TW" sz="1600"/></a:p></p:txBody>
+    </p:sp><p:sp>
+      <p:nvSpPr><p:cNvPr id="14" name="Label 重新出現"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr>
+      <p:spPr><a:xfrm><a:off x="5476875" y="3857625"/><a:ext cx="1619250" cy="428625"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:noFill/><a:ln><a:noFill/></a:ln></p:spPr>
+      <p:txBody><a:bodyPr wrap="square" anchor="top" lIns="0" rIns="0" tIns="0" bIns="0"/><a:lstStyle/><a:p><a:pPr algn="c"/><a:r><a:rPr lang="zh-TW" sz="1350" b="0" i="0"><a:solidFill><a:srgbClr val="53635F"/></a:solidFill><a:latin typeface="PingFang TC"/><a:ea typeface="PingFang TC"/><a:cs typeface="PingFang TC"/></a:rPr><a:t>重新出現</a:t></a:r><a:endParaRPr lang="zh-TW" sz="1350"/></a:p></p:txBody>
+    </p:sp><p:sp>
+      <p:nvSpPr><p:cNvPr id="15" name="Point 1950"/><p:cNvSpPr/><p:nvPr/></p:nvSpPr>
+      <p:spPr><a:xfrm><a:off x="7639050" y="3162300"/><a:ext cx="152400" cy="152400"/></a:xfrm>
+      <a:prstGeom prst="roundRect"><a:avLst/></a:prstGeom><a:solidFill><a:srgbClr val="6C3F2D"><a:alpha val="100000"/></a:srgbClr></a:solidFill><a:ln><a:noFill/></a:ln></p:spPr>
+      <p:txBody><a:bodyPr/><a:lstStyle/><a:p><a:endParaRPr lang="zh-TW"/></a:p></p:txBody>
+    </p:sp><p:sp>
+      <p:nvSpPr><p:cNvPr id="16" name="Year 1950"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr>
+      <p:spPr><a:xfrm><a:off x="7096125" y="3524250"/><a:ext cx="1238250" cy="266700"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:noFill/><a:ln><a:noFill/></a:ln></p:spPr>
+      <p:txBody><a:bodyPr wrap="square" anchor="mid" lIns="0" rIns="0" tIns="0" bIns="0"/><a:lstStyle/><a:p><a:pPr algn="c"/><a:r><a:rPr lang="zh-TW" sz="1600" b="1" i="0"><a:solidFill><a:srgbClr val="2C3E38"/></a:solidFill><a:latin typeface="PingFang TC"/><a:ea typeface="PingFang TC"/><a:cs typeface="PingFang TC"/></a:rPr><a:t>1950</a:t></a:r><a:endParaRPr lang="zh-TW" sz="1600"/></a:p></p:txBody>
+    </p:sp><p:sp>
+      <p:nvSpPr><p:cNvPr id="17" name="Label 畫名固定"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr>
+      <p:spPr><a:xfrm><a:off x="6905625" y="3857625"/><a:ext cx="1619250" cy="428625"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:noFill/><a:ln><a:noFill/></a:ln></p:spPr>
+      <p:txBody><a:bodyPr wrap="square" anchor="top" lIns="0" rIns="0" tIns="0" bIns="0"/><a:lstStyle/><a:p><a:pPr algn="c"/><a:r><a:rPr lang="zh-TW" sz="1350" b="0" i="0"><a:solidFill><a:srgbClr val="53635F"/></a:solidFill><a:latin typeface="PingFang TC"/><a:ea typeface="PingFang TC"/><a:cs typeface="PingFang TC"/></a:rPr><a:t>畫名固定</a:t></a:r><a:endParaRPr lang="zh-TW" sz="1350"/></a:p></p:txBody>
+    </p:sp><p:sp>
+      <p:nvSpPr><p:cNvPr id="18" name="Point 1959"/><p:cNvSpPr/><p:nvPr/></p:nvSpPr>
+      <p:spPr><a:xfrm><a:off x="9020175" y="3162300"/><a:ext cx="152400" cy="152400"/></a:xfrm>
+      <a:prstGeom prst="roundRect"><a:avLst/></a:prstGeom><a:solidFill><a:srgbClr val="6C3F2D"><a:alpha val="100000"/></a:srgbClr></a:solidFill><a:ln><a:noFill/></a:ln></p:spPr>
+      <p:txBody><a:bodyPr/><a:lstStyle/><a:p><a:endParaRPr lang="zh-TW"/></a:p></p:txBody>
+    </p:sp><p:sp>
+      <p:nvSpPr><p:cNvPr id="19" name="Year 1959"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr>
+      <p:spPr><a:xfrm><a:off x="8477250" y="3524250"/><a:ext cx="1238250" cy="266700"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:noFill/><a:ln><a:noFill/></a:ln></p:spPr>
+      <p:txBody><a:bodyPr wrap="square" anchor="mid" lIns="0" rIns="0" tIns="0" bIns="0"/><a:lstStyle/><a:p><a:pPr algn="c"/><a:r><a:rPr lang="zh-TW" sz="1600" b="1" i="0"><a:solidFill><a:srgbClr val="2C3E38"/></a:solidFill><a:latin typeface="PingFang TC"/><a:ea typeface="PingFang TC"/><a:cs typeface="PingFang TC"/></a:rPr><a:t>1959</a:t></a:r><a:endParaRPr lang="zh-TW" sz="1600"/></a:p></p:txBody>
+    </p:sp><p:sp>
+      <p:nvSpPr><p:cNvPr id="20" name="Label 英國展覽"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr>
+      <p:spPr><a:xfrm><a:off x="8286750" y="3857625"/><a:ext cx="1619250" cy="428625"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:noFill/><a:ln><a:noFill/></a:ln></p:spPr>
+      <p:txBody><a:bodyPr wrap="square" anchor="top" lIns="0" rIns="0" tIns="0" bIns="0"/><a:lstStyle/><a:p><a:pPr algn="c"/><a:r><a:rPr lang="zh-TW" sz="1350" b="0" i="0"><a:solidFill><a:srgbClr val="53635F"/></a:solidFill><a:latin typeface="PingFang TC"/><a:ea typeface="PingFang TC"/><a:cs typeface="PingFang TC"/></a:rPr><a:t>英國展覽</a:t></a:r><a:endParaRPr lang="zh-TW" sz="1350"/></a:p></p:txBody>
+    </p:sp><p:sp>
+      <p:nvSpPr><p:cNvPr id="21" name="Point 1970"/><p:cNvSpPr/><p:nvPr/></p:nvSpPr>
+      <p:spPr><a:xfrm><a:off x="10734675" y="3162300"/><a:ext cx="152400" cy="152400"/></a:xfrm>
+      <a:prstGeom prst="roundRect"><a:avLst/></a:prstGeom><a:solidFill><a:srgbClr val="6C3F2D"><a:alpha val="100000"/></a:srgbClr></a:solidFill><a:ln><a:noFill/></a:ln></p:spPr>
+      <p:txBody><a:bodyPr/><a:lstStyle/><a:p><a:endParaRPr lang="zh-TW"/></a:p></p:txBody>
+    </p:sp><p:sp>
+      <p:nvSpPr><p:cNvPr id="22" name="Year 1970"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr>
+      <p:spPr><a:xfrm><a:off x="10191750" y="3524250"/><a:ext cx="1238250" cy="266700"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:noFill/><a:ln><a:noFill/></a:ln></p:spPr>
+      <p:txBody><a:bodyPr wrap="square" anchor="mid" lIns="0" rIns="0" tIns="0" bIns="0"/><a:lstStyle/><a:p><a:pPr algn="c"/><a:r><a:rPr lang="zh-TW" sz="1600" b="1" i="0"><a:solidFill><a:srgbClr val="2C3E38"/></a:solidFill><a:latin typeface="PingFang TC"/><a:ea typeface="PingFang TC"/><a:cs typeface="PingFang TC"/></a:rPr><a:t>1970</a:t></a:r><a:endParaRPr lang="zh-TW" sz="1600"/></a:p></p:txBody>
+    </p:sp><p:sp>
+      <p:nvSpPr><p:cNvPr id="23" name="Label 進入漢堡美術館收藏"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr>
+      <p:spPr><a:xfrm><a:off x="10001250" y="3857625"/><a:ext cx="1619250" cy="428625"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:noFill/><a:ln><a:noFill/></a:ln></p:spPr>
+      <p:txBody><a:bodyPr wrap="square" anchor="top" lIns="0" rIns="0" tIns="0" bIns="0"/><a:lstStyle/><a:p><a:pPr algn="c"/><a:r><a:rPr lang="zh-TW" sz="1350" b="0" i="0"><a:solidFill><a:srgbClr val="53635F"/></a:solidFill><a:latin typeface="PingFang TC"/><a:ea typeface="PingFang TC"/><a:cs typeface="PingFang TC"/></a:rPr><a:t>進入漢堡美術館收藏</a:t></a:r><a:endParaRPr lang="zh-TW" sz="1350"/></a:p></p:txBody>
+    </p:sp><p:sp>
+      <p:nvSpPr><p:cNvPr id="24" name="Caveat"/><p:cNvSpPr/><p:nvPr/></p:nvSpPr>
+      <p:spPr><a:xfrm><a:off x="952500" y="4953000"/><a:ext cx="10287000" cy="685800"/></a:xfrm>
+      <a:prstGeom prst="roundRect"><a:avLst/></a:prstGeom><a:solidFill><a:srgbClr val="E5E8E3"><a:alpha val="90000"/></a:srgbClr></a:solidFill><a:ln><a:noFill/></a:ln></p:spPr>
+      <p:txBody><a:bodyPr/><a:lstStyle/><a:p><a:endParaRPr lang="zh-TW"/></a:p></p:txBody>
+    </p:sp><p:sp>
+      <p:nvSpPr><p:cNvPr id="25" name="Caveat text"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr>
+      <p:spPr><a:xfrm><a:off x="1190625" y="5048250"/><a:ext cx="9810750" cy="495300"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:noFill/><a:ln><a:noFill/></a:ln></p:spPr>
+      <p:txBody><a:bodyPr wrap="square" anchor="mid" lIns="0" rIns="0" tIns="0" bIns="0"/><a:lstStyle/><a:p><a:pPr algn="c"/><a:r><a:rPr lang="zh-TW" sz="1800" b="0" i="0"><a:solidFill><a:srgbClr val="384A45"/></a:solidFill><a:latin typeface="PingFang TC"/><a:ea typeface="PingFang TC"/><a:cs typeface="PingFang TC"/></a:rPr><a:t>影片提到 1930 年代畫商與納粹時期藝術估價的關聯，但目前沒有證據顯示本畫涉及不當掠奪。</a:t></a:r><a:endParaRPr lang="zh-TW" sz="1800"/></a:p></p:txBody>
+    </p:sp><p:sp>
+      <p:nvSpPr><p:cNvPr id="26" name="Source"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr>
+      <p:spPr><a:xfrm><a:off x="666750" y="6448425"/><a:ext cx="10858500" cy="190500"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:noFill/><a:ln><a:noFill/></a:ln></p:spPr>
+      <p:txBody><a:bodyPr wrap="square" anchor="mid" lIns="0" rIns="0" tIns="0" bIns="0"/><a:lstStyle/><a:p><a:pPr algn="r"/><a:r><a:rPr lang="zh-TW" sz="1050" b="0" i="0"><a:solidFill><a:srgbClr val="4D5E5B"/></a:solidFill><a:latin typeface="PingFang TC"/><a:ea typeface="PingFang TC"/><a:cs typeface="PingFang TC"/></a:rPr><a:t>影片 07:57–08:36</a:t></a:r><a:endParaRPr lang="zh-TW" sz="1050"/></a:p></p:txBody>
+    </p:sp>
+</p:spTree></p:cSld><p:clrMapOvr><a:masterClrMapping/></p:clrMapOvr></p:sld>

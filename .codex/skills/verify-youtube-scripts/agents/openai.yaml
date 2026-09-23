@@ -1,0 +1,4 @@
+interface:
+  display_name: "Verify YouTube Scripts"
+  short_description: "Polish scripts for smooth AI narration"
+  default_prompt: "Use $verify-youtube-scripts to revise these scripts for smooth AI narration and remove disruptive brackets."

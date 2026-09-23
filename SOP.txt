@@ -1,0 +1,20 @@
+1. 使用 01.藝術家深度研究.md > 用 ChatGPT and Claude UI 取得文件
+2. 將兩份文件整合，以 Claude 文章為主，將 ChatGPT 內容補充和查驗
+3. 用 $verify-art-document SKILL.md 用到所有的 AI (ChatGPT, Claude, Gemin, Meta, Grok) 來看有什麼問題
+4. 存到 correction.txt，用 UI 要求用 correction 將文件修正。 重複 3-4 直到所有的 AI 都沒有意見
+5. 使用 $create-youtube-contents or $create-youtube-artwork-contentsSKILL.md 取得 TW & EN YouTube 段落文稿
+6. 使用 $create-google-doc-image-info SKILL.md 產生 Google document & image zip file
+7. 使用 NotebookLM 放入文件和 Google document 文件, TW & EN YouTube 段落文稿，產生 EN & TW 影片
+8. 使用 $art-style SKILL.md 產生 artist/artwork style 描述
+9. 將 NotebookLM 的影片，搭配 art style 描述產生 slide images & 字幕檔
+10. 使用 NotebookLM 產生影片 title 建議
+11. 使用 video titles & 文件，用 ChatGPT 產生 YouTube thumbnail images (TC & EN)
+12. 使用 $create-youtube-slides SKILL 和 art style 描述，產生 ppt 和字幕檔，將 ppt 存成 png 檔
+13. 影片第一頁用 YouTube thumbnail image 取代
+14. 檢查字幕和 png 的樣式，給需要調整的指示，讓 Codex 去調整
+15. 使用 $check-video-scripts SKILL 檢查字幕
+16. 製作影片
+17. 使用 $youtube-and-social-media-post 產生 YouTube video description & social media post
+18. 使用 iMovie 加入效果，產生影片
+19. 發佈到 YouTube
+20. 發佈到 Social Media

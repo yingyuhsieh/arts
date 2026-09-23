@@ -1,0 +1,4 @@
+interface:
+  display_name: "Bilingual YouTube and Social Posts"
+  short_description: "Create bilingual YouTube, social, and TW Threads copy"
+  default_prompt: "Use $youtube-and-social-media-post to create bilingual YouTube descriptions, detailed narrative social posts, and a Taiwan Traditional Chinese Threads post from these sources."

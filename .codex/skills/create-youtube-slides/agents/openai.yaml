@@ -1,0 +1,4 @@
+interface:
+  display_name: "Create YouTube Slides"
+  short_description: "Create bilingual art-history slides and narration"
+  default_prompt: "Use $create-youtube-slides to turn my source materials and art-style description into Chinese and English presentation slides with matching narration files."

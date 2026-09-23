@@ -1,0 +1,21 @@
+{
+  "manifest": "/Users/yingyuhsieh/Desktop/mcp/arts/Andrei Rublev/tw_slides/安德烈魯布廖夫的未解之謎_slide_manifest.json",
+  "original_count": 22,
+  "supplemental_count": 2,
+  "original_final": {
+    "from": "安德烈魯布廖夫的未解之謎_slide_0022.png",
+    "to": "安德烈魯布廖夫的未解之謎_slide_0024.png",
+    "sha256": "f4b18443794c718644da2cf0d96d9982efc74937a8d1fb295d60f46eaa3709a7"
+  },
+  "supplemental_renames": [
+    {
+      "from": "安德烈魯布廖夫的未解之謎_slide_0023.png",
+      "to": "安德烈魯布廖夫的未解之謎_slide_0022.png"
+    },
+    {
+      "from": "安德烈魯布廖夫的未解之謎_slide_0024.png",
+      "to": "安德烈魯布廖夫的未解之謎_slide_0023.png"
+    }
+  ],
+  "subtitle": "/Users/yingyuhsieh/Desktop/mcp/arts/Andrei Rublev/tw_slides/subtitle/安德烈魯布廖夫的未解之謎.txt"
+}

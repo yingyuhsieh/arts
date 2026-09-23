@@ -1,0 +1,4 @@
+interface:
+  display_name: "Create YouTube Artwork Contents"
+  short_description: "Plan a narrative video around one artwork"
+  default_prompt: "Use $create-youtube-artwork-contents to turn my artwork files into a source-grounded narrative YouTube content plan."

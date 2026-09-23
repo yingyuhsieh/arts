@@ -1,0 +1,21 @@
+{
+  "manifest": "/Users/yingyuhsieh/Desktop/mcp/arts/Wanderer above the Sea of Fog/en_slides/Demystifying_the_Wanderer_slide_manifest.json",
+  "original_count": 18,
+  "supplemental_count": 2,
+  "original_final": {
+    "from": "Demystifying_the_Wanderer_slide_0018.png",
+    "to": "Demystifying_the_Wanderer_slide_0020.png",
+    "sha256": "77628f335f2ff1e4b7a6f8c33c0c26dd668474a8685868c3348d7daf39518505"
+  },
+  "supplemental_renames": [
+    {
+      "from": "Demystifying_the_Wanderer_slide_0019.png",
+      "to": "Demystifying_the_Wanderer_slide_0018.png"
+    },
+    {
+      "from": "Demystifying_the_Wanderer_slide_0020.png",
+      "to": "Demystifying_the_Wanderer_slide_0019.png"
+    }
+  ],
+  "subtitle": "/Users/yingyuhsieh/Desktop/mcp/arts/Wanderer above the Sea of Fog/en_slides/subtitle/Demystifying_the_Wanderer.txt"
+}

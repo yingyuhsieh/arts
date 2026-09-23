@@ -1,0 +1,7 @@
+A man stands at the edge of a cliff, staring into an ocean of fog — and for two centuries, no one has been able to look away. Caspar David Friedrich's Wanderer above the Sea of Fog has become one of the most recognizable images in Western art, yet almost everything about it remains unresolved: who the figure is, where he's standing, even what the painting was originally called.
+
+This video pulls apart the myths that have grown around the canvas. The mountain view he's admiring never existed in real life — Friedrich pieced it together from sketches of separate rock formations in Saxon Switzerland and Bohemia. The identity behind that faceless figure has been guessed at for two hundred years, from a Saxon forestry official to Friedrich himself, without ever being confirmed. Even the now-famous title wasn't given by the painter — it only appeared in print in 1950, more than a century after the work was painted. And the canvas itself vanished from the historical record for roughly 120 years before resurfacing in 1938.
+
+None of these uncertainties have kept the painting from becoming an icon of the Romantic sublime — if anything, they're part of why it still feels so alive. Watch the full breakdown, and see how much of what you "know" about this painting might actually be legend.
+
+#CasparDavidFriedrich #WandererAboveTheSeaOfFog #GermanRomanticism #ArtHistory #Rückenfigur #HamburgerKunsthalle #RomanticSublime

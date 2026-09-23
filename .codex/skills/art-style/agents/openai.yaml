@@ -1,0 +1,4 @@
+interface:
+  display_name: "Art Style"
+  short_description: "Describe a YouTube slide background art style"
+  default_prompt: "Use $art-style to describe a slide background style for this artist or artwork in one sentence."

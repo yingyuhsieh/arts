@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="900" viewBox="0 0 1800 900">
+  <rect width="1800" height="900" fill="#f5f3ef"/>
+  <text x="100" y="90" font-family="Arial, sans-serif" font-size="54" font-weight="700" fill="#26343b">Wanderer above the Sea of Fog — provenance outline</text>
+  <text x="100" y="145" font-family="Arial, sans-serif" font-size="28" fill="#5b666b">Known milestones and documented gaps; uncertain links remain explicitly marked.</text>
+  <line x1="170" y1="460" x2="1630" y2="460" stroke="#7c8b91" stroke-width="10"/>
+  <rect x="150" y="265" width="620" height="320" rx="28" fill="#d8dde0" stroke="#9aa6ab" stroke-width="4"/>
+  <text x="200" y="335" font-family="Arial, sans-serif" font-size="42" font-weight="700" fill="#39484f">c. 1817–1938</text>
+  <text x="200" y="395" font-family="Arial, sans-serif" font-size="32" fill="#39484f">Ownership history not reconstructed</text>
+  <text x="200" y="455" font-family="Arial, sans-serif" font-size="27" fill="#59686e">A gap is not proof of looting,</text>
+  <text x="200" y="497" font-family="Arial, sans-serif" font-size="27" fill="#59686e">but it remains an unresolved</text>
+  <text x="200" y="539" font-family="Arial, sans-serif" font-size="27" fill="#59686e">research issue.</text>
+  <g font-family="Arial, sans-serif">
+    <circle cx="850" cy="460" r="22" fill="#8d4c34"/>
+    <line x1="850" y1="438" x2="850" y2="285" stroke="#8d4c34" stroke-width="4"/>
+    <text x="800" y="235" font-size="30" font-weight="700" fill="#26343b">1938/39</text>
+    <text x="800" y="275" font-size="25" fill="#4e5c62">Luz / Henke records differ</text>
+
+    <circle cx="1040" cy="460" r="22" fill="#8d4c34"/>
+    <line x1="1040" y1="482" x2="1040" y2="635" stroke="#8d4c34" stroke-width="4"/>
+    <text x="935" y="690" font-size="30" font-weight="700" fill="#26343b">1945–48</text>
+    <text x="935" y="730" font-size="25" fill="#4e5c62">Collecting points;</text>
+    <text x="935" y="765" font-size="25" fill="#4e5c62">returned to Henke</text>
+
+    <circle cx="1215" cy="460" r="22" fill="#8d4c34"/>
+    <line x1="1215" y1="438" x2="1215" y2="285" stroke="#8d4c34" stroke-width="4"/>
+    <text x="1130" y="215" font-size="30" font-weight="700" fill="#26343b">1950</text>
+    <text x="1130" y="255" font-size="25" fill="#4e5c62">Grote article uses</text>
+    <text x="1130" y="288" font-size="25" fill="#4e5c62">the familiar title</text>
+
+    <circle cx="1390" cy="460" r="22" fill="#8d4c34"/>
+    <line x1="1390" y1="482" x2="1390" y2="635" stroke="#8d4c34" stroke-width="4"/>
+    <text x="1335" y="690" font-size="30" font-weight="700" fill="#26343b">1959</text>
+    <text x="1335" y="730" font-size="25" fill="#4e5c62">Tate exhibition</text>
+
+    <circle cx="1580" cy="460" r="25" fill="#315f74"/>
+    <line x1="1580" y1="438" x2="1580" y2="285" stroke="#315f74" stroke-width="4"/>
+    <text x="1510" y="215" font-size="30" font-weight="700" fill="#26343b">1970</text>
+    <text x="1430" y="255" font-size="25" fill="#4e5c62">Foundation purchase</text>
+    <text x="1430" y="288" font-size="25" fill="#4e5c62">and permanent loan</text>
+  </g>
+  <text x="100" y="805" font-family="Arial, sans-serif" font-size="27" fill="#5b666b">Based on the supplied research summary; use as an explanatory graphic, not as a substitute for archival documentation.</text>
+</svg>

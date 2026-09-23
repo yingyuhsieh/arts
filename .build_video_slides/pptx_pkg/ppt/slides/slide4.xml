@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<p:sld xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:p="http://schemas.openxmlformats.org/presentationml/2006/main"><p:cSld><p:spTree>
+<p:nvGrpSpPr><p:cNvPr id="1" name=""/><p:cNvGrpSpPr/><p:nvPr/></p:nvGrpSpPr><p:grpSpPr><a:xfrm><a:off x="0" y="0"/><a:ext cx="0" cy="0"/><a:chOff x="0" y="0"/><a:chExt cx="0" cy="0"/></a:xfrm></p:grpSpPr>
+<p:pic><p:nvPicPr><p:cNvPr id="2" name="Misty oil landscape background"/><p:cNvPicPr><a:picLocks noChangeAspect="1"/></p:cNvPicPr><p:nvPr/></p:nvPicPr>
+    <p:blipFill><a:blip r:embed="rId2"/><a:stretch><a:fillRect/></a:stretch></p:blipFill>
+    <p:spPr><a:xfrm><a:off x="0" y="0"/><a:ext cx="12192000" cy="6858000"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:ln><a:noFill/></a:ln></p:spPr></p:pic><p:sp>
+      <p:nvSpPr><p:cNvPr id="3" name="Content veil"/><p:cNvSpPr/><p:nvPr/></p:nvSpPr>
+      <p:spPr><a:xfrm><a:off x="476250" y="361950"/><a:ext cx="11239500" cy="5905500"/></a:xfrm>
+      <a:prstGeom prst="roundRect"><a:avLst/></a:prstGeom><a:solidFill><a:srgbClr val="F6F5F0"><a:alpha val="90000"/></a:srgbClr></a:solidFill><a:ln><a:noFill/></a:ln></p:spPr>
+      <p:txBody><a:bodyPr/><a:lstStyle/><a:p><a:endParaRPr lang="zh-TW"/></a:p></p:txBody>
+    </p:sp><p:sp>
+      <p:nvSpPr><p:cNvPr id="4" name="Title"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr>
+      <p:spPr><a:xfrm><a:off x="714375" y="571500"/><a:ext cx="10477500" cy="552450"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:noFill/><a:ln><a:noFill/></a:ln></p:spPr>
+      <p:txBody><a:bodyPr wrap="square" anchor="mid" lIns="0" rIns="0" tIns="0" bIns="0"/><a:lstStyle/><a:p><a:pPr algn="l"/><a:r><a:rPr lang="zh-TW" sz="3400" b="1" i="0"><a:solidFill><a:srgbClr val="253631"/></a:solidFill><a:latin typeface="PingFang TC"/><a:ea typeface="PingFang TC"/><a:cs typeface="PingFang TC"/></a:rPr><a:t>現實中不存在的觀景台</a:t></a:r><a:endParaRPr lang="zh-TW" sz="3400"/></a:p></p:txBody>
+    </p:sp><p:sp>
+      <p:nvSpPr><p:cNvPr id="5" name="Body"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr>
+      <p:spPr><a:xfrm><a:off x="714375" y="1476375"/><a:ext cx="4524375" cy="2476500"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:noFill/><a:ln><a:noFill/></a:ln></p:spPr>
+      <p:txBody><a:bodyPr wrap="square" anchor="top" lIns="0" rIns="0" tIns="0" bIns="0"/><a:lstStyle/><a:p><a:pPr algn="l"/><a:r><a:rPr lang="zh-TW" sz="2200" b="0" i="0"><a:solidFill><a:srgbClr val="293936"/></a:solidFill><a:latin typeface="PingFang TC"/><a:ea typeface="PingFang TC"/><a:cs typeface="PingFang TC"/></a:rPr><a:t>這幅風景不是單一地點的紀錄。</a:t></a:r><a:endParaRPr lang="zh-TW" sz="2200"/></a:p><a:p><a:pPr algn="l"/><a:r><a:rPr lang="zh-TW" sz="2200" b="0" i="0"><a:solidFill><a:srgbClr val="293936"/></a:solidFill><a:latin typeface="PingFang TC"/><a:ea typeface="PingFang TC"/><a:cs typeface="PingFang TC"/></a:rPr><a:t></a:t></a:r><a:endParaRPr lang="zh-TW" sz="2200"/></a:p><a:p><a:pPr algn="l"/><a:r><a:rPr lang="zh-TW" sz="2200" b="0" i="0"><a:solidFill><a:srgbClr val="293936"/></a:solidFill><a:latin typeface="PingFang TC"/><a:ea typeface="PingFang TC"/><a:cs typeface="PingFang TC"/></a:rPr><a:t>弗里德里希把薩克森瑞士與波西米亞的岩石、遠山和寫生素材重新組合，形成一個屬於內在經驗的虛構風景。</a:t></a:r><a:endParaRPr lang="zh-TW" sz="2200"/></a:p></p:txBody>
+    </p:sp><p:sp>
+      <p:nvSpPr><p:cNvPr id="6" name="Key point"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr>
+      <p:spPr><a:xfrm><a:off x="714375" y="4333875"/><a:ext cx="4524375" cy="666750"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:noFill/><a:ln><a:noFill/></a:ln></p:spPr>
+      <p:txBody><a:bodyPr wrap="square" anchor="mid" lIns="0" rIns="0" tIns="0" bIns="0"/><a:lstStyle/><a:p><a:pPr algn="l"/><a:r><a:rPr lang="zh-TW" sz="2000" b="1" i="0"><a:solidFill><a:srgbClr val="4A615B"/></a:solidFill><a:latin typeface="PingFang TC"/><a:ea typeface="PingFang TC"/><a:cs typeface="PingFang TC"/></a:rPr><a:t>自然提供素材，畫家重新安排觀看的世界</a:t></a:r><a:endParaRPr lang="zh-TW" sz="2000"/></a:p></p:txBody>
+    </p:sp><p:pic><p:nvPicPr><p:cNvPr id="7" name="Composite landscape explanation"/><p:cNvPicPr><a:picLocks noChangeAspect="1"/></p:cNvPicPr><p:nvPr/></p:nvPicPr>
+    <p:blipFill><a:blip r:embed="rId3"/><a:stretch><a:fillRect/></a:stretch></p:blipFill>
+    <p:spPr><a:xfrm><a:off x="5715000" y="1571625"/><a:ext cx="5429250" cy="3057525"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:ln w="12700"><a:solidFill><a:srgbClr val="D8D7CF"/></a:solidFill></a:ln></p:spPr></p:pic><p:sp>
+      <p:nvSpPr><p:cNvPr id="8" name="Caption"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr>
+      <p:spPr><a:xfrm><a:off x="6191250" y="4810125"/><a:ext cx="4476750" cy="333375"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:noFill/><a:ln><a:noFill/></a:ln></p:spPr>
+      <p:txBody><a:bodyPr wrap="square" anchor="mid" lIns="0" rIns="0" tIns="0" bIns="0"/><a:lstStyle/><a:p><a:pPr algn="c"/><a:r><a:rPr lang="zh-TW" sz="1600" b="0" i="0"><a:solidFill><a:srgbClr val="51625E"/></a:solidFill><a:latin typeface="PingFang TC"/><a:ea typeface="PingFang TC"/><a:cs typeface="PingFang TC"/></a:rPr><a:t>影片中的地理與拼貼示意</a:t></a:r><a:endParaRPr lang="zh-TW" sz="1600"/></a:p></p:txBody>
+    </p:sp><p:sp>
+      <p:nvSpPr><p:cNvPr id="9" name="Source"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr>
+      <p:spPr><a:xfrm><a:off x="666750" y="6448425"/><a:ext cx="10858500" cy="190500"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:noFill/><a:ln><a:noFill/></a:ln></p:spPr>
+      <p:txBody><a:bodyPr wrap="square" anchor="mid" lIns="0" rIns="0" tIns="0" bIns="0"/><a:lstStyle/><a:p><a:pPr algn="r"/><a:r><a:rPr lang="zh-TW" sz="1050" b="0" i="0"><a:solidFill><a:srgbClr val="4D5E5B"/></a:solidFill><a:latin typeface="PingFang TC"/><a:ea typeface="PingFang TC"/><a:cs typeface="PingFang TC"/></a:rPr><a:t>影片 03:36–04:11</a:t></a:r><a:endParaRPr lang="zh-TW" sz="1050"/></a:p></p:txBody>
+    </p:sp>
+</p:spTree></p:cSld><p:clrMapOvr><a:masterClrMapping/></p:clrMapOvr></p:sld>

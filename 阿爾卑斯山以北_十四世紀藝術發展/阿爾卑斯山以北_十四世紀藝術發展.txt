@@ -1,0 +1,52 @@
+// Verify content of the md file, search more information from web to add to the document, and update correction suggestion. List as bullet items in 繁中 and present by md format here.
+
+------------------
+$create-youtube-contents by 阿爾卑斯山以北_十四世紀藝術發展/阿爾卑斯山以北_十四世紀藝術發展_完整書稿.md
+
+$create_google_doc_image_info by 阿爾卑斯山以北_十四世紀藝術發展/northern_europe_14th_century_art_youtube_en.md
+
+$create-youtube-slides by 阿爾卑斯山以北_十四世紀藝術發展/阿爾卑斯山以北_十四世紀藝術發展_完整書稿.md, 阿爾卑斯山以北_十四世紀藝術發展/northern_europe_14th_century_art_youtube_en.md
+
+------------------
+
+# Verify contents from AI
+Search web, review & make correction suggestion (繁中) 用 narrative 寫
+
+Title: 在凡・艾克之前：金箔、祭壇與城市如何改變歐洲藝術
+
+Title: Before Van Eyck: How Fourteenth-Century Europe Learned to See
+
+note_notebooklm.txt
+
+
+------------------
+
+# 將英文音檔做影片
+Use $en-video-integrate-audio-slide to combine my English narration audio, slide images, script, and timing manifest into a YouTube-ready MP4.Use $en-video-integrate-audio-slide to create a YouTube-ready video from:
+
+- Narration script:
+  ./<topic>/en_slides/subtitle/.txt
+- PNG slides:
+  ./<topic>/en_slides/
+- Narration audio:
+  ./<topic>/en_slides/audio/.m4a
+- Timing manifest:
+  ./<topic>/en_slides/slide_manifest.json
+
+# Podcast thumbnail
+Based on md file and images create a Podcast thumb image with size 720x720 Title: 戴珍珠耳環的少女
+
+# 展覽分析
+使用
+$Google Drive
+create a document named: <show_name>
+我會上傳相片，請以以下格式撰寫分析到 Google document
+Format
+<image>
+<畫家中文> <畫家英文> (<出生年>-<過逝年>)
+<中文作品名稱> <英文作品名稱 <創作年代>
+<作品簡單描述>
+<深度作品分析>
+<畫家生平>
+Example: search 超現實主義 in $Google Drive
+

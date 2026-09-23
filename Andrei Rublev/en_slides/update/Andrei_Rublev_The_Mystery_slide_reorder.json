@@ -1,0 +1,25 @@
+{
+  "manifest": "/Users/yingyuhsieh/Desktop/mcp/arts/Andrei Rublev/en_slides/Andrei_Rublev_The_Mystery_slide_manifest.json",
+  "original_count": 21,
+  "supplemental_count": 3,
+  "original_final": {
+    "from": "Andrei_Rublev_The_Mystery_slide_0021.png",
+    "to": "Andrei_Rublev_The_Mystery_slide_0024.png",
+    "sha256": "71b2ee1ea2a38b402358198e4ae55a70ffd535aa50ecfe5f69f9063934ef4809"
+  },
+  "supplemental_renames": [
+    {
+      "from": "Andrei_Rublev_The_Mystery_slide_0022.png",
+      "to": "Andrei_Rublev_The_Mystery_slide_0021.png"
+    },
+    {
+      "from": "Andrei_Rublev_The_Mystery_slide_0023.png",
+      "to": "Andrei_Rublev_The_Mystery_slide_0022.png"
+    },
+    {
+      "from": "Andrei_Rublev_The_Mystery_slide_0024.png",
+      "to": "Andrei_Rublev_The_Mystery_slide_0023.png"
+    }
+  ],
+  "subtitle": "/Users/yingyuhsieh/Desktop/mcp/arts/Andrei Rublev/en_slides/subtitle/Andrei_Rublev_The_Mystery.txt"
+}

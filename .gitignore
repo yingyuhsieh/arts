@@ -1,0 +1,7 @@
+# Ignore a specific file
+.DS_Store
+
+__pycache__/
+*.py[cod]
+tmp/
+note.txt

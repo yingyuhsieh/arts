@@ -1,0 +1,99 @@
+// for artists to ask all AI
+使用 01.藝術家深度研究.md
+撰寫 <artist>
+直接把全文貼成可複製的 code block 給我
+
+// consolidate
+照 Pasted markdown 的 Prompt，整合其他 5 份 <artist_or_artwork> MD，產生最終文章。
+
+Based on all md files in ./artist
+透過 WebSearch 搜尋該畫家的相關資料
+整合所有資料，以繁體中文 narrative 撰寫深度分析文章，至少8000字。
+將結果存為 <artist>.md。
+
+// Verify content of the md file, search more information from web to add to the document, and update correction suggestion. List as bullet items in 繁中 and present by md format here.
+
+------------------
+$create-youtube-contents by <files>
+
+$art-style <artist_artwork>
+
+$create_google_doc_image_info by <file>
+
+$create-youtube-slides by <files>
+背景風格描述：
+Use a sublime German Romantic landscape style inspired by Caspar David Friedrich’s Wanderer above the Sea of Fog, with cool blue-gray, misty white, muted green, dark brown, and restrained earthy tones, finely layered oil-painted textures, rugged rocky foregrounds, distant mountain silhouettes dissolving into luminous atmospheric fog, dramatic contrasts between sharply defined near forms and hazy infinite space, and a solitary contemplative mood emphasizing humanity’s encounter with the vastness of nature, while preserving expansive mist-filled negative space and restrained landscape details so the artwork, titles, and subtitles remain visually dominant.
+
+------------------
+
+# Verify contents from AI
+Search web, review & make correction suggestion (繁中) 用 narrative 寫
+
+Title: <TC>
+
+Title: <EN>
+
+$create-youtube-slides by <files>
+背景風格描述：
+Use a sublime German Romantic landscape style inspired by Caspar David Friedrich’s Wanderer above the Sea of Fog, with cool blue-gray, misty white, muted green, dark brown, and restrained earthy tones, finely layered oil-painted textures, rugged rocky foregrounds, distant mountain silhouettes dissolving into luminous atmospheric fog, dramatic contrasts between sharply defined near forms and hazy infinite space, and a solitary contemplative mood emphasizing humanity’s encounter with the vastness of nature, while preserving expansive mist-filled negative space and restrained landscape details so the artwork, titles, and subtitles remain visually dominant.
+
+
+# 中文 Replace 1st slide with youtbute thumimage
+# English Replace 1st slide with youtbute thumimage
+Replace ./Wanderer above the Sea of Fog/tw_slides/Wanderer above the Sea of Fog_TW/Slide1.PNG by ./Wanderer above the Sea of Fog/YouTube/.png with size 1280x720
+Replace ./Wanderer above the Sea of Fog/en_slides/Wanderer above the Sea of Fog_EN/Slide1.PNG by ./Wanderer above the Sea of Fog/YouTube/.png with size 1280x720
+
+
+# 產生中文 video
+使用 $tw-make-video
+旁白 path：
+./Wanderer above the Sea of Fog/tw_slides/Wanderer above the Sea of Fog_TW.txt
+圖片 path：
+./Wanderer above the Sea of Fog/tw_slides/Wanderer above the Sea of Fog_TW
+
+# 產生English video
+Use $en-make-video.
+Narration:
+./Wanderer above the Sea of Fog/tw_slides/Wanderer above the Sea of Fog_EN.txt
+圖片 path：
+./Wanderer above the Sea of Fog/tw_slides/Wanderer above the Sea of Fog_EN
+
+
+# 產生YouTube description & social post
+Use $youtube-and-social-media-post with
+./Wanderer above the Sea of Fog/tw_slides/Wanderer above the Sea of Fog_TW.txt
+./Wanderer above the Sea of Fog/en_slides/Wanderer above the Sea of Fog_EN.txt
+./Wanderer above the Sea of Fog/.md
+./Wanderer above the Sea of Fog/.txt
+
+
+------------------
+
+# 將英文音檔做影片
+Use $en-video-integrate-audio-slide to combine my English narration audio, slide images, script, and timing manifest into a YouTube-ready MP4.Use $en-video-integrate-audio-slide to create a YouTube-ready video from:
+
+- Narration script:
+  ./Wanderer above the Sea of Fog/en_slides/subtitle/.txt
+- PNG slides:
+  ./Wanderer above the Sea of Fog/en_slides/
+- Narration audio:
+  ./Wanderer above the Sea of Fog/en_slides/audio/.m4a
+- Timing manifest:
+  ./Wanderer above the Sea of Fog/en_slides/slide_manifest.json
+
+# Podcast thumbnail
+Based on md file and images create a Podcast thumb image with size 720x720 Title: 戴珍珠耳環的少女
+
+# 展覽分析
+使用
+$Google Drive
+create a document named: <show_name>
+我會上傳相片，請以以下格式撰寫分析到 Google document
+Format
+<image>
+<畫家中文> <畫家英文> (<出生年>-<過逝年>)
+<中文作品名稱> <英文作品名稱 <創作年代>
+<作品簡單描述>
+<深度作品分析>
+<畫家生平>
+Example: search 超現實主義 in $Google Drive
