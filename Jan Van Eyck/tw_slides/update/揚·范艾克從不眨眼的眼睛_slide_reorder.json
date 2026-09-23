@@ -1,0 +1,25 @@
+{
+  "manifest": "/Users/yingyuhsieh/Desktop/mcp/arts/Jan van Eyck/tw_slides/揚·范艾克從不眨眼的眼睛_slide_manifest.json",
+  "original_count": 25,
+  "supplemental_count": 3,
+  "original_final": {
+    "from": "揚·范艾克從不眨眼的眼睛_slide_0025.png",
+    "to": "揚·范艾克從不眨眼的眼睛_slide_0028.png",
+    "sha256": "928c5e5841de322272710feba23fe7818b55c7a600407c307cc471ecaeb8269e"
+  },
+  "supplemental_renames": [
+    {
+      "from": "揚·范艾克從不眨眼的眼睛_slide_0026.png",
+      "to": "揚·范艾克從不眨眼的眼睛_slide_0025.png"
+    },
+    {
+      "from": "揚·范艾克從不眨眼的眼睛_slide_0027.png",
+      "to": "揚·范艾克從不眨眼的眼睛_slide_0026.png"
+    },
+    {
+      "from": "揚·范艾克從不眨眼的眼睛_slide_0028.png",
+      "to": "揚·范艾克從不眨眼的眼睛_slide_0027.png"
+    }
+  ],
+  "subtitle": "/Users/yingyuhsieh/Desktop/mcp/arts/Jan van Eyck/tw_slides/subtitle/揚·范艾克從不眨眼的眼睛.txt"
+}

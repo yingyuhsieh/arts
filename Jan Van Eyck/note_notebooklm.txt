@@ -1,0 +1,106 @@
+https://en.wikipedia.org/wiki/List_of_works_by_Jan_van_Eyck
+
+// for artists to ask all AI
+使用 藝術家深度研究與長篇故事文章.md
+撰寫 <artist>
+直接把全文貼成可複製的 code block 給我
+
+// consolidate
+照 Pasted markdown 的 Prompt，整合其他 5 份 Jan van Goyen MD，產生最終文章。
+
+Based on all md files in ./artist
+透過 WebSearch 搜尋該畫家的相關資料
+整合所有資料，以繁體中文 narrative 撰寫深度分析文章，至少8000字。
+將結果存為 <artist>.md。
+
+// Verify content of the md file, search more information from web to add to the document, and update correction suggestion. List as bullet items in 繁中 and present by md format here.
+
+------------------
+$create-youtube-contents by <files>
+
+$create_google_doc_image_info by <file>
+
+$create-youtube-slides by <files>
+
+------------------
+
+# Verify contents from AI
+Search web, review & make correction suggestion (繁中) 用 narrative 寫
+
+Title: 揚・范艾克：一隻從不眨眼的眼睛！油畫如何變得比現實更真實
+
+Title: Jan van Eyck: He Did Not Invent Oil Painting—He Changed How We See
+
+# 中文 Video 產生 slide images 並加上背景
+使用 $video-to-slides
+Video path: ./Jan van Eyck/揚·范艾克從不眨眼的眼睛.mp4
+背景風格描述：
+Use a richly detailed Early Netherlandish style inspired by Jan van Eyck, with luminous jewel tones of deep emerald, crimson, ultramarine, warm brown, and radiant gold, exquisitely layered oil-glaze textures, precise naturalistic light and reflections, richly rendered fabrics, polished wood, metal, glass, and gemstones, meticulous botanical and architectural details, subtle symbolic objects, and serene atmospheric depth, while preserving balanced shadowed negative space and restrained ornament so the artwork, titles, and subtitles remain visually dominant.
+
+
+# English Video 產生 slide images 並加上背景
+使用 $video-to-slides
+Video path: ./Jan van Eyck/The_Unblinking_Eye.mp4
+背景風格描述：
+Use a richly detailed Early Netherlandish style inspired by Jan van Eyck, with luminous jewel tones of deep emerald, crimson, ultramarine, warm brown, and radiant gold, exquisitely layered oil-glaze textures, precise naturalistic light and reflections, richly rendered fabrics, polished wood, metal, glass, and gemstones, meticulous botanical and architectural details, subtle symbolic objects, and serene atmospheric depth, while preserving balanced shadowed negative space and restrained ornament so the artwork, titles, and subtitles remain visually dominant.
+
+
+# 中文 Replace 1st slide with youtbute thumimage
+# English Replace 1st slide with youtbute thumimage
+Replace ./Jan van Eyck/tw_slides/update/揚·范艾克從不眨眼的眼睛_slide_0001.png.png by ./Jan van Eyck/YouTube/揚・范艾克：一隻從不眨眼的眼睛！油畫如何變得比現實更真實.png with size 1280x720
+Replace ./Jan Van Eyck/en_slides/update/The_Unblinking_Eye_slide_0001.png by ./Jan van Eyck/YouTube/Jan van Eyck - He Did Not Invent Oil Painting—He Changed How We See.png with size 1280x720
+
+
+# 產生中文 video
+使用 $tw-make-video
+旁白 path：
+./Jan van Eyck/tw_slides/subtitle/揚·范艾克從不眨眼的眼睛.txt
+圖片 path：
+./Jan van Eyck/tw_slides/tw_slides/update
+
+# 產生English video
+Use $en-make-video.
+Narration:
+./Jan van Eyck/en_slides/subtitle/The_Unblinking_Eye.txt
+Images:
+./Jan van Eyck/en_slides/update
+
+
+# 產生YouTube description & social post
+Use $youtube-and-social-media-post with
+./Jan van Eyck/tw_slides/subtitle/.txt
+./Jan van Eyck/en_slides/subtitle/.txt
+./Jan van Eyck/.md
+./Jan van Eyck/.txt
+
+
+------------------
+
+# 將英文音檔做影片
+Use $en-video-integrate-audio-slide to combine my English narration audio, slide images, script, and timing manifest into a YouTube-ready MP4.Use $en-video-integrate-audio-slide to create a YouTube-ready video from:
+
+- Narration script:
+  ./Jan van Eyck/en_slides/subtitle/.txt
+- PNG slides:
+  ./Jan van Eyck/en_slides/
+- Narration audio:
+  ./Jan van Eyck/en_slides/audio/.m4a
+- Timing manifest:
+  ./Jan van Eyck/en_slides/slide_manifest.json
+
+# Podcast thumbnail
+Based on md file and images create a Podcast thumb image with size 720x720 Title: 戴珍珠耳環的少女
+
+# 展覽分析
+使用
+$Google Drive
+create a document named: <show_name>
+我會上傳相片，請以以下格式撰寫分析到 Google document
+Format
+<image>
+<畫家中文> <畫家英文> (<出生年>-<過逝年>)
+<中文作品名稱> <英文作品名稱 <創作年代>
+<作品簡單描述>
+<深度作品分析>
+<畫家生平>
+Example: search 超現實主義 in $Google Drive
