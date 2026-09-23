@@ -1,0 +1,49 @@
+Modify Rogier van der Weyden\tw_slides\update\羅希爾·范德魏登：雕刻悲傷的畫家_slide_00.png
+
+and add image Rogier van der Weyden\images\
+
+
+Modify Rogier van der Weyden\tw_slides\update\羅希爾·范德魏登：雕刻悲傷的畫家_slide_0002.png and make description clear
+Modify Rogier van der Weyden\tw_slides\update\羅希爾·范德魏登：雕刻悲傷的畫家_slide_0003.png and make description clear
+Modify Rogier van der Weyden\tw_slides\update\羅希爾·范德魏登：雕刻悲傷的畫家_slide_0004.png and remove 1 from image and make description clear
+Modify Rogier van der Weyden\tw_slides\update\羅希爾·范德魏登：雕刻悲傷的畫家_slide_0005.png and add image Rogier van der Weyden\images\MG_008_Columba_Altarpiece.jpg and make description clear
+Modify Rogier van der Weyden\tw_slides\update\羅希爾·范德魏登：雕刻悲傷的畫家_slide_0006.png and remove 2 from image and make description clear
+Modify Rogier van der Weyden\tw_slides\update\羅希爾·范德魏登：雕刻悲傷的畫家_slide_0007.png and replace image by Modify Rogier van der Weyden\Miraflores Altarpiece.jpg and make it larger and make description clear
+Modify Rogier van der Weyden\tw_slides\update\羅希爾·范德魏登：雕刻悲傷的畫家_slide_0008.png and replace image by Rogier van der Weyden\images\The Last Judgment Polyptych.jpg and make it larger and make description clear
+Modify Rogier van der Weyden\tw_slides\update\羅希爾·范德魏登：雕刻悲傷的畫家_slide_0009.png and replace right image by Rogier van der Weyden\images\IMG_009_Crucifixion_Diptych.jpg and mark "The Crucifixion Diptych" and mark left image "The Seven Sacraments Altarpiece"
+Modify Rogier van der Weyden\tw_slides\update\羅希爾·范德魏登：雕刻悲傷的畫家_slide_0010.png and remove 3 from image and make description clear
+Modify Rogier van der Weyden\tw_slides\update\羅希爾·范德魏登：雕刻悲傷的畫家_slide_0011.png and add image\Rogier van der Weyden\images\IMG_007_Braque_Triptych.jpg and make description clear
+Modify Rogier van der Weyden\tw_slides\update\羅希爾·范德魏登：雕刻悲傷的畫家_slide_0012.png and replace image by Rogier van der Weyden\images\The Columba Altarpiece.jpg and make it larger and make description clear
+Modify Rogier van der Weyden\tw_slides\update\羅希爾·范德魏登：雕刻悲傷的畫家_slide_0013.png and remove 4 from image and make description clear
+Modify Rogier van der Weyden\tw_slides\update\羅希爾·范德魏登：雕刻悲傷的畫家_slide_0014.png and add image image Rogier van der Weyden\images\1.png mark "Jan van Eyck Presumed Self Portrait" and image Rogier van der Weyden\images\2.png mark "Modeled Luke's face after Weyden" and make description clear
+Modify Rogier van der Weyden\tw_slides\update\羅希爾·范德魏登：雕刻悲傷的畫家_slide_15.png add left image D:\mcp\arts\Jan Van Eyck\images\05 The Arnolfini Portrait.jpg and right image Rogier van der Weyden\images\IMG_001_Descent_from_the_Cross.jpg and make description clear
+Modify Rogier van der Weyden\tw_slides\update\羅希爾·范德魏登：雕刻悲傷的畫家_slide_0016.png and remove 5 from image and make description clear
+Modify Rogier van der Weyden\tw_slides\update\羅希爾·范德魏登：雕刻悲傷的畫家_slide_0017.png and make flow and description clear
+Modify Rogier van der Weyden\tw_slides\update\羅希爾·范德魏登：雕刻悲傷的畫家_slide_0018.png replace left image Rogier van der Weyden\images\Portrait of a Lady.jpg and make description clear
+Modify Rogier van der Weyden\tw_slides\update\羅希爾·范德魏登：雕刻悲傷的畫家_slide_0019.png and add image Rogier van der Weyden\images\IMG_001_Descent_from_the_Cross.jpg and make descipriton clear
+Modify Rogier van der Weyden\tw_slides\update\羅希爾·范德魏登：雕刻悲傷的畫家_slide_0020.png and add image Rogier van der Weyden\images\IMG_002_Saint_Luke_Drawing_the_Virgin.jpg mark "Saint Luke Drawing the Virgin" and add image D:\mcp\arts\Jan Van Eyck\images\07 The Virgin of Chancellor Rolin.jpg mark "The Virgin of Chancellor Rolin" and make descipriton clear
+
+
+Modify Rogier van der Weyden\en_slides\update\Sculpting_Sorrow_slide_00.png
+
+and add image Rogier van der Weyden\images\
+
+Modify Rogier van der Weyden\en_slides\update\Sculpting_Sorrow_slide_0002.png and add image Rogier van der Weyden\images\IMG_003_Magdalen_Reading.jpg mark "Magdalen Reading" and make description clear
+Modify Rogier van der Weyden\tw_slides\update\羅希爾·范德魏登：雕刻悲傷的畫家_slide_00.png
+Modify Rogier van der Weyden\en_slides\update\Sculpting_Sorrow_slide_0003.png and remove "1" from image and make descrition clear
+Modify Rogier van der Weyden\en_slides\update\Sculpting_Sorrow_slide_0004.png and make flow and description clear
+Modify Rogier van der Weyden\en_slides\update\Sculpting_Sorrow_slide_0005.png and remove "2" from image and make descrition clear
+Modify Rogier van der Weyden\en_slides\update\Sculpting_Sorrow_slide_0006.png and replace image Rogier van der Weyden\images\Miraflores Altarpiece.jpg and make it larger and make description clear
+Modify Rogier van der Weyden\en_slides\update\Sculpting_Sorrow_slide_0007.png and replace image Rogier van der Weyden\images\IMG_005_Seven_Sacraments.jpg and make it larger and make description clear
+Modify Rogier van der Weyden\en_slides\update\Sculpting_Sorrow_slide_0007.png and replace image Rogier van der Weyden\images\IMG_006_Last_Judgment.jpg and make it larger and make description clear
+Modify Rogier van der Weyden\en_slides\update\Sculpting_Sorrow_slide_0009.png and make description clear
+Modify Rogier van der Weyden\en_slides\update\Sculpting_Sorrow_slide_0010.png and and add image Rogier van der Weyden\images\IMG_001_Descent_from_the_Cross.jpg and make description clear
+Modify Rogier van der Weyden\en_slides\update\Sculpting_Sorrow_slide_0011.png and remove "3" from image and add image image Rogier van der Weyden\images\1.png mark "Jan van Eyck Presumed Self Portrait" and image Rogier van der Weyden\images\2.png mark "Modeled Luke's face after Weyden" and make description clear and make descrition clear
+Modify Rogier van der Weyden\en_slides\update\Sculpting_Sorrow_slide_0012.png add left image D:\mcp\arts\Jan Van Eyck\images\05 The Arnolfini Portrait.jpg and right image Rogier van der Weyden\images\IMG_001_Descent_from_the_Cross.jpg and make description clear
+Modify Rogier van der Weyden\en_slides\update\Sculpting_Sorrow_slide_0013.png and remove "4" from image and make descrition clear
+Modify Rogier van der Weyden\en_slides\update\Sculpting_Sorrow_slide_0014.png and replace left image Rogier van der Weyden\images\The Crucifixion Diptych.jpg mark "The Crucifixion Diptych" and right image Rogier van der Weyden\images\Portrait of a Lady.jpg mark "Portrait of a Lady"
+Modify Rogier van der Weyden\en_slides\update\Sculpting_Sorrow_slide_0015.png and add image Rogier van der Weyden\images\IMG_011_Philippe_de_Croy.jpg mark "Portrait of Philippe de Croÿ" and make description clear
+Modify Rogier van der Weyden\en_slides\update\Sculpting_Sorrow_slide_0016.png and remove "5" from image and make descrition clear
+Modify Rogier van der Weyden\en_slides\update\Sculpting_Sorrow_slide_0017.png and add image Rogier van der Weyden\images\IMG_005_Seven_Sacraments.jpg and make description clear and make descrition clear
+Modify Rogier van der Weyden\en_slides\update\Sculpting_Sorrow_slide_0018.png and add image Rogier van der Weyden\images\IMG_012_Justice_Tapestry.jpg mark "After Rogier van der Weyden - The Justice of Trajan and Herkinbald" and make description clear and make descrition clear
+Modify Rogier van der Weyden\en_slides\update\Sculpting_Sorrow_slide_0019.png and make description clear
