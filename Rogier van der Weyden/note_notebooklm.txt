@@ -59,7 +59,7 @@ Replace ./Rogier van der Weyden/en_slides/update/Sculpting_Sorrow_slide_0001.png
 # 產生English video
 Use $en-make-video.
 Narration:
-./Rogier van der Weyden/en_slides/subtitle/.txt
+./Rogier van der Weyden/en_slides/subtitle/Sculpting_Sorrow.txt
 Images:
 ./Rogier van der Weyden/en_slides/update
 
