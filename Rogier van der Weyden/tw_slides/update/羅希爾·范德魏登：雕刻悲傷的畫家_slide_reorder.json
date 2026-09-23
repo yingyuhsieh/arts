@@ -1,0 +1,25 @@
+{
+  "manifest": "/Users/yingyuhsieh/Desktop/mcp/arts/Rogier van der Weyden/tw_slides/羅希爾·范德魏登：雕刻悲傷的畫家_slide_manifest.json",
+  "original_count": 19,
+  "supplemental_count": 3,
+  "original_final": {
+    "from": "羅希爾·范德魏登：雕刻悲傷的畫家_slide_0019.png",
+    "to": "羅希爾·范德魏登：雕刻悲傷的畫家_slide_0022.png",
+    "sha256": "bd893275b162182f6906074db69d44cf57f5e4fec30ecae2f3f8893366023163"
+  },
+  "supplemental_renames": [
+    {
+      "from": "羅希爾·范德魏登：雕刻悲傷的畫家_slide_0020.png",
+      "to": "羅希爾·范德魏登：雕刻悲傷的畫家_slide_0019.png"
+    },
+    {
+      "from": "羅希爾·范德魏登：雕刻悲傷的畫家_slide_0021.png",
+      "to": "羅希爾·范德魏登：雕刻悲傷的畫家_slide_0020.png"
+    },
+    {
+      "from": "羅希爾·范德魏登：雕刻悲傷的畫家_slide_0022.png",
+      "to": "羅希爾·范德魏登：雕刻悲傷的畫家_slide_0021.png"
+    }
+  ],
+  "subtitle": "/Users/yingyuhsieh/Desktop/mcp/arts/Rogier van der Weyden/tw_slides/subtitle/羅希爾·范德魏登：雕刻悲傷的畫家.txt"
+}
