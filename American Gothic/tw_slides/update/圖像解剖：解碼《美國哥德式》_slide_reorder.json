@@ -1,0 +1,17 @@
+{
+  "manifest": "/Users/yingyuhsieh/Desktop/mcp/arts/American Gothic/tw_slides/圖像解剖：解碼《美國哥德式》_slide_manifest.json",
+  "original_count": 21,
+  "supplemental_count": 1,
+  "original_final": {
+    "from": "圖像解剖：解碼《美國哥德式》_slide_0021.png",
+    "to": "圖像解剖：解碼《美國哥德式》_slide_0022.png",
+    "sha256": "df815c2eba82f433cf0ecddedf971dfc2052d27204d0aa8cbdb263c28efb8680"
+  },
+  "supplemental_renames": [
+    {
+      "from": "圖像解剖：解碼《美國哥德式》_slide_0022.png",
+      "to": "圖像解剖：解碼《美國哥德式》_slide_0021.png"
+    }
+  ],
+  "subtitle": "/Users/yingyuhsieh/Desktop/mcp/arts/American Gothic/tw_slides/subtitle/圖像解剖：解碼《美國哥德式》.txt"
+}

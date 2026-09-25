@@ -31,14 +31,14 @@ Title: <EN>
 
 # 中文 Video 產生 slide images 並加上背景
 使用 $video-to-slides
-Video path: ./American Gothic/.mp4
+Video path: ./American Gothic/圖像解剖：解碼《美國哥德式》.mp4
 背景風格描述：
 Use a crisp American Regionalist style inspired by Grant Wood’s American Gothic, with muted prairie greens, weathered browns, creamy whites, charcoal gray, and restrained blue tones, smooth meticulously controlled oil-painted surfaces, sharply defined rural architecture, repeating Gothic window and pitchfork-like vertical motifs, simplified Midwestern farmland, rigid frontal geometry, and a quiet, slightly uncanny atmosphere of restraint and seriousness, while preserving clean negative space and subdued background details so the artwork, titles, and subtitles remain visually dominant.
 
 
 # English Video 產生 slide images 並加上背景
 使用 $video-to-slides
-Video path: ./American Gothic/.mp4
+Video path: ./American Gothic/American_Gothic_Secrets.mp4
 背景風格描述：
 Use a crisp American Regionalist style inspired by Grant Wood’s American Gothic, with muted prairie greens, weathered browns, creamy whites, charcoal gray, and restrained blue tones, smooth meticulously controlled oil-painted surfaces, sharply defined rural architecture, repeating Gothic window and pitchfork-like vertical motifs, simplified Midwestern farmland, rigid frontal geometry, and a quiet, slightly uncanny atmosphere of restraint and seriousness, while preserving clean negative space and subdued background details so the artwork, titles, and subtitles remain visually dominant.
 
