@@ -29,9 +29,9 @@ Use a crisp American Regionalist style inspired by Grant Wood’s American Gothi
 # Verify contents from AI
 Search web, review & make correction suggestion (繁中) 用 narrative 寫
 
-Title: <TC>
+Title: 他們不是夫妻，也不是農夫！《美國哥德式》的真實故事
 
-Title: <EN>
+Title: A Dentist, a Sister, and a Pitchfork: The Hidden Reality Behind American Gothic
 
 $create-youtube-slides by <files>
 背景風格描述：
