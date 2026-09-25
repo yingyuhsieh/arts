@@ -1,0 +1,53 @@
+Modify American Gothic\tw_slides\update\圖像解剖：解碼《美國哥德式》_slide_00.png
+
+add image D:\mcp\arts\American Gothic\images\
+
+
+Modify American Gothic\tw_slides\update\圖像解剖：解碼《美國哥德式》_slide_0002.png and add image D:\mcp\arts\American Gothic\images\faces.jpg and make descrition clear
+Modify American Gothic\tw_slides\update\圖像解剖：解碼《美國哥德式》_slide_003.png and reshape the boxes to prettier and add image D:\mcp\arts\American Gothic\images\IMG-002_American_Gothic_House.jpg and make description clear
+Modify American Gothic\tw_slides\update\圖像解剖：解碼《美國哥德式》_slide_0004.png and remove "1" from image and make description clear
+Modify American Gothic\tw_slides\update\圖像解剖：解碼《美國哥德式》_slide_0005.png and add image D:\mcp\arts\American Gothic\images\yy.collection.JPE\G mark "我到芝加哥藝術博物館的伴手禮" and make description clear
+Modify American Gothic\tw_slides\update\圖像解剖：解碼《美國哥德式》_slide_0006.png and remove "2" from image and make description clear add image D:\mcp\arts\American Gothic\images\map.png and make description clear
+Modify American Gothic\tw_slides\update\圖像解剖：解碼《美國哥德式》_slide_0007.png and replace left image by D:\mcp\arts\American Gothic\images\The Dibble House, Eldon, Iowa.jpg and D:\mcp\arts\American Gothic\images\This side view evinces the modest size of the house.jpg and make description clear
+Modify American Gothic\tw_slides\update\圖像解剖：解碼《美國哥德式》_slide_0008.png and add image D:\mcp\arts\American Gothic\images\icon.png and make description clear
+Modify American Gothic\tw_slides\update\圖像解剖：解碼《美國哥德式》_slide_0009.png and remove "3" from image and make description clear
+Modify American Gothic\tw_slides\update\圖像解剖：解碼《美國哥德式》_slide_0010.png and replace right image D:\mcp\arts\American Gothic\images\Nan Wood Graham (1899-1990) - Find a Grave Memorial.png and make descrition clear
+Modify American Gothic\tw_slides\update\圖像解剖：解碼《美國哥德式》_slide_0011.png and remove "4" from image and make description clear
+Modify American Gothic\tw_slides\update\圖像解剖：解碼《美國哥德式》_slide_0012.png and and use images D:\mcp\arts\American Gothic\images\1.png, D:\mcp\arts\American Gothic\images\2.png, D:\mcp\arts\American Gothic\images\3.png, D:\mcp\arts\American Gothic\images\4.png and make description clear
+Modify American Gothic\tw_slides\update\圖像解剖：解碼《美國哥德式》_slide_0013.png and add image D:\mcp\arts\American Gothic\images\Tine Forged Hay Fork.png and make descrition clear
+Modify American Gothic\tw_slides\update\圖像解剖：解碼《美國哥德式》_slide_0014.png and mark left image "Grant Wood — Stone City, Iowa (1930)" and mark right image "Grant Wood — The Midnight Ride of Paul Revere (1931)"
+Modify American Gothic\tw_slides\update\圖像解剖：解碼《美國哥德式》_slide_0015.png and remove "5" from image and make description clear
+Modify American Gothic\tw_slides\update\圖像解剖：解碼《美國哥德式》_slide_0016.png and make table and description clear
+Modify American Gothic\tw_slides\update\圖像解剖：解碼《美國哥德式》_slide_0017.png and make flow and description clear
+Modify American Gothic\tw_slides\update\圖像解剖：解碼《美國哥德式》_slide_0018.png and make table and description clear
+Modify American Gothic\tw_slides\update\圖像解剖：解碼《美國哥德式》_slide_0019.png and add image D:\mcp\arts\American Gothic\images\Grant Wood American Gothic.jpg and description clear
+Modify American Gothic\tw_slides\update\圖像解剖：解碼《美國哥德式》_slide_0020.png and remove "5" from image and make description clear
+Modify American Gothic\tw_slides\update\圖像解剖：解碼《美國哥德式》_slide_0021.png and add image D:\mcp\arts\American Gothic\images\map.png, The Dibble House, Eldon, Iowa.jpg, This side view evinces the modest size of the house.jpg and make description clear 
+
+
+Modify American Gothic\tw_slides\update\圖像解剖：解碼《美國哥德式》_slide_0022.png and make description clear
+Modify American Gothic\tw_slides\update\圖像解剖：解碼《美國哥德式》_slide_0023.png and make description clear
+Modify American Gothic\tw_slides\update\圖像解剖：解碼《美國哥德式》_slide_0024.png and make description clear
+
+Modify American Gothic\en_slides\update\American_Gothic_Secrets_slide_00.png
+
+add image D:\mcp\arts\American Gothic\images\
+
+Modify American Gothic\en_slides\update\American_Gothic_Secrets_slide_0002.png and add image D:\mcp\arts\American Gothic\images\yy.collection.JPEG mark "A souvenir from the Art Institute of Chicago" and make description clear
+Modify American Gothic\en_slides\update\American_Gothic_Secrets_slide_0003.png and use image D:\mcp\arts\American Gothic\images\IMG-002_American_Gothic_House.jpg and make it larger and make description clear
+Modify American Gothic\en_slides\update\American_Gothic_Secrets_slide_0004.png and add image D:\mcp\arts\American Gothic\images\The West Front of Wells Cathedral.jpg and make description clear
+Modify American Gothic\en_slides\update\American_Gothic_Secrets_slide_0005.png and replace right image D:\mcp\arts\American Gothic\images\Grant Wood American Gothic.jpg and make description clear
+Modify American Gothic\en_slides\update\American_Gothic_Secrets_slide_0006.png and replace right image D:\mcp\arts\American Gothic\images\3.en.JPEG and make description clear
+Modify American Gothic\en_slides\update\American_Gothic_Secrets_slide_0007.png and add image D:\mcp\arts\American Gothic\images\faces.jpg and make descrition clear
+Modify American Gothic\en_slides\update\American_Gothic_Secrets_slide_0008.png and make descrition clear
+Modify American Gothic\en_slides\update\American_Gothic_Secrets_slide_0009.png and mark left image "Grant Wood — Stone City, Iowa (1930)" and mark right image "Grant Wood — The Midnight Ride of Paul Revere (1931)"
+Modify American Gothic\en_slides\update\American_Gothic_Secrets_slide_0010.png and make description clear
+Modify American Gothic\en_slides\update\American_Gothic_Secrets_slide_0011.png and make flow and description clear
+Modify American Gothic\en_slides\update\American_Gothic_Secrets_slide_0012.png and make description clear
+Modify American Gothic\en_slides\update\American_Gothic_Secrets_slide_0013.png add image D:\mcp\arts\American Gothic\images\Uncle Sam.png and Columbia reaching out to viewer.jpg and make description clear
+Modify American Gothic\en_slides\update\American_Gothic_Secrets_slide_0014.png add image D:\mcp\arts\American Gothic\images\map.png, The Dibble House, Eldon, Iowa.jpg, This side view evinces the modest size of the house.jpg and make description clear
+
+
+Modify American Gothic\tw_slides\update\圖像解剖：解碼《美國哥德式》_slide_0007.png and add another image D:\mcp\arts\American Gothic\images\The West Front of Wells Cathedral.jpg
+
+Modify American Gothic\tw_slides\update\圖像解剖：解碼《美國哥德式》_slide_0018.png and add image D:\mcp\arts\American Gothic\images\IMG-006_Gordon_Parks_American_Gothic_1942.jpg mark "Gordon Parks American Gothic (1942)" and make description clear

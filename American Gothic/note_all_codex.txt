@@ -40,8 +40,8 @@ Use a crisp American Regionalist style inspired by Grant Wood’s American Gothi
 
 # 中文 Replace 1st slide with youtbute thumimage
 # English Replace 1st slide with youtbute thumimage
-Replace ./American Gothic/tw_slides/American Gothic_TW/Slide1.PNG by ./American Gothic/YouTube/.png with size 1280x720
-Replace ./American Gothic/en_slides/American Gothic_EN/Slide1.PNG by ./American Gothic/YouTube/.png with size 1280x720
+Replace ./American Gothic/tw_slides/American Gothic_TW/Slide1.PNG by ./American Gothic/YouTube/他們不是夫妻，也不是農夫！《美國哥德式》的真實故事.png with size 1280x720
+Replace ./American Gothic/en_slides/American Gothic_EN/Slide1.PNG by ./American Gothic/YouTube/A Dentist, a Sister, and a Pitchfork The Hidden Reality Behind American Gothic.png with size 1280x720
 
 
 # 產生中文 video
