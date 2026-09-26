@@ -59,7 +59,7 @@ Replace ./American Gothic/en_slides/update/American_Gothic_Secrets_slide_0001.pn
 # 產生English video
 Use $en-make-video.
 Narration:
-./American Gothic/en_slides/subtitle/.txt
+./American Gothic/en_slides/subtitle/American_Gothic_Secrets.txt
 Images:
 ./American Gothic/en_slides/update
 
