@@ -29,9 +29,9 @@ $create-youtube-slides by <files>
 # Verify contents from AI
 Search web, review & make correction suggestion (繁中) 用 narrative 寫
 
-Title: <TC>
+Title: 26歲驟逝的 托馬索・馬薩喬：他如何顛覆哥德式美學？
 
-Title: <EN>
+Title: How Tommaso Masaccio Changed the Space of Art
 
 $create-youtube-slides by <files>
 背景風格描述：
@@ -40,8 +40,8 @@ $create-youtube-slides by <files>
 
 # 中文 Replace 1st slide with youtbute thumimage
 # English Replace 1st slide with youtbute thumimage
-Replace ./Tommaso Masaccio/tw_slides/Tommaso Masaccio_TW/Slide1.PNG by ./Tommaso Masaccio/YouTube/.png with size 1280x720
-Replace ./Tommaso Masaccio/en_slides/Tommaso Masaccio_EN/Slide1.PNG by ./Tommaso Masaccio/YouTube/.png with size 1280x720
+Replace ./Tommaso Masaccio/tw_slides/Tommaso Masaccio_TW/Slide1.PNG by ./Tommaso Masaccio/YouTube/26歲驟逝的 托馬索・馬薩喬：他如何顛覆哥德式美學？.png with size 1280x720
+Replace ./Tommaso Masaccio/en_slides/Tommaso Masaccio_EN/Slide1.PNG by ./Tommaso Masaccio/YouTube/How Tommaso Masaccio Changed the Space of Art.png with size 1280x720
 
 
 # 產生中文 video

@@ -1,0 +1,47 @@
+Modify Tommaso Masaccio\tw_slides\update\馬薩喬：讓繪畫重新站在地面上_slide_00.png
+and add image Tommaso Masaccio\images\
+
+and make description clear
+
+Modify Tommaso Masaccio\tw_slides\update\馬薩喬：讓繪畫重新站在地面上_slide_0002.png and mark left image "Temptation of Adam and Eve (Masolino da Panicale)" and right image "Expulsion from the Garden of Eden (Masaccio)" and make desciption clear
+Modify Tommaso Masaccio\tw_slides\update\馬薩喬：讓繪畫重新站在地面上_slide_0003.png and add image Tommaso Masaccio\images\Masaccio-book.png and make box and description clear
+Modify Tommaso Masaccio\tw_slides\update\馬薩喬：讓繪畫重新站在地面上_slide_0004.png and remove "1" from image and add image Tommaso Masaccio\images\shadow.image.png and make description clear
+Modify Tommaso Masaccio\tw_slides\update\馬薩喬：讓繪畫重新站在地面上_slide_0005.png and make description clear
+Modify Tommaso Masaccio\tw_slides\update\馬薩喬：讓繪畫重新站在地面上_slide_0006.png and remove "2" from image and add image Tommaso Masaccio\images\Brancacci Kapelle (Gesamtansicht), S.Maria del Carmine, Florenz.JPG and make description clear
+Modify Tommaso Masaccio\tw_slides\update\馬薩喬：讓繪畫重新站在地面上_slide_0007.png and add image Tommaso Masaccio\images\Masaccio.jpg and make flow and description clear
+Modify Tommaso Masaccio\tw_slides\update\馬薩喬：讓繪畫重新站在地面上_slide_0008.png and remove "3" from image and add "Masaccio Continuous Narrative" and make description clear
+Modify Tommaso Masaccio\tw_slides\update\馬薩喬：讓繪畫重新站在地面上_slide_0009.png and make description clear
+Modify Tommaso Masaccio\tw_slides\update\馬薩喬：讓繪畫重新站在地面上_slide_0010.png and replace top image Tommaso Masaccio\images\The Tribute Money.jpg and make it larger and bottom by Tommaso Masaccio\images\Peter.png and make description clear
+Modify Tommaso Masaccio\tw_slides\update\馬薩喬：讓繪畫重新站在地面上_slide_0011.png and remove "4" from image and and add image Tommaso Masaccio\images\Altar in Roskilde Lutheran Cathedral.jpg and make description clear
+Modify Tommaso Masaccio\tw_slides\update\馬薩喬：讓繪畫重新站在地面上_slide_0012.png and mark image "Crucifixion (1426)" and make description clear
+Modify Tommaso Masaccio\tw_slides\update\馬薩喬：讓繪畫重新站在地面上_slide_0013.png and add left image Tommaso Masaccio\images\The Wilton Diptych (tradtional Gothic).jpg mark "The Wilton Diptych" and right image 
+Tommaso Masaccio\images\IMG-009 Masaccio《聖母子》（比薩祭壇畫）.jpg mark "Madonna and Child" and make description clear
+Modify Tommaso Masaccio\tw_slides\update\馬薩喬：讓繪畫重新站在地面上_slide_0014.png and remove "5" from image and and add image Tommaso Masaccio\images\Altar in Roskilde Lutheran Cathedral.jpg mark "Basilica of Santa Maria Novella" and make description clear
+Modify Tommaso Masaccio\tw_slides\update\馬薩喬：讓繪畫重新站在地面上_slide_0015.png and replace left image Tommaso Masaccio\images\The Holy Trinity.jpg and make it larger and make description clear
+Modify Tommaso Masaccio\tw_slides\update\馬薩喬：讓繪畫重新站在地面上_slide_0016.png and add image Tommaso Masaccio\images\The Holy Trinity bottom.png and make description clear
+Modify Tommaso Masaccio\tw_slides\update\馬薩喬：讓繪畫重新站在地面上_slide_0017.png and remove "6" and add image Tommaso Masaccio\images\The Distribution of Alms and the Death of Ananias.jpg mark "The Distribution of Alms and the Death of Ananias" and make description clear
+Modify Tommaso Masaccio\tw_slides\update\馬薩喬：讓繪畫重新站在地面上_slide_0018.png and make flow and description clear
+Modify Tommaso Masaccio\tw_slides\update\馬薩喬：讓繪畫重新站在地面上_slide_0019.png and add image Tommaso Masaccio\images\The Holy Trinity.jpg and make description clear
+Modify Tommaso Masaccio\tw_slides\update\馬薩喬：讓繪畫重新站在地面上_slide_0020.png and add image Tommaso Masaccio\images\The Death of Masaccio, 1817, by Auguste Couder.jpg and make description clear
+
+
+Modify Tommaso Masaccio\en_slides\update\Masaccio__Giving_Art_Weight_slide_00.png
+
+and add image Tommaso Masaccio\images\
+
+and make description clear
+
+Modify Tommaso Masaccio\en_slides\update\Masaccio__Giving_Art_Weight_slide_0002.png and add image Tommaso Masaccio\images\Masaccio.jpg and make description clear
+Modify Tommaso Masaccio\en_slides\update\Masaccio__Giving_Art_Weight_slide_0003.png and add left image Tommaso Masaccio\images\Temptation of Adam and Eve by Masolino da Panicale.jpg mark "Temptation of Adam and Eve (Masolino)" and add right image Tommaso Masaccio\images\Expulsion from the Garden of Eden.jpg mark "Expulsion from the Garden of Eden (Masaccio)" and make description clear
+Modify Tommaso Masaccio\en_slides\update\Masaccio__Giving_Art_Weight_slide_0004.png and remove "1" from image and add image Tommaso Masaccio\images\Brancacci Kapelle (Gesamtansicht), S.Maria del Carmine, Florenz.JPG and make description clear
+Modify Tommaso Masaccio\en_slides\update\Masaccio__Giving_Art_Weight_slide_0005.png and add image Tommaso Masaccio\images\The Tribute Money.jpg and make description clear
+Modify Tommaso Masaccio\en_slides\update\Masaccio__Giving_Art_Weight_slide_0006.png and add image Tommaso Masaccio\images\Masaccio 'Holy Trinity' (Santa Maria Novella) and make description clear
+Modify Tommaso Masaccio\en_slides\update\Masaccio__Giving_Art_Weight_slide_0007.png and remove "2" from image and add image Tommaso Masaccio\images\Crucifixion by Orcagna (1365).jpg and mark "Crucifixion by Orcagna (1365)" and make description clear
+Modify Tommaso Masaccio\en_slides\update\Masaccio__Giving_Art_Weight_slide_0008.png add left image D:\mcp\arts\Melchior Broederlam\images\IMG-07_Visitation_detail.jpg mark "The Visitation (Melchior Broederlam)" and right image Tommaso Masaccio\images\Virgin and Child with Saint Anne.jpg mark "Virgin and Child with Saint Anne" and make description clear
+Modify Tommaso Masaccio\en_slides\update\Masaccio__Giving_Art_Weight_slide_0009.png and add image Tommaso Masaccio\images\IMG-010 Masaccio《耶穌受難》（比薩祭壇畫）.jpg and make description clear
+Modify Tommaso Masaccio\en_slides\update\Masaccio__Giving_Art_Weight_slide_0010.png and remove "3" from image and add image Tommaso Masaccio\images\The Death of Masaccio, 1817, by Auguste Couder.jpg and make description clear
+Modify Tommaso Masaccio\en_slides\update\Masaccio__Giving_Art_Weight_slide_0011.png and make flow and description clear
+Modify Tommaso Masaccio\en_slides\update\Masaccio__Giving_Art_Weight_slide_0012.pngand add image Tommaso Masaccio\images\Brancacci Kapelle (Gesamtansicht), S.Maria del Carmine, Florenz.JPG and make description clear
+Modify Tommaso Masaccio\en_slides\update\Masaccio__Giving_Art_Weight_slide_0013.png and remove "4" from image and add image Tommaso Masaccio\images\Masaccio-book.png and make description clear
+Modify Tommaso Masaccio\en_slides\update\Masaccio__Giving_Art_Weight_slide_0014.png and make description clear
+Modify Tommaso Masaccio\en_slides\update\Masaccio__Giving_Art_Weight_slide_0015.png and add image Tommaso Masaccio\images\The Holy Trinity bottom.png and make description clear

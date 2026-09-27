@@ -1,0 +1,21 @@
+{
+  "manifest": "/Users/yingyuhsieh/Desktop/mcp/arts/Tommaso Masaccio/en_slides/Masaccio__Giving_Art_Weight_slide_manifest.json",
+  "original_count": 16,
+  "supplemental_count": 2,
+  "original_final": {
+    "from": "Masaccio__Giving_Art_Weight_slide_0016.png",
+    "to": "Masaccio__Giving_Art_Weight_slide_0018.png",
+    "sha256": "6de8ae3d159f8bcbec2234d0ac90de62f562b593501771e597336298e03d333c"
+  },
+  "supplemental_renames": [
+    {
+      "from": "Masaccio__Giving_Art_Weight_slide_0017.png",
+      "to": "Masaccio__Giving_Art_Weight_slide_0016.png"
+    },
+    {
+      "from": "Masaccio__Giving_Art_Weight_slide_0018.png",
+      "to": "Masaccio__Giving_Art_Weight_slide_0017.png"
+    }
+  ],
+  "subtitle": "/Users/yingyuhsieh/Desktop/mcp/arts/Tommaso Masaccio/en_slides/subtitle/Masaccio__Giving_Art_Weight.txt"
+}
