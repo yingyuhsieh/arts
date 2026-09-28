@@ -59,7 +59,7 @@ Replace ./Tommaso Masaccio/en_slides/update/Masaccio__Giving_Art_Weight_slide_00
 # 產生English video
 Use $en-make-video.
 Narration:
-./Tommaso Masaccio/en_slides/subtitle/.txt
+./Tommaso Masaccio/en_slides/subtitle/Masaccio__Giving_Art_Weight.txt
 Images:
 ./Tommaso Masaccio/en_slides/update
 

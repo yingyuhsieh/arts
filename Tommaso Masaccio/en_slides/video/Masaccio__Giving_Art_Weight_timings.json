@@ -1,0 +1,119 @@
+{
+  "slides": [
+    {
+      "slide": 1,
+      "start": 0,
+      "speech_seconds": 37.176009,
+      "hold_seconds": 38.676009
+    },
+    {
+      "slide": 2,
+      "start": 38.676009,
+      "speech_seconds": 39.12,
+      "hold_seconds": 40.62
+    },
+    {
+      "slide": 3,
+      "start": 79.296009,
+      "speech_seconds": 50.448005,
+      "hold_seconds": 51.948005
+    },
+    {
+      "slide": 4,
+      "start": 131.244014,
+      "speech_seconds": 14.76,
+      "hold_seconds": 16.259999999999998
+    },
+    {
+      "slide": 5,
+      "start": 147.504014,
+      "speech_seconds": 97.2,
+      "hold_seconds": 98.7
+    },
+    {
+      "slide": 6,
+      "start": 246.204014,
+      "speech_seconds": 50.928005,
+      "hold_seconds": 52.428005
+    },
+    {
+      "slide": 7,
+      "start": 298.632019,
+      "speech_seconds": 16.2,
+      "hold_seconds": 17.7
+    },
+    {
+      "slide": 8,
+      "start": 316.332019,
+      "speech_seconds": 42.024014,
+      "hold_seconds": 43.524014
+    },
+    {
+      "slide": 9,
+      "start": 359.856033,
+      "speech_seconds": 40.056009,
+      "hold_seconds": 41.556009
+    },
+    {
+      "slide": 10,
+      "start": 401.412042,
+      "speech_seconds": 12.12,
+      "hold_seconds": 13.62
+    },
+    {
+      "slide": 11,
+      "start": 415.032042,
+      "speech_seconds": 49.2,
+      "hold_seconds": 50.7
+    },
+    {
+      "slide": 12,
+      "start": 465.732042,
+      "speech_seconds": 32.376009,
+      "hold_seconds": 33.876009
+    },
+    {
+      "slide": 13,
+      "start": 499.608051,
+      "speech_seconds": 13.056009,
+      "hold_seconds": 14.556009
+    },
+    {
+      "slide": 14,
+      "start": 514.16406,
+      "speech_seconds": 51.264014,
+      "hold_seconds": 52.764014
+    },
+    {
+      "slide": 15,
+      "start": 566.928074,
+      "speech_seconds": 40.104014,
+      "hold_seconds": 41.604014
+    },
+    {
+      "slide": 16,
+      "start": 608.532088,
+      "speech_seconds": 8.52,
+      "hold_seconds": 8.52
+    }
+  ],
+  "total_seconds": 617.0520879999999,
+  "source_sizes": [
+    [
+      1280,
+      720
+    ],
+    [
+      1672,
+      941
+    ]
+  ],
+  "video_size": [
+    3840,
+    2160
+  ],
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-3%",
+  "pause_seconds": 1.5,
+  "expected_cuts": 15
+}

@@ -1,0 +1,111 @@
+{
+  "mode": "built-in image_gen",
+  "note": "Slides 2 and 4–15 used built-in image generation. Slide 3 completed with user-authorized direct compositing of the original artwork images, proportionally resized without cropping or repainting.",
+  "prompts": [
+    {
+      "n": 3,
+      "refs": [
+        "/Users/yingyuhsieh/Desktop/mcp/arts/Tommaso Masaccio/en_slides/update/Masaccio__Giving_Art_Weight_slide_0003.png",
+        "/Users/yingyuhsieh/Desktop/mcp/arts/Tommaso Masaccio/images/Temptation of Adam and Eve by Masolino da Panicale.jpg",
+        "/Users/yingyuhsieh/Desktop/mcp/arts/Tommaso Masaccio/images/Expulsion from the Garden of Eden.jpg"
+      ],
+      "prompt": "Use case: compositing. Edit reference image 1 as one polished English art-history presentation slide, 16:9 landscape. Keep warm cream parchment, subtle Renaissance architecture at edges, restrained terracotta accents, clear large dark typography. Replace outdated text and clutter completely with specified text. Supporting references are actual artwork insertions: reproduce faithfully as flat rectangular images, preserve proportions and artwork details, never invent or repaint figures. Generous safe margins, strong hierarchy, no text over artwork. Two equal columns. Left insert image 2, label 'Temptation of Adam and Eve (Masolino)'; right insert image 3, label 'Expulsion from the Garden of Eden (Masaccio)'. Title 'Two Painters, Two Ways of Seeing'. Left description 'Graceful poses, smooth contours, restrained emotion.' Right description 'Solid bodies, cast shadows, visible grief.' Show full figures and feet."
+    },
+    {
+      "n": 4,
+      "refs": [
+        "/Users/yingyuhsieh/Desktop/mcp/arts/Tommaso Masaccio/en_slides/update/Masaccio__Giving_Art_Weight_slide_0004.png",
+        "/Users/yingyuhsieh/Desktop/mcp/arts/Tommaso Masaccio/images/Brancacci Kapelle (Gesamtansicht), S.Maria del Carmine, Florenz.JPG"
+      ],
+      "prompt": "Use case: compositing. Edit reference image 1 as one polished English art-history presentation slide, 16:9 landscape. Keep warm cream parchment, subtle Renaissance architecture at edges, restrained terracotta accents, clear large dark typography. Replace outdated text and clutter completely with specified text. Supporting references are actual artwork insertions: reproduce faithfully as flat rectangular images, preserve proportions and artwork details, never invent or repaint figures. Generous safe margins, strong hierarchy, no text over artwork. Remove large numeral 1 and pink blocks. Large chapel photograph beside title 'Space and Story'; subtitle 'The Brancacci Chapel, Florence'; description 'Masaccio gives sacred stories a believable setting. Solid figures, consistent light, and convincing depth bring the scenes into the viewer’s world.'"
+    },
+    {
+      "n": 5,
+      "refs": [
+        "/Users/yingyuhsieh/Desktop/mcp/arts/Tommaso Masaccio/en_slides/update/Masaccio__Giving_Art_Weight_slide_0005.png",
+        "/Users/yingyuhsieh/Desktop/mcp/arts/Tommaso Masaccio/images/The Tribute Money.jpg"
+      ],
+      "prompt": "Use case: compositing. Edit reference image 1 as one polished English art-history presentation slide, 16:9 landscape. Keep warm cream parchment, subtle Renaissance architecture at edges, restrained terracotta accents, clear large dark typography. Replace outdated text and clutter completely with specified text. Supporting references are actual artwork insertions: reproduce faithfully as flat rectangular images, preserve proportions and artwork details, never invent or repaint figures. Generous safe margins, strong hierarchy, no text over artwork. Large wide complete artwork across upper middle, title 'The Tribute Money'. Below image three concise steps in STORY ORDER clearly labeled 'CENTER → LEFT → RIGHT': 'Center: The tax collector asks for payment; Christ directs Peter to the lake.' 'Left: Peter finds a coin in a fish’s mouth.' 'Right: Peter pays the tax collector.' Bottom takeaway 'Three moments share one continuous landscape.'"
+    },
+    {
+      "n": 6,
+      "refs": [
+        "/Users/yingyuhsieh/Desktop/mcp/arts/Tommaso Masaccio/en_slides/update/Masaccio__Giving_Art_Weight_slide_0006.png",
+        "/Users/yingyuhsieh/Desktop/mcp/arts/Tommaso Masaccio/images/Masaccio 'Holy Trinity' (Santa Maria Novella).png"
+      ],
+      "prompt": "Use case: compositing. Edit reference image 1 as one polished English art-history presentation slide, 16:9 landscape. Keep warm cream parchment, subtle Renaissance architecture at edges, restrained terracotta accents, clear large dark typography. Replace outdated text and clutter completely with specified text. Supporting references are actual artwork insertions: reproduce faithfully as flat rectangular images, preserve proportions and artwork details, never invent or repaint figures. Generous safe margins, strong hierarchy, no text over artwork. Title 'Linear Perspective'; insert provided church photograph large on left, preserving full photograph. Right text 'The Holy Trinity — Santa Maria Novella, Florence' and 'Painted architectural lines converge toward a vanishing point at the viewer’s eye level.' and 'The illusion makes a flat wall appear to open into a deep chapel.' No pink box or magnifier."
+    },
+    {
+      "n": 7,
+      "refs": [
+        "/Users/yingyuhsieh/Desktop/mcp/arts/Tommaso Masaccio/en_slides/update/Masaccio__Giving_Art_Weight_slide_0007.png",
+        "/Users/yingyuhsieh/Desktop/mcp/arts/Tommaso Masaccio/images/Crucifixion by Orcagna (1365).jpg"
+      ],
+      "prompt": "Use case: compositing. Edit reference image 1 as one polished English art-history presentation slide, 16:9 landscape. Keep warm cream parchment, subtle Renaissance architecture at edges, restrained terracotta accents, clear large dark typography. Replace outdated text and clutter completely with specified text. Supporting references are actual artwork insertions: reproduce faithfully as flat rectangular images, preserve proportions and artwork details, never invent or repaint figures. Generous safe margins, strong hierarchy, no text over artwork. Remove large numeral 2. Insert complete supplied Orcagna artwork large on left, exact caption 'Crucifixion by Orcagna (1365)'. Right title 'Before Masaccio: The Gold-Ground Tradition'. Description 'Gold backgrounds and ornate frames create a sacred setting.' 'Masaccio’s Pisa Altarpiece retains gold while giving bodies greater volume and a convincing viewpoint.' Clearly identify Orcagna as earlier comparison, never as Masaccio’s Pisa Altarpiece."
+    },
+    {
+      "n": 8,
+      "refs": [
+        "/Users/yingyuhsieh/Desktop/mcp/arts/Tommaso Masaccio/en_slides/update/Masaccio__Giving_Art_Weight_slide_0008.png",
+        "/Users/yingyuhsieh/Desktop/mcp/arts/Melchior Broederlam/images/IMG-07_Visitation_detail.jpg",
+        "/Users/yingyuhsieh/Desktop/mcp/arts/Tommaso Masaccio/images/Virgin and Child with Saint Anne.jpg"
+      ],
+      "prompt": "Use case: compositing. Edit reference image 1 as one polished English art-history presentation slide, 16:9 landscape. Keep warm cream parchment, subtle Renaissance architecture at edges, restrained terracotta accents, clear large dark typography. Replace outdated text and clutter completely with specified text. Supporting references are actual artwork insertions: reproduce faithfully as flat rectangular images, preserve proportions and artwork details, never invent or repaint figures. Generous safe margins, strong hierarchy, no text over artwork. Two equal columns, image 2 on LEFT caption exactly 'The Visitation (Melchior Broederlam)'; image 3 RIGHT caption exactly 'Virgin and Child with Saint Anne', secondary credit 'Masaccio and Masolino'. Title 'From Elegant Drapery to Solid Form'. Left description 'Flowing contours and patterned robes emphasize elegance.' Right description 'Light and shadow give the Virgin and Child sculptural weight.' Remove old halo claims and cartoon portraits. Faithful complete artworks with no distortions."
+    },
+    {
+      "n": 9,
+      "refs": [
+        "/Users/yingyuhsieh/Desktop/mcp/arts/Tommaso Masaccio/en_slides/update/Masaccio__Giving_Art_Weight_slide_0009.png",
+        "/Users/yingyuhsieh/Desktop/mcp/arts/Tommaso Masaccio/images/IMG-010 Masaccio《耶穌受難》（比薩祭壇畫）.jpg"
+      ],
+      "prompt": "Use case: compositing. Edit reference image 1 as one polished English art-history presentation slide, 16:9 landscape. Keep warm cream parchment, subtle Renaissance architecture at edges, restrained terracotta accents, clear large dark typography. Replace outdated text and clutter completely with specified text. Supporting references are actual artwork insertions: reproduce faithfully as flat rectangular images, preserve proportions and artwork details, never invent or repaint figures. Generous safe margins, strong hierarchy, no text over artwork. Complete supplied crucifixion on left. Right title 'Painted to Be Seen from Below'; label 'Crucifixion — Pisa Altarpiece, 1426'; description 'This panel was placed high above the viewer.' 'Christ’s shortened neck and torso account for the low viewing angle.' 'Foreshortening makes the body convincing from below.' Remove old cartoon and opaque center box."
+    },
+    {
+      "n": 10,
+      "refs": [
+        "/Users/yingyuhsieh/Desktop/mcp/arts/Tommaso Masaccio/en_slides/update/Masaccio__Giving_Art_Weight_slide_0010.png",
+        "/Users/yingyuhsieh/Desktop/mcp/arts/Tommaso Masaccio/images/The Death of Masaccio, 1817, by Auguste Couder.jpg"
+      ],
+      "prompt": "Use case: compositing. Edit reference image 1 as one polished English art-history presentation slide, 16:9 landscape. Keep warm cream parchment, subtle Renaissance architecture at edges, restrained terracotta accents, clear large dark typography. Replace outdated text and clutter completely with specified text. Supporting references are actual artwork insertions: reproduce faithfully as flat rectangular images, preserve proportions and artwork details, never invent or repaint figures. Generous safe margins, strong hierarchy, no text over artwork. Remove numeral 3. Artwork large on left exact caption 'The Death of Masaccio — Auguste Couder, 1817'. Right title 'Short Life, Lasting Influence'; text 'Masaccio died in Rome in 1428, still in his twenties.' 'His treatment of bodies, light, and space shaped later Renaissance painting.' Small clear note 'Couder’s painting is a later imagined scene, not an eyewitness record.'"
+    },
+    {
+      "n": 11,
+      "refs": [
+        "/Users/yingyuhsieh/Desktop/mcp/arts/Tommaso Masaccio/en_slides/update/Masaccio__Giving_Art_Weight_slide_0011.png"
+      ],
+      "prompt": "Use case: compositing. Edit reference image 1 as one polished English art-history presentation slide, 16:9 landscape. Keep warm cream parchment, subtle Renaissance architecture at edges, restrained terracotta accents, clear large dark typography. Replace outdated text and clutter completely with specified text. Supporting references are actual artwork insertions: reproduce faithfully as flat rectangular images, preserve proportions and artwork details, never invent or repaint figures. Generous safe margins, strong hierarchy, no text over artwork. Replace cluttered timeline with clear spacious left-to-right four milestone flow, all arrows pointing right. Title 'A Brief Career, a Lasting Change'. Milestones: '1401' / 'Born in San Giovanni Valdarno.'; '1422' / 'Dates the San Giovenale Triptych.'; '1426' / 'Works on the Pisa Altarpiece.'; '1428' / 'Dies in Rome.' Bottom distinct line 'During the 1420s: the Brancacci Chapel frescoes and the Holy Trinity transform painted bodies and space.' Remove duplicate artwork labels and misleading building sketches. Small restrained line-art accents only."
+    },
+    {
+      "n": 12,
+      "refs": [
+        "/Users/yingyuhsieh/Desktop/mcp/arts/Tommaso Masaccio/en_slides/update/Masaccio__Giving_Art_Weight_slide_0012.png",
+        "/Users/yingyuhsieh/Desktop/mcp/arts/Tommaso Masaccio/images/Brancacci Kapelle (Gesamtansicht), S.Maria del Carmine, Florenz.JPG"
+      ],
+      "prompt": "Use case: compositing. Edit reference image 1 as one polished English art-history presentation slide, 16:9 landscape. Keep warm cream parchment, subtle Renaissance architecture at edges, restrained terracotta accents, clear large dark typography. Replace outdated text and clutter completely with specified text. Supporting references are actual artwork insertions: reproduce faithfully as flat rectangular images, preserve proportions and artwork details, never invent or repaint figures. Generous safe margins, strong hierarchy, no text over artwork. Large chapel photo left. Right title 'A School for Future Masters'; subtitle 'The Brancacci Chapel'; description 'Later artists studied these frescoes to understand solid bodies, expressive gestures, and convincing space.' 'Masaccio’s paintings became a lasting model for Renaissance figure painting.' Do not use quotation marks around paraphrase. Remove imagined portrait."
+    },
+    {
+      "n": 13,
+      "refs": [
+        "/Users/yingyuhsieh/Desktop/mcp/arts/Tommaso Masaccio/en_slides/update/Masaccio__Giving_Art_Weight_slide_0013.png",
+        "/Users/yingyuhsieh/Desktop/mcp/arts/Tommaso Masaccio/images/Masaccio-book.png"
+      ],
+      "prompt": "Use case: compositing. Edit reference image 1 as one polished English art-history presentation slide, 16:9 landscape. Keep warm cream parchment, subtle Renaissance architecture at edges, restrained terracotta accents, clear large dark typography. Replace outdated text and clutter completely with specified text. Supporting references are actual artwork insertions: reproduce faithfully as flat rectangular images, preserve proportions and artwork details, never invent or repaint figures. Generous safe margins, strong hierarchy, no text over artwork. Remove numeral 4 and pink. Insert supplied book cover clearly as a rectangular BOOK COVER on left, faithfully preserve cover lettering and portrait. Right title 'How to Look at Masaccio'; subtitle 'A Practical Viewing Guide'; description 'Look for weight, light, space, and gesture.' 'Ask how each detail makes painted figures feel present.' Small caption below book 'Illustrated book cover'."
+    },
+    {
+      "n": 14,
+      "refs": [
+        "/Users/yingyuhsieh/Desktop/mcp/arts/Tommaso Masaccio/en_slides/update/Masaccio__Giving_Art_Weight_slide_0014.png"
+      ],
+      "prompt": "Use case: compositing. Edit reference image 1 as one polished English art-history presentation slide, 16:9 landscape. Keep warm cream parchment, subtle Renaissance architecture at edges, restrained terracotta accents, clear large dark typography. Replace outdated text and clutter completely with specified text. Supporting references are actual artwork insertions: reproduce faithfully as flat rectangular images, preserve proportions and artwork details, never invent or repaint figures. Generous safe margins, strong hierarchy, no text over artwork. Title 'Five Ways to Look Closely'. Replace confusing zigzag with five clearly separated numbered steps arranged top-to-bottom, each short and readable, small tasteful line illustrations at right. Exact text: '1. Feet — Do the figures stand firmly on the ground?' '2. Light — How do highlights and shadows model the body?' '3. Space — Where do receding architectural lines converge?' '4. Gesture — How do hands and faces guide the story?' '5. Compare — What changes in weight, depth, and emotion?' Preserve warm architectural parchment styling, all text large, no overlap."
+    },
+    {
+      "n": 15,
+      "refs": [
+        "/Users/yingyuhsieh/Desktop/mcp/arts/Tommaso Masaccio/en_slides/update/Masaccio__Giving_Art_Weight_slide_0015.png",
+        "/Users/yingyuhsieh/Desktop/mcp/arts/Tommaso Masaccio/images/The Holy Trinity bottom.png"
+      ],
+      "prompt": "Use case: compositing. Edit reference image 1 as one polished English art-history presentation slide, 16:9 landscape. Keep warm cream parchment, subtle Renaissance architecture at edges, restrained terracotta accents, clear large dark typography. Replace outdated text and clutter completely with specified text. Supporting references are actual artwork insertions: reproduce faithfully as flat rectangular images, preserve proportions and artwork details, never invent or repaint figures. Generous safe margins, strong hierarchy, no text over artwork. Title 'A Reminder of Mortality'. Large supplied tomb and skeleton detail across lower half, faithfully preserve. Above it exact quotation 'I once was what you are, and what I am you also will be.' Smaller description 'Beneath the Holy Trinity, the painted skeleton reminds viewers of death, while the sacred scene above offers the hope of salvation.' Caption 'The Holy Trinity — lower tomb detail'. Remove invented skeleton drawing, perspective lines and pink shadows."
+    }
+  ],
+  "slide_3_method": "Pillow direct compositing; original paintings on left and right, original architectural background, clear English labels and comparison text."
+}

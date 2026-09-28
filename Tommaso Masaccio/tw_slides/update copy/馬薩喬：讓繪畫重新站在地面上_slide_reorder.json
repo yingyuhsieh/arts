@@ -1,0 +1,25 @@
+{
+  "manifest": "/Users/yingyuhsieh/Desktop/mcp/arts/Tommaso Masaccio/tw_slides/馬薩喬：讓繪畫重新站在地面上_slide_manifest.json",
+  "original_count": 20,
+  "supplemental_count": 3,
+  "original_final": {
+    "from": "馬薩喬：讓繪畫重新站在地面上_slide_0020.png",
+    "to": "馬薩喬：讓繪畫重新站在地面上_slide_0023.png",
+    "sha256": "11fcee303417d5cf9394b6538a493cf5e99924e38fd08d48874f2c0f7d5cc3e7"
+  },
+  "supplemental_renames": [
+    {
+      "from": "馬薩喬：讓繪畫重新站在地面上_slide_0021.png",
+      "to": "馬薩喬：讓繪畫重新站在地面上_slide_0020.png"
+    },
+    {
+      "from": "馬薩喬：讓繪畫重新站在地面上_slide_0022.png",
+      "to": "馬薩喬：讓繪畫重新站在地面上_slide_0021.png"
+    },
+    {
+      "from": "馬薩喬：讓繪畫重新站在地面上_slide_0023.png",
+      "to": "馬薩喬：讓繪畫重新站在地面上_slide_0022.png"
+    }
+  ],
+  "subtitle": "/Users/yingyuhsieh/Desktop/mcp/arts/Tommaso Masaccio/tw_slides/subtitle/馬薩喬：讓繪畫重新站在地面上.txt"
+}

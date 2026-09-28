@@ -1,0 +1,54 @@
+{
+  "container_seconds": 617.066667,
+  "streams": [
+    {
+      "type": "video",
+      "codec": "h264",
+      "seconds": 617.0666666666667,
+      "width": 3840,
+      "height": 2160,
+      "fps": "30",
+      "sample_aspect_ratio": "1",
+      "frames": 18512
+    },
+    {
+      "type": "audio",
+      "codec": "aac",
+      "seconds": 617.0519954648526
+    }
+  ],
+  "hard_cuts": 15,
+  "cut_times_seconds": [
+    38.666667,
+    79.266667,
+    131.233333,
+    147.5,
+    246.166667,
+    298.633333,
+    316.3,
+    359.833333,
+    401.366667,
+    415.033333,
+    465.7,
+    499.566667,
+    514.133333,
+    566.9,
+    608.5
+  ],
+  "max_cut_timing_error_seconds": 0.04537499999997863,
+  "all_16_encoded_slides_visually_reviewed": true,
+  "no_subtitle_stream": true,
+  "audio_rms": 2652,
+  "audio_peak": 26011,
+  "source_dimensions": [
+    [
+      1280,
+      720
+    ],
+    [
+      1672,
+      941
+    ]
+  ],
+  "slide8_note": "Supplied narration describes London Virgin and Child; supplied revised slide shows Virgin and Child with Saint Anne."
+}
