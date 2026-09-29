@@ -1,0 +1,12 @@
+《創造亞當》大腦假說引用（「畫作解析」三）
+問題：已正確標明「醫師 Frank Lynn Meshberger 於1990年在《JAMA》發表論文」，並強調「這是後世提出的解讀；米開朗基羅未留下文字證實」。引用與 DOI 準確。
+建議：無事實錯誤。旁白可再口語化為「1990年有醫師提出斗篷形狀像人腦切面，但這是後人解讀，不是畫家自己說過的秘密」，避免觀眾誤以為已成定論。
+
+修復批評引用（「收藏故事」三）
+問題：已具體指出「ArtWatch UK 在2013年的批評文章主張……」，並要求與修復團隊材料分析並讀。引用日期與標題符合（2013年1月21日 Part I）。
+建議：無錯誤。旁白可簡化為「修復團隊與批評方（如 ArtWatch UK）對『清除的暗色層是否包含畫家乾後追加』仍有不同判斷，宜雙方並讀」。
+
+唯一需回退的過度精確：修復日的「日」
+
+    你表格寫「1984年11月7日至1989年12月31日」。權威來源僅到月：Between June 1980 and October 1984... ceiling completed in December 1989 和 The restoration was unveiled... 8 April 1994。
+    建議： 改回「1984年11月至1989年12月」，保留「1994年4月8日揭幕」這種有明確來源的日。日本電視台資金與拍攝合作保留，來源明確：Nippon Television Network Corporation... provided major funding... in exchange for filming rights。
