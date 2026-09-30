@@ -50,4 +50,4 @@ Modify Sistine Chapel Ceiling\en_slides\update\Sistine_Chapel_Ceiling_slide_0015
 Modify Sistine Chapel Ceiling\en_slides\update\Sistine_Chapel_Ceiling_slide_0016.png and add image Sistine Chapel Ceiling\images\The Agony and the Ecstasy, Twentieth Century Fox.png and make descriiption clear
 Modify Sistine Chapel Ceiling\en_slides\update\Sistine_Chapel_Ceiling_slide_0017.png and add image Sistine Chapel Ceiling\images\The ceiling of the Sistine Chapel_2.png and make flow and descriiption clear
 Modify Sistine Chapel Ceiling\en_slides\update\Sistine_Chapel_Ceiling_slide_0018.png and use images Sistine Chapel Ceiling\images\Sistine Chapel.jpg, Scrutiny during the conclave of 1903.jpg, Illustration of the burning of ballots (1939).jpg and make descriiption clear
-Modify Sistine Chapel Ceiling\en_slides\update\Sistine_Chapel_Ceiling_slide_00.png and make description clear
+Modify Sistine Chapel Ceiling\en_slides\update\Sistine_Chapel_Ceiling_slide_0019.png and make description clear
