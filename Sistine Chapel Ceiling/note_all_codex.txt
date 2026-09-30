@@ -29,9 +29,9 @@ Use a monumental High Renaissance fresco style inspired by Michelangelo’s Sist
 # Verify contents from AI
 Search web, review & make correction suggestion (繁中) 用 narrative 寫
 
-Title: <TC>
+Title: 米開朗基羅如何把《創世記》畫上天頂？
 
-Title: <EN>
+Title: Standing on Scaffolds: The Truth About How Michelangelo Painted the Ceiling
 
 $create-youtube-slides by <files>
 背景風格描述：

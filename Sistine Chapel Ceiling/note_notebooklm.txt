@@ -25,20 +25,20 @@ $create-youtube-slides by <files>
 # Verify contents from AI
 Search web, review & make correction suggestion (繁中) 用 narrative 寫
 
-Title: <TC>
+Title: 米開朗基羅如何把《創世記》畫上天頂？
 
-Title: <EN>
+Title: Standing on Scaffolds: The Truth About How Michelangelo Painted the Ceiling
 
 # 中文 Video 產生 slide images 並加上背景
 使用 $video-to-slides
-Video path: ./Sistine Chapel Ceiling/.mp4
+Video path: ./Sistine Chapel Ceiling/解碼西斯汀禮拜堂天頂畫.mp4
 背景風格描述：
 Use a monumental High Renaissance fresco style inspired by Michelangelo’s Sistine Chapel Ceiling, with luminous flesh tones, deep ultramarine, rich crimson, muted green, warm ochre, and aged plaster hues, powerful sculptural figures modeled with dramatic chiaroscuro, muscular anatomical forms, sweeping twisting poses and billowing drapery, illusionistic classical architecture, monumental prophets and ignudi, and a profound sense of divine creation and human drama, while preserving restrained fresco-textured negative space and subdued architectural ornament so the artwork, titles, and subtitles remain visually dominant.
 
 
 # English Video 產生 slide images 並加上背景
 使用 $video-to-slides
-Video path: ./Sistine Chapel Ceiling/.mp4
+Video path: ./Sistine Chapel Ceiling/Sistine_Chapel_Ceiling.mp4
 背景風格描述：
 Use a monumental High Renaissance fresco style inspired by Michelangelo’s Sistine Chapel Ceiling, with luminous flesh tones, deep ultramarine, rich crimson, muted green, warm ochre, and aged plaster hues, powerful sculptural figures modeled with dramatic chiaroscuro, muscular anatomical forms, sweeping twisting poses and billowing drapery, illusionistic classical architecture, monumental prophets and ignudi, and a profound sense of divine creation and human drama, while preserving restrained fresco-textured negative space and subdued architectural ornament so the artwork, titles, and subtitles remain visually dominant.
 
