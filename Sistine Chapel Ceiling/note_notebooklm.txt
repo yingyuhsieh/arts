@@ -45,8 +45,8 @@ Use a monumental High Renaissance fresco style inspired by Michelangelo’s Sist
 
 # 中文 Replace 1st slide with youtbute thumimage
 # English Replace 1st slide with youtbute thumimage
-Replace ./Sistine Chapel Ceiling/tw_slides/update/.png by ./Sistine Chapel Ceiling/YouTube/.png with size 1280x720
-Replace ./Sistine Chapel Ceiling/en_slides/update/.png by ./Sistine Chapel Ceiling/YouTube/.png with size 1280x720
+Replace ./Sistine Chapel Ceiling/tw_slides/update/解碼西斯汀禮拜堂天頂畫_slide_0001.png by ./Sistine Chapel Ceiling/YouTube/米開朗基羅如何把《創世記》畫上天頂？.png with size 1280x720
+Replace ./Sistine Chapel Ceiling/en_slides/update/Sistine_Chapel_Ceiling_slide_0001.png by ./Sistine Chapel Ceiling/YouTube/Standing on Scaffolds The Truth About How Michelangelo Painted the Ceiling.png with size 1280x720
 
 
 # 產生中文 video

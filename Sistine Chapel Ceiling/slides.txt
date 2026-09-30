@@ -1,0 +1,53 @@
+Modify Sistine Chapel Ceiling\tw_slides\update\解碼西斯汀禮拜堂天頂畫_slide_00.png
+and add image Sistine Chapel Ceiling\images\
+and make descriiption clear
+
+
+
+Use Sistine Chapel Ceiling\images\background\high_renaissance_light.jpg as slide background
+Modify Sistine Chapel Ceiling\tw_slides\update\解碼西斯汀禮拜堂天頂畫_slide_0002.png and make description clear
+Modify Sistine Chapel Ceiling\tw_slides\update\解碼西斯汀禮拜堂天頂畫_slide_0003.png and add image Sistine Chapel Ceiling\images\Creation of Adam.jpg and make image larger and make descriiption clear
+Modify Sistine Chapel Ceiling\tw_slides\update\解碼西斯汀禮拜堂天頂畫_slide_0004.png and replace image Sistine Chapel Ceiling\images\ IMG-001西斯汀禮拜堂天頂全景_horizantal.png and make descriiption clear
+Modify Sistine Chapel Ceiling\tw_slides\update\解碼西斯汀禮拜堂天頂畫_slide_0005.png and and add image Sistine Chapel Ceiling\images\IMG-001西斯汀禮拜堂天頂全景.jpg and make the box prettier and remove numbers in images and make descriiption clear 
+Modify Sistine Chapel Ceiling\tw_slides\update\解碼西斯汀禮拜堂天頂畫_slide_0006.png and remove "1" from image and make description clear
+Modify Sistine Chapel Ceiling\tw_slides\update\解碼西斯汀禮拜堂天頂畫_slide_0007.png and and add image Sistine Chapel Ceiling\images\Pope_Julius_II.jpg mark "Pope Julius II" and add image Sistine Chapel Ceiling\images\David.jpg mark "David" and make descriiption clear 
+Modify Sistine Chapel Ceiling\tw_slides\update\解碼西斯汀禮拜堂天頂畫_slide_0008.png and add image Sistine Chapel Ceiling\images\ The Agony and the Ecstasy, Twentieth Century Fox and make descriiption clear
+Modify Sistine Chapel Ceiling\tw_slides\update\解碼西斯汀禮拜堂天頂畫_slide_0009.png and remove "2" from image and add image Sistine Chapel Ceiling\images\The ceiling as it may have looked before Michelangelo painted it.jpg (Ceiling before) and make descriiption clear
+Modify Sistine Chapel Ceiling\tw_slides\update\解碼西斯汀禮拜堂天頂畫_slide_0010.png and add images Sistine Chapel Ceiling\images\the.9.png on left and make table and descriiption clear
+Modify Sistine Chapel Ceiling\tw_slides\update\解碼西斯汀禮拜堂天頂畫_slide_0011.png and use image Sistine Chapel Ceiling\images\Plan of the pictorial elements of the ceiling showing the division of the narrative scenes into three-part themes.png and make it larger and make descriiption clear
+Modify Sistine Chapel Ceiling\tw_slides\update\解碼西斯汀禮拜堂天頂畫_slide_0012.png and remove "3" from image and make descriiption clear
+Modify Sistine Chapel Ceiling\tw_slides\update\解碼西斯汀禮拜堂天頂畫_slide_0013.png and add left image Sistine Chapel Ceiling\images\p12.left.jpg mark "Creation of Adam" and right image Sistine Chapel Ceiling\images\p.12.right.jpg mark "Creation of Eve"
+Modify Sistine Chapel Ceiling\tw_slides\update\解碼西斯汀禮拜堂天頂畫_slide_0014.png and use image Sistine Chapel Ceiling\images\The Fall and Expulsion from Paradise.jpg and make it larger and make description clear
+Modify Sistine Chapel Ceiling\tw_slides\update\解碼西斯汀禮拜堂天頂畫_slide_0015.png and remove "4" from image and add image Sistine Chapel Ceiling\images\Sistine Chapel Ceiling 2.jpg and make descriiption clear
+Modify Sistine Chapel Ceiling\tw_slides\update\解碼西斯汀禮拜堂天頂畫_slide_0016.png and make descriiption clear
+Modify Sistine Chapel Ceiling\tw_slides\update\解碼西斯汀禮拜堂天頂畫_slide_0017.png IMG-005 and use image Sistine Chapel Ceiling\images\大洪水.jpg and make it larger and make descriiption clear 
+Modify Sistine Chapel Ceiling\tw_slides\update\解碼西斯汀禮拜堂天頂畫_slide_0018.png and remove "5" from image and add image Sistine Chapel Ceiling\images\IMG-001西斯汀禮拜堂天頂全景_horizantal.png 
+Modify Sistine Chapel Ceiling\tw_slides\update\解碼西斯汀禮拜堂天頂畫_slide_0019.png and add image Sistine Chapel Ceiling\images\Sistine Chapel.jpg, Scrutiny during the conclave of 1903.jpg, Illustration of the burning of ballots (1939).jpg, White smoke in the Sistine Chapel, indicating that a pope has been elected by the College of Cardinals.jpg and make descriiption clear
+Modify Sistine Chapel Ceiling\tw_slides\update\解碼西斯汀禮拜堂天頂畫_slide_0020.png and make flow and descriiption clear
+Modify Sistine Chapel Ceiling\tw_slides\update\解碼西斯汀禮拜堂天頂畫_slide_0021.png and add image Sistine Chapel Ceiling\images\Creation of Adam.jpg and make description clear
+
+
+Modify Sistine Chapel Ceiling\en_slides\update\Sistine_Chapel_Ceiling_slide_00.png
+and add image Sistine Chapel Ceiling\images\
+and make descriiption clear
+
+
+Use Sistine Chapel Ceiling\images\background\high_renaissance_light.jpg as slide background
+Modify Sistine Chapel Ceiling\en_slides\update\Sistine_Chapel_Ceiling_slide_0002.png and add image Sistine Chapel Ceiling\images\Sistine Chapel Ceiling 2.jpg and make description clear
+Modify Sistine Chapel Ceiling\en_slides\update\Sistine_Chapel_Ceiling_slide_0003.png and use image Sistine Chapel Ceiling\images\Creation of Adam.jpg and make it larger and make descriiption clear
+Modify Sistine Chapel Ceiling\en_slides\update\Sistine_Chapel_Ceiling_slide_0004.png and use image Sistine Chapel Ceiling\images\IMG-001西斯汀禮拜堂天頂全景_horizantal.png and make descriiption clear
+Modify Sistine Chapel Ceiling\en_slides\update\Sistine_Chapel_Ceiling_slide_0005.png and remove "1" from image and add image Sistine Chapel Ceiling\images\Plan of the pictorial elements of the ceiling showing the division of the narrative scenes into three-part themes.png and make descriiption clear
+Modify Sistine Chapel Ceiling\en_slides\update\Sistine_Chapel_Ceiling_slide_0006.png and use image Sistine Chapel Ceiling\images\Lightmatter Sistine Chapel ceiling.jpg and make it larger and make descriiption clear
+Modify Sistine Chapel Ceiling\en_slides\update\Sistine_Chapel_Ceiling_slide_0007.png and remove "2" from image and add image Sistine Chapel Ceiling\images\9.central.view.png and make description clear
+Modify Sistine Chapel Ceiling\en_slides\update\Sistine_Chapel_Ceiling_slide_0008.png and add image Sistine Chapel Ceiling\images\the.9.png and make table and description clear
+Modify Sistine Chapel Ceiling\en_slides\update\Sistine_Chapel_Ceiling_slide_0009.png and make left image larger and description clear
+Modify Sistine Chapel Ceiling\en_slides\update\Sistine_Chapel_Ceiling_slide_0010.png and make left image larger and description clear
+Modify Sistine Chapel Ceiling\en_slides\update\Sistine_Chapel_Ceiling_slide_0011.png and make descriiption clear
+Modify Sistine Chapel Ceiling\en_slides\update\Sistine_Chapel_Ceiling_slide_0012.png and make image clear and mark left image "大洪水 The Deluge" and right image "創造日月與植物 The Creation of the Sun, Moon, and Plants"
+Modify Sistine Chapel Ceiling\en_slides\update\Sistine_Chapel_Ceiling_slide_0013.png and remove "3" from image and make descriiption clear
+Modify Sistine Chapel Ceiling\en_slides\update\Sistine_Chapel_Ceiling_slide_0014.png and make image clear
+Modify Sistine Chapel Ceiling\en_slides\update\Sistine_Chapel_Ceiling_slide_0015.png and remove "4" from image and make descriiption clear
+Modify Sistine Chapel Ceiling\en_slides\update\Sistine_Chapel_Ceiling_slide_0016.png and add image Sistine Chapel Ceiling\images\The Agony and the Ecstasy, Twentieth Century Fox.png and make descriiption clear
+Modify Sistine Chapel Ceiling\en_slides\update\Sistine_Chapel_Ceiling_slide_0017.png and add image Sistine Chapel Ceiling\images\The ceiling of the Sistine Chapel_2.png and make flow and descriiption clear
+Modify Sistine Chapel Ceiling\en_slides\update\Sistine_Chapel_Ceiling_slide_0018.png and use images Sistine Chapel Ceiling\images\Sistine Chapel.jpg, Scrutiny during the conclave of 1903.jpg, Illustration of the burning of ballots (1939).jpg and make descriiption clear
+Modify Sistine Chapel Ceiling\en_slides\update\Sistine_Chapel_Ceiling_slide_00.png and make description clear
