@@ -59,7 +59,7 @@ Replace ./Sistine Chapel Ceiling/en_slides/update/Sistine_Chapel_Ceiling_slide_0
 # 產生English video
 Use $en-make-video.
 Narration:
-./Sistine Chapel Ceiling/en_slides/subtitle/.txt
+./Sistine Chapel Ceiling/en_slides/subtitle/Sistine_Chapel_Ceiling.txt
 Images:
 ./Sistine Chapel Ceiling/en_slides/update
 
