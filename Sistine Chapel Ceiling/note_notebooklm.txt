@@ -19,7 +19,7 @@ $create-youtube-contents by <files>
 $create_google_doc_image_info by <file>
 
 $create-youtube-slides by <files>
-
+6
 ------------------
 
 # Verify contents from AI
