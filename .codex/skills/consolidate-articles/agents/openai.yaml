@@ -1,0 +1,4 @@
+interface:
+  display_name: "Consolidate Articles"
+  short_description: "Merge art articles into verified narrative stories"
+  default_prompt: "Use $consolidate-articles to merge the supplied artist or artwork articles into a fact-checked (complete).md narrative for NotebookLM and a blog."

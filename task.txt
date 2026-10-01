@@ -1,0 +1,5 @@
+目標：要整合藝術家或藝術作品的文章成一個 <artists_name> (complete).md or <artwork_name> (complete).md
+背景：要整理文件給 NotebookLM 產生介紹藝術家或藝術作品的影片，所給的內容要正確無誤，且包含足夠資訊
+素材：會有來自 Claude & ChatGPT 所產生的文件 (e.g. <artist_name> claude.md and <artist_name> chatgpt.md) 及其它方式產生的文件
+邊界：可以有藝術品成交資料但不要找太多，內容必須查核
+完成定義：以 Claude 的文章為主草，將內容來自不同檔案整合在一起，相同的內容要把描述寫好，不用條列式要用 narrative，說好故事。不同內容但有價值的，要查驗，沒有問題可以加入，要要用說故事的方式 narrative 要寫好。所有的文章也要合適放到 Blog 方便讀者閱讀
