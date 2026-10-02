@@ -25,20 +25,20 @@ $create-youtube-slides by <files>
 # Verify contents from AI
 Search web, review & make correction suggestion (繁中) 用 narrative 寫
 
-Title: <TC>
+Title: 把幾何放進光裡的畫家：皮耶羅・德拉・弗朗切斯卡
 
-Title: <EN>
+Title: William Turner's The Fighting Temeraire: A Warship’s Last Voyage
 
 # 中文 Video 產生 slide images 並加上背景
 使用 $video-to-slides
-Video path: ./Piero della Francesca/.mp4
+Video path: ./Piero della Francesca/皮耶羅：光影中的幾何.mp4
 背景風格描述：
 Use a serene Early Renaissance style inspired by Piero della Francesca, with pale ultramarine, muted rose, soft terracotta, ivory, sage green, and luminous earth tones, smooth fresco-like surfaces, geometrically balanced compositions, monumental figures modeled with cool crystalline light, restrained gestures and sculptural drapery, mathematically precise linear perspective, simplified Renaissance architecture and spacious Umbrian landscapes, and a still contemplative atmosphere of timeless order, while preserving broad areas of calm negative space and subdued decorative detail so the artwork, titles, and subtitles remain visually dominant.
 
 
 # English Video 產生 slide images 並加上背景
 使用 $video-to-slides
-Video path: ./Piero della Francesca/.mp4
+Video path: ./Piero della Francesca/Piero_della_Francesca.mp4
 背景風格描述：
 Use a serene Early Renaissance style inspired by Piero della Francesca, with pale ultramarine, muted rose, soft terracotta, ivory, sage green, and luminous earth tones, smooth fresco-like surfaces, geometrically balanced compositions, monumental figures modeled with cool crystalline light, restrained gestures and sculptural drapery, mathematically precise linear perspective, simplified Renaissance architecture and spacious Umbrian landscapes, and a still contemplative atmosphere of timeless order, while preserving broad areas of calm negative space and subdued decorative detail so the artwork, titles, and subtitles remain visually dominant.
 

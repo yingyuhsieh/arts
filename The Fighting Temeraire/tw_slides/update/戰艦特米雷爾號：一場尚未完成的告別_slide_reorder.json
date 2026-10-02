@@ -1,0 +1,25 @@
+{
+  "manifest": "/Users/yingyuhsieh/Desktop/mcp/arts/The Fighting Temeraire/tw_slides/戰艦特米雷爾號：一場尚未完成的告別_slide_manifest.json",
+  "original_count": 22,
+  "supplemental_count": 3,
+  "original_final": {
+    "from": "戰艦特米雷爾號：一場尚未完成的告別_slide_0022.png",
+    "to": "戰艦特米雷爾號：一場尚未完成的告別_slide_0025.png",
+    "sha256": "351e503120f3dddcd09c15f0532f442b867ba9d97b1b5db67e83899ede36116d"
+  },
+  "supplemental_renames": [
+    {
+      "from": "戰艦特米雷爾號：一場尚未完成的告別_slide_0023.png",
+      "to": "戰艦特米雷爾號：一場尚未完成的告別_slide_0022.png"
+    },
+    {
+      "from": "戰艦特米雷爾號：一場尚未完成的告別_slide_0024.png",
+      "to": "戰艦特米雷爾號：一場尚未完成的告別_slide_0023.png"
+    },
+    {
+      "from": "戰艦特米雷爾號：一場尚未完成的告別_slide_0025.png",
+      "to": "戰艦特米雷爾號：一場尚未完成的告別_slide_0024.png"
+    }
+  ],
+  "subtitle": "/Users/yingyuhsieh/Desktop/mcp/arts/The Fighting Temeraire/tw_slides/subtitle/戰艦特米雷爾號：一場尚未完成的告別.txt"
+}

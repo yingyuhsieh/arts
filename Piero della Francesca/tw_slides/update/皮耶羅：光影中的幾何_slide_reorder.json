@@ -1,0 +1,21 @@
+{
+  "manifest": "/Users/yingyuhsieh/Desktop/mcp/arts/Piero della Francesca/tw_slides/皮耶羅：光影中的幾何_slide_manifest.json",
+  "original_count": 23,
+  "supplemental_count": 2,
+  "original_final": {
+    "from": "皮耶羅：光影中的幾何_slide_0023.png",
+    "to": "皮耶羅：光影中的幾何_slide_0025.png",
+    "sha256": "311a2990f7faec13981b371a8de37bc63cd94186f4f2cdee9c9133f1e1ace188"
+  },
+  "supplemental_renames": [
+    {
+      "from": "皮耶羅：光影中的幾何_slide_0024.png",
+      "to": "皮耶羅：光影中的幾何_slide_0023.png"
+    },
+    {
+      "from": "皮耶羅：光影中的幾何_slide_0025.png",
+      "to": "皮耶羅：光影中的幾何_slide_0024.png"
+    }
+  ],
+  "subtitle": "/Users/yingyuhsieh/Desktop/mcp/arts/Piero della Francesca/tw_slides/subtitle/皮耶羅：光影中的幾何.txt"
+}

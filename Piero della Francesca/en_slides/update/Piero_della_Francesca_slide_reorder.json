@@ -1,0 +1,25 @@
+{
+  "manifest": "/Users/yingyuhsieh/Desktop/mcp/arts/Piero della Francesca/en_slides/Piero_della_Francesca_slide_manifest.json",
+  "original_count": 23,
+  "supplemental_count": 3,
+  "original_final": {
+    "from": "Piero_della_Francesca_slide_0023.png",
+    "to": "Piero_della_Francesca_slide_0026.png",
+    "sha256": "c31139dfafa62e9d259ecf40bbab1e3c193b28bbf24199a3990576828894c23c"
+  },
+  "supplemental_renames": [
+    {
+      "from": "Piero_della_Francesca_slide_0024.png",
+      "to": "Piero_della_Francesca_slide_0023.png"
+    },
+    {
+      "from": "Piero_della_Francesca_slide_0025.png",
+      "to": "Piero_della_Francesca_slide_0024.png"
+    },
+    {
+      "from": "Piero_della_Francesca_slide_0026.png",
+      "to": "Piero_della_Francesca_slide_0025.png"
+    }
+  ],
+  "subtitle": "/Users/yingyuhsieh/Desktop/mcp/arts/Piero della Francesca/en_slides/subtitle/Piero_della_Francesca.txt"
+}

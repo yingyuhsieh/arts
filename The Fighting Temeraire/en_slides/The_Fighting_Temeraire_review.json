@@ -1,0 +1,89 @@
+{
+  "language": "en",
+  "source_duration_seconds": 484.832653,
+  "audio_duration_seconds": 484.831995,
+  "source_dimensions": [
+    1280,
+    720
+  ],
+  "fps": 24,
+  "original_slides": 19,
+  "supplemental_slides": 2,
+  "final_slides": 21,
+  "markdown_reviewed": [
+    "Joseph Mallord William Turner 1839 The Fighting Temeraire.md",
+    "The Fighting Temeraire (complete).md",
+    "The Fighting Temeraire chatgpt.md",
+    "The Fighting Temeraire claude.md",
+    "the_fighting_temeraire_youtube_en.md",
+    "the_fighting_temeraire_youtube_tw.md"
+  ],
+  "direct_author_images": [],
+  "supplemental_sources": {
+    "0019": [
+      "The Fighting Temeraire (complete).md",
+      "the_fighting_temeraire_youtube_en.md"
+    ],
+    "0020": [
+      "The Fighting Temeraire (complete).md",
+      "The Fighting Temeraire chatgpt.md"
+    ]
+  },
+  "subtitle_corrections": {
+    "Temerare": "Temeraire",
+    "worship": "warship",
+    "Redutabla": "Redoutable",
+    "the Fugu": "the Fougueux",
+    "swooped into defend": "swooped in to defend",
+    "the sun isn't completely the wrong position.": "the sun is in completely the wrong position.",
+    "James Tibbet's Wilmore's": "James Tibbits Willmore's",
+    "Wilmore": "Willmore",
+    "The images afterlife.": "The image's afterlife."
+  },
+  "audio_note": "Complete source audio at natural speed. Supplemental narration is text only and is not recorded in this extracted audio. No new video was rendered. Source timing manifest and final reorder record are separate.",
+  "validation": {
+    "dimensions": true,
+    "exact_ordered_subtitle_blocks": true,
+    "original_final_hash_verified_before_sticker": true,
+    "final_sticker": true,
+    "every_slide_visually_reviewed": true
+  },
+  "visual_changes": {
+    "background_strength": 0.65,
+    "title_caption_backing_panels": [
+      3,
+      4,
+      10,
+      11,
+      14,
+      17,
+      18
+    ],
+    "artwork_regions_preserved": [
+      2,
+      5,
+      8,
+      11,
+      12,
+      14,
+      16
+    ],
+    "label_contrast": [
+      11
+    ],
+    "watermark_removed_from": [
+      1153,
+      697,
+      1276,
+      714
+    ]
+  },
+  "background_generation": "built-in image_gen",
+  "background_prompt": "Use case: stylized-concept. Asset type: one reusable 16:9 presentation background, 1280x720 or larger exact 16:9. Primary request (verbatim art direction): Use a luminous Romantic maritime style inspired by J. M. W. Turner’s The Fighting Temeraire, with blazing sunset gold, amber, crimson, soft rose, smoky blue-gray, and silvery white, atmospheric oil-painted textures and loose translucent brushwork, glowing light dissolving forms into mist and water, a majestic pale sailing ship contrasted with a small dark steam tug, shimmering reflections across the Thames, distant industrial silhouettes, and a poetic melancholic mood of transition from the age of sail to the modern industrial world, while preserving expansive luminous sky and misty negative space so the artwork, titles, and subtitles remain visually dominant. Composition: quiet very pale silvery cream low-contrast center covering 80% of the canvas for dark text; translucent maritime details confined to decorative far edges and bottom corners, ships tiny and distant. No foreground paintings, no people, no text, no letters, no logos, no watermark. Landscape 16:9.",
+  "paths": {
+    "background": "/Users/yingyuhsieh/Desktop/mcp/arts/The Fighting Temeraire/en_slides/The_Fighting_Temeraire_background.png",
+    "update": "/Users/yingyuhsieh/Desktop/mcp/arts/The Fighting Temeraire/en_slides/update",
+    "audio": "/Users/yingyuhsieh/Desktop/mcp/arts/The Fighting Temeraire/en_slides/audio/The_Fighting_Temeraire_audio.m4a",
+    "subtitle": "/Users/yingyuhsieh/Desktop/mcp/arts/The Fighting Temeraire/en_slides/subtitle/The_Fighting_Temeraire.txt"
+  }
+}

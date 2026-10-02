@@ -25,20 +25,20 @@ $create-youtube-slides by <files>
 # Verify contents from AI
 Search web, review & make correction suggestion (繁中) 用 narrative 寫
 
-Title: <TC>
+Title: 一艘戰艦的最後航程：威廉·透納《特米雷爾號》
 
-Title: <EN>
+Title: 
 
 # 中文 Video 產生 slide images 並加上背景
 使用 $video-to-slides
-Video path: ./The Fighting Temeraire/.mp4
+Video path: ./The Fighting Temeraire/戰艦特米雷爾號：一場尚未完成的告別.mp4
 背景風格描述：
 Use a luminous Romantic maritime style inspired by J. M. W. Turner’s The Fighting Temeraire, with blazing sunset gold, amber, crimson, soft rose, smoky blue-gray, and silvery white, atmospheric oil-painted textures and loose translucent brushwork, glowing light dissolving forms into mist and water, a majestic pale sailing ship contrasted with a small dark steam tug, shimmering reflections across the Thames, distant industrial silhouettes, and a poetic melancholic mood of transition from the age of sail to the modern industrial world, while preserving expansive luminous sky and misty negative space so the artwork, titles, and subtitles remain visually dominant.
 
 
 # English Video 產生 slide images 並加上背景
 使用 $video-to-slides
-Video path: ./The Fighting Temeraire/.mp4
+Video path: ./The Fighting Temeraire/The_Fighting_Temeraire.mp4
 背景風格描述：
 Use a luminous Romantic maritime style inspired by J. M. W. Turner’s The Fighting Temeraire, with blazing sunset gold, amber, crimson, soft rose, smoky blue-gray, and silvery white, atmospheric oil-painted textures and loose translucent brushwork, glowing light dissolving forms into mist and water, a majestic pale sailing ship contrasted with a small dark steam tug, shimmering reflections across the Thames, distant industrial silhouettes, and a poetic melancholic mood of transition from the age of sail to the modern industrial world, while preserving expansive luminous sky and misty negative space so the artwork, titles, and subtitles remain visually dominant.
 
