@@ -45,8 +45,8 @@ Use a serene Early Renaissance style inspired by Piero della Francesca, with pal
 
 # 中文 Replace 1st slide with youtbute thumimage
 # English Replace 1st slide with youtbute thumimage
-Replace ./Piero della Francesca/tw_slides/update/.png by ./Piero della Francesca/YouTube/.png with size 1280x720
-Replace ./Piero della Francesca/en_slides/update/.png by ./Piero della Francesca/YouTube/.png with size 1280x720
+Replace ./Piero della Francesca/tw_slides/update/皮耶羅：光影中的幾何_slide_0001.png by ./Piero della Francesca/YouTube/把幾何放進光裡的畫家：皮耶羅・德拉・弗朗切斯卡.png with size 1280x720
+Replace ./Piero della Francesca/en_slides/update/Piero_della_Francesca_slide_0001.png by ./Piero della Francesca/YouTube/.png with size 1280x720
 
 
 # 產生中文 video
