@@ -1,0 +1,51 @@
+一項小幅整理建議：
+1. 《慈悲聖母多聯畫》的日期差異說明可以精簡。
+   原文「其他資料亦有一月或七月等寫法」沒有逐一提供來源，容易讓資料誤植看起來像正式的學術爭議。公證文書轉錄已明載 1445 年 6 月 11 日，建議刪除日期差異這一句，保留正文日期及文書引用即可。
+
+ 生年與姓名來源
+倫敦國家美術館標準作法 About 1415/20 - 1492，你引用正確。烏菲茲不能作為生年來源。建議統一為「約1415/20-1492，1492年10月12日死於故鄉」。
+
+2. 《基督受洗》
+館方 Key facts: Date made Probably about 1437–1445，Medium Egg tempera on wood (poplar)，Bought 1861。你已正確，建議口播加「兩塊楊木板拼接」說明中軸線。
+
+3. 《慈悲聖母多聯畫》
+In 1445, the Compagnia della Misericordia... commissioned，finished seventeen years later, in 1462。你寫1445委託、1462完成正確，保留「金底與珍貴顏料為合約要求」即可，不要加入追求完美的心理描寫。
+
+4. 《聖傑羅姆》
+Gemäldegalerie 定年 Saint Jerome in the Wilderness (dated 1450)，且為 small devotional panel, still in its original engaged frame，簽名 Petri de Burgo。建議補尺寸與原框，這是YouTube特寫鏡頭的關鍵。
+
+5. 里米尼與羅浮宮肖像
+里米尼壁畫 1451 fresco 正確。羅浮宮肖像媒材應統一為 Oil and tempera on panel / tempera and oil on panel, 44.5 x 34.5 cm，非單一油畫。
+
+6. 阿雷佐《真十字架傳奇》
+The Bacci Chapel... begun by Bicci di Lorenzo in 1447 and continued between 1452 and 1466，以及兩階段施工、1458-1459中斷。你寫約1452-1466非連續作畫正確，建議保留此中斷說法。
+
+7. 《基督復活》
+主流仍為 painted in the 1460s, c.1463-65, fresco, 225 x 200 cm，你引用的 Opificio delle Pietre Dure 1458-1468 是修復專案標示。建議口播：「學界通稱1460年代、約1463-65，修復所專案標1458-1468並提出1468市政委託假說」。
+
+8. 《聖奧古斯丁多聯畫》
+Date 1454−69正確。分散現況正確，但《聖米迦勒》倫敦館藏現多作 tempera on wood，非純油畫。
+
+9. 《分娩聖母》
+館方與綜述 finished around 1460 / between 1450 and 1465。你已加入「無文件證明為紀念母親」限定，非常好，保留。
+
+10. 《基督受鞭》
+館方與綜述多作 c1455-1463 與 The Flagellation (1459–1460)，尺寸常見 58.4×81.5cm 與 67.5×91cm 兩種含框差異。建議統一為約1455-1460，尺寸註明含框差。
+
+11. 公爵夫婦雙聯肖像
+此處是全文最大定年矛盾。維基與舊圖錄作 Year circa 1473–1475，Medium Oil on wood，Dimensions 47 cm × 33 cm each panel，Uffizi官網亦作 Technique Oil on wood，另有圖錄作 c.1465 (tempera on panel)。因巴蒂斯塔死於1472，1473-1475為追念像說法。你寫1473-1475與學界通說1465-1472衝突，建議改為「烏菲茲現標油彩木板、每幅47×33cm，定年1465-1472至約1473-1475諸說並存，巴蒂斯塔1472年去世故多視為追念肖像」，並註明兩說。
+
+12. 布雷拉與塞尼加利亞
+Brera Madonna: Madonna and Child and Saints... 1472-74 (tempera on panel)，Dimensions 251x172 cms，另有 Oil on panel記載。Senigallia Madonna: finished around 1474，Type Oil on panel，多作 Oil and tempera。你寫1472-1474與約1474正確，建議標「蛋彩為主、部分油彩」。
+
+13. 數學三書
+Of these, three are now known to survive: Abacus treatise (Trattato d'abaco) Short book on the five regular solids (Libellus de quinque corporibus regularibus) and On perspective for painting (De prospectiva pingendi)。你列三書正確，《五正多面體論》應補獻給圭多巴爾多，與烏爾比諾脈絡呼應。
+
+14. 赫胥黎與霍克尼，接受史
+In ‘The Best Picture’, an essay written in 1925, Aldous Huxley calls Piero’s Resurrection ‘the greatest picture in the world’。Hockney and Piero: A Longer Look, 8 August – 27 October 2024，展出 My Parents 與 Looking at Pictures on a Screen 與《基督受洗》同室。你此兩段正確且有最新展覽加持，建議口播保留，作為「現代觀看」的收束。
+
+15. 口播結構建議
+
+    開頭旗幟與石棺的穩定結構描述很好，但需加「舊市政廳牆上」的空間錨點。
+    真十字架傳奇與君士坦丁之夢兩章可拆為「故事線 vs 工序線」，避免15分鐘後掉留存。
+    全文「不能…」「不宜…」的防禦句，口播改為「目前沒有文件」「研究者傾向認為是推測」，更順耳。
