@@ -45,8 +45,8 @@ Use a luminous Romantic maritime style inspired by J. M. W. Turner’s The Fight
 
 # 中文 Replace 1st slide with youtbute thumimage
 # English Replace 1st slide with youtbute thumimage
-Replace ./The Fighting Temeraire/tw_slides/update/.png by ./The Fighting Temeraire/YouTube/一艘戰艦的最後航程：威廉·透納《特米雷爾號》.png with size 1280x720
-Replace ./The Fighting Temeraire/en_slides/update/.png by ./The Fighting Temeraire/YouTube/William Turner's The Fighting Temeraire- A Warship’s Last Voyage.png with size 1280x720
+Replace ./The Fighting Temeraire/tw_slides/update/戰艦特米雷爾號：一場尚未完成的告別_slide_0001.png by ./The Fighting Temeraire/YouTube/一艘戰艦的最後航程：威廉·透納《特米雷爾號》.png with size 1280x720
+Replace ./The Fighting Temeraire/en_slides/update/The_Fighting_Temeraire_slide_0001.png by ./The Fighting Temeraire/YouTube/William Turner's The Fighting Temeraire- A Warship’s Last Voyage.png with size 1280x720
 
 
 # 產生中文 video
