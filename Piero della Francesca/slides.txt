@@ -58,7 +58,7 @@ Modify Piero della Francesca\en_slides\update\Piero_della_Francesca_slide_0018.p
 Modify Piero della Francesca\en_slides\update\Piero_della_Francesca_slide_0019.png and replace image Piero della Francesca\images\(p19) The Nativity.jpg and make descrption clear
 Modify Piero della Francesca\en_slides\update\Piero_della_Francesca_slide_0020.png and make image larger and descpriton clear
 Modify Piero della Francesca\en_slides\update\Piero_della_Francesca_slide_0021.png and add image image Piero della Francesca\images\Aldous Huxley.jpg mark "Aldous Huxley" and David Hockney.jpg mark "David Hockney" and make descrption clear
-
+Modify Piero della Francesca\en_slides\update\Piero_della_Francesca_slide_0022.png and add image Piero della Francesca\images\(p10) 960px-Arezzo_San_Francesco_frescos_02.jpg and (p10) Arezzo_San_Francesco_frescos_01.jpg and make descpriton large and clear
 
 
 
