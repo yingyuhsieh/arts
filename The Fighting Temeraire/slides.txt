@@ -1,0 +1,53 @@
+Modify The Fighting Temeraire\tw_slides\update\戰艦特米雷爾號：一場尚未完成的告別_slide_00.png 
+
+ and add image The Fighting Temeraire\images\
+
+ and make description clear
+
+Use The Fighting Temeraire\tw_slides\戰艦特米雷爾號：一場尚未完成的告別_background.png as slide background
+Modify The Fighting Temeraire\tw_slides\update\戰艦特米雷爾號：一場尚未完成的告別_slide_0002.png and add image The Fighting Temeraire\images\IMG-001 The Fighting Temeraire.jpg and make description larger and clear
+Modify The Fighting Temeraire\tw_slides\update\戰艦特米雷爾號：一場尚未完成的告別_slide_0003.png  and add image The Fighting Temeraire\images\IMG-001 The Fighting Temeraire.jpg, temeraire.jpg and make description larger and clear
+Modify The Fighting Temeraire\tw_slides\update\戰艦特米雷爾號：一場尚未完成的告別_slide_0004.png and make description larger and clear
+Modify The Fighting Temeraire\tw_slides\update\戰艦特米雷爾號：一場尚未完成的告別_slide_0005.png and remove "1" froom image and make description larger and clear and add image The Fighting Temeraire\images\J.M.W. Turner, The Battle of Trafalgar (1822).jpg mark "特拉法加海戰 J.M.W. Turner (1822)" and, The_Battle_of_Trafalgar_by_William_Clarkson_Stanfield.jpg mark "特拉法加海戰  Clarkson Frederick Stanfield (1836)" make description clear
+Modify The Fighting Temeraire\tw_slides\update\戰艦特米雷爾號：一場尚未完成的告別_slide_0006.png and add image The Fighting Temeraire\images\Eliab Harvey (capton oof Temeraire).jpg mark "霍雷肖·納爾遜 將軍", IMG-007 The Battle of Trafalgar.jpg mark "The Battle of Trafalgar by J.M.W. Turner(1806)", HMS Victory.jpg mark "勝利號", Lord Horatio Nelson.jpg mark "納爾遜將軍" and make description clear
+Modify The Fighting Temeraire\tw_slides\update\戰艦特米雷爾號：一場尚未完成的告別_slide_0007.png and make flow and description clear
+Modify The Fighting Temeraire\tw_slides\update\戰艦特米雷爾號：一場尚未完成的告別_slide_0008.png and left image The Fighting Temeraire\images\IMG-001 The Fighting Temeraire.jpg and right image The Fighting Temeraire\images\IMG-002 The Temeraire 104 guns at Rotherhithe.jpg and mark "無畏號戰艦"
+Modify The Fighting Temeraire\tw_slides\update\戰艦特米雷爾號：一場尚未完成的告別_slide_0009.png  and make description larger and clear
+Modify The Fighting Temeraire\tw_slides\update\戰艦特米雷爾號：一場尚未完成的告別_slide_0010.png and remove "2" from image and add image The Fighting Temeraire\images\Detail of bottom right corner.jpg and make description clear
+Modify The Fighting Temeraire\tw_slides\update\戰艦特米雷爾號：一場尚未完成的告別_slide_0011.png and make description clear
+Modify The Fighting Temeraire\tw_slides\update\戰艦特米雷爾號：一場尚未完成的告別_slide_0012.png and make description larger and clear
+Modify The Fighting Temeraire\tw_slides\update\戰艦特米雷爾號：一場尚未完成的告別_slide_0013.png and remove "3" from add image The Fighting Temeraire\images\Detail of the old warship and tugboat.jpg and make description clear
+Modify The Fighting Temeraire\tw_slides\update\戰艦特米雷爾號：一場尚未完成的告別_slide_0014.png and make description clear
+Modify The Fighting Temeraire\tw_slides\update\戰艦特米雷爾號：一場尚未完成的告別_slide_0015.png  and make description clear
+Modify The Fighting Temeraire\tw_slides\update\戰艦特米雷爾號：一場尚未完成的告別_slide_0016.png and make description clear
+Modify The Fighting Temeraire\tw_slides\update\戰艦特米雷爾號：一場尚未完成的告別_slide_0017.png and remove "4" from image IMG-004 and add image The Fighting Temeraire\images\The Old Temeraire.jpg and make description clear
+Modify The Fighting Temeraire\tw_slides\update\戰艦特米雷爾號：一場尚未完成的告別_slide_0018.png and use image 007.The Fighting Temeraire.png (for 007) and 20 pound.png (for 20 英鎊) and National Gallery The Wilkins Building.JPG (for 英國國家美術館) and make description clear
+Modify The Fighting Temeraire\tw_slides\update\戰艦特米雷爾號：一場尚未完成的告別_slide_0019.png and add image The Fighting Temeraire\images\The Fighting Temeraire at National Gallery, London.png and make description larger and clear
+Modify The Fighting Temeraire\tw_slides\update\戰艦特米雷爾號：一場尚未完成的告別_slide_0020.png and make description larger and clear
+Modify The Fighting Temeraire\tw_slides\update\戰艦特米雷爾號：一場尚未完成的告別_slide_0021.png and add image The Fighting Temeraire\images\The Fighting Temeraire.jpg and make description clear
+
+Modify The Fighting Temeraire\en_slides\update\The_Fighting_Temeraire_slide_00.png
+
+ and add image The Fighting Temeraire\images\
+
+ and make description clear
+
+Modify The Fighting Temeraire\en_slides\update\The_Fighting_Temeraire_slide_0002.png and make image large and make description clear
+Modify The Fighting Temeraire\en_slides\update\The_Fighting_Temeraire_slide_0003.png and add image The Fighting Temeraire\images\Detail of bottom right corner.jpg and make description clear
+Modify The Fighting Temeraire\en_slides\update\The_Fighting_Temeraire_slide_0004.png and remove "1" from image and add image The Fighting Temeraire\images\Detail of the old warship and tugboat.jpg and make description clear
+Modify The Fighting Temeraire\en_slides\update\The_Fighting_Temeraire_slide_0005.png and make image large and make description larger and clear 
+Modify The Fighting Temeraire\en_slides\update\The_Fighting_Temeraire_slide_0006.png and make flow and description clear
+Modify The Fighting Temeraire\en_slides\update\The_Fighting_Temeraire_slide_0007.png and remove "2" from image and add image The Fighting Temeraire\images\Detail of bottom right corner.jpg and make description clear
+Modify The Fighting Temeraire\en_slides\update\The_Fighting_Temeraire_slide_0008.png and make description clear
+Modify The Fighting Temeraire\en_slides\update\The_Fighting_Temeraire_slide_0009.png and make description clear
+Modify The Fighting Temeraire\en_slides\update\The_Fighting_Temeraire_slide_0010.png and add image The Fighting Temeraire\images\Detail of the old warship and tugboat.jpg and make description clear
+Modify The Fighting Temeraire\en_slides\update\The_Fighting_Temeraire_slide_0011.png and make description larger and clear
+Modify The Fighting Temeraire\en_slides\update\The_Fighting_Temeraire_slide_0012.png and make description larger and clear
+Modify The Fighting Temeraire\en_slides\update\The_Fighting_Temeraire_slide_0013.png and make description larger and clear
+Modify The Fighting Temeraire\en_slides\update\The_Fighting_Temeraire_slide_0014.png and make description larger and clear
+Modify The Fighting Temeraire\en_slides\update\The_Fighting_Temeraire_slide_0015.png and remove "4" from image and add image The Fighting Temeraire\images\IMG-002 The Temeraire 104 guns at Rotherhithe.jpg and make description clear
+Modify The Fighting Temeraire\en_slides\update\The_Fighting_Temeraire_slide_0016.png and make description clear
+Modify The Fighting Temeraire\en_slides\update\The_Fighting_Temeraire_slide_0017.png and use image The Fighting Temeraire\images\20 pound.png and make description clear
+Modify The Fighting Temeraire\en_slides\update\The_Fighting_Temeraire_slide_0018.png and add image The Fighting Temeraire\images\IMG-003 The Temeraire of 98 guns breaking up.jpg and make description clear
+Modify The Fighting Temeraire\en_slides\update\The_Fighting_Temeraire_slide_0019.png and add image The Fighting Temeraire\images\National Gallery The Wilkins Building.jpg mark "National Gallery London", The Fighting Temeraire at National Gallery, London.png
+Modify The Fighting Temeraire\en_slides\update\The_Fighting_Temeraire_slide_0020.png and add image The Fighting Temeraire\images\007.The Fighting Temeraire.png and make description clear
