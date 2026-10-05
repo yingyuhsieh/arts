@@ -27,7 +27,7 @@ Search web, review & make correction suggestion (繁中) 用 narrative 寫
 
 Title: 一艘戰艦的最後航程：威廉·透納《特米雷爾號》
 
-Title: 
+Title: William Turner's The Fighting Temeraire: A Warship’s Last Voyage
 
 # 中文 Video 產生 slide images 並加上背景
 使用 $video-to-slides
@@ -59,7 +59,7 @@ Replace ./The Fighting Temeraire/en_slides/update/The_Fighting_Temeraire_slide_0
 # 產生English video
 Use $en-make-video.
 Narration:
-./The Fighting Temeraire/en_slides/subtitle/.txt
+./The Fighting Temeraire/en_slides/subtitle/The_Fighting_Temeraire.txt
 Images:
 ./The Fighting Temeraire/en_slides/update
 
@@ -77,13 +77,13 @@ Use $youtube-and-social-media-post with
 Use $tw-video-integrate-audio-slide to combine my 中文 narration audio, slide images, script, and timing manifest into a YouTube-ready MP4.Use $tw-video-integrate-audio-slide to create a YouTube-ready video from:
 
 - Narration script:
-  ./The Fighting Temeraire/en_slides/subtitle/.txt
+  ./The Fighting Temeraire/tw_slides/subtitle/戰艦特米雷爾號：一場尚未完成的告別.txt
 - PNG slides:
-  ./The Fighting Temeraire/en_slides/update
+  ./The Fighting Temeraire/tw_slides/update
 - Narration audio:
-  ./The Fighting Temeraire/en_slides/.m4a
+  ./The Fighting Temeraire/tw_slides/audio/Sounds.m4a
 - Timing manifest:
-  ./The Fighting Temeraire/en_slides/slide_manifest.json
+  ./The Fighting Temeraire/tw_slides/slide_manifest.json
 
 
 

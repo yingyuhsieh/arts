@@ -1,0 +1,106 @@
+{
+  "video": "/Users/yingyuhsieh/Desktop/mcp/arts/The Fighting Temeraire/tw_slides/video/戰艦特米雷爾號：一場尚未完成的告別_4k.mp4",
+  "file_bytes": 188529377,
+  "source_audio": "/Users/yingyuhsieh/Desktop/mcp/arts/The Fighting Temeraire/tw_slides/video/Sounds_script_order.m4a",
+  "timing_source": "/Users/yingyuhsieh/Desktop/mcp/arts/The Fighting Temeraire/tw_slides/video/Sounds_slide_manifest.json",
+  "slides": 23,
+  "expected_hard_cuts": 22,
+  "dimensions": [
+    3840,
+    2160
+  ],
+  "scaling": "proportional Lanczos; no crop",
+  "motion": "none",
+  "external_subtitles": false,
+  "video_codec": "h264",
+  "audio_codec": "aac",
+  "video_duration_seconds": 914.8,
+  "audio_duration_seconds": 914.814,
+  "fps": 30.0,
+  "video_frames": 27444,
+  "subtitle_streams": 0,
+  "temporary_canvas_dimensions": [
+    3840,
+    2160
+  ],
+  "source_dimensions": [
+    [
+      1280,
+      720
+    ],
+    [
+      1672,
+      940
+    ],
+    [
+      1672,
+      941
+    ]
+  ],
+  "pixel_format": "yuv420p",
+  "original_audio_duration_seconds": 914.858667,
+  "duration_difference_from_original_audio_seconds": 0.044667,
+  "audio_mean_volume_db": -23,
+  "audio_peak_volume_db": -2.3,
+  "frame_checks": [
+    {
+      "time": 0.5,
+      "slide": 1,
+      "mean_pixel_error_255": 1.3165
+    },
+    {
+      "time": 300.0,
+      "slide": 8,
+      "mean_pixel_error_255": 1.47
+    },
+    {
+      "time": 561.7,
+      "slide": 14,
+      "mean_pixel_error_255": 1.4436
+    },
+    {
+      "time": 562.1,
+      "slide": 15,
+      "mean_pixel_error_255": 1.4623
+    },
+    {
+      "time": 617.5666666666667,
+      "slide": 15,
+      "mean_pixel_error_255": 1.463
+    },
+    {
+      "time": 617.9666666666667,
+      "slide": 16,
+      "mean_pixel_error_255": 1.4437
+    },
+    {
+      "time": 750.0,
+      "slide": 19,
+      "mean_pixel_error_255": 1.4599
+    },
+    {
+      "time": 914.4,
+      "slide": 23,
+      "mean_pixel_error_255": 1.4493
+    }
+  ],
+  "audio_edit": {
+    "reason": "Slide 15 narration was appended after the farewell; moved into script order.",
+    "source_ranges_seconds": [
+      [
+        0,
+        561.9
+      ],
+      [
+        859.5,
+        914.858667
+      ],
+      [
+        561.9,
+        859.5
+      ]
+    ],
+    "speed_change": false,
+    "omitted_content": false
+  }
+}

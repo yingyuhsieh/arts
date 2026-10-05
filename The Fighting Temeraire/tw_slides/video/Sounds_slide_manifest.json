@@ -1,0 +1,306 @@
+{
+  "audio_sha256": "bdd3dd1d277ae48ce44dd56368e7b60d5ac27fb5ef205bad9c92ad1fab0ba224",
+  "subtitle": "/Users/yingyuhsieh/Desktop/mcp/arts/The Fighting Temeraire/tw_slides/subtitle/戰艦特米雷爾號：一場尚未完成的告別.txt",
+  "timing_method": "Current audio Whisper word timestamps aligned to narration; boundaries placed within pauses between slide blocks.",
+  "slides": [
+    {
+      "filename": "戰艦特米雷爾號：一場尚未完成的告別_slide_0001.png",
+      "start": 0,
+      "speech_start": 1.81,
+      "previous_speech_end": 0,
+      "script_opening": "歡迎來到今天的影片！",
+      "recognized_opening": "欢迎来到今天的影片今天要聊的这幅画绝对不只是一张漂漂亮亮的海"
+    },
+    {
+      "filename": "戰艦特米雷爾號：一場尚未完成的告別_slide_0002.png",
+      "start": 35.54,
+      "speech_start": 36.39,
+      "previous_speech_end": 34.69,
+      "script_opening": "要看懂這個幅 戰艦 特米 雷爾 或叫 勇莽號 戰艦，",
+      "recognized_opening": "要看懂这幅转件特米雷尔或叫勇猛号转件我们得提出一个非常关键而"
+    },
+    {
+      "filename": "戰艦特米雷爾號：一場尚未完成的告別_slide_0003.png",
+      "start": 81.45,
+      "speech_start": 82.6,
+      "previous_speech_end": 80.3,
+      "script_opening": "好了，我們現在就先來看看這幅 美到讓人屏息 的 畫面。",
+      "recognized_opening": "好了我们现在就先来看看这幅每道让人秉析的画面这是英国大师透纳"
+    },
+    {
+      "filename": "戰艦特米雷爾號：一場尚未完成的告別_slide_0004.png",
+      "start": 128.575,
+      "speech_start": 129.79,
+      "previous_speech_end": 127.36,
+      "script_opening": "你有沒有注意到，",
+      "recognized_opening": "你有没有注意到画面里其实有一个非常有意思的对比来你看那艘巨大"
+    },
+    {
+      "filename": "戰艦特米雷爾號：一場尚未完成的告別_slide_0005.png",
+      "start": 177.13,
+      "speech_start": 178.11,
+      "previous_speech_end": 176.15,
+      "script_opening": "說到這裡，我們就 不得不提一下，",
+      "recognized_opening": "说到这里我们就不得不提一下这艘战舰过去到底有多辉煌了他可不是"
+    },
+    {
+      "filename": "戰艦特米雷爾號：一場尚未完成的告別_slide_0006.png",
+      "start": 196.875,
+      "speech_start": 198.02,
+      "previous_speech_end": 195.73,
+      "script_opening": "它配備了 98 門火砲，",
+      "recognized_opening": "配备了98门火炮是一艘二等战列舰在当时根本是海上的超级巨无霸"
+    },
+    {
+      "filename": "戰艦特米雷爾號：一場尚未完成的告別_slide_0007.png",
+      "start": 240.7,
+      "speech_start": 241.5,
+      "previous_speech_end": 239.9,
+      "script_opening": "但如果我們攤開這艘 傳奇戰艦 的 時間軸，",
+      "recognized_opening": "但如果我们摊开这艘传奇战舰的时间轴说真的还让人蛮感叹的你想想"
+    },
+    {
+      "filename": "戰艦特米雷爾號：一場尚未完成的告別_slide_0008.png",
+      "start": 287.94,
+      "speech_start": 289.04,
+      "previous_speech_end": 286.84,
+      "script_opening": "接下來這個對比真的非常有意思，",
+      "recognized_opening": "接下来这个对比真的非常有意思根本是两种完全不同视角的对照左边"
+    },
+    {
+      "filename": "戰艦特米雷爾號：一場尚未完成的告別_slide_0009.png",
+      "start": 333.91,
+      "speech_start": 334.68,
+      "previous_speech_end": 333.14,
+      "script_opening": "我們再仔細看看這張版畫",
+      "recognized_opening": "我们再仔细看看这张版画他真的把当时拆船场的那种兵人掩库的现实"
+    },
+    {
+      "filename": "戰艦特米雷爾號：一場尚未完成的告別_slide_0010.png",
+      "start": 382.59,
+      "speech_start": 383.82,
+      "previous_speech_end": 381.36,
+      "script_opening": "這就帶我們來到了 透納 在這幅畫裡，最神來一筆的地方",
+      "recognized_opening": "这就带我们来到tona在这幅画里这神来一笔的地方那个被她完全"
+    },
+    {
+      "filename": "戰艦特米雷爾號：一場尚未完成的告別_slide_0011.png",
+      "start": 392.82,
+      "speech_start": 393.78,
+      "previous_speech_end": 391.86,
+      "script_opening": "這正是歷史記錄 與 藝術創作之間，",
+      "recognized_opening": "这正是历史记录与艺术创作之间非常有意思的对比你会发现历史上的"
+    },
+    {
+      "filename": "戰艦特米雷爾號：一場尚未完成的告別_slide_0012.png",
+      "start": 437.6,
+      "speech_start": 438.22,
+      "previous_speech_end": 436.98,
+      "script_opening": "請大家一定要再靠近一點，",
+      "recognized_opening": "请大家一定要再靠近一点仔细看这片夕阳的细节这里真的没得让人震"
+    },
+    {
+      "filename": "戰艦特米雷爾號：一場尚未完成的告別_slide_0013.png",
+      "start": 492.965,
+      "speech_start": 494.01,
+      "previous_speech_end": 491.92,
+      "script_opening": "接下來，我們就來看看",
+      "recognized_opening": "接下来我们就来看看这种新旧时代的交替到底激荡出了什么样的火花"
+    },
+    {
+      "filename": "戰艦特米雷爾號：一場尚未完成的告別_slide_0014.png",
+      "start": 502.325,
+      "speech_start": 503.4,
+      "previous_speech_end": 501.25,
+      "script_opening": "我們來看一個非常有趣的細節對比",
+      "recognized_opening": "我们来看一个非常有趣的细节对比以仔细看右边这张货人制作的板画"
+    },
+    {
+      "filename": "戰艦特米雷爾號：一場尚未完成的告別_slide_0015.png",
+      "start": 561.885,
+      "speech_start": 563.14,
+      "previous_speech_end": 560.63,
+      "script_opening": "你可能會想",
+      "recognized_opening": "会想当时的人为什么对一艘黑色的小拖船有这么大的情绪我们来看看"
+    },
+    {
+      "filename": "戰艦特米雷爾號：一場尚未完成的告別_slide_0016.png",
+      "start": 617.754,
+      "speech_start": 618.5386669999999,
+      "previous_speech_end": 616.97,
+      "script_opening": "這裡有一個非常有意思的問題",
+      "recognized_opening": "这里有一个非常有意思的问题透纳真的就像大家想象的那样是个排斥"
+    },
+    {
+      "filename": "戰艦特米雷爾號：一場尚未完成的告別_slide_0017.png",
+      "start": 673.829,
+      "speech_start": 675.178667,
+      "previous_speech_end": 672.478667,
+      "script_opening": "最後，讓我們來聊聊",
+      "recognized_opening": "最后让我们来聊聊为什么说这是一场还没有结束的告别豆娜对这幅画"
+    },
+    {
+      "filename": "戰艦特米雷爾號：一場尚未完成的告別_slide_0018.png",
+      "start": 681.399,
+      "speech_start": 682.498667,
+      "previous_speech_end": 680.298667,
+      "script_opening": "透納 對這幅畫 的 深情，幾乎到了 無以復加 的 地步",
+      "recognized_opening": "对这幅画的申请几乎到了无以附加的地步她私底下甚至亲切地称她为"
+    },
+    {
+      "filename": "戰艦特米雷爾號：一場尚未完成的告別_slide_0019.png",
+      "start": 743.689,
+      "speech_start": 744.568667,
+      "previous_speech_end": 742.808667,
+      "script_opening": "現在，它安穩地掛在",
+      "recognized_opening": "现在她安稳地挂在伦敦国家一郎的画框里就像是一个凝结了时光的骄"
+    },
+    {
+      "filename": "戰艦特米雷爾號：一場尚未完成的告別_slide_0020.png",
+      "start": 798.164,
+      "speech_start": 799.308667,
+      "previous_speech_end": 797.0186669999999,
+      "script_opening": "說到底，",
+      "recognized_opening": "说到底tona在这里做了一个非常绝妙的决定她选择把代表死亡与"
+    },
+    {
+      "filename": "戰艦特米雷爾號：一場尚未完成的告別_slide_0021.png",
+      "start": 845.564,
+      "speech_start": 846.578667,
+      "previous_speech_end": 844.548667,
+      "script_opening": "補充說明：",
+      "recognized_opening": "补充说明tona用后图与透明照蓝让夕阳同时具有表面质感与色彩"
+    },
+    {
+      "filename": "戰艦特米雷爾號：一場尚未完成的告別_slide_0022.png",
+      "start": 863.034,
+      "speech_start": 864.338667,
+      "previous_speech_end": 861.728667,
+      "script_opening": "在今天分享的最後，",
+      "recognized_opening": "在今天分享的最后我想把这个问题留给大家去思考当这个世界准备好"
+    },
+    {
+      "filename": "戰艦特米雷爾號：一場尚未完成的告別_slide_0023.png",
+      "start": 902.419,
+      "speech_start": 903.698667,
+      "previous_speech_end": 901.1386669999999,
+      "script_opening": "下次如果你也面臨了時代轉折 的 十字路口，",
+      "recognized_opening": "下次如果你也面临时代转折的十字路口不妨想起这艘在夕阳下缓缓前"
+    }
+  ],
+  "original_audio": "/Users/yingyuhsieh/Desktop/mcp/arts/The Fighting Temeraire/tw_slides/audio/Sounds.m4a",
+  "audio": "/Users/yingyuhsieh/Desktop/mcp/arts/The Fighting Temeraire/tw_slides/video/Sounds_script_order.m4a",
+  "audio_edit": {
+    "reason": "Slide 15 narration was appended after the farewell; moved into script order.",
+    "source_ranges_seconds": [
+      [
+        0,
+        561.9
+      ],
+      [
+        859.5,
+        914.858667
+      ],
+      [
+        561.9,
+        859.5
+      ]
+    ],
+    "speed_change": false,
+    "omitted_content": false
+  },
+  "original_source_dimensions": {
+    "戰艦特米雷爾號：一場尚未完成的告別_slide_0001.png": [
+      1280,
+      720
+    ],
+    "戰艦特米雷爾號：一場尚未完成的告別_slide_0002.png": [
+      1672,
+      941
+    ],
+    "戰艦特米雷爾號：一場尚未完成的告別_slide_0003.png": [
+      1672,
+      941
+    ],
+    "戰艦特米雷爾號：一場尚未完成的告別_slide_0004.png": [
+      1672,
+      941
+    ],
+    "戰艦特米雷爾號：一場尚未完成的告別_slide_0005.png": [
+      1672,
+      941
+    ],
+    "戰艦特米雷爾號：一場尚未完成的告別_slide_0006.png": [
+      1672,
+      941
+    ],
+    "戰艦特米雷爾號：一場尚未完成的告別_slide_0007.png": [
+      1672,
+      941
+    ],
+    "戰艦特米雷爾號：一場尚未完成的告別_slide_0008.png": [
+      1672,
+      941
+    ],
+    "戰艦特米雷爾號：一場尚未完成的告別_slide_0009.png": [
+      1672,
+      941
+    ],
+    "戰艦特米雷爾號：一場尚未完成的告別_slide_0010.png": [
+      1672,
+      941
+    ],
+    "戰艦特米雷爾號：一場尚未完成的告別_slide_0011.png": [
+      1672,
+      940
+    ],
+    "戰艦特米雷爾號：一場尚未完成的告別_slide_0012.png": [
+      1672,
+      940
+    ],
+    "戰艦特米雷爾號：一場尚未完成的告別_slide_0013.png": [
+      1672,
+      941
+    ],
+    "戰艦特米雷爾號：一場尚未完成的告別_slide_0014.png": [
+      1672,
+      941
+    ],
+    "戰艦特米雷爾號：一場尚未完成的告別_slide_0015.png": [
+      1672,
+      941
+    ],
+    "戰艦特米雷爾號：一場尚未完成的告別_slide_0016.png": [
+      1672,
+      941
+    ],
+    "戰艦特米雷爾號：一場尚未完成的告別_slide_0017.png": [
+      1672,
+      941
+    ],
+    "戰艦特米雷爾號：一場尚未完成的告別_slide_0018.png": [
+      1672,
+      941
+    ],
+    "戰艦特米雷爾號：一場尚未完成的告別_slide_0019.png": [
+      1672,
+      941
+    ],
+    "戰艦特米雷爾號：一場尚未完成的告別_slide_0020.png": [
+      1672,
+      941
+    ],
+    "戰艦特米雷爾號：一場尚未完成的告別_slide_0021.png": [
+      1672,
+      941
+    ],
+    "戰艦特米雷爾號：一場尚未完成的告別_slide_0022.png": [
+      1672,
+      941
+    ],
+    "戰艦特米雷爾號：一場尚未完成的告別_slide_0023.png": [
+      1280,
+      720
+    ]
+  }
+}

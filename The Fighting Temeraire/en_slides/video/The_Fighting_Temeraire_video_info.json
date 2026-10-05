@@ -1,0 +1,61 @@
+{
+  "streams": [
+    {
+      "type": "video",
+      "codec": "h264",
+      "duration": 700.2
+    },
+    {
+      "type": "audio",
+      "codec": "aac",
+      "duration": 700.1760090702948
+    }
+  ],
+  "output_dimensions": [
+    3840,
+    2160
+  ],
+  "fps": "30",
+  "sample_aspect_ratio": "1",
+  "duration_seconds": 700.2,
+  "slide_count": 21,
+  "source_dimensions": [
+    [
+      1280,
+      720
+    ],
+    [
+      1672,
+      941
+    ]
+  ],
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-3%",
+  "pause": 1.5,
+  "end_card_seconds": 3,
+  "wav_duration_seconds": 700.1762585034014,
+  "audio_rms_first_second": 3781,
+  "hard_cuts": 20,
+  "cut_times_seconds": [
+    30.833333,
+    65.133333,
+    105.7,
+    109.1,
+    164.366667,
+    217.3,
+    226.266667,
+    259.966667,
+    308.066667,
+    311.433333,
+    355.633333,
+    396.333333,
+    431.1,
+    475.333333,
+    478.7,
+    525.466667,
+    561.1,
+    606.1,
+    647.733333,
+    697.133333
+  ]
+}

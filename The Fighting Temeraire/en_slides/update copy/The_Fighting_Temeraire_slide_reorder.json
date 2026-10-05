@@ -1,0 +1,21 @@
+{
+  "manifest": "/Users/yingyuhsieh/Desktop/mcp/arts/The Fighting Temeraire/en_slides/The_Fighting_Temeraire_slide_manifest.json",
+  "original_count": 19,
+  "supplemental_count": 2,
+  "original_final": {
+    "from": "The_Fighting_Temeraire_slide_0019.png",
+    "to": "The_Fighting_Temeraire_slide_0021.png",
+    "sha256": "2921232e712a6d93579acaaa9847455d5eb34baeb15510db286c81161c61ed24"
+  },
+  "supplemental_renames": [
+    {
+      "from": "The_Fighting_Temeraire_slide_0020.png",
+      "to": "The_Fighting_Temeraire_slide_0019.png"
+    },
+    {
+      "from": "The_Fighting_Temeraire_slide_0021.png",
+      "to": "The_Fighting_Temeraire_slide_0020.png"
+    }
+  ],
+  "subtitle": "/Users/yingyuhsieh/Desktop/mcp/arts/The Fighting Temeraire/en_slides/subtitle/The_Fighting_Temeraire.txt"
+}
