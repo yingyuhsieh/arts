@@ -1,0 +1,184 @@
+{
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-3%",
+  "pause_seconds": 1.5,
+  "source_dimensions": [
+    [
+      1280,
+      720
+    ],
+    [
+      1672,
+      941
+    ]
+  ],
+  "dimensions": [
+    3840,
+    2160
+  ],
+  "slides": [
+    {
+      "slide": "Piero_della_Francesca_slide_0001.png",
+      "start_seconds": 0,
+      "speech_seconds": 45.45600907029478,
+      "hold_seconds": 46.95600907029478,
+      "end_seconds": 46.95600907029478
+    },
+    {
+      "slide": "Piero_della_Francesca_slide_0002.png",
+      "start_seconds": 46.95600907029478,
+      "speech_seconds": 25.72800453514739,
+      "hold_seconds": 27.22800453514739,
+      "end_seconds": 74.18401360544217
+    },
+    {
+      "slide": "Piero_della_Francesca_slide_0003.png",
+      "start_seconds": 74.18401360544217,
+      "speech_seconds": 58.39201814058957,
+      "hold_seconds": 59.89201814058957,
+      "end_seconds": 134.07603174603173
+    },
+    {
+      "slide": "Piero_della_Francesca_slide_0004.png",
+      "start_seconds": 134.07603174603173,
+      "speech_seconds": 2.3760090702947845,
+      "hold_seconds": 3.8760090702947845,
+      "end_seconds": 137.9520408163265
+    },
+    {
+      "slide": "Piero_della_Francesca_slide_0005.png",
+      "start_seconds": 137.9520408163265,
+      "speech_seconds": 60.21600907029478,
+      "hold_seconds": 61.71600907029478,
+      "end_seconds": 199.66804988662128
+    },
+    {
+      "slide": "Piero_della_Francesca_slide_0006.png",
+      "start_seconds": 199.66804988662128,
+      "speech_seconds": 30.88800453514739,
+      "hold_seconds": 32.38800453514739,
+      "end_seconds": 232.05605442176866
+    },
+    {
+      "slide": "Piero_della_Francesca_slide_0007.png",
+      "start_seconds": 232.05605442176866,
+      "speech_seconds": 5.04,
+      "hold_seconds": 6.54,
+      "end_seconds": 238.59605442176866
+    },
+    {
+      "slide": "Piero_della_Francesca_slide_0008.png",
+      "start_seconds": 238.59605442176866,
+      "speech_seconds": 57.16800453514739,
+      "hold_seconds": 58.66800453514739,
+      "end_seconds": 297.2640589569161
+    },
+    {
+      "slide": "Piero_della_Francesca_slide_0009.png",
+      "start_seconds": 297.2640589569161,
+      "speech_seconds": 41.13600907029478,
+      "hold_seconds": 42.63600907029478,
+      "end_seconds": 339.90006802721086
+    },
+    {
+      "slide": "Piero_della_Francesca_slide_0010.png",
+      "start_seconds": 339.90006802721086,
+      "speech_seconds": 36.93600907029479,
+      "hold_seconds": 38.43600907029479,
+      "end_seconds": 378.33607709750567
+    },
+    {
+      "slide": "Piero_della_Francesca_slide_0011.png",
+      "start_seconds": 378.33607709750567,
+      "speech_seconds": 3.2160090702947848,
+      "hold_seconds": 4.716009070294785,
+      "end_seconds": 383.05208616780044
+    },
+    {
+      "slide": "Piero_della_Francesca_slide_0012.png",
+      "start_seconds": 383.05208616780044,
+      "speech_seconds": 45.57600907029479,
+      "hold_seconds": 47.07600907029479,
+      "end_seconds": 430.1280952380952
+    },
+    {
+      "slide": "Piero_della_Francesca_slide_0013.png",
+      "start_seconds": 430.1280952380952,
+      "speech_seconds": 59.016009070294785,
+      "hold_seconds": 60.516009070294785,
+      "end_seconds": 490.64410430839
+    },
+    {
+      "slide": "Piero_della_Francesca_slide_0014.png",
+      "start_seconds": 490.64410430839,
+      "speech_seconds": 1.872018140589569,
+      "hold_seconds": 3.372018140589569,
+      "end_seconds": 494.01612244897956
+    },
+    {
+      "slide": "Piero_della_Francesca_slide_0015.png",
+      "start_seconds": 494.01612244897956,
+      "speech_seconds": 46.32,
+      "hold_seconds": 47.82,
+      "end_seconds": 541.8361224489796
+    },
+    {
+      "slide": "Piero_della_Francesca_slide_0016.png",
+      "start_seconds": 541.8361224489796,
+      "speech_seconds": 37.63201814058957,
+      "hold_seconds": 39.13201814058957,
+      "end_seconds": 580.9681405895692
+    },
+    {
+      "slide": "Piero_della_Francesca_slide_0017.png",
+      "start_seconds": 580.9681405895692,
+      "speech_seconds": 31.776009070294783,
+      "hold_seconds": 33.27600907029478,
+      "end_seconds": 614.244149659864
+    },
+    {
+      "slide": "Piero_della_Francesca_slide_0018.png",
+      "start_seconds": 614.244149659864,
+      "speech_seconds": 3.0,
+      "hold_seconds": 4.5,
+      "end_seconds": 618.744149659864
+    },
+    {
+      "slide": "Piero_della_Francesca_slide_0019.png",
+      "start_seconds": 618.744149659864,
+      "speech_seconds": 40.44,
+      "hold_seconds": 41.94,
+      "end_seconds": 660.684149659864
+    },
+    {
+      "slide": "Piero_della_Francesca_slide_0020.png",
+      "start_seconds": 660.684149659864,
+      "speech_seconds": 30.24,
+      "hold_seconds": 31.74,
+      "end_seconds": 692.424149659864
+    },
+    {
+      "slide": "Piero_della_Francesca_slide_0021.png",
+      "start_seconds": 692.424149659864,
+      "speech_seconds": 51.48,
+      "hold_seconds": 52.98,
+      "end_seconds": 745.4041496598641
+    },
+    {
+      "slide": "Piero_della_Francesca_slide_0022.png",
+      "start_seconds": 745.4041496598641,
+      "speech_seconds": 22.128004535147394,
+      "hold_seconds": 23.628004535147394,
+      "end_seconds": 769.0321541950115
+    },
+    {
+      "slide": "Piero_della_Francesca_slide_0023.png",
+      "start_seconds": 769.0321541950115,
+      "speech_seconds": 3.96,
+      "hold_seconds": 3.96,
+      "end_seconds": 772.9921541950115
+    }
+  ],
+  "expected_duration_seconds": 772.9921541950115,
+  "hard_cuts": 22
+}

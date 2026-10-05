@@ -27,7 +27,7 @@ Search web, review & make correction suggestion (繁中) 用 narrative 寫
 
 Title: 把幾何放進光裡的畫家：皮耶羅・德拉・弗朗切斯卡
 
-Title: William Turner's The Fighting Temeraire: A Warship’s Last Voyage
+Title: The Mathematician Who Painted Perspective: The Genius of Piero della Francesca
 
 # 中文 Video 產生 slide images 並加上背景
 使用 $video-to-slides
@@ -59,7 +59,7 @@ Replace ./Piero della Francesca/en_slides/update/Piero_della_Francesca_slide_000
 # 產生English video
 Use $en-make-video.
 Narration:
-./Piero della Francesca/en_slides/subtitle/.txt
+./Piero della Francesca/en_slides/subtitle/Piero_della_Francesca.txt
 Images:
 ./Piero della Francesca/en_slides/update
 
