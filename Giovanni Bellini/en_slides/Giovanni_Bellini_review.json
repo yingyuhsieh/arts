@@ -1,0 +1,67 @@
+{
+  "language": "English",
+  "original_slides": 20,
+  "supplemental_slides": 3,
+  "total_slides": 23,
+  "source_audio_duration_seconds": 556.93,
+  "dimensions": [
+    1280,
+    720
+  ],
+  "markdown_files_reviewed": [
+    "Giovanni Bellini (complete).md",
+    "Giovanni Bellini chatgpt.md",
+    "Giovanni Bellini claude.md",
+    "Giovanni Bellini 作品圖片連結.md",
+    "Giovanni Bellini 最重要的的作品.md",
+    "giovanni_bellini_youtube_en.md",
+    "giovanni_bellini_youtube_tw.md"
+  ],
+  "direct_author_images": [],
+  "corrections": [
+    {
+      "from": "rollbook",
+      "to": "rulebook"
+    },
+    {
+      "from": "Dossodossi",
+      "to": "Dosso Dossi"
+    },
+    {
+      "from": "Pesero",
+      "to": "Pesaro"
+    },
+    {
+      "from": "Ferrari church",
+      "to": "Frari church"
+    },
+    {
+      "from": "Isabella Deste",
+      "to": "Isabella d’Este"
+    },
+    {
+      "from": "tempura",
+      "to": "tempera"
+    },
+    {
+      "from": "Madonna’s / Madonna's",
+      "to": "Madonnas"
+    }
+  ],
+  "supplemental_sources": {
+    "slide_0020": "Giovanni Bellini (complete).md: 家族工坊、媒材; Giovanni Bellini chatgpt.md: 黎明、油彩交流",
+    "slide_0021": "Giovanni Bellini (complete).md: 自然中的神聖、聖匝加利亞; giovanni_bellini_youtube_en.md: Segments 5 and 7",
+    "slide_0022": "Giovanni Bellini (complete).md: 最後歲月、作品流傳; giovanni_bellini_youtube_en.md: Segments 6 and 9"
+  },
+  "audio_scope": "Complete original narration only, 556.93 seconds; no speed or pitch change. Supplemental narration is text for later recording. No new video assembled.",
+  "verification": [
+    "Every updated PNG opened and reviewed",
+    "23 ordered filename subtitle blocks",
+    "Moved original final SHA-256 checked before sticker; exactly one copy",
+    "Complete end sticker on slide 0023",
+    "Background preserved at 16:9",
+    "Artwork regions restored from source frames",
+    "git diff --check passed"
+  ],
+  "claim_policy": "Original spoken claims preserved. Added pages qualify disputed age, oil-paint development and the entirely secular late-career claim."
+}

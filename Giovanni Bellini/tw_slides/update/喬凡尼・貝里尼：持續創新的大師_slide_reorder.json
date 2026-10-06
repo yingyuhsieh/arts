@@ -1,0 +1,25 @@
+{
+  "manifest": "/Users/yingyuhsieh/Desktop/mcp/arts/Giovanni Bellini/tw_slides/喬凡尼・貝里尼：持續創新的大師_slide_manifest.json",
+  "original_count": 20,
+  "supplemental_count": 3,
+  "original_final": {
+    "from": "喬凡尼・貝里尼：持續創新的大師_slide_0020.png",
+    "to": "喬凡尼・貝里尼：持續創新的大師_slide_0023.png",
+    "sha256": "41f81feb07758382c1c446928e8335b1b29174e2ee65767a66d5ce3fc9564b8c"
+  },
+  "supplemental_renames": [
+    {
+      "from": "喬凡尼・貝里尼：持續創新的大師_slide_0021.png",
+      "to": "喬凡尼・貝里尼：持續創新的大師_slide_0020.png"
+    },
+    {
+      "from": "喬凡尼・貝里尼：持續創新的大師_slide_0022.png",
+      "to": "喬凡尼・貝里尼：持續創新的大師_slide_0021.png"
+    },
+    {
+      "from": "喬凡尼・貝里尼：持續創新的大師_slide_0023.png",
+      "to": "喬凡尼・貝里尼：持續創新的大師_slide_0022.png"
+    }
+  ],
+  "subtitle": "/Users/yingyuhsieh/Desktop/mcp/arts/Giovanni Bellini/tw_slides/subtitle/喬凡尼・貝里尼：持續創新的大師.txt"
+}

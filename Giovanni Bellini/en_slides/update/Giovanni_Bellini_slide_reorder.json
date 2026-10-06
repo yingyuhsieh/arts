@@ -1,0 +1,25 @@
+{
+  "manifest": "/Users/yingyuhsieh/Desktop/mcp/arts/Giovanni Bellini/en_slides/Giovanni_Bellini_slide_manifest.json",
+  "original_count": 20,
+  "supplemental_count": 3,
+  "original_final": {
+    "from": "Giovanni_Bellini_slide_0020.png",
+    "to": "Giovanni_Bellini_slide_0023.png",
+    "sha256": "7a6bd8980d326275c18fef14c2976f415bb962dd941b9ba45ce99470038661f3"
+  },
+  "supplemental_renames": [
+    {
+      "from": "Giovanni_Bellini_slide_0021.png",
+      "to": "Giovanni_Bellini_slide_0020.png"
+    },
+    {
+      "from": "Giovanni_Bellini_slide_0022.png",
+      "to": "Giovanni_Bellini_slide_0021.png"
+    },
+    {
+      "from": "Giovanni_Bellini_slide_0023.png",
+      "to": "Giovanni_Bellini_slide_0022.png"
+    }
+  ],
+  "subtitle": "/Users/yingyuhsieh/Desktop/mcp/arts/Giovanni Bellini/en_slides/subtitle/Giovanni_Bellini.txt"
+}

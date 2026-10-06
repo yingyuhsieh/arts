@@ -1,0 +1,44 @@
+{
+  "language": "en",
+  "source_duration_seconds": 544.298957,
+  "audio_duration_seconds": 544.299002,
+  "original_slides": 21,
+  "supplemental_slides": 4,
+  "final_slides": 25,
+  "dimensions": [
+    1280,
+    720
+  ],
+  "markdown_reviewed": [
+    "Albrecht-Dürer-自畫像的重要性.md",
+    "Albrecht Durer Self Portraits.md"
+  ],
+  "direct_candidate_images": [],
+  "corrections": [
+    "Durer / Durr / Dora → Dürer",
+    "a ringium → Eryngium",
+    "Silver Point → silverpoint"
+  ],
+  "supplemental_evidence": {
+    "0021": "Albrecht Durer Self Portraits.md, section 8, S01/S09/S10",
+    "0022": "Same document, sections 9–11, S11/S12/S14",
+    "0023": "Same document, sections 12–13, S15/S16/S17/S19",
+    "0024": "Same document, section 15, S05/S22"
+  },
+  "visual_review": "Every final PNG opened at 1280×720; readable panels added to 0007, 0008, 0009, 0017, 0020 while retaining each complete illustration as an inset. Timeline 0004 redrawn with the original wording and sequence. Original light backings restored on 0006, 0010, 0013, 0015, 0016, 0019. NotebookLM wordmark removed. End sticker fully visible on 0025.",
+  "narration_status": "Complete original audio extracted without speed or pitch changes. Supplemental text is not present in the original audio; no new narrated video was generated.",
+  "interpretation_note": "Original spoken claims retained; stronger certainty about motives and medical purpose is qualified in explicit supplemental sections. Dates differ between the two supplied research files; detailed collection-based file used for supplemental qualifications.",
+  "checks": [
+    "25 contiguous filenames",
+    "one ordered subtitle block per slide",
+    "all PNGs open at source size",
+    "16:9 reusable background retained",
+    "reorder script verified original-final SHA-256 before sticker application"
+  ],
+  "outputs": {
+    "background": "/Users/yingyuhsieh/Desktop/mcp/arts/Albrecht Dürer Self-Portrait/en_slides/Evolution_of_Dürer_s_Gaze_background.png",
+    "update": "/Users/yingyuhsieh/Desktop/mcp/arts/Albrecht Dürer Self-Portrait/en_slides/update",
+    "audio": "/Users/yingyuhsieh/Desktop/mcp/arts/Albrecht Dürer Self-Portrait/en_slides/audio/Evolution_of_Dürer_s_Gaze_audio.m4a",
+    "subtitle": "/Users/yingyuhsieh/Desktop/mcp/arts/Albrecht Dürer Self-Portrait/en_slides/subtitle/Evolution_of_Dürer_s_Gaze.txt"
+  }
+}

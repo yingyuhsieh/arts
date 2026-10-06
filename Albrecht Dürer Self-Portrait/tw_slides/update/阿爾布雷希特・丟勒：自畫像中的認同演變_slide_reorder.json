@@ -1,0 +1,29 @@
+{
+  "manifest": "/Users/yingyuhsieh/Desktop/mcp/arts/Albrecht Dürer Self-Portrait/tw_slides/阿爾布雷希特・丟勒：自畫像中的認同演變_slide_manifest.json",
+  "original_count": 21,
+  "supplemental_count": 4,
+  "original_final": {
+    "from": "阿爾布雷希特・丟勒：自畫像中的認同演變_slide_0021.png",
+    "to": "阿爾布雷希特・丟勒：自畫像中的認同演變_slide_0025.png",
+    "sha256": "23a88e2743c465795da67fab414911fdad781c98e3f12a04114058b277ead5ef"
+  },
+  "supplemental_renames": [
+    {
+      "from": "阿爾布雷希特・丟勒：自畫像中的認同演變_slide_0022.png",
+      "to": "阿爾布雷希特・丟勒：自畫像中的認同演變_slide_0021.png"
+    },
+    {
+      "from": "阿爾布雷希特・丟勒：自畫像中的認同演變_slide_0023.png",
+      "to": "阿爾布雷希特・丟勒：自畫像中的認同演變_slide_0022.png"
+    },
+    {
+      "from": "阿爾布雷希特・丟勒：自畫像中的認同演變_slide_0024.png",
+      "to": "阿爾布雷希特・丟勒：自畫像中的認同演變_slide_0023.png"
+    },
+    {
+      "from": "阿爾布雷希特・丟勒：自畫像中的認同演變_slide_0025.png",
+      "to": "阿爾布雷希特・丟勒：自畫像中的認同演變_slide_0024.png"
+    }
+  ],
+  "subtitle": "/Users/yingyuhsieh/Desktop/mcp/arts/Albrecht Dürer Self-Portrait/tw_slides/subtitle/阿爾布雷希特・丟勒：自畫像中的認同演變.txt"
+}
