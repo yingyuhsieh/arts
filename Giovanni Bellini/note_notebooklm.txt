@@ -59,7 +59,12 @@ Replace ./Giovanni Bellini/en_slides/update/Giovanni_Bellini_slide_0001.png by .
 # 產生English video
 Use $en-make-video.
 Narration:
-./Giovanni Bellini/en_slides/subtitle/.txt
+./Giovanni Bellini/en_slides/subtitle/Use $en-make-video.
+Narration:
+./Giovanni Bellini/en_slides/subtitle/Giovanni_Bellini.txt
+Images:
+./Giovanni Bellini/en_slides/update
+.txt
 Images:
 ./Giovanni Bellini/en_slides/update
 
@@ -75,13 +80,14 @@ Use $youtube-and-social-media-post with
 ------------------
 # 將中文音檔做影片
 Use $tw-video-integrate-audio-slide to combine my 中文 narration audio, slide images, script, and timing manifest into a YouTube-ready MP4.Use $tw-video-integrate-audio-slide to create a YouTube-ready video from:
-
 - Narration script:
-  ./Giovanni Bellini/en_slides/subtitle/.txt
+  ./Giovanni Bellini/tw_slides/subtitle/喬凡尼・貝里尼：持續創新的大師.txt
 - PNG slides:
-  ./Giovanni Bellini/en_slides/update
+  ./Giovanni Bellini/tw_slides/update
 - Narration audio:
-  ./Giovanni Bellini/en_slides/.m4a
+  ./Giovanni Bellini/tw_slides/audio/Sounds.m4a
+
+
 - Timing manifest:
   ./Giovanni Bellini/en_slides/slide_manifest.json
 

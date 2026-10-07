@@ -77,13 +77,13 @@ Use $youtube-and-social-media-post with
 Use $tw-video-integrate-audio-slide to combine my 中文 narration audio, slide images, script, and timing manifest into a YouTube-ready MP4.Use $tw-video-integrate-audio-slide to create a YouTube-ready video from:
 
 - Narration script:
-  ./<topic>/en_slides/subtitle/.txt
+  ./<topic>/tw_slides/subtitle/.txt
 - PNG slides:
-  ./<topic>/en_slides/update
+  ./<topic>/tw_slides/update
 - Narration audio:
-  ./<topic>/en_slides/.m4a
+  ./<topic>/tw_slides/.m4a
 - Timing manifest:
-  ./<topic>/en_slides/slide_manifest.json
+  ./<topic>/tw_slides/slide_manifest.json
 
 
 
