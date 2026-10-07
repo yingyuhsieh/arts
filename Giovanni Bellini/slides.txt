@@ -1,3 +1,54 @@
 Modify Giovanni Bellini\tw_slides\update\喬凡尼・貝里尼：持續創新的大師_slide_00.png
  and add image Giovanni Bellini\images\
  and make description larger and clear
+ and make description clear
+
+Use slide background Giovanni Bellini\tw_slides\喬凡尼・貝里尼：持續創新的大師_background.png
+Modify Giovanni Bellini\tw_slides\update\喬凡尼・貝里尼：持續創新的大師_slide_0002.png and add image Giovanni Bellini\images\Giovanni Bellini self-portrait.jp mark "喬凡尼・貝里尼" and add Giovanni Bellini\images\諸神的宴會 The Feast of the Gods (1514) mark "諸神的宴會" and add image Giovanni Bellini\images\Venetian painting 威尼斯畫派 combined.png mark "威尼斯畫派"
+Modify Giovanni Bellini\tw_slides\update\喬凡尼・貝里尼：持續創新的大師_slide_0003.png and remove "1" from image and add image Giovanni Bellini\images\諸神的宴會 The Feast of the Gods (1514) mark "諸神的宴會" and make image large and make description larger and clear
+Modify Giovanni Bellini\tw_slides\update\喬凡尼・貝里尼：持續創新的大師_slide_0004.png and add image Giovanni Bellini\images\Giovanni Bellini self-portrait.jpg mark "喬凡尼・貝里尼" and add image Giovanni Bellini\images\The fire at the Doge's Palace.jpg mark "The fire at the Doge's Palace"
+Modify Giovanni Bellini\tw_slides\update\喬凡尼・貝里尼：持續創新的大師_slide_0005.png and remove "2" from image and add image Giovanni Bellini\images\姐夫 曼特尼亞 Andrea Mantegna.png amr "姐夫 曼特尼亞 Andrea Mantegna" and add image Giovanni Bellini\images\The Lamentation over the Dead Christ by Andrea Mantegna.jpg mar "The Lamentation over the Dead Christ by Andrea Mantegna" and make description clear
+Modify Giovanni Bellini\tw_slides\update\喬凡尼・貝里尼：持續創新的大師_slide_0006.png and make description clear and mark left image "By Giovanni Bellini" and right image "By Andrea Mantegna"
+Modify Giovanni Bellini\tw_slides\update\喬凡尼・貝里尼：持續創新的大師_slide_0007.png and remove "3" from image and add image Giovanni Bellini\images\(p7) Pietà.jpg and make description clear
+Modify Giovanni Bellini\tw_slides\update\喬凡尼・貝里尼：持續創新的大師_slide_0008.png and add image Giovanni Bellini\images\哀悼基督（聖殤） Pietà (約 1460).jpg and make description larger and clear
+Modify Giovanni Bellini\tw_slides\update\喬凡尼・貝里尼：持續創新的大師_slide_0009.png and remove "4" from image and add image Giovanni Bellini\images\(p4) Christ Blessing, 1500; Tempera, oil, and gold on panel, Kimbell Art Museum, Texas.jpg mark "Christ Blessing (1500)" and make description clear
+Modify Giovanni Bellini\tw_slides\update\喬凡尼・貝里尼：持續創新的大師_slide_0010.png and make flow and make description clear 
+Modify Giovanni Bellini\tw_slides\update\喬凡尼・貝里尼：持續創新的大師_slide_0011.png and use image Giovanni Bellini\images\佩薩羅祭壇畫 Pesaro Altarpiece (約 1471–1483).JPG (put it in left and make it smaller) and add image Giovanni Bellini\images\佩薩羅祭壇畫 Pesaro Altarpiece bottom.JPG, 佩薩羅祭壇畫 Pesaro Altarpiece top.JPG and make description clear
+Modify Giovanni Bellini\tw_slides\update\喬凡尼・貝里尼：持續創新的大師_slide_0012.png and add image Giovanni Bellini\images\(p12) 弗拉里三聯畫 Frari Triptych Central panel.jpg and make description larger and clear
+Modify Giovanni Bellini\tw_slides\update\喬凡尼・貝里尼：持續創新的大師_slide_0013.png and add image Giovanni Bellini\images\Pesaro Triptych.png and make description clear
+Modify Giovanni Bellini\tw_slides\update\喬凡尼・貝里尼：持續創新的大師_slide_0014.png and make description larger and clear(p21) 荒野中的聖方濟各 St Francis in the Desert (約 1480).jpg mark "荒野中的聖方濟各"
+Modify Giovanni Bellini\tw_slides\update\喬凡尼・貝里尼：持續創新的大師_slide_0015.png and remove "5" from image and add image Giovanni Bellini\images\(p9) 總督李奧納多・洛雷丹肖像 Portrait of Doge Leonardo Loredan (約 1501) and make description larger and clear
+Modify Giovanni Bellini\tw_slides\update\喬凡尼・貝里尼：持續創新的大師_slide_0016.png and add image Giovanni Bellini\images\(p15) Dürer_Alte_Pinakothek.jpg mark "阿爾布雷希特·杜勒" and make description larger and clear
+Modify Giovanni Bellini\tw_slides\update\喬凡尼・貝里尼：持續創新的大師_slide_0017.png and make description larger and clear
+Modify Giovanni Bellini\tw_slides\update\喬凡尼・貝里尼：持續創新的大師_slide_0018.png and remove "6" and add image Giovanni Bellini\images\諸神的宴會 The Feast of the Gods (1514).jpg from image and make description clear
+Modify Giovanni Bellini\tw_slides\update\喬凡尼・貝里尼：持續創新的大師_slide_0019.png and make description larger and clear
+Modify Giovanni Bellini\tw_slides\update\喬凡尼・貝里尼：持續創新的大師_slide_0020.png and add image Giovanni Bellini\images\諸神的宴會 The Feast of the Gods (1514).jpg and add image Giovanni Bellini\images\諸神的宴會 The Feast of the Gods The pheasant may have been painted by Duke Alfonso.jpg mark "By Duke Alfonso" and add image Giovanni Bellini\images\諸神的宴會 The Feast of the Gods Titian's landscape to the left of the painting.jpg mark "By Titian"
+Modify Giovanni Bellini\tw_slides\update\喬凡尼・貝里尼：持續創新的大師_slide_0021.png and add image Giovanni Bellini\images\草地上的聖母 Madonna of the Meadow (約 1505).jpg mark "Madonna of the Meadow" and make description larger and clear 
+
+Modify Giovanni Bellini\en_slides\update\Giovanni_Bellini_slide_00.png
+ and add image Giovanni Bellini\images\
+ and make description larger and clear
+ and make description clear
+ 
+Use slides background Giovanni Bellini\en_slides\Giovanni_Bellini_background.png
+Modify Giovanni Bellini\en_slides\update\Giovanni_Bellini_slide_0002.png and add image Giovanni Bellini\images\(p15) Dürer_Alte_Pinakothek.jpg mar "Albrecht Dürer" and make Albrecht Dürer to say "He is very old, but still the best in painting."
+Modify Giovanni Bellini\en_slides\update\Giovanni_Bellini_slide_0003.png and remove "1" from image and add image Giovanni Bellini\images\Giovanni Bellini self-portrait.jpg mark "Giovanni Bellini Self-Portrait"
+Modify Giovanni Bellini\en_slides\update\Giovanni_Bellini_slide_0004.png and add image Giovanni Bellini\images\諸神的宴會 The Feast of the Gods (1514).jpg mark "The Feast of the Gods (1514 & about 86 years old)" and make description clear
+Modify Giovanni Bellini\en_slides\update\Giovanni_Bellini_slide_0005.png and remove "2" from image and add image Giovanni Bellini\images\姐夫 曼特尼亞 Andrea Mantegna.png amr "姐夫 曼特尼亞 Andrea Mantegna" and add image Giovanni Bellini\images\The Lamentation over the Dead Christ by Andrea Mantegna.jpg mar "The Lamentation over the Dead Christ by Andrea Mantegna" and make description clear
+Modify Giovanni Bellini\en_slides\update\Giovanni_Bellini_slide_0006.png and make description clear and mark right image "By Giovanni Bellini" and lert image "By Andrea Mantegna"
+Modify Giovanni Bellini\en_slides\update\Giovanni_Bellini_slide_0007.png and make description larger and clear
+Modify Giovanni Bellini\en_slides\update\Giovanni_Bellini_slide_0008.png and remove "3" from image and add image Giovanni Bellini\images\(p7) Pietà.jpg and make description clear
+Modify Giovanni Bellini\en_slides\update\Giovanni_Bellini_slide_0009.png and use image Giovanni Bellini\images\哀悼基督（聖殤） Pietà (約 1460).jpg and make description clear
+Modify Giovanni Bellini\en_slides\update\Giovanni_Bellini_slide_0010.png and remove "4" from image and add image Giovanni Bellini\images\佩薩羅祭壇畫 Pesaro Altarpiece bottom.JPG and make description clear and add image Giovanni Bellini\images\Coronation of the Virgin.jpg
+Modify Giovanni Bellini\en_slides\update\Giovanni_Bellini_slide_0011.png and use image Giovanni Bellini\images\Coronation of the Virgin.jpg and make description larger and clear 
+Modify Giovanni Bellini\en_slides\update\Giovanni_Bellini_slide_0012.png and make image larger and make description larger and clear
+Modify Giovanni Bellini\en_slides\update\Giovanni_Bellini_slide_0013.png and remove "5" from image and add image Giovanni Bellini\images\諸神的宴會 The Feast of the Gods (1514).jpg and make description clear
+Modify Giovanni Bellini\en_slides\update\Giovanni_Bellini_slide_0014.png and add image Giovanni Bellini\images\Isabella d’Este.jpg
+Modify Giovanni Bellini\en_slides\update\Giovanni_Bellini_slide_0015.png and add image Giovanni Bellini\images\(p4) Christ Blessing, 1500; Tempera, oil, and gold on panel, Kimbell Art Museum, Texas.jpg" mark "Christ Blessing (1500)" and make description clear
+Modify Giovanni Bellini\en_slides\update\Giovanni_Bellini_slide_0016.png and make description larger and clear
+Modify Giovanni Bellini\en_slides\update\Giovanni_Bellini_slide_0017.png and make description clear
+Modify Giovanni Bellini\en_slides\update\Giovanni_Bellini_slide_0018.png and make flow and description clear
+Modify Giovanni Bellini\en_slides\update\Giovanni_Bellini_slide_0019.png and add image Giovanni Bellini\images\Self-portrait.jpg and 客西馬尼園祈禱 The Agony in the Garden (約 1459).jpg and make description clear 
+Modify Giovanni Bellini\en_slides\update\Giovanni_Bellini_slide_0020.png and add image Giovanni Bellini\images\(p21) 荒野中的聖方濟各 St Francis in the Desert (約 1480).jpg and mark "St Francis in the Desert" and 聖匝加利亞祭壇畫 San Zaccaria Altarpiece.jpg mark "San Zaccaria Altarpiece" and make description clear 
+Modify Giovanni Bellini\en_slides\update\Giovanni_Bellini_slide_0021.png and add image Giovanni Bellini\images\佩薩羅祭壇畫 Pesaro Altarpiece (約 1471–1483).JPG mark "Pesaro Altarpiece" and The fire at the Doge's Palace.jpg mark "The fire at the Doge's Palace"
+Modify Giovanni Bellini\en_slides\update\Giovanni_Bellini_slide_0022.png and add image Giovanni Bellini\images\Detail of the faces of Christ and the Virgin.jpg and Venetian painting 威尼斯畫派 combined.png mark "Venetian Painting (Carlo Crivelli, Titian, Vittore Carpaccio, Tintoretto)"
