@@ -1,0 +1,41 @@
+{
+  "video": "/Users/yingyuhsieh/Desktop/mcp/arts/Giovanni Bellini/tw_slides/update/video/喬凡尼・貝里尼：持續創新的大師_4k.mp4",
+  "file_bytes": 142094776,
+  "source_audio": "/Users/yingyuhsieh/Desktop/mcp/arts/Giovanni Bellini/tw_slides/audio/Sounds.m4a",
+  "timing_source": "/Users/yingyuhsieh/Desktop/mcp/arts/Giovanni Bellini/tw_slides/update/video/Sounds_slide_manifest.json",
+  "slides": 22,
+  "expected_hard_cuts": 21,
+  "source_dimensions": [
+    [
+      1280,
+      720
+    ],
+    [
+      1672,
+      940
+    ],
+    [
+      1672,
+      941
+    ],
+    [
+      3840,
+      2160
+    ]
+  ],
+  "dimensions": [
+    3840,
+    2160
+  ],
+  "scaling": "proportional Lanczos; no crop",
+  "motion": "none",
+  "external_subtitles": false,
+  "video_codec": "h264",
+  "audio_codec": "aac",
+  "video_duration_seconds": 670.833,
+  "audio_duration_seconds": 670.804,
+  "fps": 30.0,
+  "video_frames": 20125,
+  "subtitle_streams": 0,
+  "source_images_dir": "/Users/yingyuhsieh/Desktop/mcp/arts/Giovanni Bellini/tw_slides/update"
+}
