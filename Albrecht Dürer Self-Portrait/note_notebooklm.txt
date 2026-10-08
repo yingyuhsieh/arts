@@ -48,8 +48,8 @@ Use a meticulously detailed Northern Renaissance style inspired by Albrecht Dür
 
 # 中文 Replace 1st slide with youtbute thumimage
 # English Replace 1st slide with youtbute thumimage
-Replace D:\arts\Albrecht Dürer Self-Portrait\tw_slides\update\阿爾布雷希特・丟勒：自畫像中的認同演變_slide_0001.png by D:\arts\Albrecht Dürer Self-Portrait\YouTube\500年前的「自拍始祖」？拆解阿爾布雷希特・丟勒的認同演變與凝視密碼.png with size 1280x720
-Replace D:\arts\Albrecht Dürer Self-Portrait\en_slides\update\Evolution_of_Dürer_s_Gaze_slide_0001.png by D:\arts\Albrecht Dürer Self-Portrait\YouTube\The Original "Selfie Master"? How Albrecht Dürer Revolutionized Artist Identity.png with size 1280x720
+Replace ./Albrecht Dürer Self-Portrait/tw_slides/update/阿爾布雷希特・丟勒：自畫像中的認同演變_slide_0001.png by ./Albrecht Dürer Self-Portrait/YouTube/500年前的「自拍始祖」？拆解阿爾布雷希特・丟勒的認同演變與凝視密碼.png with size 1280x720
+Replace ./Albrecht Dürer Self-Portrait/en_slides/update/Evolution_of_Dürer_s_Gaze_slide_0001.png by ./arts/Albrecht Dürer Self-Portrait/YouTube/The Original "Selfie Master"? How Albrecht Dürer Revolutionized Artist Identity.png with size 1280x720
 
 
 # 產生中文 video
