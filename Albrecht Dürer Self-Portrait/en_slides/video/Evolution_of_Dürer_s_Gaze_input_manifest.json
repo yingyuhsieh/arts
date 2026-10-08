@@ -1,0 +1,154 @@
+{
+  "production_narration": "/Users/yingyuhsieh/Desktop/mcp/arts/Albrecht Dürer Self-Portrait/en_slides/subtitle/production/Evolution_of_Dürer_s_Gaze.txt",
+  "original_narration": "/Users/yingyuhsieh/Desktop/mcp/arts/Albrecht Dürer Self-Portrait/en_slides/subtitle/Evolution_of_Dürer_s_Gaze.txt",
+  "narration_changes": [
+    7,
+    15,
+    16,
+    17,
+    23
+  ],
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-3%",
+  "pause_seconds": 1.5,
+  "slides": [
+    {
+      "index": 1,
+      "image": "Evolution_of_Dürer_s_Gaze_slide_0001.png",
+      "image_sha256": "b336d7513bc52391173516fbcddec3f2969eb93c9bb94bfd360a91a0531277a8",
+      "words": 98
+    },
+    {
+      "index": 2,
+      "image": "Evolution_of_Dürer_s_Gaze_slide_0002.png",
+      "image_sha256": "433459de10b8a82c69f6ceae19b24c370fa5afd6aa8bf9f5c7b12011721291ca",
+      "words": 100
+    },
+    {
+      "index": 3,
+      "image": "Evolution_of_Dürer_s_Gaze_slide_0003.png",
+      "image_sha256": "0831aad9592c3bc79574f88f9c05b0d7b580593dc4669679575353632e951c99",
+      "words": 106
+    },
+    {
+      "index": 4,
+      "image": "Evolution_of_Dürer_s_Gaze_slide_0004.png",
+      "image_sha256": "459bd938b817a2fbae2b38d1b5c4eb633874aa1d6a5a2ff900a96b2aa1aeab14",
+      "words": 60
+    },
+    {
+      "index": 5,
+      "image": "Evolution_of_Dürer_s_Gaze_slide_0005.png",
+      "image_sha256": "1dbdc42289d00c1130063dfc1f08779b9b531ff30be67d5755e924120d94e5d4",
+      "words": 4
+    },
+    {
+      "index": 6,
+      "image": "Evolution_of_Dürer_s_Gaze_slide_0006.png",
+      "image_sha256": "d07981fd62522e06b389fe55e34c595093b9e7556767e82fc654896319a42007",
+      "words": 105
+    },
+    {
+      "index": 7,
+      "image": "Evolution_of_Dürer_s_Gaze_slide_0007.png",
+      "image_sha256": "06457d1f8cfc48f439e1aa1799874d4e47d6224038242173faf3ca115656b9cb",
+      "words": 101
+    },
+    {
+      "index": 8,
+      "image": "Evolution_of_Dürer_s_Gaze_slide_0008.png",
+      "image_sha256": "56610c951d2e7ff2789e1cb29d2095f3ca976dabb9ece79344520197551263c7",
+      "words": 4
+    },
+    {
+      "index": 9,
+      "image": "Evolution_of_Dürer_s_Gaze_slide_0009.png",
+      "image_sha256": "bae1db7faa984ef049e4c8052240d269ee24fccabca5aa4ac76d5d921b1d284d",
+      "words": 147
+    },
+    {
+      "index": 10,
+      "image": "Evolution_of_Dürer_s_Gaze_slide_0010.png",
+      "image_sha256": "afe25d02a5c483a5f94a0daa1276db419c28a2b040bb95cbc5bd01007d224a5f",
+      "words": 111
+    },
+    {
+      "index": 11,
+      "image": "Evolution_of_Dürer_s_Gaze_slide_0011.png",
+      "image_sha256": "f20a480fd53efde229e951af3889c13500ae06169af4d0b72d37f8a82823c288",
+      "words": 4
+    },
+    {
+      "index": 12,
+      "image": "Evolution_of_Dürer_s_Gaze_slide_0012.png",
+      "image_sha256": "e23e7a948c6a2d6a18abd87e31ca1e798eade9e3a71d3d29b479adfc280154f3",
+      "words": 101
+    },
+    {
+      "index": 13,
+      "image": "Evolution_of_Dürer_s_Gaze_slide_0013.png",
+      "image_sha256": "1e93bc369708abed103efb55b4bddc3e3dcb9e982f4cb53b78d4f6172c10231b",
+      "words": 101
+    },
+    {
+      "index": 14,
+      "image": "Evolution_of_Dürer_s_Gaze_slide_0014.png",
+      "image_sha256": "74edba59e60f1f0b0e31e85a84772a919b5e3ac80f0118808d122ac4e4475830",
+      "words": 4
+    },
+    {
+      "index": 15,
+      "image": "Evolution_of_Dürer_s_Gaze_slide_0015.png",
+      "image_sha256": "9128858b5329c648379696b6823afcd296aacfe36fc8679f861e835c8dcdc367",
+      "words": 108
+    },
+    {
+      "index": 16,
+      "image": "Evolution_of_Dürer_s_Gaze_slide_0016.png",
+      "image_sha256": "8f31e39066976a7f7d45f1cc48f5808e56bd05f8c4d3e7fdd2c9df8cc44a94a6",
+      "words": 113
+    },
+    {
+      "index": 17,
+      "image": "Evolution_of_Dürer_s_Gaze_slide_0017.png",
+      "image_sha256": "1d77709404f9e311fc628984fb9bba800679a4b48aefe8cdfce11470130884f9",
+      "words": 99
+    },
+    {
+      "index": 18,
+      "image": "Evolution_of_Dürer_s_Gaze_slide_0018.png",
+      "image_sha256": "49ed2b2f951d79c8a29849102a796631441a8c34ce57014f76f7883c934e0344",
+      "words": 4
+    },
+    {
+      "index": 19,
+      "image": "Evolution_of_Dürer_s_Gaze_slide_0019.png",
+      "image_sha256": "adf10fb7ea73a28b76781ee582601a5dbf47a0d2cd026899b684518b6c9a7dc7",
+      "words": 120
+    },
+    {
+      "index": 20,
+      "image": "Evolution_of_Dürer_s_Gaze_slide_0020.png",
+      "image_sha256": "2d77789f005d039d639c973fb1887d3bfb72c0ff7ee7d27f28ef3c2b9a22baaa",
+      "words": 67
+    },
+    {
+      "index": 21,
+      "image": "Evolution_of_Dürer_s_Gaze_slide_0021.png",
+      "image_sha256": "89e3ea88f5f534ccdac29771896737f5ba1fc7d01830b41c8431846ce1cf1c03",
+      "words": 56
+    },
+    {
+      "index": 22,
+      "image": "Evolution_of_Dürer_s_Gaze_slide_0022.png",
+      "image_sha256": "285dff61a5b77fa76a5019663ddb4569238d9dc81c168f3e1a80eb836e0421dd",
+      "words": 61
+    },
+    {
+      "index": 23,
+      "image": "Evolution_of_Dürer_s_Gaze_slide_0023.png",
+      "image_sha256": "cccca8a41af8d8f8a24a9a8b0dd8e44f09600a7e091819ba8327bc7a25aba5bc",
+      "words": 8
+    }
+  ]
+}

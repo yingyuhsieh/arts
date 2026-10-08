@@ -62,7 +62,7 @@ Replace ./Albrecht Dürer Self-Portrait/en_slides/update/Evolution_of_Dürer_s_G
 # 產生English video
 Use $en-make-video.
 Narration:
-./Albrecht Dürer Self-Portrait/en_slides/subtitle/.txt
+./Albrecht Dürer Self-Portrait/en_slides/subtitle/Evolution_of_Dürer_s_Gaze.txt
 Images:
 ./Albrecht Dürer Self-Portrait/en_slides/update
 

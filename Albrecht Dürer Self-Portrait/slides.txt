@@ -32,6 +32,8 @@ Modify Albrecht Dürer Self-Portrait\en_slides\update\Evolution_of_Dürer_s_Gaze
  and make description larger and clear
  and make description clear
 
+Use Albrecht Dürer Self-Portrait/en_slides/update copy as slide background.
+These images are YouTube video slides, please make them 活潑明顯可讀看
 Modify Albrecht Dürer Self-Portrait\en_slides\update\Evolution_of_Dürer_s_Gaze_slide_0002.png and add image Albrecht Dürer Self-Portrait\images\combined-4x2-transparent.png and make descrition clearn and make description larger and clear
 Modify Albrecht Dürer Self-Portrait\en_slides\update\Evolution_of_Dürer_s_Gaze_slide_0003.png and add image Albrecht Dürer Self-Portrait\images\02_02_Duerer,_Albrecht_-_Self-Portrait_at_Thirteen.jpeg and make description larger and clear
 Modify Albrecht Dürer Self-Portrait\en_slides\update\Evolution_of_Dürer_s_Gaze_slide_0004.png and make flow and description clear
@@ -51,7 +53,7 @@ Modify Albrecht Dürer Self-Portrait\en_slides\update\Evolution_of_Dürer_s_Gaze
 Modify Albrecht Dürer Self-Portrait\en_slides\update\Evolution_of_Dürer_s_Gaze_slide_0018.png and add image Albrecht Dürer Self-Portrait\images\combined-4x2-transparent.png and make description larger and clear
 Modify Albrecht Dürer Self-Portrait\en_slides\update\Evolution_of_Dürer_s_Gaze_slide_0019.png and make description clear
 Modify Albrecht Dürer Self-Portrait\en_slides\update\Evolution_of_Dürer_s_Gaze_slide_0020.png and add image Albrecht Dürer Self-Portrait\images\患病自畫像 Self-Portrait, Sick 1509-1511.jpg, 裸體自畫像 Self-Portrait in the Nude 1505.jpg and make description clear
-Modify Albrecht Dürer Self-Portrait\en_slides\update\Evolution_of_Dürer_s_Gaze_slide_00.png and add image Albrecht Dürer Self-Portrait\images\Hans Hoffmann.png mark "Hans Hoffmann lead Dürer Renaissance", Thomas Struth , Alte Pinakothek, Self-Portrait, Munich 2000, 2000.png mark "Alte Pinakothek, Self-Portrait, Munich 2000 by Thomas Struth" and make description clear
+Modify Albrecht Dürer Self-Portrait\en_slides\update\Evolution_of_Dürer_s_Gaze_slide_0021.png and add image Albrecht Dürer Self-Portrait\images\Hans Hoffmann.png mark "Hans Hoffmann lead Dürer Renaissance", Thomas Struth , Alte Pinakothek, Self-Portrait, Munich 2000, 2000.png mark "Alte Pinakothek, Self-Portrait, Munich 2000 by Thomas Struth" and make description clear
 Modify Albrecht Dürer Self-Portrait\en_slides\update\Evolution_of_Dürer_s_Gaze_slide_0022.png and add image Albrecht Dürer Self-Portrait\images\十三歲自畫像 Self-Portrait at Thirteen 1484.jpg, 手持刺芹自畫像 Self-Portrait with Eryngium (Thistle) 1493.jpg, 毛皮領外袍自畫像 Self-Portrait with Fur-Trimmed Robe 1500.jpg, 裸體自畫像 Self-Portrait in the Nude 1505.jpg and make description clear
 
 

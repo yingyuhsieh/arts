@@ -46,6 +46,7 @@
 14. Lucas Cranach the Elder (1472–1553)
 15. Michelangelo Buonarroti (1475–1564)
 16. Raphael Santi (1483–1520)
+17. Antonio Allegri da Correggio (1489-1534)
 17. Tiziano Vecellio (1488/1490–1576)
 18. Hans Holbein the Younger (1497–1543)
 

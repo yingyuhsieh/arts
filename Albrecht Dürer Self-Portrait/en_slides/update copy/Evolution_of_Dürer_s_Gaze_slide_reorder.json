@@ -1,0 +1,29 @@
+{
+  "manifest": "/Users/yingyuhsieh/Desktop/mcp/arts/Albrecht Dürer Self-Portrait/en_slides/Evolution_of_Dürer_s_Gaze_slide_manifest.json",
+  "original_count": 21,
+  "supplemental_count": 4,
+  "original_final": {
+    "from": "Evolution_of_Dürer_s_Gaze_slide_0021.png",
+    "to": "Evolution_of_Dürer_s_Gaze_slide_0025.png",
+    "sha256": "0f031373ff1840e51cb3f7377149c89ff8b696df372db0a714de0ebcdc4f704f"
+  },
+  "supplemental_renames": [
+    {
+      "from": "Evolution_of_Dürer_s_Gaze_slide_0022.png",
+      "to": "Evolution_of_Dürer_s_Gaze_slide_0021.png"
+    },
+    {
+      "from": "Evolution_of_Dürer_s_Gaze_slide_0023.png",
+      "to": "Evolution_of_Dürer_s_Gaze_slide_0022.png"
+    },
+    {
+      "from": "Evolution_of_Dürer_s_Gaze_slide_0024.png",
+      "to": "Evolution_of_Dürer_s_Gaze_slide_0023.png"
+    },
+    {
+      "from": "Evolution_of_Dürer_s_Gaze_slide_0025.png",
+      "to": "Evolution_of_Dürer_s_Gaze_slide_0024.png"
+    }
+  ],
+  "subtitle": "/Users/yingyuhsieh/Desktop/mcp/arts/Albrecht Dürer Self-Portrait/en_slides/subtitle/Evolution_of_Dürer_s_Gaze.txt"
+}
