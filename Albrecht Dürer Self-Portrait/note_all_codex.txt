@@ -29,9 +29,9 @@ Use a meticulously detailed Northern Renaissance style inspired by Albrecht Dür
 # Verify contents from AI
 Search web, review & make correction suggestion (繁中) 用 narrative 寫
 
-Title: <TC>
+Title:  500年前的「自拍始祖」？拆解阿爾布雷希特・丟勒的認同演變與凝視密碼
 
-Title: <EN>
+Title: The Original "Selfie Master"? How Albrecht Dürer Revolutionized Artist Identity
 
 $create-youtube-slides by <files>
 背景風格描述：
