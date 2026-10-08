@@ -1,0 +1,60 @@
+Modify Albrecht Dürer Self-Portrait\tw_slides\update\阿爾布雷希特・丟勒：自畫像中的認同演變_slide_00.png
+ and add image Albrecht Dürer Self-Portrait\images\
+ and make description larger and clear
+ and make description clear
+ 
+ 
+Use Albrecht Dürer Self-Portrait\tw_slides\阿爾布雷希特・丟勒：自畫像中的認同演變_background.png as slides background
+Modify Albrecht Dürer Self-Portrait\tw_slides\update\阿爾布雷希特・丟勒：自畫像中的認同演變_slide_0002.png and add image Albrecht Dürer Self-Portrait\images\combined-4x2-transparent.png and make descrition clearn
+Modify Albrecht Dürer Self-Portrait\tw_slides\update\阿爾布雷希特・丟勒：自畫像中的認同演變_slide_0003.png and make flow and description clear
+Modify Albrecht Dürer Self-Portrait\tw_slides\update\阿爾布雷希特・丟勒：自畫像中的認同演變_slide_0004.png and remove "1" from image and add image Albrecht Dürer Self-Portrait\images\(p4) Self-Portrait at 13 at albertina.png and make description larger and clear
+Modify Albrecht Dürer Self-Portrait\tw_slides\update\阿爾布雷希特・丟勒：自畫像中的認同演變_slide_0005.png and add image Albrecht Dürer Self-Portrait\images\十三歲自畫像 Self-Portrait at Thirteen 1484.jpg and make description clear
+Modify Albrecht Dürer Self-Portrait\tw_slides\update\阿爾布雷希特・丟勒：自畫像中的認同演變_slide_0006.png and add image Albrecht Dürer Self-Portrait\images\十三歲自畫像 Self-Portrait at Thirteen 1484.jpg and make description larger and clear
+Modify Albrecht Dürer Self-Portrait\tw_slides\update\阿爾布雷希特・丟勒：自畫像中的認同演變_slide_0007.png and remove "2" from image and add image Albrecht Dürer Self-Portrait\images\The Death of Orpheus (1494).jpg and mark "The Death Orpheus (1494)" and make description clear
+Modify Albrecht Dürer Self-Portrait\tw_slides\update\阿爾布雷希特・丟勒：自畫像中的認同演變_slide_0008.png and add image Albrecht Dürer Self-Portrait\images\手持刺芹自畫像 Self-Portrait with Eryngium (Thistle) 1493.jpg and make description clear
+Modify Albrecht Dürer Self-Portrait\tw_slides\update\阿爾布雷希特・丟勒：自畫像中的認同演變_slide_0009.png and add image Albrecht Dürer Self-Portrait\images\(p9) My affairs follow the course allotted to them on high.png and make description larger and clear 
+Modify Albrecht Dürer Self-Portrait\tw_slides\update\阿爾布雷希特・丟勒：自畫像中的認同演變_slide_0010.png and add image Albrecht Dürer Self-Portrait\images\二十六歲自畫像 Self-Portrait at 26 1498.jpg mark "二十六歲自畫像"
+Modify Albrecht Dürer Self-Portrait\tw_slides\update\阿爾布雷希特・丟勒：自畫像中的認同演變_slide_0011.png and remove "3" from image and add image Albrecht Dürer Self-Portrait\images\毛皮領外袍自畫像 Self-Portrait with Fur-Trimmed Robe 1500.jpg and make description clear
+Modify Albrecht Dürer Self-Portrait\tw_slides\update\阿爾布雷希特・丟勒：自畫像中的認同演變_slide_0012.png and add image Albrecht Dürer Self-Portrait\images\Lamentation of Christ 1500.JPG mark "Lamentation of Christ (1500)" and make description larger and clear
+Modify Albrecht Dürer Self-Portrait\tw_slides\update\阿爾布雷希特・丟勒：自畫像中的認同演變_slide_0013.png and replace left image by Albrecht Dürer Self-Portrait\images\(p13) 1500-head and bottom image by Albrecht Dürer Self-Portrait\images\(p13) 1500-hand.png and make description larger and clear
+Modify Albrecht Dürer Self-Portrait\tw_slides\update\阿爾布雷希特・丟勒：自畫像中的認同演變_slide_0014.png and replace left image by 二十六歲自畫像 Albrecht Dürer Self-Portrait\images\Self-Portrait at 26 1498.jpg and right image by Albrecht Dürer Self-Portrait\images\患病自畫像 Self-Portrait, Sick 1509-1511.jpg and make description clear
+Modify Albrecht Dürer Self-Portrait\tw_slides\update\阿爾布雷希特・丟勒：自畫像中的認同演變_slide_0015.png and remove "4" from image and add image Albrecht Dürer Self-Portrait\images\Christ as the Man of Sorrows (1493).jpg mark "Christ as the Man of Sorrows (1493)"
+Modify Albrecht Dürer Self-Portrait\tw_slides\update\阿爾布雷希特・丟勒：自畫像中的認同演變_slide_0016.png and add image Albrecht Dürer Self-Portrait\images\患病自畫像 Self-Portrait, Sick 1509-1511.jpg and make description larger and clear 
+Modify Albrecht Dürer Self-Portrait\tw_slides\update\阿爾布雷希特・丟勒：自畫像中的認同演變_slide_0017.png and add image Albrecht Dürer Self-Portrait\images\(p17) pain.png and make description clear
+Modify Albrecht Dürer Self-Portrait\tw_slides\update\阿爾布雷希特・丟勒：自畫像中的認同演變_slide_0018.png and remove "5" from image and add image Albrecht Dürer Self-Portrait\images\03_03_Selbstbildnis_mit_Binde_(Duerer).jpg, 05_05_Met_Self_portrait_hand_pillow_recto.jpg and make description larger and clear
+Modify Albrecht Dürer Self-Portrait\tw_slides\update\阿爾布雷希特・丟勒：自畫像中的認同演變_slide_0019.png and add image Albrecht Dürer Self-Portrait\images\Albrecht Duerer Man of Sorrows drawing.jpg and make description clear
+Modify Albrecht Dürer Self-Portrait\tw_slides\update\阿爾布雷希特・丟勒：自畫像中的認同演變_slide_0020.png and add image Albrecht Dürer Self-Portrait\images\Thomas Struth , Alte Pinakothek, Self-Portrait, Munich 2000, 2000.png mark "Alte Pinakothek, Self-Portrait, Munich 2000" and make description larger and clear
+Modify Albrecht Dürer Self-Portrait\tw_slides\update\阿爾布雷希特・丟勒：自畫像中的認同演變_slide_0021.png and add image Albrecht Dürer Self-Portrait\images\02_02_Duerer,_Albrecht_-_Self-Portrait_at_Thirteen.jpeg and make description larger and clear 
+
+
+Modify Albrecht Dürer Self-Portrait\en_slides\update\Evolution_of_Dürer_s_Gaze_slide_00.png
+ and add image Albrecht Dürer Self-Portrait\images\
+ and make description larger and clear
+ and make description clear
+
+Modify Albrecht Dürer Self-Portrait\en_slides\update\Evolution_of_Dürer_s_Gaze_slide_0002.png and add image Albrecht Dürer Self-Portrait\images\combined-4x2-transparent.png and make descrition clearn and make description larger and clear
+Modify Albrecht Dürer Self-Portrait\en_slides\update\Evolution_of_Dürer_s_Gaze_slide_0003.png and add image Albrecht Dürer Self-Portrait\images\02_02_Duerer,_Albrecht_-_Self-Portrait_at_Thirteen.jpeg and make description larger and clear
+Modify Albrecht Dürer Self-Portrait\en_slides\update\Evolution_of_Dürer_s_Gaze_slide_0004.png and make flow and description clear
+Modify Albrecht Dürer Self-Portrait\en_slides\update\Evolution_of_Dürer_s_Gaze_slide_0005.png and remove "1" from image and add image Albrecht Dürer Self-Portrait\images\(p4) Self-Portrait at 13 at albertina.png and make description larger and clear
+Modify Albrecht Dürer Self-Portrait\en_slides\update\Evolution_of_Dürer_s_Gaze_slide_0006.png and make description clear
+Modify Albrecht Dürer Self-Portrait\en_slides\update\Evolution_of_Dürer_s_Gaze_slide_0007.png and replace right image Albrecht Dürer Self-Portrait\images\02_02_Duerer,_Albrecht_-_Self-Portrait_at_Thirteen.jpeg and make description larger and clear
+Modify Albrecht Dürer Self-Portrait\en_slides\update\Evolution_of_Dürer_s_Gaze_slide_0008.png and remove "2" and add image Albrecht Dürer Self-Portrait\images\The Death of Orpheus (1494).jpg and mark "The Death Orpheus (1494)" and make description larger and clear
+Modify Albrecht Dürer Self-Portrait\en_slides\update\Evolution_of_Dürer_s_Gaze_slide_0009.png and use image Albrecht Dürer Self-Portrait\images\手持刺芹自畫像 Self-Portrait with Eryngium (Thistle) 1493.jpg and make description clear
+Modify Albrecht Dürer Self-Portrait\en_slides\update\Evolution_of_Dürer_s_Gaze_slide_0010.png and make description larger and clear
+Modify Albrecht Dürer Self-Portrait\en_slides\update\Evolution_of_Dürer_s_Gaze_slide_0011.png and add image Albrecht Dürer Self-Portrait\images\毛皮領外袍自畫像 Self-Portrait with Fur-Trimmed Robe 1500.jpg and make description larger and clear
+Modify Albrecht Dürer Self-Portrait\en_slides\update\Evolution_of_Dürer_s_Gaze_slide_0012.png and add image Albrecht Dürer Self-Portrait\images\毛皮領外袍自畫像 Self-Portrait with Fur-Trimmed Robe 1500.jpg, Christ as the Man of Sorrows (1493).jpg mark "Christ as the Man of Sorrows (1493)" and make description larger and clear
+Modify Albrecht Dürer Self-Portrait\en_slides\update\Evolution_of_Dürer_s_Gaze_slide_0013.png and left image by Albrecht Dürer Self-Portrait\images\(p13) gaze.png, middle image by (p13) Albrecht Dürer Self-Portrait\images\1500-hand.png and right image by Albrecht Dürer Self-Portrait\images\(p13) incrption.png and make description larger and clear
+Modify Albrecht Dürer Self-Portrait\en_slides\update\Evolution_of_Dürer_s_Gaze_slide_0014.png and remove "4" from image and add image Albrecht Dürer Self-Portrait\images\Lamentation of Christ 1500.JPG
+Modify Albrecht Dürer Self-Portrait\en_slides\update\Evolution_of_Dürer_s_Gaze_slide_0015.png and use left image Albrecht Dürer Self-Portrait\images\01_01_20171017194217!Dürer_-_Selbstbildnis_im_Pelzrock_-_Alte_Pinakothek.jpg and right image Albrecht Dürer Self-Portrait\images\09_07b_Self_portrait_sick.jpg and make description clear
+Modify Albrecht Dürer Self-Portrait\en_slides\update\Evolution_of_Dürer_s_Gaze_slide_0016.png and add image Albrecht Dürer Self-Portrait\images\(p17) pain.png and make description larger and clear
+Modify Albrecht Dürer Self-Portrait\en_slides\update\Evolution_of_Dürer_s_Gaze_slide_0017.png and add image Albrecht Dürer Self-Portrait\images\(p17) pain.point.png and make description clear
+Modify Albrecht Dürer Self-Portrait\en_slides\update\Evolution_of_Dürer_s_Gaze_slide_0018.png and add image Albrecht Dürer Self-Portrait\images\combined-4x2-transparent.png and make description larger and clear
+Modify Albrecht Dürer Self-Portrait\en_slides\update\Evolution_of_Dürer_s_Gaze_slide_0019.png and make description clear
+Modify Albrecht Dürer Self-Portrait\en_slides\update\Evolution_of_Dürer_s_Gaze_slide_0020.png and add image Albrecht Dürer Self-Portrait\images\患病自畫像 Self-Portrait, Sick 1509-1511.jpg, 裸體自畫像 Self-Portrait in the Nude 1505.jpg and make description clear
+Modify Albrecht Dürer Self-Portrait\en_slides\update\Evolution_of_Dürer_s_Gaze_slide_00.png and add image Albrecht Dürer Self-Portrait\images\Hans Hoffmann.png mark "Hans Hoffmann lead Dürer Renaissance", Thomas Struth , Alte Pinakothek, Self-Portrait, Munich 2000, 2000.png mark "Alte Pinakothek, Self-Portrait, Munich 2000 by Thomas Struth" and make description clear
+Modify Albrecht Dürer Self-Portrait\en_slides\update\Evolution_of_Dürer_s_Gaze_slide_0022.png and add image Albrecht Dürer Self-Portrait\images\十三歲自畫像 Self-Portrait at Thirteen 1484.jpg, 手持刺芹自畫像 Self-Portrait with Eryngium (Thistle) 1493.jpg, 毛皮領外袍自畫像 Self-Portrait with Fur-Trimmed Robe 1500.jpg, 裸體自畫像 Self-Portrait in the Nude 1505.jpg and make description clear
+
+
+
+
+
