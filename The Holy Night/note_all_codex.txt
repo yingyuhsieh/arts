@@ -29,9 +29,9 @@ Use a luminous High Renaissance style inspired by Correggio’s The Holy Night (
 # Verify contents from AI
 Search web, review & make correction suggestion (繁中) 用 narrative 寫
 
-Title: <TC>
+Title: 這道光不是照在耶穌身上，而是從祂體內發出來的？科雷喬《聖夜》隱藏的視覺奇蹟
 
-Title: <EN>
+Title: The Miraculous Light of Correggio: Unlocking the Secrets of The Holy Night
 
 $create-youtube-slides by <files>
 背景風格描述：

@@ -1,0 +1,64 @@
+Correggio 1522-1530 The Holy Night.jpg
+
+
+Modify The Holy Night\tw_slides\update\藝術解析：科雷喬《聖夜》_slide_00.png
+ and add image The Holy Night\images\
+ and make description larger and clear
+ and make description clear
+
+
+Use The Holy Night\tw_slides\藝術解析：科雷喬《聖夜》_background.png as slide background
+Slides 是 YouTube 影片，所以要把以下 png 變得活潑、清楚讓觀眾容易觀看
+Modify The Holy Night\tw_slides\update\藝術解析：科雷喬《聖夜》_slide_0002.png and add image The Holy Night\images\Correggio 1522-1530 The Holy Night.jpg and make description larger and clear
+Modify The Holy Night\tw_slides\update\藝術解析：科雷喬《聖夜》_slide_0003.png and remove "1" from image and add image The Holy Night\images\(p3) glowing.png and make description larger and clear
+Modify The Holy Night\tw_slides\update\藝術解析：科雷喬《聖夜》_slide_0004.png and make flow and description larger and clear
+Modify The Holy Night\tw_slides\update\藝術解析：科雷喬《聖夜》_slide_0005.png and add image The Holy Night\images\Correggio 1522-1530 The Holy Night.jpg and make description larger and clear
+Modify The Holy Night\tw_slides\update\藝術解析：科雷喬《聖夜》_slide_0006.png and remove "2" and add image The Holy Night\images\(p6) The Assumption of the Virgin (1526-1530).jpg mark "Assumption of the Virgin (1526-1530)" and make description larger and clear
+Modify The Holy Night\tw_slides\update\藝術解析：科雷喬《聖夜》_slide_0007.png and make description larger and clear
+Modify The Holy Night\tw_slides\update\藝術解析：科雷喬《聖夜》_slide_0008.png and mark left image "The Adoration of the Shepherds, related drawing" and right image "The Holy Night"
+Modify The Holy Night\tw_slides\update\藝術解析：科雷喬《聖夜》_slide_0009.png (p9) and add image The Holy Night\images\Madonna adoring the Child.jpg mark "Madonna adoring the Child (1924-1926)" and make description larger and clear
+Modify The Holy Night\tw_slides\update\藝術解析：科雷喬《聖夜》_slide_0010.png and add image The Holy Night\images\(p10) lady-shine.png and make description larger and clear
+Modify The Holy Night\tw_slides\update\藝術解析：科雷喬《聖夜》_slide_0011.png and left image The Holy Night\images\(p11) 1 maria.png and middle image The Holy Night\images\(p10) lady-shine.png and right image The Holy Night\images\(p11) 3 joseph.png and make description larger and clear
+Modify The Holy Night\tw_slides\update\藝術解析：科雷喬《聖夜》_slide_0012.png and add image The Holy Night\images\(p3) glowing.png and make description larger and clear
+Modify The Holy Night\tw_slides\update\藝術解析：科雷喬《聖夜》_slide_0013.png and add image The Holy Night\images\瑞典的布里吉特 Bridget of Sweden and make description larger and clear
+Modify The Holy Night\tw_slides\update\藝術解析：科雷喬《聖夜》_slide_0014.png and make description larger and clear
+Modify The Holy Night\tw_slides\update\藝術解析：科雷喬《聖夜》_slide_0015.png and remove "5" from image and add image The Holy Night\images\Correggio_self_portrait.jpg mark "Correggio" and make description larger and clear
+Modify The Holy Night\tw_slides\update\藝術解析：科雷喬《聖夜》_slide_0016.png and make flow and description clear
+Modify The Holy Night\tw_slides\update\藝術解析：科雷喬《聖夜》_slide_0017.png and make image larger and make description larger and clear
+Modify The Holy Night\tw_slides\update\藝術解析：科雷喬《聖夜》_slide_0018.png and add image The Holy Night\images\門格斯 牧人來拜 Anton Raphael Mengs The Adoration of the Shepherds.jpg mark "門格斯 牧羊人來拜" and make description larger and clear
+Modify The Holy Night\tw_slides\update\藝術解析：科雷喬《聖夜》_slide_0019.png and add image The Holy Night\images\(p3) glowing.png, (p19) angels.png, (p19) sky.png  and make description clear
+Modify The Holy Night\tw_slides\update\藝術解析：科雷喬《聖夜》_slide_00020.png and add image The Holy Night\images\Correggio 1522-1530 The Holy Night.jpg and make description larger and clear
+
+Modify The Holy Night\en_slides\update\Correggio_s_Holy_Night_slide_00.png
+ and add image The Holy Night\images\
+ and make description larger and clear
+ and make description clear
+
+Use The Holy Night\en_slides\Correggio_s_Holy_Night_background.png as slide background
+Slides 是 YouTube 影片，所以要把以下 png 變得活潑、清楚讓觀眾容易觀看
+Modify The Holy Night\en_slides\update\Correggio_s_Holy_Night_slide_0002.png and add image The Holy Night\images\聖波羅斯貝聖殿 Reggio Emilia San Prospero at night.png and make description larger and clear
+Modify The Holy Night\en_slides\update\Correggio_s_Holy_Night_slide_0003.png and add image The Holy Night\images\(e p3) Giorgio Vasari.jpg mark "Giorgio Vasari" add image The Holy Night\images\Correggio 1522-1530 The Holy Night.jpg and make description larger and clear
+Modify The Holy Night\en_slides\update\Correggio_s_Holy_Night_slide_0004.png and remove "1" from image and add image The Holy Night\images\(p3) glowing.png and make description larger and clear
+Modify The Holy Night\en_slides\update\Correggio_s_Holy_Night_slide_0005.png
+Modify The Holy Night\en_slides\update\Correggio_s_Holy_Night_slide_0006.png and make description larger and clear
+Modify The Holy Night\en_slides\update\Correggio_s_Holy_Night_slide_0007.png and remove "2" from image and add image The Holy Night\images\(p6) The Assumption of the Virgin (1526-1530).jpg mark "Assumption of the Virgin (1526-1530)"  and make description larger and clear
+Modify The Holy Night\en_slides\update\Correggio_s_Holy_Night_slide_0008.png and make flow and description larger and clear
+Modify The Holy Night\en_slides\update\Correggio_s_Holy_Night_slide_0009.png and mark left image "Parma Dome"
+Modify The Holy Night\en_slides\update\Correggio_s_Holy_Night_slide_0010.png and remove "3" from image and add image The Holy Night\images\(e p10) Adoration of the Child.jpg mark "Adoration of the Child" and make description larger and clear
+Modify The Holy Night\en_slides\update\Correggio_s_Holy_Night_slide_0011.png and left use image (p3) glowing.png and right use image "(p10) lady-shine.png and make description larger and clear
+Modify The Holy Night\en_slides\update\Correggio_s_Holy_Night_slide_0012.png and add image The Holy Night\images\Correggio 1522-1530 The Holy Night.jpg and make description larger and clear
+The Holy Night\en_slides\update\Correggio_s_Holy_Night_slide_0013.png and remove "4" from image and add image The Holy Night\images\Parma Dome.jpg and make description larger and clear
+Modify The Holy Night\en_slides\update\Correggio_s_Holy_Night_slide_0014.png and add image The Holy Night\images\(p3) glowing.png and make description larger and clear
+Modify The Holy Night\en_slides\update\Correggio_s_Holy_Night_slide_0015.png and make description larger and clear
+Modify The Holy Night\en_slides\update\Correggio_s_Holy_Night_slide_0016.png and make description larger and clear
+Modify The Holy Night\en_slides\update\Correggio_s_Holy_Night_slide_0017.png and remove "5" from image and add image The Holy Night\images\Correggio_self_portrait.jpg mark "Correggio" and make description larger and clear
+Modify The Holy Night\en_slides\update\Correggio_s_Holy_Night_slide_0018.png and make description larger and clear
+Modify The Holy Night\en_slides\update\Correggio_s_Holy_Night_slide_0019.png and make flow and description clear
+Modify The Holy Night\en_slides\update\Correggio_s_Holy_Night_slide_0020.png and change text to "Commission Fee: 208 liras regias" and add image The Holy Night\images\Anton Raphael Mengs.jpg mark "Anton Raphael Mengs", The Holy Night\images\Diana as Personification of the Night.jpg mark "Diana as Personification of the Night by Anton Raphael Mengs (1765)"
+Modify The Holy Night\en_slides\update\Correggio_s_Holy_Night_slide_0021.png and add image The Holy Night\images\Correggio 1522-1530 The Holy Night.jpg and make description larger and clear 
+
+
+
+
+
+

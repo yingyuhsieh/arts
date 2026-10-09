@@ -25,9 +25,9 @@ $create-youtube-slides by <files>
 # Verify contents from AI
 Search web, review & make correction suggestion (繁中) 用 narrative 寫
 
-Title: <TC>
+Title: 這道光不是照在耶穌身上，而是從祂體內發出來的？科雷喬《聖夜》隱藏的視覺奇蹟
 
-Title: <EN>
+Title: The Miraculous Light of Correggio: Unlocking the Secrets of The Holy Night
 
 # 中文 Video 產生 slide images 並加上背景
 使用 $video-to-slides
@@ -45,8 +45,8 @@ Use a luminous High Renaissance style inspired by Correggio’s The Holy Night (
 
 # 中文 Replace 1st slide with youtbute thumimage
 # English Replace 1st slide with youtbute thumimage
-Replace ./The Holy Night/tw_slides/update/.png by ./The Holy Night/YouTube/.png with size 1280x720
-Replace ./The Holy Night/en_slides/update/.png by ./The Holy Night/YouTube/.png with size 1280x720
+Replace ./The Holy Night/tw_slides/update/藝術解析：科雷喬《聖夜》_slide_0001.png by ./The Holy Night/YouTube/這道光不是照在耶穌身上，而是從祂體內發出來的？科雷喬《聖夜》隱藏的視覺奇蹟.png with size 1280x720
+Replace ./The Holy Night/en_slides/update/Correggio_s_Holy_Night_slide_0001.png by ./The Holy Night/YouTube/The Miraculous Light of Correggio - Unlocking the Secrets of The Holy Night.png with size 1280x720
 
 
 # 產生中文 video
