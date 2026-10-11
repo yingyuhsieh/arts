@@ -59,7 +59,7 @@ Replace ./The Holy Night/en_slides/update/Correggio_s_Holy_Night_slide_0001.png 
 # 產生English video
 Use $en-make-video.
 Narration:
-./The Holy Night/en_slides/subtitle/.txt
+./The Holy Night/en_slides/subtitle/Correggio_s_Holy_Night.txt
 Images:
 ./The Holy Night/en_slides/update
 
@@ -75,13 +75,13 @@ Use $youtube-and-social-media-post with
 ------------------
 # 將中文音檔做影片
 Use $tw-video-integrate-audio-slide to combine my 中文 narration audio, slide images, script, and timing manifest into a YouTube-ready MP4.Use $tw-video-integrate-audio-slide to create a YouTube-ready video from:
-
 - Narration script:
-  ./The Holy Night/tw_slides/subtitle/.txt
+  ./The Holy Night/tw_slides/subtitle/藝術解析：科雷喬《聖夜》.txt
 - PNG slides:
   ./The Holy Night/tw_slides/update
 - Narration audio:
-  ./The Holy Night/tw_slides/.m4a
+  ./The Holy Night/tw_slides/Sounds.m4a
+
 - Timing manifest:
   ./The Holy Night/tw_slides/slide_manifest.json
 

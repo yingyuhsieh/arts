@@ -1,0 +1,1291 @@
+{
+  "size": [
+    1920,
+    1080
+  ],
+  "mode": "original-image compositing",
+  "slides": {
+    "2": {
+      "text": [
+        {
+          "content": "San Prospero at night\nReggio Emilia",
+          "font_size": 40,
+          "box": [
+            110,
+            846,
+            970,
+            952
+          ]
+        },
+        {
+          "content": "Why is a night painting defined by blinding light?",
+          "font_size": 90,
+          "box": [
+            1120,
+            225,
+            1795,
+            855
+          ]
+        }
+      ],
+      "images": [
+        {
+          "filename": "San Prospero at night - replacement.jpg",
+          "crop": null
+        }
+      ]
+    },
+    "3": {
+      "text": [
+        {
+          "content": "Light that feels physically real",
+          "font_size": 76,
+          "box": [
+            100,
+            65,
+            1820,
+            174
+          ]
+        },
+        {
+          "content": "Giorgio Vasari",
+          "font_size": 48,
+          "box": [
+            85,
+            900,
+            515,
+            980
+          ]
+        },
+        {
+          "content": "Angels seem to descend from the sky…",
+          "font_size": 68,
+          "box": [
+            615,
+            300,
+            1185,
+            580
+          ]
+        },
+        {
+          "content": "…she shades her eyes.",
+          "font_size": 70,
+          "box": [
+            615,
+            605,
+            1185,
+            870
+          ]
+        },
+        {
+          "content": "Vasari’s observation, paraphrased",
+          "font_size": 32,
+          "box": [
+            610,
+            925,
+            1190,
+            997
+          ]
+        }
+      ],
+      "images": [
+        {
+          "filename": "(e p3) Giorgio Vasari.jpg",
+          "crop": null
+        },
+        {
+          "filename": "Correggio 1522-1530 The Holy Night.jpg",
+          "crop": null
+        }
+      ]
+    },
+    "4": {
+      "text": [
+        {
+          "content": "Light in the\nDarkness",
+          "font_size": 88,
+          "box": [
+            990,
+            225,
+            1800,
+            585
+          ]
+        },
+        {
+          "content": "Correggio’s Technique",
+          "font_size": 52,
+          "box": [
+            995,
+            580,
+            1790,
+            905
+          ]
+        }
+      ],
+      "images": [
+        {
+          "filename": "(p3) glowing.png",
+          "crop": null
+        }
+      ]
+    },
+    "5": {
+      "text": [
+        {
+          "content": "Softened\nTransitions",
+          "font_size": 84,
+          "box": [
+            990,
+            225,
+            1800,
+            585
+          ]
+        },
+        {
+          "content": "Outlines melt into shadow.\nSkin and fabric take on a soft, pearlescent glow.",
+          "font_size": 52,
+          "box": [
+            995,
+            580,
+            1790,
+            905
+          ]
+        }
+      ],
+      "images": [
+        {
+          "filename": "(p3) glowing.png",
+          "crop": null
+        }
+      ]
+    },
+    "6": {
+      "text": [
+        {
+          "content": "The Adoration of the Shepherds",
+          "font_size": 40,
+          "box": [
+            95,
+            927,
+            865,
+            1004
+          ]
+        },
+        {
+          "content": "Planning\nthe Light",
+          "font_size": 88,
+          "box": [
+            990,
+            225,
+            1800,
+            585
+          ]
+        },
+        {
+          "content": "A Fitzwilliam Museum drawing reveals early lighting ideas.",
+          "font_size": 52,
+          "box": [
+            995,
+            580,
+            1790,
+            905
+          ]
+        }
+      ],
+      "images": [
+        {
+          "filename": "IMG-002_Related_Drawing.jpg",
+          "crop": null
+        }
+      ]
+    },
+    "7": {
+      "text": [
+        {
+          "content": "Assumption of the Virgin (1526-1530)",
+          "font_size": 46,
+          "box": [
+            95,
+            862,
+            1130,
+            953
+          ]
+        },
+        {
+          "content": "A Vortex of\nMovement",
+          "font_size": 83,
+          "box": [
+            1250,
+            295,
+            1805,
+            640
+          ]
+        },
+        {
+          "content": "Guiding the Eye",
+          "font_size": 57,
+          "box": [
+            1250,
+            696,
+            1805,
+            810
+          ]
+        }
+      ],
+      "images": [
+        {
+          "filename": "(p6) The Assumption of the Virgin (1526-1530).jpg",
+          "crop": null
+        }
+      ]
+    },
+    "8": {
+      "text": [
+        {
+          "content": "Follow the movement of light",
+          "font_size": 70,
+          "box": [
+            100,
+            65,
+            1820,
+            174
+          ]
+        },
+        {
+          "content": "Glowing Baby",
+          "font_size": 44,
+          "box": [
+            105,
+            265,
+            575,
+            330
+          ]
+        },
+        {
+          "content": "The brightest point draws us in.",
+          "font_size": 38,
+          "box": [
+            305,
+            356,
+            578,
+            550
+          ]
+        },
+        {
+          "content": "Mary’s Face",
+          "font_size": 44,
+          "box": [
+            725,
+            265,
+            1195,
+            330
+          ]
+        },
+        {
+          "content": "Follow the light upward.",
+          "font_size": 38,
+          "box": [
+            925,
+            356,
+            1198,
+            550
+          ]
+        },
+        {
+          "content": "Reacting Crowd",
+          "font_size": 44,
+          "box": [
+            1345,
+            265,
+            1815,
+            330
+          ]
+        },
+        {
+          "content": "Move left toward the shepherds.",
+          "font_size": 38,
+          "box": [
+            1545,
+            356,
+            1818,
+            550
+          ]
+        },
+        {
+          "content": "Swirling Angels",
+          "font_size": 44,
+          "box": [
+            1345,
+            705,
+            1815,
+            770
+          ]
+        },
+        {
+          "content": "Follow the diagonal into the clouds.",
+          "font_size": 38,
+          "box": [
+            1545,
+            796,
+            1818,
+            990
+          ]
+        },
+        {
+          "content": "Back to Baby",
+          "font_size": 44,
+          "box": [
+            725,
+            705,
+            1195,
+            770
+          ]
+        },
+        {
+          "content": "Spiral down to the center.",
+          "font_size": 38,
+          "box": [
+            925,
+            796,
+            1198,
+            990
+          ]
+        },
+        {
+          "content": "A continuous\nvisual spiral",
+          "font_size": 58,
+          "box": [
+            115,
+            752,
+            570,
+            950
+          ]
+        }
+      ],
+      "images": [
+        {
+          "filename": "(p3) glowing.png",
+          "crop": null
+        },
+        {
+          "filename": "(p11) 1 maria.png",
+          "crop": null
+        },
+        {
+          "filename": "Correggio 1522-1530 The Holy Night.jpg",
+          "crop": [
+            0,
+            0.3,
+            0.46,
+            0.86
+          ]
+        },
+        {
+          "filename": "(p19) angels.png",
+          "crop": null
+        },
+        {
+          "filename": "(p3) glowing.png",
+          "crop": null
+        }
+      ]
+    },
+    "9": {
+      "text": [
+        {
+          "content": "Heaven and earth in one frame",
+          "font_size": 72,
+          "box": [
+            100,
+            65,
+            1820,
+            174
+          ]
+        },
+        {
+          "content": "Parma Dome",
+          "font_size": 43,
+          "box": [
+            95,
+            930,
+            905,
+            1008
+          ]
+        },
+        {
+          "content": "The Holy Night — Boulanger copy",
+          "font_size": 43,
+          "box": [
+            1015,
+            930,
+            1825,
+            1008
+          ]
+        }
+      ],
+      "images": [
+        {
+          "filename": "IMG-006_Parma_Dome.jpg",
+          "crop": null
+        },
+        {
+          "filename": "IMG-004_Boulanger_Copy.png",
+          "crop": null
+        }
+      ]
+    },
+    "10": {
+      "text": [
+        {
+          "content": "Adoration of the Child",
+          "font_size": 40,
+          "box": [
+            95,
+            927,
+            865,
+            1004
+          ]
+        },
+        {
+          "content": "Humanity &\nthe Divine",
+          "font_size": 88,
+          "box": [
+            990,
+            225,
+            1800,
+            585
+          ]
+        },
+        {
+          "content": "Physical Reactions",
+          "font_size": 52,
+          "box": [
+            995,
+            580,
+            1790,
+            905
+          ]
+        }
+      ],
+      "images": [
+        {
+          "filename": "(e p10) Adoration of the Child.jpg",
+          "crop": null
+        }
+      ]
+    },
+    "11": {
+      "text": [
+        {
+          "content": "Two responses to the same light",
+          "font_size": 70,
+          "box": [
+            100,
+            65,
+            1820,
+            174
+          ]
+        },
+        {
+          "content": "Intimate care",
+          "font_size": 58,
+          "box": [
+            95,
+            768,
+            905,
+            850
+          ]
+        },
+        {
+          "content": "Mary’s gentle gaze expresses\nmotherly closeness.",
+          "font_size": 43,
+          "box": [
+            100,
+            875,
+            900,
+            1007
+          ]
+        },
+        {
+          "content": "Physical recoil",
+          "font_size": 58,
+          "box": [
+            1015,
+            768,
+            1825,
+            850
+          ]
+        },
+        {
+          "content": "The woman shields her eyes\nfrom the brilliant light.",
+          "font_size": 43,
+          "box": [
+            1020,
+            875,
+            1820,
+            1007
+          ]
+        }
+      ],
+      "images": [
+        {
+          "filename": "(p3) glowing.png",
+          "crop": null
+        },
+        {
+          "filename": "(p10) lady-shine.png",
+          "crop": null
+        }
+      ]
+    },
+    "12": {
+      "text": [
+        {
+          "content": "Varied Reactions",
+          "font_size": 74,
+          "box": [
+            915,
+            140,
+            1805,
+            255
+          ]
+        },
+        {
+          "content": "Mary",
+          "font_size": 46,
+          "box": [
+            925,
+            290,
+            1795,
+            350
+          ]
+        },
+        {
+          "content": "Intimate, motherly care",
+          "font_size": 43,
+          "box": [
+            925,
+            348,
+            1795,
+            410
+          ]
+        },
+        {
+          "content": "Shielding woman",
+          "font_size": 46,
+          "box": [
+            925,
+            420,
+            1795,
+            480
+          ]
+        },
+        {
+          "content": "A physical recoil from light",
+          "font_size": 43,
+          "box": [
+            925,
+            478,
+            1795,
+            540
+          ]
+        },
+        {
+          "content": "Shepherds",
+          "font_size": 46,
+          "box": [
+            925,
+            550,
+            1795,
+            610
+          ]
+        },
+        {
+          "content": "Shifting their weight in awe",
+          "font_size": 43,
+          "box": [
+            925,
+            608,
+            1795,
+            670
+          ]
+        },
+        {
+          "content": "Dog",
+          "font_size": 46,
+          "box": [
+            925,
+            680,
+            1795,
+            740
+          ]
+        },
+        {
+          "content": "Resting at the shepherds’ feet",
+          "font_size": 43,
+          "box": [
+            925,
+            738,
+            1795,
+            800
+          ]
+        },
+        {
+          "content": "Joseph",
+          "font_size": 46,
+          "box": [
+            925,
+            810,
+            1795,
+            870
+          ]
+        },
+        {
+          "content": "Tending the donkey in shadow",
+          "font_size": 43,
+          "box": [
+            925,
+            868,
+            1795,
+            930
+          ]
+        }
+      ],
+      "images": [
+        {
+          "filename": "Correggio 1522-1530 The Holy Night.jpg",
+          "crop": null
+        }
+      ]
+    },
+    "13": {
+      "text": [
+        {
+          "content": "Origins of\nHoly Light",
+          "font_size": 86,
+          "box": [
+            990,
+            225,
+            1800,
+            585
+          ]
+        },
+        {
+          "content": "Beyond the Gospel",
+          "font_size": 52,
+          "box": [
+            995,
+            580,
+            1790,
+            905
+          ]
+        }
+      ],
+      "images": [
+        {
+          "filename": "Parma Dome.jpg",
+          "crop": null
+        }
+      ]
+    },
+    "14": {
+      "text": [
+        {
+          "content": "The Glowing\nChild",
+          "font_size": 82,
+          "box": [
+            990,
+            225,
+            1800,
+            585
+          ]
+        },
+        {
+          "content": "The motif draws on early literature. The Gospel does not explicitly describe a glowing infant.",
+          "font_size": 52,
+          "box": [
+            995,
+            580,
+            1790,
+            905
+          ]
+        }
+      ],
+      "images": [
+        {
+          "filename": "(p3) glowing.png",
+          "crop": null
+        }
+      ]
+    },
+    "15": {
+      "text": [
+        {
+          "content": "Sources of Light",
+          "font_size": 76,
+          "box": [
+            100,
+            65,
+            1820,
+            174
+          ]
+        },
+        {
+          "content": "Early literature",
+          "font_size": 59,
+          "box": [
+            105,
+            270,
+            895,
+            355
+          ]
+        },
+        {
+          "content": "Non-canonical\nProtevangelium of James",
+          "font_size": 54,
+          "box": [
+            105,
+            385,
+            895,
+            565
+          ]
+        },
+        {
+          "content": "Mystical visions",
+          "font_size": 59,
+          "box": [
+            1025,
+            270,
+            1815,
+            355
+          ]
+        },
+        {
+          "content": "Bridget of Sweden\n14th century",
+          "font_size": 54,
+          "box": [
+            1025,
+            385,
+            1815,
+            565
+          ]
+        },
+        {
+          "content": "Painting traditions",
+          "font_size": 59,
+          "box": [
+            105,
+            665,
+            895,
+            750
+          ]
+        },
+        {
+          "content": "Northern European\nNativity paintings",
+          "font_size": 54,
+          "box": [
+            105,
+            780,
+            895,
+            960
+          ]
+        },
+        {
+          "content": "Theology",
+          "font_size": 59,
+          "box": [
+            1025,
+            665,
+            1815,
+            750
+          ]
+        },
+        {
+          "content": "Gospel of John:\nJesus as Light of the World",
+          "font_size": 54,
+          "box": [
+            1025,
+            780,
+            1815,
+            960
+          ]
+        }
+      ],
+      "images": []
+    },
+    "16": {
+      "text": [
+        {
+          "content": "From drawing to final composition",
+          "font_size": 66,
+          "box": [
+            100,
+            65,
+            1820,
+            174
+          ]
+        },
+        {
+          "content": "Related drawing",
+          "font_size": 43,
+          "box": [
+            95,
+            790,
+            905,
+            865
+          ]
+        },
+        {
+          "content": "Diffuse light • traditional pose\nConventional angel placement",
+          "font_size": 37,
+          "box": [
+            95,
+            892,
+            905,
+            1005
+          ]
+        },
+        {
+          "content": "Final design — Boulanger copy",
+          "font_size": 43,
+          "box": [
+            1015,
+            790,
+            1825,
+            865
+          ]
+        },
+        {
+          "content": "Intimate pose • spiraling angels\nConcentrated light • retained architecture",
+          "font_size": 37,
+          "box": [
+            1015,
+            892,
+            1825,
+            1005
+          ]
+        }
+      ],
+      "images": [
+        {
+          "filename": "IMG-002_Related_Drawing.jpg",
+          "crop": null
+        },
+        {
+          "filename": "IMG-004_Boulanger_Copy.png",
+          "crop": null
+        }
+      ]
+    },
+    "17": {
+      "text": [
+        {
+          "content": "Correggio",
+          "font_size": 40,
+          "box": [
+            95,
+            927,
+            865,
+            1004
+          ]
+        },
+        {
+          "content": "Journey\nThrough Time",
+          "font_size": 86,
+          "box": [
+            990,
+            225,
+            1800,
+            585
+          ]
+        },
+        {
+          "content": "A Masterpiece Moves",
+          "font_size": 52,
+          "box": [
+            995,
+            580,
+            1790,
+            905
+          ]
+        }
+      ],
+      "images": [
+        {
+          "filename": "Correggio_self_portrait.jpg",
+          "crop": null
+        }
+      ]
+    },
+    "18": {
+      "text": [
+        {
+          "content": "The Original\nSetting",
+          "font_size": 80,
+          "box": [
+            990,
+            225,
+            1800,
+            585
+          ]
+        },
+        {
+          "content": "San Prospero’s interior reveals the architectural scale of the altarpiece.",
+          "font_size": 52,
+          "box": [
+            995,
+            580,
+            1790,
+            905
+          ]
+        }
+      ],
+      "images": [
+        {
+          "filename": "聖波羅斯貝聖殿 Reggio Emilia San Prospero Frescoed interior.JPG",
+          "crop": null
+        }
+      ]
+    },
+    "19": {
+      "text": [
+        {
+          "content": "The journey of The Holy Night",
+          "font_size": 70,
+          "box": [
+            100,
+            65,
+            1820,
+            174
+          ]
+        },
+        {
+          "content": "1522",
+          "font_size": 90,
+          "box": [
+            90,
+            266,
+            610,
+            385
+          ]
+        },
+        {
+          "content": "Reggio Emilia",
+          "font_size": 48,
+          "box": [
+            90,
+            395,
+            610,
+            480
+          ]
+        },
+        {
+          "content": "Commissioned for\nSan Prospero",
+          "font_size": 43,
+          "box": [
+            90,
+            834,
+            610,
+            994
+          ]
+        },
+        {
+          "content": "1640",
+          "font_size": 90,
+          "box": [
+            700,
+            266,
+            1220,
+            385
+          ]
+        },
+        {
+          "content": "Modena",
+          "font_size": 48,
+          "box": [
+            700,
+            395,
+            1220,
+            480
+          ]
+        },
+        {
+          "content": "Moved by\nDuke Francesco I",
+          "font_size": 43,
+          "box": [
+            700,
+            834,
+            1220,
+            994
+          ]
+        },
+        {
+          "content": "1746",
+          "font_size": 90,
+          "box": [
+            1310,
+            266,
+            1830,
+            385
+          ]
+        },
+        {
+          "content": "Dresden",
+          "font_size": 48,
+          "box": [
+            1310,
+            395,
+            1830,
+            480
+          ]
+        },
+        {
+          "content": "Acquired for\nthe royal collection",
+          "font_size": 43,
+          "box": [
+            1310,
+            834,
+            1830,
+            994
+          ]
+        }
+      ],
+      "images": [
+        {
+          "filename": "聖波羅斯貝聖殿 Reggio Emilia San Prospero.jpg",
+          "crop": null
+        },
+        {
+          "filename": "弗朗切斯科一世·埃斯特 Francesco I d'Este.jpg",
+          "crop": null
+        },
+        {
+          "filename": "Gemäldegalerie Alte Meister.JPG",
+          "crop": null
+        }
+      ]
+    },
+    "20": {
+      "text": [
+        {
+          "content": "Commission Fee: 208 liras regias",
+          "font_size": 72,
+          "box": [
+            100,
+            65,
+            1820,
+            174
+          ]
+        },
+        {
+          "content": "Anton Raphael Mengs",
+          "font_size": 44,
+          "box": [
+            90,
+            935,
+            750,
+            1005
+          ]
+        },
+        {
+          "content": "Diana as Personification of the Night\nby Anton Raphael Mengs (1765)",
+          "font_size": 42,
+          "box": [
+            845,
+            875,
+            1825,
+            1007
+          ]
+        }
+      ],
+      "images": [
+        {
+          "filename": "Anton Raphael Mengs.jpg",
+          "crop": null
+        },
+        {
+          "filename": "Diana as Personification of the Night.jpg",
+          "crop": null
+        }
+      ]
+    },
+    "21": {
+      "text": [
+        {
+          "content": "Reading the Light: Three Visual Zones",
+          "font_size": 68,
+          "box": [
+            100,
+            65,
+            1820,
+            174
+          ]
+        },
+        {
+          "content": "Infant",
+          "font_size": 66,
+          "box": [
+            90,
+            635,
+            610,
+            720
+          ]
+        },
+        {
+          "content": "Concentrated light",
+          "font_size": 43,
+          "box": [
+            90,
+            734,
+            610,
+            795
+          ]
+        },
+        {
+          "content": "Shapes nearby faces\nand folds of fabric.",
+          "font_size": 35,
+          "box": [
+            90,
+            803,
+            610,
+            896
+          ]
+        },
+        {
+          "content": "Clouds",
+          "font_size": 66,
+          "box": [
+            700,
+            635,
+            1220,
+            720
+          ]
+        },
+        {
+          "content": "Softer brightness",
+          "font_size": 43,
+          "box": [
+            700,
+            734,
+            1220,
+            795
+          ]
+        },
+        {
+          "content": "Gives the angels form\nand the heavenly space depth.",
+          "font_size": 35,
+          "box": [
+            700,
+            803,
+            1220,
+            896
+          ]
+        },
+        {
+          "content": "Distance",
+          "font_size": 66,
+          "box": [
+            1310,
+            635,
+            1830,
+            720
+          ]
+        },
+        {
+          "content": "A pale horizon",
+          "font_size": 43,
+          "box": [
+            1310,
+            734,
+            1830,
+            795
+          ]
+        },
+        {
+          "content": "Opens the night landscape\nand creates spatial depth.",
+          "font_size": 35,
+          "box": [
+            1310,
+            803,
+            1830,
+            896
+          ]
+        },
+        {
+          "content": "Three visual zones do not imply three physical lamps.",
+          "font_size": 45,
+          "box": [
+            190,
+            965,
+            1730,
+            1030
+          ]
+        }
+      ],
+      "images": [
+        {
+          "filename": "(p3) glowing.png",
+          "crop": null
+        },
+        {
+          "filename": "(p19) angels.png",
+          "crop": null
+        },
+        {
+          "filename": "(p19) sky.png",
+          "crop": null
+        }
+      ]
+    },
+    "22": {
+      "text": [
+        {
+          "content": "Will you see",
+          "font_size": 90,
+          "box": [
+            930,
+            220,
+            1790,
+            335
+          ]
+        },
+        {
+          "content": "a simple story,",
+          "font_size": 96,
+          "box": [
+            930,
+            345,
+            1790,
+            465
+          ]
+        },
+        {
+          "content": "or a",
+          "font_size": 86,
+          "box": [
+            930,
+            492,
+            1790,
+            600
+          ]
+        },
+        {
+          "content": "complex vortex?",
+          "font_size": 100,
+          "box": [
+            930,
+            620,
+            1790,
+            890
+          ]
+        }
+      ],
+      "images": [
+        {
+          "filename": "Correggio 1522-1530 The Holy Night.jpg",
+          "crop": null
+        }
+      ]
+    }
+  }
+}

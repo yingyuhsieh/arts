@@ -1,0 +1,25 @@
+{
+  "manifest": "/Users/yingyuhsieh/Desktop/mcp/arts/The Holy Night/en_slides/Correggio_s_Holy_Night_slide_manifest.json",
+  "original_count": 22,
+  "supplemental_count": 3,
+  "original_final": {
+    "from": "Correggio_s_Holy_Night_slide_0022.png",
+    "to": "Correggio_s_Holy_Night_slide_0025.png",
+    "sha256": "e788a97a3fcce3d797a3baff80ed7c589e36e732d739fc5caaceb2ee86fe721e"
+  },
+  "supplemental_renames": [
+    {
+      "from": "Correggio_s_Holy_Night_slide_0023.png",
+      "to": "Correggio_s_Holy_Night_slide_0022.png"
+    },
+    {
+      "from": "Correggio_s_Holy_Night_slide_0024.png",
+      "to": "Correggio_s_Holy_Night_slide_0023.png"
+    },
+    {
+      "from": "Correggio_s_Holy_Night_slide_0025.png",
+      "to": "Correggio_s_Holy_Night_slide_0024.png"
+    }
+  ],
+  "subtitle": "/Users/yingyuhsieh/Desktop/mcp/arts/The Holy Night/en_slides/subtitle/Correggio_s_Holy_Night.txt"
+}

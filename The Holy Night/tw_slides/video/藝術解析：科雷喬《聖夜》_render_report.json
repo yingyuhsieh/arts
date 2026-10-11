@@ -1,0 +1,130 @@
+{
+  "video": "/Users/yingyuhsieh/Desktop/mcp/arts/The Holy Night/tw_slides/video/藝術解析：科雷喬《聖夜》_4k.mp4",
+  "file_bytes": 312797512,
+  "source_audio": "/Users/yingyuhsieh/Desktop/mcp/arts/The Holy Night/tw_slides/Sounds.m4a",
+  "timing_source": "/Users/yingyuhsieh/Desktop/mcp/arts/The Holy Night/tw_slides/藝術解析：科雷喬《聖夜》_Sounds_slide_manifest.json",
+  "slides": 21,
+  "expected_hard_cuts": 20,
+  "source_dimensions": [
+    [
+      1280,
+      720
+    ],
+    [
+      1672,
+      940
+    ],
+    [
+      1672,
+      941
+    ],
+    [
+      1920,
+      1080
+    ]
+  ],
+  "dimensions": [
+    3840,
+    2160
+  ],
+  "scaling": "proportional Lanczos; no crop",
+  "motion": "none",
+  "external_subtitles": false,
+  "video_codec": "h264",
+  "audio_codec": "aac",
+  "video_duration_seconds": 1209.2,
+  "audio_duration_seconds": 1209.151,
+  "fps": 30.0,
+  "video_frames": 36276,
+  "subtitle_streams": 0,
+  "source_dimensions_by_image": {
+    "藝術解析：科雷喬《聖夜》_slide_0001.png": [
+      1280,
+      720
+    ],
+    "藝術解析：科雷喬《聖夜》_slide_0002.png": [
+      1672,
+      940
+    ],
+    "藝術解析：科雷喬《聖夜》_slide_0003.png": [
+      1672,
+      941
+    ],
+    "藝術解析：科雷喬《聖夜》_slide_0004.png": [
+      1920,
+      1080
+    ],
+    "藝術解析：科雷喬《聖夜》_slide_0005.png": [
+      1672,
+      941
+    ],
+    "藝術解析：科雷喬《聖夜》_slide_0006.png": [
+      1920,
+      1080
+    ],
+    "藝術解析：科雷喬《聖夜》_slide_0007.png": [
+      1672,
+      941
+    ],
+    "藝術解析：科雷喬《聖夜》_slide_0008.png": [
+      1672,
+      941
+    ],
+    "藝術解析：科雷喬《聖夜》_slide_0009.png": [
+      1672,
+      941
+    ],
+    "藝術解析：科雷喬《聖夜》_slide_0010.png": [
+      1672,
+      941
+    ],
+    "藝術解析：科雷喬《聖夜》_slide_0011.png": [
+      1672,
+      941
+    ],
+    "藝術解析：科雷喬《聖夜》_slide_0012.png": [
+      1672,
+      941
+    ],
+    "藝術解析：科雷喬《聖夜》_slide_0013.png": [
+      1672,
+      941
+    ],
+    "藝術解析：科雷喬《聖夜》_slide_0014.png": [
+      1672,
+      941
+    ],
+    "藝術解析：科雷喬《聖夜》_slide_0015.png": [
+      1672,
+      941
+    ],
+    "藝術解析：科雷喬《聖夜》_slide_0016.png": [
+      1672,
+      941
+    ],
+    "藝術解析：科雷喬《聖夜》_slide_0017.png": [
+      1672,
+      941
+    ],
+    "藝術解析：科雷喬《聖夜》_slide_0018.png": [
+      1672,
+      941
+    ],
+    "藝術解析：科雷喬《聖夜》_slide_0019.png": [
+      1920,
+      1080
+    ],
+    "藝術解析：科雷喬《聖夜》_slide_0020.png": [
+      1672,
+      941
+    ],
+    "藝術解析：科雷喬《聖夜》_slide_0021.png": [
+      1280,
+      720
+    ]
+  },
+  "prepared_canvas": [
+    3840,
+    2160
+  ]
+}

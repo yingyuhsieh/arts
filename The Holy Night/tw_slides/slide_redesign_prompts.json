@@ -1,0 +1,164 @@
+{
+  "mode": "built-in image_gen; user-authorized Pillow compositing for slides 4, 6, 19",
+  "completed_slides": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20
+  ],
+  "pending_slides": [],
+  "base_prompt": "Use case: compositing. Redesign this single 16:9 YouTube art-history slide for outstanding TV/mobile readability. Image 1 is original slide/content reference; image 2 is REQUIRED full background, preserve its golden clouds and architectural dark edges. Further images are actual artwork inserts, reproduce faithfully, never redraw or invent artwork details. Sophisticated museum editorial design, charcoal large Traditional Chinese typography over ivory panels, warm gold accents, lively clear visual hierarchy, spacious margins. Remove clutter and oversized section numbers. Headings roughly 60-72px and body 34-42px minimum at 1280x720 equivalent. Use short natural lines, never overlap images and text, all lettering crisp. No watermark. Output one finished slide only. ",
+  "prompts": [
+    {
+      "slide": 3,
+      "images": [
+        "(p3) glowing.png"
+      ],
+      "prompt": "Remove giant 1. Large artwork detail on left; right very large title 「聖夜裡的奇蹟光芒」 and subheading 「唯一發光的聖嬰」."
+    },
+    {
+      "slide": 4,
+      "images": [],
+      "prompt": "Make a clear 3-step left-to-right flow with prominent connecting gold arrows and three large ivory cards. Title 「跟著光，看懂《聖夜》」. Card 1 「先找光的中心」「聖嬰是整個畫面最強的亮度中心」. Card 2 「沿光看瑪利亞」「留意由下方照亮聖母面容的光」. Card 3 「找到遮眼女子」「她的動作，讓強光成為可感受的強度」. Preserve helpful small subject illustrations from original above cards but prioritize text and arrows."
+    },
+    {
+      "slide": 5,
+      "images": [
+        "Correggio 1522-1530 The Holy Night.jpg"
+      ],
+      "prompt": "Full painting large left. Right headline 「光，就是故事本身」. Large supporting lines 「靠近、凝視、別開眼睛」「讓觀看成為身體的經驗」. Small but clear overline 「在這裡，光不只是照明工具」. No eye sketch."
+    },
+    {
+      "slide": 6,
+      "images": [
+        "(p6) The Assumption of the Virgin (1526-1530).jpg"
+      ],
+      "prompt": "Remove giant 2. Large landscape artwork across left 58% with exact caption 「Assumption of the Virgin (1526-1530)」. Right title 「漩渦式的視覺導引」 and subtitle 「以光為軸心的旋轉空間」. All text large and clear."
+    },
+    {
+      "slide": 7,
+      "images": [],
+      "prompt": "Enlarge original dome photo greatly left, preserve it faithfully. Right title 「帕爾馬主教座堂」 and huge supporting text 「科雷喬筆下的圓頂」「打開無邊界的天界空間」. Remove distracting drawings, use thin gold curved directional arrow outside photograph."
+    },
+    {
+      "slide": 8,
+      "images": [],
+      "prompt": "Retain both actual images faithfully, enlarge clean side-by-side with caption space. LEFT exact label 「The Adoration of the Shepherds, related drawing」 split to 2 lines if needed, RIGHT exact label 「The Holy Night」. Keep framed painting right and drawing left. Reduce surrounding doodles, create two balanced museum comparison cards. Large readable labels."
+    },
+    {
+      "slide": 10,
+      "images": [
+        "(p10) lady-shine.png"
+      ],
+      "prompt": "Large actual woman detail left. Right headline 「強光，化為真實反應」. Large text 「畫中遮眼女子的反應極佳，且天使彷彿真的從天空降下。」 and small readable attribution 「瓦薩里評論意旨」. No quotation marks implying verbatim translation. Use natural line breaks and highlight 反應 and 天使."
+    },
+    {
+      "slide": 11,
+      "images": [
+        "(p11) 1 maria.png",
+        "(p10) lady-shine.png",
+        "(p11) 3 joseph.png"
+      ],
+      "prompt": "Title 「面對神蹟的人性反應」. Three evenly spaced large actual image cards: input 3 left Maria, input 4 middle shielding woman, input 5 right Joseph. Beneath each large clear text: left 「瑪利亞」「敬拜與母子親密的凝視」; middle 「遮眼女子」「強光轉為感官刺激」; right 「約瑟」「在暗處默默照料動物」. Replace all invented original drawings with provided actual details."
+    },
+    {
+      "slide": 12,
+      "images": [
+        "(p3) glowing.png"
+      ],
+      "prompt": "Large actual detail left, huge title right 「發光聖嬰的傳統」 and subtitle 「尋找光芒的歷史根源」. Remove big 4 and cartoon detective, use clean image-centered composition."
+    },
+    {
+      "slide": 13,
+      "images": [
+        "瑞典的布里吉特 Bridget of Sweden.png"
+      ],
+      "prompt": "Large Bridget portrait left with clear label 「瑞典的布里吉特」「Bridget of Sweden」. Right heading 「聖女的誕生異象」; large body 「十四世紀瑞典修女的神秘體驗」「聖嬰散發超越自然界的光芒」「使旁人燭光黯然失色」. No green block, no magnifying glass."
+    },
+    {
+      "slide": 14,
+      "images": [],
+      "prompt": "Large title 「發光聖嬰的文學背景」. Two balanced cards, retain original book illustration smaller above left and cave illustration smaller above right. Very large readable left heading 「《路加福音》」 body 「夜間牧人與天使報喜的榮光」「未提及嬰孩自身發光」. Right heading 「異象與誕生傳統」 body 「誕生洞穴的大光」「提供發光聖嬰的早期文學背景」. Preserve distinction and all concepts. Clear bold type."
+    },
+    {
+      "slide": 15,
+      "images": [
+        "Correggio_self_portrait.jpg"
+      ],
+      "prompt": "Remove giant 5. Actual portrait large left with exact label 「Correggio」. Right giant heading 「跨越五百年的旅程」 subtitle 「從地方教堂到皇家收藏」."
+    },
+    {
+      "slide": 16,
+      "images": [],
+      "prompt": "Create clean large left-to-right timeline across full width on required background, title 「《聖夜》的收藏旅程」. Three large cards connected by thick gold arrows: 「1522年」「家族委託」「普拉托內里家族為教堂禮拜堂委託誕生祭壇畫」; 「1640年」「移往摩德納」「成為弗朗切斯科一世公爵的收藏」; 「1746年」「進入德勒斯登」「轉為王室收藏，後成為公共博物館名作」. Small church/palace/museum illustrations below headings only if helpful. Text large, uncluttered, dates dominant, preserve original chronology."
+    },
+    {
+      "slide": 17,
+      "images": [],
+      "prompt": "Enlarge original actual church interior photograph to fill left 55% nearly full height. Preserve photograph faithfully. Remove tiny nativity image and clutter. Right heading 「回到最初的觀看現場」 and large text 「雷焦艾米利亞」「聖普羅斯佩羅教堂」「感受巨幅祭壇畫的原始震撼」. Strong readable typography."
+    },
+    {
+      "slide": 18,
+      "images": [
+        "門格斯 牧人來拜 Anton Raphael Mengs The Adoration of the Shepherds.jpg"
+      ],
+      "prompt": "Actual Mengs artwork large left, full image visible, label exact 「門格斯 牧羊人來拜」. Right large title 「通往巴洛克的橋梁」. Three substantial readable lines 「偏心光源與扭轉動勢」「打破對稱構圖」「啟發後世畫家的創作」. Preserve original meaning, no bridge drawing."
+    },
+    {
+      "slide": 19,
+      "images": [
+        "(p3) glowing.png",
+        "(p19) angels.png",
+        "(p19) sky.png"
+      ],
+      "prompt": "Title 「分辨三個亮度區域」. Three columns with large inserted actual details: image 3 holy child left, image 4 angels middle, image 5 sky right. Large labels and explanations below: 「聖嬰｜集中亮光」「照亮近旁肌膚與衣褶」; 「雲端｜柔和亮度」「呈現天使與天界空間」; 「遠景｜微亮天際」「建立夜景的深度」. Clearly readable footer 「三個亮區是觀看分析，不代表三盞實體燈。」. Images prominent and original appearance preserved."
+    },
+    {
+      "slide": 20,
+      "images": [
+        "Correggio 1522-1530 The Holy Night.jpg"
+      ],
+      "prompt": "Use full actual painting large left. Right giant reflective closing text 「在光與暗的交織中，」「我們是否也看見了」「神聖與人性的完美融合？」. Emphasize 神聖 and 人性 in rich gold. Elegant uncluttered closing slide."
+    },
+    {
+      "slide": 9,
+      "images": [
+        "(e p10) Adoration of the Child.jpg"
+      ],
+      "prompt": "Insert supplied actual painting large left, faithfully. Clear exact image caption 「Madonna adoring the Child」 and second line 「1518–1520｜烏菲茲館方定年」 and smaller clear note 「另有1524–1526等定年」. Right huge heading 「超自然與人性反應」 subtitle 「神聖事件中的真實瞬間」. Remove giant 3."
+    }
+  ],
+  "slide_4_correction_prompt": "Correct this educational three-step slide. Keep background, title, arrows, typography, and ALL text exactly unchanged. SWAP ONLY the illustrations of the LEFT and RIGHT cards: LEFT must show the infant on straw above 「先找光的中心」, MIDDLE stays Mary above 「沿光看瑪利亞」, RIGHT must show the shielding woman above 「找到遮眼女子」. Current image mismatches left/right card art and labels. Three illustrations must correctly match their captions. This is benign historical Christian art education. One 16:9 finished slide.",
+  "notes": [
+    "Slide 20 resolved to existing slide_0020.png.",
+    "Slide 9 requested image absent; used (e p10) Adoration of the Child.jpg.",
+    "Slide 9 date changed from 1924–1926 to Uffizi dating 1518–1520 with alternate 1524–1526 noted.",
+    "AI-edited artworks may differ in fine detail from original sources. Generated output dimensions vary slightly around 1672 × 941.",
+    "Slides 4, 6, 19 use original artwork files composited at 1920 × 1080 without AI repainting."
+  ],
+  "sources": [
+    "https://www.uffizi.it/en/artworks/correggio-virgin-adoring-child",
+    "https://www.fondazioneilcorreggio.it/opera/madonna-in-adorazione-di-gesu-bambino/"
+  ],
+  "composited_slides": [
+    4,
+    6,
+    19
+  ],
+  "composition_script": "compose_remaining_slides.py"
+}

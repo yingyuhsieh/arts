@@ -1,0 +1,51 @@
+{
+  "video": "/Users/yingyuhsieh/Desktop/mcp/arts/The Holy Night/en_slides/video/Correggio_s_Holy_Night_natural_male.mp4",
+  "audio": "/Users/yingyuhsieh/Desktop/mcp/arts/The Holy Night/en_slides/audio/Correggio_s_Holy_Night_narration_male_natural.wav",
+  "slides": 23,
+  "expected_cuts": 22,
+  "runtime_seconds": 716.333333,
+  "width": 3840,
+  "height": 2160,
+  "fps": "30/1",
+  "sample_aspect_ratio": "1:1",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-3%",
+  "pause_seconds": 1.5,
+  "source_dimensions": [
+    [
+      1280,
+      720
+    ],
+    [
+      1920,
+      1080
+    ]
+  ],
+  "audio_peak_frame_rms": 8934.010748589248,
+  "all_23_slide_frame_matches": true,
+  "verified_hard_cuts": 22,
+  "cut_times_seconds": [
+    33.833333333333336,
+    68.76666666666667,
+    108.86666666666666,
+    112.23333333333333,
+    146.96666666666667,
+    175.5,
+    178.86666666666667,
+    226.66666666666666,
+    265.3,
+    269.1333333333333,
+    309.7,
+    350.76666666666665,
+    354.56666666666666,
+    387.3666666666667,
+    435.8666666666667,
+    472.96666666666664,
+    476.5,
+    514.7333333333333,
+    553.4333333333333,
+    587.1666666666666,
+    652.9666666666667,
+    695.9666666666667
+  ]
+}

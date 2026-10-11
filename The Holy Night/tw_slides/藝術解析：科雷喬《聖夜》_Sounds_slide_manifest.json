@@ -1,0 +1,217 @@
+{
+  "audio": "/Users/yingyuhsieh/Desktop/mcp/arts/The Holy Night/tw_slides/Sounds.m4a",
+  "audio_sha256": "9574374b07f0089a08e48f76794a7a725b29ead083828759ae0a3566471f1ccd",
+  "timing_method": "Script-to-ASR alignment with reviewed first/last phrases; hard cuts at the midpoint of actual inter-page pauses",
+  "slides": [
+    {
+      "filename": "藝術解析：科雷喬《聖夜》_slide_0001.png",
+      "speech_start": 1.94,
+      "speech_end": 41.52,
+      "first_matched_text": "大家好欢迎来到今天的艺术解析在这充满节庆",
+      "last_matched_text": "我一起走进这个既安详又充满奇迹的夜晚了吗",
+      "start": 0.0,
+      "start_evidence": "大家好,歡迎來到今天的藝術解析",
+      "end_evidence": "準備好跟著我一起走進這既安享又充滿奇蹟的夜晚了嗎?"
+    },
+    {
+      "filename": "藝術解析：科雷喬《聖夜》_slide_0002.png",
+      "speech_start": 43.5,
+      "speech_end": 88.61,
+      "first_matched_text": "一开始我们就直接切入这幅画最核心也最耐人",
+      "last_matched_text": "作品画面中央却散发著如此炽热而夺目的光辉",
+      "start": 42.51,
+      "start_evidence": "一開始我們就直接切入這幅畫最核心也最耐人尋味的謎團",
+      "end_evidence": "畫面中央卻散發著如此志樂而奪目的光輝"
+    },
+    {
+      "filename": "藝術解析：科雷喬《聖夜》_slide_0003.png",
+      "speech_start": 90.9,
+      "speech_end": 133.89,
+      "first_matched_text": "现在就让我们正式进入第一部分探寻这夜色中",
+      "last_matched_text": "慈祥的容颜同时也强烈地冲击著周遭的目击者",
+      "start": 89.755,
+      "start_evidence": "現在就讓我們正式進入第一部分",
+      "end_evidence": "同時也強烈地衝擊著周遭的目擊者"
+    },
+    {
+      "filename": "藝術解析：科雷喬《聖夜》_slide_0004.png",
+      "speech_start": 135.92,
+      "speech_end": 211.38,
+      "first_matched_text": "于西元1522年接下这份画作委托在传统的",
+      "last_matched_text": "令人仿佛亲临现场亲眼见证这份超自然的震撼",
+      "start": 134.905,
+      "start_evidence": "柯烈橋於西元1522年接下這份畫作委託",
+      "end_evidence": "親眼見證這份超自然的震撼"
+    },
+    {
+      "filename": "藝術解析：科雷喬《聖夜》_slide_0005.png",
+      "speech_start": 213.6,
+      "speech_end": 259.12,
+      "first_matched_text": "这正是圣夜在西洋艺术史上最核心的划时代突",
+      "last_matched_text": "时空深刻感受那个神圣时刻所带来的无比震撼",
+      "start": 212.49,
+      "start_evidence": "這正是聖業在西洋藝術史上最核心的畫時代突破",
+      "end_evidence": "深刻感受那個神聖時刻所帶來的無比震撼"
+    },
+    {
+      "filename": "藝術解析：科雷喬《聖夜》_slide_0006.png",
+      "speech_start": 261.19,
+      "speech_end": 276.13,
+      "first_matched_text": "接下来让我们进入第二部分解析科雷乔那宛如",
+      "last_matched_text": "物的肢体与视线就是引导我们灵魂探索的导体",
+      "start": 260.155,
+      "start_evidence": "接下來讓我們進入第二部分",
+      "end_evidence": "就是引導我們靈魂探索的導體"
+    },
+    {
+      "filename": "藝術解析：科雷喬《聖夜》_slide_0007.png",
+      "speech_start": 278.3,
+      "speech_end": 363.97,
+      "first_matched_text": "除了对光影的奇迹般运用科雷乔更展现了宛如",
+      "last_matched_text": "中完美交织了人间的沉稳厚重与天堂的浩瀚无",
+      "start": 277.215,
+      "start_evidence": "除了對光影的奇蹟般運用",
+      "end_evidence": "與天堂的浩瀚無影"
+    },
+    {
+      "filename": "藝術解析：科雷喬《聖夜》_slide_0008.png",
+      "speech_start": 366.3,
+      "speech_end": 424.08,
+      "first_matched_text": "当然凡是伟大的作品绝非一蹴可几大师的构图",
+      "last_matched_text": "大师脑海中的创意究竟是如何一步步淬炼成型",
+      "start": 365.135,
+      "start_evidence": "當然凡是偉大的作品絕非一觸可及",
+      "end_evidence": "究竟是如何一步一步缺戀成型"
+    },
+    {
+      "filename": "藝術解析：科雷喬《聖夜》_slide_0009.png",
+      "speech_start": 425.9,
+      "speech_end": 454.18,
+      "first_matched_text": "这就带我们来到第三部分探讨这场神圣降临之",
+      "last_matched_text": "不再对立而是在科雷乔笔下达成了极致的和谐",
+      "start": 424.99,
+      "start_evidence": "這就帶我們來到第三部分",
+      "end_evidence": "而是在柯雷橋底下達成極致的和諧"
+    },
+    {
+      "filename": "藝術解析：科雷喬《聖夜》_slide_0010.png",
+      "speech_start": 456.68,
+      "speech_end": 530.04,
+      "first_matched_text": "神迹固然壮丽但真正能跨越时空打动人心的莫",
+      "last_matched_text": "至今依然深刻地烙印在每一位观者的脑海之中",
+      "start": 455.43,
+      "start_evidence": "神機固然壯麗",
+      "end_evidence": "至今依然深刻地烙印在每一位觀者的腦海之中"
+    },
+    {
+      "filename": "藝術解析：科雷喬《聖夜》_slide_0011.png",
+      "speech_start": 533.38,
+      "speech_end": 607.29,
+      "first_matched_text": "我们不妨再细细品味画中所展现的极为丰富的",
+      "last_matched_text": "包容了世间所有的惊叹亲密以及最纯粹的关怀",
+      "start": 531.71,
+      "start_evidence": "我們不妨在細細品味畫中展現",
+      "end_evidence": "包容世間所有的驚嘆親密以及最純粹的關懷"
+    },
+    {
+      "filename": "藝術解析：科雷喬《聖夜》_slide_0012.png",
+      "speech_start": 609.56,
+      "speech_end": 624.36,
+      "first_matched_text": "接下来让我们化身为艺术史的侦探进入第四部",
+      "last_matched_text": "成为全画唯一光源的大胆构思究竟是源自何处",
+      "start": 608.425,
+      "start_evidence": "接下來讓我們化身為藝術史的偵探",
+      "end_evidence": "究竟源自何處"
+    },
+    {
+      "filename": "藝術解析：科雷喬《聖夜》_slide_0013.png",
+      "speech_start": 626.55,
+      "speech_end": 698.09,
+      "first_matched_text": "既然正典圣经中从未记载过圣婴自身发光那么",
+      "last_matched_text": "后世众多艺术家创作圣诞夜景时最核心的灵感",
+      "start": 625.455,
+      "start_evidence": "既然正點聖經中從未記載過聖陰自身發光",
+      "end_evidence": "最核心的靈感全圓"
+    },
+    {
+      "filename": "藝術解析：科雷喬《聖夜》_slide_0014.png",
+      "speech_start": 700.36,
+      "speech_end": 759.53,
+      "first_matched_text": "我们不妨客观地对比这两条截然不同的脉络正",
+      "last_matched_text": "象发挥至极致并赋予其永恒震撼力的集大成者",
+      "start": 699.225,
+      "start_evidence": "我們不妨客觀地比對這兩條截然不同的脈絡",
+      "end_evidence": "並賦予其永恆震撼力的極大成者"
+    },
+    {
+      "filename": "藝術解析：科雷喬《聖夜》_slide_0015.png",
+      "speech_start": 762.28,
+      "speech_end": 782.2,
+      "first_matched_text": "在深入了解画作背后的神学与美学故事之后让",
+      "last_matched_text": "品将成为影响后世欧洲艺术最深远的基石之一",
+      "start": 760.905,
+      "start_evidence": "在深入瞭解畫作背後的神學與美學故事之後",
+      "end_evidence": "這幅作品將成為影響後世歐洲藝術最深遠的基石之一"
+    },
+    {
+      "filename": "藝術解析：科雷喬《聖夜》_slide_0016.png",
+      "speech_start": 784.52,
+      "speech_end": 890.8,
+      "first_matched_text": "这幅作品不仅在画布上刻画了神圣的奇迹它自",
+      "last_matched_text": "制淬炼成为当代公共博物馆中典藏的西洋艺术",
+      "start": 783.36,
+      "start_evidence": "這幅作品不僅在畫布上刻畫了神聖的奇蹟",
+      "end_evidence": "缺煉成為當代公共博物館中增長的西洋藝術規保"
+    },
+    {
+      "filename": "藝術解析：科雷喬《聖夜》_slide_0017.png",
+      "speech_start": 893.08,
+      "speech_end": 955.98,
+      "first_matched_text": "然而当我们今日在当代博物馆明亮舒适的展厅",
+      "last_matched_text": "冲击正是一份跨越身体与心灵的神圣震撼体验",
+      "start": 891.94,
+      "start_evidence": "然而當我們今日在當代博物館明亮舒適的展廳裡",
+      "end_evidence": "正是一份跨越身體與心靈的神聖震撼體驗"
+    },
+    {
+      "filename": "藝術解析：科雷喬《聖夜》_slide_0018.png",
+      "speech_start": 957.98,
+      "speech_end": 1054.53,
+      "first_matched_text": "这正是为何科雷乔被公认是一位极具前瞻视野",
+      "last_matched_text": "贴近五百年前大师手稿与木板油画的真实质感",
+      "start": 956.98,
+      "start_evidence": "這正是為何克雷喬貝公認是一位",
+      "end_evidence": "與木板油畫的真實質感"
+    },
+    {
+      "filename": "藝術解析：科雷喬《聖夜》_slide_0019.png",
+      "speech_start": 1056.78,
+      "speech_end": 1127.52,
+      "first_matched_text": "若我们再次细细凝视这个画面可以在视觉上清",
+      "last_matched_text": "一体光影既富有戏剧张力却又如诗般温润圆滑",
+      "start": 1055.655,
+      "start_evidence": "若我們再次細細凝視這個畫面",
+      "end_evidence": "卻又如士般溫潤圓滑"
+    },
+    {
+      "filename": "藝術解析：科雷喬《聖夜》_slide_0020.png",
+      "speech_start": 1129.38,
+      "speech_end": 1187.56,
+      "first_matched_text": "今天的解析也来到了尾声让我们最后再次回到",
+      "last_matched_text": "房祝大家圣诞快乐愿温暖平静与美好与你同在",
+      "start": 1128.45,
+      "start_evidence": "今天的解析也來到了尾聲",
+      "end_evidence": "願溫暖平靜與美好與你同在"
+    },
+    {
+      "filename": "藝術解析：科雷喬《聖夜》_slide_0021.png",
+      "speech_start": 1189.0,
+      "speech_end": 1208.44,
+      "first_matched_text": "希望今天的艺术解析能为你的节日增添一份温",
+      "last_matched_text": "艺术故事我们下次见祝你有个温馨的圣诞佳节",
+      "start": 1188.28,
+      "start_evidence": "希望透過今天的藝術解析",
+      "end_evidence": "祝你有個溫馨的聖誕佳節"
+    }
+  ]
+}
