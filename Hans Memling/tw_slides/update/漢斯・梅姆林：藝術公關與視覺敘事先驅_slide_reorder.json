@@ -1,0 +1,17 @@
+{
+  "manifest": "/Users/yingyuhsieh/Desktop/mcp/arts/Hans Memling/tw_slides/漢斯・梅姆林：藝術公關與視覺敘事先驅_slide_manifest.json",
+  "original_count": 19,
+  "supplemental_count": 1,
+  "original_final": {
+    "from": "漢斯・梅姆林：藝術公關與視覺敘事先驅_slide_0019.png",
+    "to": "漢斯・梅姆林：藝術公關與視覺敘事先驅_slide_0020.png",
+    "sha256": "7e496a12e3024ea016ce5eb9f43787f1735355bc20f3c40c9a2ebae08ae08610"
+  },
+  "supplemental_renames": [
+    {
+      "from": "漢斯・梅姆林：藝術公關與視覺敘事先驅_slide_0020.png",
+      "to": "漢斯・梅姆林：藝術公關與視覺敘事先驅_slide_0019.png"
+    }
+  ],
+  "subtitle": "/Users/yingyuhsieh/Desktop/mcp/arts/Hans Memling/tw_slides/subtitle/漢斯・梅姆林：藝術公關與視覺敘事先驅.txt"
+}

@@ -30,9 +30,9 @@ Use a serene and meticulously detailed Early Netherlandish Renaissance style ins
 # Verify contents from AI
 Search web, review & make correction suggestion (繁中) 用 narrative 寫
 
-Title: <TC>
+Title: 【北方文藝復興】漢斯・梅姆林 15世紀布魯日的視覺敘事與藝術公關大師
 
-Title: <EN>
+Title: Hans Memling’s Conquest: How a German Painter Conquered Renaissance Europe
 
 $create-youtube-slides by <files>
 背景風格描述：
