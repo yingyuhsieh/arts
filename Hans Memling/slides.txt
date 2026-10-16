@@ -34,6 +34,7 @@ Modify Hans Memling\en_slides\update\Hans_Memling_s_Conquest_slide_00.png
  and make description larger and clear
  and make description clear
 
+
 Use Hans Memling\tw_slides\Hans_Memling_s_Conquest_background.png as slide background
 Modify Hans Memling\en_slides\update\Hans_Memling_s_Conquest_slide_0002.png and use image Hans Memling\images\最後的審判三聯畫 The Last Judgment Triptych (close).jpg mark "The Last Judgment Triptych (close)", 最後的審判三聯畫 The Last Judgment Triptych.jpg mark "The Last Judgment Triptych (open)" and make description larger and clear
 Modify Hans Memling\en_slides\update\Hans_Memling_s_Conquest_slide_0003.png and make flow and description clear
