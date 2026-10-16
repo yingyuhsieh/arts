@@ -45,8 +45,8 @@ Use a serene and meticulously detailed Early Netherlandish Renaissance style ins
 
 # 中文 Replace 1st slide with youtbute thumimage
 # English Replace 1st slide with youtbute thumimage
-Replace ./Hans Memling/tw_slides/update/.png by ./Hans Memling/YouTube/.png with size 1280x720
-Replace ./Hans Memling/en_slides/update/.png by ./Hans Memling/YouTube/.png with size 1280x720
+Replace ./Hans Memling/tw_slides/update/漢斯・梅姆林：藝術公關與視覺敘事先驅_slide_0001.png by ./Hans Memling/YouTube/【北方文藝復興】漢斯・梅姆林 15世紀布魯日的視覺敘事與藝術公關大師.png with size 1280x720
+Replace ./Hans Memling/en_slides/update/Hans_Memling_s_Conquest_slide_0001.png by ./Hans Memling/YouTube/Hans Memling’s Conquest How a German Painter Conquered Renaissance Europe.png with size 1280x720
 
 
 # 產生中文 video

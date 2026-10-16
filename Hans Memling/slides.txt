@@ -1,0 +1,63 @@
+Modify Hans Memling\tw_slides\update\漢斯・梅姆林：藝術公關與視覺敘事先驅_slide_00.png
+ and add image Hans Memling\images\
+ and make description larger and clear
+ and make description clear
+ 
+ 
+Use Hans Memling\tw_slides\漢斯・梅姆林：藝術公關與視覺敘事先驅_background.png as slide background
+Modify Hans Memling\tw_slides\update\漢斯・梅姆林：藝術公關與視覺敘事先驅_slide_0002.png and add image Hans Memling\images\(p2) piracy.jpg and 最後的審判三聯畫 The Last Judgment Triptych (close).jpg mark "最後的審判 (關閉狀態)" and make description larger and clear
+Modify Hans Memling\tw_slides\update\漢斯・梅姆林：藝術公關與視覺敘事先驅_slide_0003.png and use image Hans Memling\images\(p2) piracy.jpg and 最後的審判三聯畫 The Last Judgment Triptych.jpg and make image larger and make description larger and clear
+Modify Hans Memling\tw_slides\update\漢斯・梅姆林：藝術公關與視覺敘事先驅_slide_0004.png and remove "1" from image and add image Hans Memling\images\(p4) Hans Memling.jpg mark "Hans Memling" and make description larger and clear
+Modify Hans Memling\tw_slides\update\漢斯・梅姆林：藝術公關與視覺敘事先驅_slide_0005.png and add image Hans Memling\images\(p5) 德國塞利根施塔特 漢斯·姆林之家 (Hans-Memling-Haus).jpg mark "漢斯·姆林之家", (p5) Rogier van der Weyden 羅希爾·范德魏登.jpg mark "羅希爾·范德魏登" and make description larger and clear
+Modify Hans Memling\tw_slides\update\漢斯・梅姆林：藝術公關與視覺敘事先驅_slide_0006.png and remove "2" from image and add image Hans Memling\images\(p6) Bruges 布魯日.jpg mark "布魯日" and make description larger and clear 
+Modify Hans Memling\tw_slides\update\漢斯・梅姆林：藝術公關與視覺敘事先驅_slide_0007.png and use left image Hans Memling\images\(p7) The Descent from the Cross.small by Rogier van der Weyden.png mark "羅希爾·范德魏登 下十字架" and right image Hans Memling\images\(p7) Hans Memling - Diptych of Maarten Nieuwenhove.jpg mark "漢斯・梅姆林 馬丁·范·纽文霍夫雙聯畫" and make description clear
+Modify Hans Memling\tw_slides\update\漢斯・梅姆林：藝術公關與視覺敘事先驅_slide_0008.png and add image Hans Memling\images\(p8) Annunciation.JPG mark "天使報喜", (p8) 手持硬幣的男子肖像 Portrait of a Man with a Coin of the Emperor Nero.jpg mark "手持硬幣的男子肖像", (p8) 瑪利亞·波蒂納里肖像（瑪利亞·瑪達萊娜·巴倫切利） Portrait of Maria Portinari (Maria Maddalena Baroncelli).jpg mark "瑪利亞·波蒂納里肖像" and make description larger and clear
+Modify Hans Memling\tw_slides\update\漢斯・梅姆林：藝術公關與視覺敘事先驅_slide_0009.png and remove "3" from image and add image Hans Memling\images\(p9) 托馬索·波蒂納里肖像 Portrait of Tommaso di Folco Portinari.jpg mark "托馬索·波蒂納里肖像" and make description larger and clear
+Modify Hans Memling\tw_slides\update\漢斯・梅姆林：藝術公關與視覺敘事先驅_slide_0010.png and use image Hans Memling\images\莫雷爾三聯畫 Moreel Triptych.jpg and make image larger and make description larger and clear
+Modify Hans Memling\tw_slides\update\漢斯・梅姆林：藝術公關與視覺敘事先驅_slide_0011.png and add image Hans Memling\images\(p11) Hans Memling portraits 2x2 transparent.png and make description clear
+Modify Hans Memling\tw_slides\update\漢斯・梅姆林：藝術公關與視覺敘事先驅_slide_0012.png and remove "4" from image and add image Hans Memling\images\(p12) 基督受難場景 Scenes from the Passion of Christ.jpg mark "基督受難場景" and make description larger and clear
+Modify Hans Memling\tw_slides\update\漢斯・梅姆林：藝術公關與視覺敘事先驅_slide_0013.png and add image Hans Memling\images\(p12) 基督受難場景 Scenes from the Passion of Christ.jpg make the image smaller and make description clear and below image are partial image in (p12) 基督受難場景 Scenes from the Passion of Christ.jpg: add image Hans Memling\images\Passion_Scenes_TW\01_進入耶路撒冷.png mark "進入耶路撒冷", add image Hans Memling\images\Passion_Scenes_TW\04_最後的晚餐.png mark "最後的晚餐", add image Hans Memling\images\Passion_Scenes_TW\06_猶大之吻與耶穌被捕.png mark "猶大之吻與耶穌被捕", add image Hans Memling\images\Passion_Scenes_TW\11_戴荊棘冠冕.png mark "戴荊棘冠冕", add image Hans Memling\images\Passion_Scenes_TW\16_十字架上的受難.png mark "十字架上的受難", add image Hans Memling\images\Passion_Scenes_TW\20_基督復活.png mark "基督復活" and use dash line to point these image to (p12) 基督受難場景 Scenes from the Passion of Christ.jpg
+Modify Hans Memling\tw_slides\update\漢斯・梅姆林：藝術公關與視覺敘事先驅_slide_0014.png and use left image Hans Memling\images\(p14) Portrait of a Young Man Praying and Flowers in a Jug.jpg and middle image Hans Memling\images\(p14) Een majolicavaas met een boeket van lelie, iris en akelei.jpg and right Hans Memling\images\image (p14) Portrait of a Young Man Praying and Flowers in a Jug.jpg and make description larger and clear 
+Modify Hans Memling\tw_slides\update\漢斯・梅姆林：藝術公關與視覺敘事先驅_slide_0015.png and make description larger and clear
+Modify Hans Memling\tw_slides\update\漢斯・梅姆林：藝術公關與視覺敘事先驅_slide_0016.png and make description larger and clear
+Modify Hans Memling\tw_slides\update\漢斯・梅姆林：藝術公關與視覺敘事先驅_slide_0017.png and make description larger and clear
+Modify Hans Memling\tw_slides\update\漢斯・梅姆林：藝術公關與視覺敘事先驅_slide_0018.png and make description larger and clear
+Modify Hans Memling\tw_slides\update\漢斯・梅姆林：藝術公關與視覺敘事先驅_slide_0019.png and add image Hans Memling\images\(p15-1) St. Ursula Shrine.jpg, (p15-2) Virgin and Child.jpg, (p15-3) Arrival in Rome.jpg, (p15-4) Martyrdom.jpg, (p15-5) Arrival in Cologne.jpg, (p15-6) St. Ursula shields the Holy Virgins beneath her cloak.png and make description larger and clear
+Modify Hans Memling\tw_slides\update\漢斯・梅姆林：藝術公關與視覺敘事先驅_slide_0020.png and remove "5" from image and add image Hans Memling\images\聖約翰祭壇畫（聖凱瑟琳神秘婚禮） St. John Altarpiece (Mystic Marriage of St. Catherine).jpg and make description larger and clear
+Modify Hans Memling\tw_slides\update\漢斯・梅姆林：藝術公關與視覺敘事先驅_slide_0021.png and make flow and description clear
+Modify Hans Memling\tw_slides\update\漢斯・梅姆林：藝術公關與視覺敘事先驅_slide_0022.png and add image Hans Memling\images\Jan Floreins Altarpiece (close).jpg mar "賢士來朝 (關閉狀態)" Jan Floreins Altarpiece (open).jpg "賢士來朝 (展開狀態)" and make description larger and clear
+
+
+
+Modify Hans Memling\en_slides\update\Hans_Memling_s_Conquest_slide_00.png
+ and add image Hans Memling\images\
+ and make description larger and clear
+ and make description clear
+
+Use Hans Memling\tw_slides\Hans_Memling_s_Conquest_background.png as slide background
+Modify Hans Memling\en_slides\update\Hans_Memling_s_Conquest_slide_0002.png and use image Hans Memling\images\最後的審判三聯畫 The Last Judgment Triptych (close).jpg mark "The Last Judgment Triptych (close)", 最後的審判三聯畫 The Last Judgment Triptych.jpg mark "The Last Judgment Triptych (open)" and make description larger and clear
+Modify Hans Memling\en_slides\update\Hans_Memling_s_Conquest_slide_0003.png and make flow and description clear
+Modify Hans Memling\en_slides\update\Hans_Memling_s_Conquest_slide_0004.png and remove "1" from image and and add image Hans Memling\images\(p6) Bruges 布魯日.jpg mark "Bruges" and make description larger and clear
+Modify Hans Memling\en_slides\update\Hans_Memling_s_Conquest_slide_0005.png use left image Hans Memling\images\(p7) The Descent from the Cross.small by Rogier van der Weyden.png mark "The Descent from the Cross by Rogier van der Weyden" and right image Hans Memling\images\(p7) Hans Memling - Diptych of Maarten Nieuwenhove.jpg mark "Diptych of Maarten Nieuwenhove by Hans Memling" and make description larger and clear
+Modify Hans Memling\en_slides\update\Hans_Memling_s_Conquest_slide_0006.png and add image Hans Memling\images\(p11) Hans Memling portraits 2x2 transparent.png and make description clear
+Modify Hans Memling\en_slides\update\Hans_Memling_s_Conquest_slide_0007.png and remove image "2" and add image Hans Memling\images\Sibylla Sambetha.jpg mark "Sibylla Sambetha",  Portrait of a Young Man before a Landscape.jpg mark "Portrait of a Young Man before a Landscape" and make description larger and clear
+Modify Hans Memling\en_slides\update\Hans_Memling_s_Conquest_slide_0008.png and make description larger and clear
+Modify Hans Memling\en_slides\update\Hans_Memling_s_Conquest_slide_0009.png and use image Hans Memling\images\Portrait of a Young Man before a Landscape.jpg mark "Portrait of a Young Man before a Landscape" and give Title: The Halved Composition and Description:
+Top: Hyper-detailed face against a calm, infinite sky.
+Bottom: Dark attire grounded by a sweeping natural landscape.
+Effect: Brings the subject intimately close while opening endless space behind.
+Modify Hans Memling\en_slides\update\Hans_Memling_s_Conquest_slide_0010.png and remove "3" from image and add image Hans Memling\images\(p12) 基督受難場景 Scenes from the Passion of Christ.jpg mark "Scenes from the Passion of Christ" and make description larger and clear
+Modify Hans Memling\tw_slides\update\Hans_Memling_s_Conquest_slide_0011.png.png and add image Hans Memling\images\(p12) 基督受難場景 Scenes from the Passion of Christ.jpg make the image smaller and make description clear and below image are partial image in (p12) 基督受難場景 Scenes from the Passion of Christ.jpg: add image Hans Memling\images\Passion_Scenes\01_Entry_into_Jerusalem.png mark "Entry into Jerusalem", add image Hans Memling\images\Passion_Scenes\04_Last_Supper.png mark "Last Supper", add image Hans Memling\images\Passion_Scenes\06_Betrayal_and_Arrest.png mark "Betrayal and Arrest", add image Hans Memling\images\Passion_Scenes\11_Crowning_with_Thorns.png mark "Crowning with Thorns", add image Hans Memling\images\Passion_Scenes\16_Crucifixion.png mark "Crucifixion", add image Hans Memling\images\Passion_Scenes\20_Resurrection.png mark "Resurrection" and use dash line to point these image to (p12) 基督受難場景 Scenes from the Passion of Christ.jpg
+Modify Hans Memling\en_slides\update\Hans_Memling_s_Conquest_slide_0012.png and make description clear
+Modify Hans Memling\en_slides\update\Hans_Memling_s_Conquest_slide_0013.png and remove "4" from image and add image Hans Memling\images\Diptych of Maarten van Nieuwenhove.png and make description larger and clear
+Modify Hans Memling\en_slides\update\Hans_Memling_s_Conquest_slide_0014.png
+(p14) Portrait of a Young Man Praying and Flowers in a Jug.jpg mark "Portrait of a Young Man Praying and Flowers in a Jug" and add title: Art You Were Meant to Hold and description: 
+Not Two Paintings: A single three-dimensional object designed for tactile interaction.
+Ritual in Motion: Hinges allow the viewer to open, turn, and engage during prayer.
+Active Exterior: The reverse floral painting is an integral layer of the sacr
+Modify Hans Memling\en_slides\update\Hans_Memling_s_Conquest_slide_0015.png and add image Hans Memling\images\(p15-1) St. Ursula Shrine.jpg, (p15-2) Virgin and Child.jpg, (p15-3) Arrival in Rome.jpg, (p15-4) Martyrdom.jpg, (p15-5) Arrival in Cologne.jpg, (p15-6) St. Ursula shields the Holy Virgins beneath her cloak.png and make description larger and clear
+Modify Hans Memling\en_slides\update\Hans_Memling_s_Conquest_slide_0016.png and add image Hans Memling\images\Shrine of St. Ursula.jpg mark "Shrine of St. Ursula" and make description larger and clear
+Modify Hans Memling\en_slides\update\Hans_Memling_s_Conquest_slide_0017.png and remove "5" from image and add image Hans Memling\images\St. John Altarpiece Mystic Marriage of St. Catherine.jpg mark "Mystic Marriage of St. Catherine" and make description larger and clear
+Modify Hans Memling\en_slides\update\Hans_Memling_s_Conquest_slide_0018.png and make description clear
+Modify Hans Memling\en_slides\update\Hans_Memling_s_Conquest_slide_0019.png and use image Hans Memling\images\基督與奏樂歌唱的天使 Christ with Singing and Music-Making Angels.jpg and make description clear
+Modify Hans Memling\en_slides\update\Hans_Memling_s_Conquest_slide_0020.png and make description clear
