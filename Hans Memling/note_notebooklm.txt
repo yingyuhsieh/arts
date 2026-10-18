@@ -27,7 +27,7 @@ Search web, review & make correction suggestion (繁中) 用 narrative 寫
 
 Title: 【北方文藝復興】漢斯・梅姆林 15世紀布魯日的視覺敘事與藝術公關大師
 
-Title: Hans Memling’s Conquest: How a German Painter Conquered Renaissance Europe
+Title: Hans Memling’s Conquest - How a German Painter Conquered Renaissance Europe
 
 # 中文 Video 產生 slide images 並加上背景
 使用 $video-to-slides
@@ -59,7 +59,7 @@ Replace ./Hans Memling/en_slides/update/Hans_Memling_s_Conquest_slide_0001.png b
 # 產生English video
 Use $en-make-video.
 Narration:
-./Hans Memling/en_slides/subtitle/.txt
+./Hans Memling/en_slides/subtitle/Hans_Memling_s_Conquest.txt
 Images:
 ./Hans Memling/en_slides/update
 
@@ -77,11 +77,11 @@ Use $youtube-and-social-media-post with
 Use $tw-video-integrate-audio-slide to combine my 中文 narration audio, slide images, script, and timing manifest into a YouTube-ready MP4.Use $tw-video-integrate-audio-slide to create a YouTube-ready video from:
 
 - Narration script:
-  ./Hans Memling/tw_slides/subtitle/.txt
+  ./Hans Memling/tw_slides/subtitle/漢斯・梅姆林：藝術公關與視覺敘事先驅.txt
 - PNG slides:
   ./Hans Memling/tw_slides/update
 - Narration audio:
-  ./Hans Memling/tw_slides/.m4a
+  ./Hans Memling/tw_slides/Sounds.m4a
 - Timing manifest:
   ./Hans Memling/tw_slides/slide_manifest.json
 
