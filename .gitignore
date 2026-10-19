@@ -5,3 +5,5 @@ __pycache__/
 *.py[cod]
 tmp/
 note.txt
+.slides_build/
+.slides_build/
