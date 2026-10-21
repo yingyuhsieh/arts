@@ -29,9 +29,9 @@ Use a monumental Italian Renaissance style inspired by Andrea Mantegna, with war
 # Verify contents from AI
 Search web, review & make correction suggestion (繁中) 用 narrative 寫
 
-Title: <TC>
+Title: 把繪畫變成雕像與天空 安德烈亞・曼特尼亞
 
-Title: <EN>
+Title: Andrea Mantegna: From a Painted Sky to a Foreshortened Christ
 
 $create-youtube-slides by <files>
 背景風格描述：

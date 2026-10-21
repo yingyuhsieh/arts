@@ -1,0 +1,21 @@
+{
+  "manifest": "/Users/yingyuhsieh/Desktop/mcp/arts/Andrea Mantegna/tw_slides/安德烈亞·曼特尼亞：透視與空間大師_slide_manifest.json",
+  "original_count": 22,
+  "supplemental_count": 2,
+  "original_final": {
+    "from": "安德烈亞·曼特尼亞：透視與空間大師_slide_0022.png",
+    "to": "安德烈亞·曼特尼亞：透視與空間大師_slide_0024.png",
+    "sha256": "797ea6fb624b6159c3c8f1ba7a6aff3047f7163592fe48beecd5767688f02324"
+  },
+  "supplemental_renames": [
+    {
+      "from": "安德烈亞·曼特尼亞：透視與空間大師_slide_0023.png",
+      "to": "安德烈亞·曼特尼亞：透視與空間大師_slide_0022.png"
+    },
+    {
+      "from": "安德烈亞·曼特尼亞：透視與空間大師_slide_0024.png",
+      "to": "安德烈亞·曼特尼亞：透視與空間大師_slide_0023.png"
+    }
+  ],
+  "subtitle": "/Users/yingyuhsieh/Desktop/mcp/arts/Andrea Mantegna/tw_slides/subtitle/安德烈亞·曼特尼亞：透視與空間大師.txt"
+}

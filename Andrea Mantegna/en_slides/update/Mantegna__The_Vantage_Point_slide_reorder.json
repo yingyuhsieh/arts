@@ -1,0 +1,25 @@
+{
+  "manifest": "/Users/yingyuhsieh/Desktop/mcp/arts/Andrea Mantegna/en_slides/Mantegna__The_Vantage_Point_slide_manifest.json",
+  "original_count": 21,
+  "supplemental_count": 3,
+  "original_final": {
+    "from": "Mantegna__The_Vantage_Point_slide_0021.png",
+    "to": "Mantegna__The_Vantage_Point_slide_0024.png",
+    "sha256": "03add1da8c5296061252f7cb1a77994b2681d2909df0664c9c9d31affc0c3acf"
+  },
+  "supplemental_renames": [
+    {
+      "from": "Mantegna__The_Vantage_Point_slide_0022.png",
+      "to": "Mantegna__The_Vantage_Point_slide_0021.png"
+    },
+    {
+      "from": "Mantegna__The_Vantage_Point_slide_0023.png",
+      "to": "Mantegna__The_Vantage_Point_slide_0022.png"
+    },
+    {
+      "from": "Mantegna__The_Vantage_Point_slide_0024.png",
+      "to": "Mantegna__The_Vantage_Point_slide_0023.png"
+    }
+  ],
+  "subtitle": "/Users/yingyuhsieh/Desktop/mcp/arts/Andrea Mantegna/en_slides/subtitle/Mantegna__The_Vantage_Point.txt"
+}

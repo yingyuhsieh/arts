@@ -25,20 +25,20 @@ $create-youtube-slides by <files>
 # Verify contents from AI
 Search web, review & make correction suggestion (繁中) 用 narrative 寫
 
-Title: <TC>
+Title: 把繪畫變成雕像與天空 安德烈亞・曼特尼亞
 
-Title: <EN>
+Title: Andrea Mantegna: From a Painted Sky to a Foreshortened Christ
 
 # 中文 Video 產生 slide images 並加上背景
 使用 $video-to-slides
-Video path: ./Andrea Mantegna/.mp4
+Video path: ./Andrea Mantegna/安德烈亞·曼特尼亞：透視與空間大師.mp4
 背景風格描述：
 Use a monumental Italian Renaissance style inspired by Andrea Mantegna, with warm terracotta, antique marble white, muted ochre, deep crimson, bronze green, cool slate blue, and weathered stone gray, combining finely detailed egg-tempera textures with sculptural figures resembling ancient Roman reliefs, sharply defined anatomical forms, intricate classical architecture, triumphal arches, carved columns, and archaeological ornament, dramatic di sotto in sù foreshortening, rigorous linear perspective, crisp directional lighting, angular drapery, and rugged rocky landscapes, creating a solemn, intellectually refined atmosphere of classical grandeur and archaeological realism, while preserving spacious architectural negative space, subdued fresco-like textures, and restrained decorative details so the artwork, titles, and subtitles remain visually dominant.
 
 
 # English Video 產生 slide images 並加上背景
 使用 $video-to-slides
-Video path: ./Andrea Mantegna/.mp4
+Video path: ./Andrea Mantegna/Mantegna__The_Vantage_Point.mp4
 背景風格描述：
 Use a monumental Italian Renaissance style inspired by Andrea Mantegna, with warm terracotta, antique marble white, muted ochre, deep crimson, bronze green, cool slate blue, and weathered stone gray, combining finely detailed egg-tempera textures with sculptural figures resembling ancient Roman reliefs, sharply defined anatomical forms, intricate classical architecture, triumphal arches, carved columns, and archaeological ornament, dramatic di sotto in sù foreshortening, rigorous linear perspective, crisp directional lighting, angular drapery, and rugged rocky landscapes, creating a solemn, intellectually refined atmosphere of classical grandeur and archaeological realism, while preserving spacious architectural negative space, subdued fresco-like textures, and restrained decorative details so the artwork, titles, and subtitles remain visually dominant.
 
