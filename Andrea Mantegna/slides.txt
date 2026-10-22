@@ -1,0 +1,58 @@
+Modify Andrea Mantegna\tw_slides\update\安德烈亞·曼特尼亞：透視與空間大師_slide_00.png
+ and add image Andrea Mantegna\images\
+ and make description large and clear
+ and make description clear
+ 
+Use Andrea Mantegna\tw_slides\安德烈亞·曼特尼亞：透視與空間大師_background.png as slide background.
+The slide is for YouTube, please make png image fancy and clear. 
+Modify Andrea Mantegna\tw_slides\update\安德烈亞·曼特尼亞：透視與空間大師_slide_0002.png and make description large and clear
+Modify Andrea Mantegna\tw_slides\update\安德烈亞·曼特尼亞：透視與空間大師_slide_0003.png and use image Andrea Mantegna\images\1480 哀悼死去的基督 Lamentation over the Dead Christ.jpg and make description large and clear
+Modify Andrea Mantegna\tw_slides\update\安德烈亞·曼特尼亞：透視與空間大師_slide_004.png and make description large and clear
+Modify Andrea Mantegna\tw_slides\update\安德烈亞·曼特尼亞：透視與空間大師_slide_0005.png and add image Andrea Mantegna\images\Padua 義大利 帕多瓦.JPG mark "義大利 帕多瓦" and make description large and clear
+Modify Andrea Mantegna\tw_slides\update\安德烈亞·曼特尼亞：透視與空間大師_slide_0006.png and add image Andrea Mantegna\images\多納太羅 Donatello Possible self-portrait, c. 1446-1449.jpg mark "多納太羅", Donatello David at the Bargello in Florence.jpg mark "Donatello David at the Bargello in Florence" and make description large and clear
+Modify Andrea Mantegna\tw_slides\update\安德烈亞·曼特尼亞：透視與空間大師_slide_0007.png and use image Andrea Mantegna\images\1448-1457 奧韋塔里禮拜堂壁畫 Ovetari Chapel Frescoes.jpg and make image larger and make description clear
+Modify Andrea Mantegna\tw_slides\update\安德烈亞·曼特尼亞：透視與空間大師_slide_0008.png and add image Andrea Mantegna\images\Giovanni Bellini self-portrait.jpg mark "喬凡尼・貝里尼", 曼特尼亞 Andrea Mantegna.png mark "安德烈亞·曼特尼亞" and make description large and clear
+Modify Andrea Mantegna\tw_slides\update\安德烈亞·曼特尼亞：透視與空間大師_slide_0009.png and use left image Andrea Mantegna\images\1455-1456 客西馬尼園祈禱 Agony in the Garden.jpg mark "By Andrea Mantegna" and right image 客西馬尼園祈禱 The Agony in the Garden (約 1459).jpg mark "By Giovanni Bellini"
+Modify Andrea Mantegna\tw_slides\update\安德烈亞·曼特尼亞：透視與空間大師_slide_0010.png and use image Andrea Mantegna\images\IMG-005_San_Zeno_Altarpiece.jpg mark "聖澤諾祭壇畫" and make image larger and make description large and clear
+Modify Andrea Mantegna\tw_slides\update\安德烈亞·曼特尼亞：透視與空間大師_slide_0011.png and add image Andrea Mantegna\images\House of Gonzaga.png mark "貢扎加家族", House of Gonzaga 扎加家族.jpg mark "Gonzaga family by Andrea Mantegna"
+Modify Andrea Mantegna\tw_slides\update\安德烈亞·曼特尼亞：透視與空間大師_slide_0012.png and use image Andrea Mantegna\images\Camera picta.png and make image larger and make description large and clear
+Modify Andrea Mantegna\tw_slides\update\安德烈亞·曼特尼亞：透視與空間大師_slide_0013.png and make description large and clear
+Modify Andrea Mantegna\tw_slides\update\安德烈亞·曼特尼亞：透視與空間大師_slide_0014.png and make flow and description clear
+Modify Andrea Mantegna\tw_slides\update\安德烈亞·曼特尼亞：透視與空間大師_slide_0015.png and add image Andrea Mantegna\images\Isabella d’Este.jpg mark "伊莎貝拉・德斯特" and use image Andrea Mantegna\images\海神之戰 The Battle of Sea Gods, 1480.jpg and make image larger and make description large and clear
+Modify Andrea Mantegna\tw_slides\update\安德烈亞·曼特尼亞：透視與空間大師_slide_0016.png and use image Andrea Mantegna\images\帕納索斯山 Parnassus.jpg and make the image larger and make description large and clear
+Modify Andrea Mantegna\tw_slides\update\安德烈亞·曼特尼亞：透視與空間大師_slide_0017.png and add image Andrea Mantegna\images\凱撒的凱旋 Triumphs of Caesar 1-9 3x3.png and make description clear
+Modify Andrea Mantegna\tw_slides\update\安德烈亞·曼特尼亞：透視與空間大師_slide_0018.png and make description clear
+Modify Andrea Mantegna\tw_slides\update\安德烈亞·曼特尼亞：透視與空間大師_slide_0019.png and make description clear
+Modify Andrea Mantegna\tw_slides\update\安德烈亞·曼特尼亞：透視與空間大師_slide_0020.png and make description clear
+Modify Andrea Mantegna\tw_slides\update\安德烈亞·曼特尼亞：透視與空間大師_slide_0021.png and make description large and clear
+Modify Andrea Mantegna\tw_slides\update\安德烈亞·曼特尼亞：透視與空間大師_slide_0022.png and add image Andrea Mantegna\images\Crucifixion.jpg and mark "Crucifixion (1457-1460)"
+
+
+Modify Andrea Mantegna\en_slides\update\Mantegna__The_Vantage_Point_slide_00.png
+ and add image Andrea Mantegna\images\
+ and make description large and clear
+ and make description clear
+
+Use Andrea Mantegna\en_slides\Mantegna__The_Vantage_Point_background.png as slide background.
+The slide is for YouTube, please make png image fancy and clear. 
+Modify Andrea Mantegna\en_slides\update\Mantegna__The_Vantage_Point_slide_0002.png and make description large and clear
+Modify Andrea Mantegna\en_slides\update\Mantegna__The_Vantage_Point_slide_0003.png and use image Andrea Mantegna\images\1480 哀悼死去的基督 Lamentation over the Dead Christ.jpg and make image larger and make description large and clear
+Modify Andrea Mantegna\en_slides\update\Mantegna__The_Vantage_Point_slide_0004.png and remove "1" from image and add image Andrea Mantegna\images\Padua 義大利 帕多瓦.JPG mark "Italy Padua"
+Modify Andrea Mantegna\en_slides\update\Mantegna__The_Vantage_Point_slide_0005.png and make description large and clear
+Modify Andrea Mantegna\en_slides\update\Mantegna__The_Vantage_Point_slide_0006.png and left image Andrea Mantegna\images\1455-1456 客西馬尼園祈禱 Agony in the Garden.jpg mark "By Andrea Mantegna" and right image Andrea Mantegna\images\客西馬尼園祈禱 The Agony in the Garden (約 1459).jpg mark "By Giovanni Bellini"
+Modify Andrea Mantegna\en_slides\update\Mantegna__The_Vantage_Point_slide_0007.png and add image Andrea Mantegna\images\Giovanni Bellini self-portrait.jpg mark "Giovanni Bellini", 曼特尼亞 Andrea Mantegna.png mark "Andrea Mantegna" and make description large and clear
+Modify Andrea Mantegna\en_slides\update\Mantegna__The_Vantage_Point_slide_0008.png and remove "2" from image and add image Andrea Mantegna\images\1465-1474 新婚夫婦之室天頂 Oculus of the Camera degli Sposi.jpg and make description large and clear
+Modify Andrea Mantegna\en_slides\update\Mantegna__The_Vantage_Point_slide_0009.png and use image Andrea Mantegna\images\聖則諾祭壇畫 San Zeno Altarpiece.jpg and make image larger and make description large and clear
+Modify Andrea Mantegna\en_slides\update\Mantegna__The_Vantage_Point_slide_0010.png and add image Andrea Mantegna\images\House of Gonzaga.png mark "House of Gonzaga"
+Modify Andrea Mantegna\en_slides\update\Mantegna__The_Vantage_Point_slide_0011.png and use image Andrea Mantegna\images\1465-1474 新婚夫婦之室天頂 Oculus of the Camera degli Sposi.jpg and make description large and clear
+Modify Andrea Mantegna\en_slides\update\Mantegna__The_Vantage_Point_slide_0012.png and add image Andrea Mantegna\images\Camera picta_overview.png and make description large and clear
+Modify Andrea Mantegna\en_slides\update\Mantegna__The_Vantage_Point_slide_0013.png and remove "3" from image and add image Andrea Mantegna\images\House of Gonzaga 扎加家族.jpg mark "Family of Gonzaga by Andrea Mantegna" and make description large and clear
+Modify Andrea Mantegna\en_slides\update\Mantegna__The_Vantage_Point_slide_0014.png and add image Andrea Mantegna\images\凱撒的凱旋 Triumphs of Caesar 1-9 3x3.png and make description clear
+Modify Andrea Mantegna\en_slides\update\Mantegna__The_Vantage_Point_slide_0015.png and use image Andrea Mantegna\images\海神之戰 The Battle of Sea Gods, 1480.jpg and make description large and clear
+Modify Andrea Mantegna\en_slides\update\Mantegna__The_Vantage_Point_slide_0016.png and make description clear
+Modify Andrea Mantegna\en_slides\update\Mantegna__The_Vantage_Point_slide_0017.png and use image Andrea Mantegna\images\帕納索斯山 Parnassus.jpg and make description large and clear
+Modify Andrea Mantegna\en_slides\update\Mantegna__The_Vantage_Point_slide_0018.png and make description clear
+
+Modify Andrea Mantegna\en_slides\update\Mantegna__The_Vantage_Point_slide_0019.png and remove "4" from image and add image Andrea Mantegna\images\1448-1457 奧韋塔里禮拜堂壁畫 Ovetari Chapel Frescoes.jpg mark "Ovetari Chapel Frescoes" and make description large and clear
+Modify Andrea Mantegna\en_slides\update\Mantegna__The_Vantage_Point_slide_0020.png and use image Andrea Mantegna\images\1480 哀悼死去的基督 Lamentation over the Dead Christ.jpg and make description large and clear
+Modify Andrea Mantegna\en_slides\update\Mantegna__The_Vantage_Point_slide_0021.png and add image Andrea Mantegna\images\哀悼死去的基督 Lamentation over the Dead Christ.jpg, 新婚夫婦之室 Camera degli Sposi.jpg, 帕納索斯山 Parnassus.jpg, Crucifixion.jpg and make description large and clear

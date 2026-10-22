@@ -45,8 +45,8 @@ Use a monumental Italian Renaissance style inspired by Andrea Mantegna, with war
 
 # 中文 Replace 1st slide with youtbute thumimage
 # English Replace 1st slide with youtbute thumimage
-Replace ./Andrea Mantegna/tw_slides/update/.png by ./Andrea Mantegna/YouTube/.png with size 1280x720
-Replace ./Andrea Mantegna/en_slides/update/.png by ./Andrea Mantegna/YouTube/.png with size 1280x720
+Replace ./Andrea Mantegna/tw_slides/update/安德烈亞·曼特尼亞：透視與空間大師_slide_0001.png by ./Andrea Mantegna/YouTube/把繪畫變成雕像與天空 安德烈亞・曼特尼亞.png with size 1280x720
+Replace ./Andrea Mantegna/en_slides/update/Mantegna__The_Vantage_Point_slide_0001.png by ./Andrea Mantegna/YouTube/Andrea Mantegna- From a Painted Sky to a Foreshortened Christ.png with size 1280x720
 
 
 # 產生中文 video
