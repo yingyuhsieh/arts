@@ -1,0 +1,331 @@
+{
+  "recognition_corrections": [
+    {
+      "slide": 2,
+      "before": "年輕女子協議在閉爐臺邊",
+      "after": "年輕女子斜倚在壁爐台邊",
+      "basis": "Audio context and supplied Markdown terminology"
+    },
+    {
+      "slide": 3,
+      "before": "第一張",
+      "after": "第一章",
+      "basis": "Audio context and supplied Markdown terminology"
+    },
+    {
+      "slide": 4,
+      "before": "閉爐臺",
+      "after": "壁爐台",
+      "basis": "Audio context and supplied Markdown terminology"
+    },
+    {
+      "slide": 4,
+      "before": "安格非常",
+      "after": "安格爾非常",
+      "basis": "Audio context and supplied Markdown terminology"
+    },
+    {
+      "slide": 4,
+      "before": "黃色的劈肩",
+      "after": "黃色的披肩",
+      "basis": "Audio context and supplied Markdown terminology"
+    },
+    {
+      "slide": 4,
+      "before": "磁瓶",
+      "after": "瓷瓶",
+      "basis": "Audio context and supplied Markdown terminology"
+    },
+    {
+      "slide": 4,
+      "before": "克麗奧佩特拉是蛇型戒指",
+      "after": "克麗奧佩特拉式蛇形戒指",
+      "basis": "Audio context and supplied Markdown terminology"
+    },
+    {
+      "slide": 4,
+      "before": "桌上閃落著幾張舍起一角",
+      "after": "桌上散落著幾張折起一角",
+      "basis": "Audio context and supplied Markdown terminology"
+    },
+    {
+      "slide": 5,
+      "before": "壁爐臺",
+      "after": "壁爐台",
+      "basis": "Audio context and supplied Markdown terminology"
+    },
+    {
+      "slide": 5,
+      "before": "磁瓶",
+      "after": "瓷瓶",
+      "basis": "Audio context and supplied Markdown terminology"
+    },
+    {
+      "slide": 5,
+      "before": "清楚臉頰",
+      "after": "輕觸臉頰",
+      "basis": "Audio context and supplied Markdown terminology"
+    },
+    {
+      "slide": 5,
+      "before": "一點良意",
+      "after": "一點涼意",
+      "basis": "Audio context and supplied Markdown terminology"
+    },
+    {
+      "slide": 5,
+      "before": "剛藍色眼眸",
+      "after": "鋼藍色眼眸",
+      "basis": "Audio context and supplied Markdown terminology"
+    },
+    {
+      "slide": 5,
+      "before": "藍灰色斷面場群",
+      "after": "藍灰色緞面長裙",
+      "basis": "Audio context and supplied Markdown terminology"
+    },
+    {
+      "slide": 5,
+      "before": "視覺回全",
+      "after": "視覺迴圈",
+      "basis": "Audio context and supplied Markdown terminology"
+    },
+    {
+      "slide": 6,
+      "before": "第二張",
+      "after": "第二章",
+      "basis": "Audio context and supplied Markdown terminology"
+    },
+    {
+      "slide": 8,
+      "before": "輕輕鬆鬆的笑相",
+      "after": "輕輕鬆鬆的肖像",
+      "basis": "Audio context and supplied Markdown terminology"
+    },
+    {
+      "slide": 8,
+      "before": "腳勁腦汁",
+      "after": "絞盡腦汁",
+      "basis": "Audio context and supplied Markdown terminology"
+    },
+    {
+      "slide": 8,
+      "before": "耐地賽",
+      "after": "耐力賽",
+      "basis": "Audio context and supplied Markdown terminology"
+    },
+    {
+      "slide": 9,
+      "before": "完成的節奏",
+      "after": "完成的傑作",
+      "basis": "Audio context and supplied Markdown terminology"
+    },
+    {
+      "slide": 9,
+      "before": "空間感更深度",
+      "after": "空間感跟深度",
+      "basis": "Audio context and supplied Markdown terminology"
+    },
+    {
+      "slide": 10,
+      "before": "路易斯",
+      "after": "路易絲",
+      "basis": "Audio context and supplied Markdown terminology"
+    },
+    {
+      "slide": 10,
+      "before": "才有其中經歷",
+      "after": "才又集中精力",
+      "basis": "Audio context and supplied Markdown terminology"
+    },
+    {
+      "slide": 10,
+      "before": "橫橫打斷",
+      "after": "狠狠打斷",
+      "basis": "Audio context and supplied Markdown terminology"
+    },
+    {
+      "slide": 11,
+      "before": "政治家體驗",
+      "after": "政治家提耶",
+      "basis": "Audio context and supplied Markdown terminology"
+    },
+    {
+      "slide": 11,
+      "before": "好時用魔人",
+      "after": "耗時又磨人",
+      "basis": "Audio context and supplied Markdown terminology"
+    },
+    {
+      "slide": 11,
+      "before": "填上了一抹",
+      "after": "添上了一抹",
+      "basis": "Audio context and supplied Markdown terminology"
+    },
+    {
+      "slide": 12,
+      "before": "這完美的真名了",
+      "after": "這完美地證明了",
+      "basis": "Audio context and supplied Markdown terminology"
+    },
+    {
+      "slide": 13,
+      "before": "第三張",
+      "after": "第三章",
+      "basis": "Audio context and supplied Markdown terminology"
+    },
+    {
+      "slide": 13,
+      "before": "精雕細拙",
+      "after": "精雕細琢",
+      "basis": "Audio context and supplied Markdown terminology"
+    },
+    {
+      "slide": 13,
+      "before": "迷人的摩托爾",
+      "after": "迷人的模特兒",
+      "basis": "Audio context and supplied Markdown terminology"
+    },
+    {
+      "slide": 14,
+      "before": "路伊斯",
+      "after": "路易絲",
+      "basis": "Audio context and supplied Markdown terminology"
+    },
+    {
+      "slide": 14,
+      "before": "艾爾蘭",
+      "after": "愛爾蘭",
+      "basis": "Audio context and supplied Markdown terminology"
+    },
+    {
+      "slide": 15,
+      "before": "路伊斯",
+      "after": "路易絲",
+      "basis": "Audio context and supplied Markdown terminology"
+    },
+    {
+      "slide": 15,
+      "before": "弟習化的布羅伊公主相",
+      "after": "弟媳畫的布羅伊公主像",
+      "basis": "Audio context and supplied Markdown terminology"
+    },
+    {
+      "slide": 15,
+      "before": "斷面材質",
+      "after": "緞面材質",
+      "basis": "Audio context and supplied Markdown terminology"
+    },
+    {
+      "slide": 16,
+      "before": "大師最韌性",
+      "after": "大師最任性",
+      "basis": "Audio context and supplied Markdown terminology"
+    },
+    {
+      "slide": 17,
+      "before": "眼尖的藝品家",
+      "after": "眼尖的藝評家",
+      "basis": "Audio context and supplied Markdown terminology"
+    },
+    {
+      "slide": 17,
+      "before": "腦後的法師",
+      "after": "腦後的髮飾",
+      "basis": "Audio context and supplied Markdown terminology"
+    },
+    {
+      "slide": 19,
+      "before": "路易斯",
+      "after": "路易絲",
+      "basis": "Audio context and supplied Markdown terminology"
+    },
+    {
+      "slide": 19,
+      "before": "佛裡克收藏館",
+      "after": "弗里克收藏館",
+      "basis": "Audio context and supplied Markdown terminology"
+    },
+    {
+      "slide": 19,
+      "before": "第五道道",
+      "after": "第五大道",
+      "basis": "Audio context and supplied Markdown terminology"
+    },
+    {
+      "slide": 19,
+      "before": "私人宅底",
+      "after": "私人宅邸",
+      "basis": "Audio context and supplied Markdown terminology"
+    },
+    {
+      "slide": 19,
+      "before": "正館之保",
+      "after": "鎮館之寶",
+      "basis": "Audio context and supplied Markdown terminology"
+    },
+    {
+      "slide": 19,
+      "before": "為他的美成罪",
+      "after": "為它的美沉醉",
+      "basis": "Audio context and supplied Markdown terminology"
+    },
+    {
+      "slide": 20,
+      "before": "黃色屁肩",
+      "after": "黃色披肩",
+      "basis": "Audio context and supplied Markdown terminology"
+    },
+    {
+      "slide": 20,
+      "before": "機密計算",
+      "after": "精密計算",
+      "basis": "Audio context and supplied Markdown terminology"
+    },
+    {
+      "slide": 20,
+      "before": "渾染天然",
+      "after": "渾然天成",
+      "basis": "Audio context and supplied Markdown terminology"
+    },
+    {
+      "slide": 4,
+      "before": "她手指上帶著",
+      "after": "她手指上戴著",
+      "basis": "Final context and orthography review"
+    },
+    {
+      "slide": 5,
+      "before": "被他輕觸臉頰",
+      "after": "被她輕觸臉頰",
+      "basis": "Final context and orthography review"
+    },
+    {
+      "slide": 8,
+      "before": "這哪是怎麼輕鬆",
+      "after": "這哪是什麼輕鬆",
+      "basis": "Final context and orthography review"
+    },
+    {
+      "slide": 9,
+      "before": "加上映象",
+      "after": "加上映像",
+      "basis": "Final context and orthography review"
+    },
+    {
+      "slide": 15,
+      "before": "他骨子裡",
+      "after": "她骨子裡",
+      "basis": "Final context and orthography review"
+    },
+    {
+      "slide": 19,
+      "before": "在她們家族裡",
+      "after": "在她的家族裡",
+      "basis": "Final context and orthography review"
+    }
+  ],
+  "reference_orthography": "Resolved sitter 她, artist 他, object 它 within each block; standardized Taiwan Chinese and punctuation",
+  "supplemental_source": "Comtesse d'Haussonville (complete).md; bilingual YouTube research files",
+  "original_claims": "Strong spoken optical/anatomical claims retained as spoken and contextualized in supplemental slide 23. Original raster wording preserved."
+}

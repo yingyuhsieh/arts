@@ -1,0 +1,25 @@
+{
+  "manifest": "/Users/yingyuhsieh/Desktop/mcp/arts/Comtesse d'Haussonville/tw_slides/解構安格爾的《奧松維爾伯爵夫人》_slide_manifest.json",
+  "original_count": 21,
+  "supplemental_count": 3,
+  "original_final": {
+    "from": "解構安格爾的《奧松維爾伯爵夫人》_slide_0021.png",
+    "to": "解構安格爾的《奧松維爾伯爵夫人》_slide_0024.png",
+    "sha256": "177434272fa60af20d643c886633d4ba22df6c3b098a2f33f53d1c3d5165a60e"
+  },
+  "supplemental_renames": [
+    {
+      "from": "解構安格爾的《奧松維爾伯爵夫人》_slide_0022.png",
+      "to": "解構安格爾的《奧松維爾伯爵夫人》_slide_0021.png"
+    },
+    {
+      "from": "解構安格爾的《奧松維爾伯爵夫人》_slide_0023.png",
+      "to": "解構安格爾的《奧松維爾伯爵夫人》_slide_0022.png"
+    },
+    {
+      "from": "解構安格爾的《奧松維爾伯爵夫人》_slide_0024.png",
+      "to": "解構安格爾的《奧松維爾伯爵夫人》_slide_0023.png"
+    }
+  ],
+  "subtitle": "/Users/yingyuhsieh/Desktop/mcp/arts/Comtesse d'Haussonville/tw_slides/subtitle/解構安格爾的《奧松維爾伯爵夫人》.txt"
+}

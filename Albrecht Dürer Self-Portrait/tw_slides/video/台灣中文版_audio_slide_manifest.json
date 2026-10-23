@@ -1,0 +1,183 @@
+{
+  "source_audio": "/Users/yingyuhsieh/Desktop/mcp/arts/Albrecht Dürer Self-Portrait/tw_slides/Sounds.m4a",
+  "timing_method": "Local faster-whisper small word timestamps aligned to supplied narration; no duration scaling",
+  "slides": [
+    {
+      "filename": "阿爾布雷希特・丟勒：自畫像中的認同演變_slide_0001.png",
+      "start": 0,
+      "script_slide": 1,
+      "matched_script_offset": 0,
+      "script_opening": "欢迎来到今天的解析在这个每个人随手拿起手机就能自拍修图分享生活的时代我",
+      "recognized_context": "欢迎来到今天的解析在这个每个人随手拿起手机就能自拍修图分享生活的时代我们大概反弹"
+    },
+    {
+      "filename": "阿爾布雷希特・丟勒：自畫像中的認同演變_slide_0002.png",
+      "start": 55.12,
+      "script_slide": 2,
+      "matched_script_offset": 0,
+      "script_opening": "我们不妨思考一个根本的问题在五百年前的欧洲为什么一位纽伦堡金匠的儿子会",
+      "recognized_context": "入杜勒的艺术世界我们不妨思考一个根本的问题在五百年前的欧洲为什么一位扭轮宝精匠的儿子会决定一次又"
+    },
+    {
+      "filename": "阿爾布雷希特・丟勒：自畫像中的認同演變_slide_0003.png",
+      "start": 96.13,
+      "script_slide": 3,
+      "matched_script_offset": 0,
+      "script_opening": "回顾杜勒的一生他的自画像就像是一幅极具宏观视野的精神地图接下来我们将跟",
+      "recognized_context": "自己的地位与存在回顾杜勒的医生他的自画像就像是一幅极具宏观视野的精神地图接下来我们将跟随他的画笔"
+    },
+    {
+      "filename": "阿爾布雷希特・丟勒：自畫像中的認同演變_slide_0004.png",
+      "start": 153.68,
+      "script_slide": 4,
+      "matched_script_offset": 2,
+      "script_opening": "这趟精神之旅的起点要回到1484年画面中这个眼神带有几分好奇与稚气的少",
+      "recognized_context": "动人的演化史在他精神之旅的起点要回到1484年画面中这个眼神带有几分好奇志气的少年就是13岁的杜",
+      "boundary_review": "Use recognized segment onset for the two misrecognized opening characters"
+    },
+    {
+      "filename": "阿爾布雷希特・丟勒：自畫像中的認同演變_slide_0005.png",
+      "start": 170.95,
+      "script_slide": 5,
+      "matched_script_offset": 1,
+      "script_opening": "让我们将时间倒转回这段传奇的起点请想像一下一位年仅十三岁的年轻学徒握著",
+      "recognized_context": "期所创作的自画像我们将时间倒转回这段传奇的起点请想像一下一位年仅13岁的年轻学徒或者极难控制一旦"
+    },
+    {
+      "filename": "阿爾布雷希特・丟勒：自畫像中的認同演變_slide_0006.png",
+      "start": 239.1,
+      "script_slide": 6,
+      "matched_script_offset": 0,
+      "script_opening": "若我们凝视画中少年的双眼便能感受到一种穿透纸面的专注在画面的另一端其实",
+      "recognized_context": "起点究竟从何开始若我们临时画中少年的双脸便能感受到一种穿透齿面的专注在画面的另一端其实存在著一面"
+    },
+    {
+      "filename": "阿爾布雷希特・丟勒：自畫像中的認同演變_slide_0007.png",
+      "start": 278.57,
+      "script_slide": 7,
+      "matched_script_offset": 0,
+      "script_opening": "接下来我们进入寻求地位的艺术家如果说十三岁的杜勒是在镜中探索自我的天赋",
+      "recognized_context": "作力确实令人赞叹接下来我们进入寻求地位的艺术家如果说13岁的杜勒是在镜中探索自我的天赋与极限那么"
+    },
+    {
+      "filename": "阿爾布雷希特・丟勒：自畫像中的認同演變_slide_0008.png",
+      "start": 312.07,
+      "script_slide": 8,
+      "matched_script_offset": 0,
+      "script_opening": "随著岁月递嬗杜勒迈入了二十出头的青年时期此时对自我的描绘已不再只是单纯",
+      "recognized_context": "尚地位的知识分子随著岁月第三杜勒迈入了二十出头的青年时期此时对自我的描绘已不再只是单纯的技术磨练"
+    },
+    {
+      "filename": "阿爾布雷希特・丟勒：自畫像中的認同演變_slide_0009.png",
+      "start": 374.78,
+      "script_slide": 9,
+      "matched_script_offset": 0,
+      "script_opening": "同样是在1493年在他著名的手持刺芹自画像中我们看到了一行极具深意的铭",
+      "recognized_context": "而深刻的日常锻炼同样是在1493年在他著名的手持事情自画像中我们看到了一行极具深意的名文我的命运"
+    },
+    {
+      "filename": "阿爾布雷希特・丟勒：自畫像中的認同演變_slide_0010.png",
+      "start": 424.04,
+      "script_slide": 10,
+      "matched_script_offset": 0,
+      "script_opening": "这正是杜勒艺术生涯中最关键的转折二十六岁这是他在这幅著名的1498年自",
+      "recognized_context": "昧之中沉浸而深睡这正是杜勒艺术生涯中最关键的转折26岁这是他在这幅著名的1498年制画项中飙注的"
+    },
+    {
+      "filename": "阿爾布雷希特・丟勒：自畫像中的認同演變_slide_0011.png",
+      "start": 476.12,
+      "script_slide": 11,
+      "matched_script_offset": 0,
+      "script_opening": "接著我们进入效法基督的威严来到1500年二十八岁的杜勒创作了一幅艺术史",
+      "recognized_context": "闻学者与艺术绅士接著我们进入效法基督的威严来到1500年28岁的杜勒创作了一幅艺术史上震撼也具争"
+    },
+    {
+      "filename": "阿爾布雷希特・丟勒：自畫像中的認同演變_slide_0012.png",
+      "start": 518.41,
+      "script_slide": 12,
+      "matched_script_offset": 0,
+      "script_opening": "在深入这幅作品之前我们必须先理解一个最核心但也最容易被世人误解的概念效",
+      "recognized_context": "家天命的深邃对话在深入这幅作品之前我们必须先理解一个最核心但也最容易被世人误解的概念效法基督杜勒"
+    },
+    {
+      "filename": "阿爾布雷希特・丟勒：自畫像中的認同演變_slide_0013.png",
+      "start": 563.16,
+      "script_slide": 13,
+      "matched_script_offset": 0,
+      "script_opening": "现在让我们再一次凝视这幅创作于1500年的毛皮领外袍自画像画面中的杜勒",
+      "recognized_context": "生俱来的神圣火花现在让我们再一次临世这幅创作于1500年的毛皮灵外跑自画像画面中的杜勒以一种极其"
+    },
+    {
+      "filename": "阿爾布雷希特・丟勒：自畫像中的認同演變_slide_0014.png",
+      "start": 634.93,
+      "script_slide": 14,
+      "matched_script_offset": 0,
+      "script_opening": "这两幅截然对立的形象展现了杜勒自画像中极具震撼力的精神跨度带来无与伦比",
+      "recognized_context": "崇高的敬意与尊重这两幅截然对立的形象展现了杜勒自画像中极具震撼力的精神跨度带来无以轮比的情绪张力"
+    },
+    {
+      "filename": "阿爾布雷希特・丟勒：自畫像中的認同演變_slide_0015.png",
+      "start": 696.11,
+      "script_slide": 15,
+      "matched_script_offset": 0,
+      "script_opening": "如果说盛年时期的杜勒是用艺术将自己塑造为理想化的天才与神圣创作者那么到",
+      "recognized_context": "浸也最深刻的凝视如果说圣世时期的独乐是用艺术将自己塑造为理想化的天才与神圣创作者那么到了晚年他则"
+    },
+    {
+      "filename": "阿爾布雷希特・丟勒：自畫像中的認同演變_slide_0016.png",
+      "start": 714.25,
+      "script_slide": 16,
+      "matched_script_offset": 0,
+      "script_opening": "到了这里我们的故事进入了一个更加私密也更加脆弱的层次在这幅仅约手掌大小",
+      "recognized_context": "的衰老病痛与催落到了这里我们的故事进入了一个更加私密也更加催落的层次在这幅紧约首长大小的患病自化"
+    },
+    {
+      "filename": "阿爾布雷希特・丟勒：自畫像中的認同演變_slide_0017.png",
+      "start": 764.01,
+      "script_slide": 17,
+      "matched_script_offset": 0,
+      "script_opening": "在大约1509年的这幅裸体自画像中杜勒直接卸下了世界赋予他的所有防备与",
+      "recognized_context": "隐密而真实的病痛在大约一五零九年的这幅裸体自化相中杜勒直接卸下了世界赋予他的所有防备与武装当那些"
+    },
+    {
+      "filename": "阿爾布雷希特・丟勒：自畫像中的認同演變_slide_0018.png",
+      "start": 811.73,
+      "script_slide": 18,
+      "matched_script_offset": 0,
+      "script_opening": "回首杜勒这一生的创作从十三岁时那笔触稚嫩却眼神坚定的少年到二十六岁身穿",
+      "recognized_context": "致真诚的自我揭露回首杜勒这一生的创作从13岁时那彼处致嫩却眼神坚定的少年到26岁时身穿华贵服饰宣"
+    },
+    {
+      "filename": "阿爾布雷希特・丟勒：自畫像中的認同演變_slide_0019.png",
+      "start": 837.67,
+      "script_slide": 19,
+      "matched_script_offset": 0,
+      "script_opening": "让我们看看杜勒是如何将这些生命元素终结一处这幅创作于1522年的素描忧",
+      "recognized_context": "病痛与衰老的烦人让我们看看杜勒是如何将这些生命元素终结一触这幅创作于1522年的塑苗幽幻之人画面"
+    },
+    {
+      "filename": "阿爾布雷希特・丟勒：自畫像中的認同演變_slide_0020.png",
+      "start": 891.21,
+      "script_slide": 20,
+      "matched_script_offset": 0,
+      "script_opening": "杜勒如何透过自画像呈现自己也成了后人回应的重要典范例如有研究把汉斯巴尔",
+      "recognized_context": "底奉献在画布之上杜勒如何透过自画象呈现自己也成了后人回应的重要典范例如有研究汉斯巴尔东早期的自我"
+    },
+    {
+      "filename": "阿爾布雷希特・丟勒：自畫像中的認同演變_slide_0021.png",
+      "start": 942.08,
+      "script_slide": 21,
+      "matched_script_offset": 0,
+      "script_opening": "从十三岁时对著镜子满怀好奇的少年一路画到晚年布满岁月痕迹与痛苦的躯体杜",
+      "recognized_context": "答我是谁这个问题从13岁时遍对镜子满怀好奇的少年一路画到晚年不满岁月痕迹与碰苦的躯体杜勒用尽了他"
+    },
+    {
+      "filename": "阿爾布雷希特・丟勒：自畫像中的認同演變_slide_0025.png",
+      "start": 978.33,
+      "script_slide": 22,
+      "matched_script_offset": 0,
+      "script_opening": "今天当我们急著为自己留下影像时我们所追求的究竟只是一张经过精雕细琢的完",
+      "recognized_context": "个极具生意的提问今天当我们急著为自己留下影像时我们所追求的究竟只是一张经过精心雕琢的完美面孔还是"
+    }
+  ]
+}

@@ -1,0 +1,229 @@
+{
+  "video_codec": "h264",
+  "audio_codec": "aac",
+  "video_duration_seconds": 1004.867,
+  "audio_duration_seconds": 1004.82,
+  "fps": 30.0,
+  "video_frames": 30146,
+  "subtitle_streams": 0,
+  "pixel_format": "yuv420p",
+  "video": "/Users/yingyuhsieh/Desktop/mcp/arts/Albrecht Dürer Self-Portrait/tw_slides/video/阿爾布雷希特・杜勒：自畫像中的認同演變_4k.mp4",
+  "file_bytes": 151314813,
+  "source_audio": "/Users/yingyuhsieh/Desktop/mcp/arts/Albrecht Dürer Self-Portrait/tw_slides/Sounds.m4a",
+  "source_audio_duration_seconds": 1004.864,
+  "timing_source": "/Users/yingyuhsieh/Desktop/mcp/arts/Albrecht Dürer Self-Portrait/tw_slides/video/台灣中文版_audio_slide_manifest.json",
+  "slides": 22,
+  "expected_hard_cuts": 21,
+  "dimensions": [
+    3840,
+    2160
+  ],
+  "source_dimensions": {
+    "阿爾布雷希特・丟勒：自畫像中的認同演變_slide_0001.png": [
+      1672,
+      941
+    ],
+    "阿爾布雷希特・丟勒：自畫像中的認同演變_slide_0002.png": [
+      1280,
+      720
+    ],
+    "阿爾布雷希特・丟勒：自畫像中的認同演變_slide_0003.png": [
+      1280,
+      720
+    ],
+    "阿爾布雷希特・丟勒：自畫像中的認同演變_slide_0004.png": [
+      1280,
+      720
+    ],
+    "阿爾布雷希特・丟勒：自畫像中的認同演變_slide_0005.png": [
+      1280,
+      720
+    ],
+    "阿爾布雷希特・丟勒：自畫像中的認同演變_slide_0006.png": [
+      1280,
+      720
+    ],
+    "阿爾布雷希特・丟勒：自畫像中的認同演變_slide_0007.png": [
+      1280,
+      720
+    ],
+    "阿爾布雷希特・丟勒：自畫像中的認同演變_slide_0008.png": [
+      1280,
+      720
+    ],
+    "阿爾布雷希特・丟勒：自畫像中的認同演變_slide_0009.png": [
+      1280,
+      720
+    ],
+    "阿爾布雷希特・丟勒：自畫像中的認同演變_slide_0010.png": [
+      1280,
+      720
+    ],
+    "阿爾布雷希特・丟勒：自畫像中的認同演變_slide_0011.png": [
+      1280,
+      720
+    ],
+    "阿爾布雷希特・丟勒：自畫像中的認同演變_slide_0012.png": [
+      1280,
+      720
+    ],
+    "阿爾布雷希特・丟勒：自畫像中的認同演變_slide_0013.png": [
+      1280,
+      720
+    ],
+    "阿爾布雷希特・丟勒：自畫像中的認同演變_slide_0014.png": [
+      1280,
+      720
+    ],
+    "阿爾布雷希特・丟勒：自畫像中的認同演變_slide_0015.png": [
+      1280,
+      720
+    ],
+    "阿爾布雷希特・丟勒：自畫像中的認同演變_slide_0016.png": [
+      1280,
+      720
+    ],
+    "阿爾布雷希特・丟勒：自畫像中的認同演變_slide_0017.png": [
+      1280,
+      720
+    ],
+    "阿爾布雷希特・丟勒：自畫像中的認同演變_slide_0018.png": [
+      1280,
+      720
+    ],
+    "阿爾布雷希特・丟勒：自畫像中的認同演變_slide_0019.png": [
+      1280,
+      720
+    ],
+    "阿爾布雷希特・丟勒：自畫像中的認同演變_slide_0020.png": [
+      1280,
+      720
+    ],
+    "阿爾布雷希特・丟勒：自畫像中的認同演變_slide_0021.png": [
+      1280,
+      720
+    ],
+    "阿爾布雷希特・丟勒：自畫像中的認同演變_slide_0025.png": [
+      1280,
+      720
+    ]
+  },
+  "source_audio_sha256_packets": "SHA256=65cc4ff887aa11074d803afa75524c1047854d576f5d54adba153b8d2897065a",
+  "output_audio_sha256_packets": "SHA256=65cc4ff887aa11074d803afa75524c1047854d576f5d54adba153b8d2897065a",
+  "slide_checks": [
+    {
+      "slide": "阿爾布雷希特・丟勒：自畫像中的認同演變_slide_0001.png",
+      "checked_at": 0.2,
+      "mean_pixel_error": 1.207
+    },
+    {
+      "slide": "阿爾布雷希特・丟勒：自畫像中的認同演變_slide_0002.png",
+      "checked_at": 55.333333333333336,
+      "mean_pixel_error": 1.594
+    },
+    {
+      "slide": "阿爾布雷希特・丟勒：自畫像中的認同演變_slide_0003.png",
+      "checked_at": 96.33333333333333,
+      "mean_pixel_error": 1.551
+    },
+    {
+      "slide": "阿爾布雷希特・丟勒：自畫像中的認同演變_slide_0004.png",
+      "checked_at": 153.9,
+      "mean_pixel_error": 1.635
+    },
+    {
+      "slide": "阿爾布雷希特・丟勒：自畫像中的認同演變_slide_0005.png",
+      "checked_at": 171.16666666666666,
+      "mean_pixel_error": 1.619
+    },
+    {
+      "slide": "阿爾布雷希特・丟勒：自畫像中的認同演變_slide_0006.png",
+      "checked_at": 239.3,
+      "mean_pixel_error": 1.577
+    },
+    {
+      "slide": "阿爾布雷希特・丟勒：自畫像中的認同演變_slide_0007.png",
+      "checked_at": 278.8,
+      "mean_pixel_error": 1.453
+    },
+    {
+      "slide": "阿爾布雷希特・丟勒：自畫像中的認同演變_slide_0008.png",
+      "checked_at": 312.3,
+      "mean_pixel_error": 1.441
+    },
+    {
+      "slide": "阿爾布雷希特・丟勒：自畫像中的認同演變_slide_0009.png",
+      "checked_at": 375.0,
+      "mean_pixel_error": 1.569
+    },
+    {
+      "slide": "阿爾布雷希特・丟勒：自畫像中的認同演變_slide_0010.png",
+      "checked_at": 424.26666666666665,
+      "mean_pixel_error": 1.566
+    },
+    {
+      "slide": "阿爾布雷希特・丟勒：自畫像中的認同演變_slide_0011.png",
+      "checked_at": 476.3333333333333,
+      "mean_pixel_error": 1.692
+    },
+    {
+      "slide": "阿爾布雷希特・丟勒：自畫像中的認同演變_slide_0012.png",
+      "checked_at": 518.6333333333333,
+      "mean_pixel_error": 1.599
+    },
+    {
+      "slide": "阿爾布雷希特・丟勒：自畫像中的認同演變_slide_0013.png",
+      "checked_at": 563.3666666666667,
+      "mean_pixel_error": 1.536
+    },
+    {
+      "slide": "阿爾布雷希特・丟勒：自畫像中的認同演變_slide_0014.png",
+      "checked_at": 635.1333333333333,
+      "mean_pixel_error": 1.553
+    },
+    {
+      "slide": "阿爾布雷希特・丟勒：自畫像中的認同演變_slide_0015.png",
+      "checked_at": 696.3333333333334,
+      "mean_pixel_error": 1.63
+    },
+    {
+      "slide": "阿爾布雷希特・丟勒：自畫像中的認同演變_slide_0016.png",
+      "checked_at": 714.4666666666667,
+      "mean_pixel_error": 1.617
+    },
+    {
+      "slide": "阿爾布雷希特・丟勒：自畫像中的認同演變_slide_0017.png",
+      "checked_at": 764.2333333333333,
+      "mean_pixel_error": 1.582
+    },
+    {
+      "slide": "阿爾布雷希特・丟勒：自畫像中的認同演變_slide_0018.png",
+      "checked_at": 811.9333333333333,
+      "mean_pixel_error": 1.482
+    },
+    {
+      "slide": "阿爾布雷希特・丟勒：自畫像中的認同演變_slide_0019.png",
+      "checked_at": 837.9,
+      "mean_pixel_error": 1.565
+    },
+    {
+      "slide": "阿爾布雷希特・丟勒：自畫像中的認同演變_slide_0020.png",
+      "checked_at": 891.4333333333333,
+      "mean_pixel_error": 1.494
+    },
+    {
+      "slide": "阿爾布雷希特・丟勒：自畫像中的認同演變_slide_0021.png",
+      "checked_at": 942.3,
+      "mean_pixel_error": 1.49
+    },
+    {
+      "slide": "阿爾布雷希特・丟勒：自畫像中的認同演變_slide_0025.png",
+      "checked_at": 978.5333333333333,
+      "mean_pixel_error": 1.398
+    }
+  ],
+  "motion": "none",
+  "scaling": "Proportional Lanczos, complete slide; centered on 4K black canvas",
+  "source_images_unchanged": true,
+  "audio_packets_identical": true
+}

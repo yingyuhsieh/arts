@@ -1,0 +1,21 @@
+{
+  "manifest": "/Users/yingyuhsieh/Desktop/mcp/arts/Comtesse d'Haussonville/en_slides/Comtesse_d_Haussonville_slide_manifest.json",
+  "original_count": 19,
+  "supplemental_count": 2,
+  "original_final": {
+    "from": "Comtesse_d_Haussonville_slide_0019.png",
+    "to": "Comtesse_d_Haussonville_slide_0021.png",
+    "sha256": "4b536c3d082a2c8ff5a378b14ed65739ae3b9d80cf9354db6504f8a61bd1f80a"
+  },
+  "supplemental_renames": [
+    {
+      "from": "Comtesse_d_Haussonville_slide_0020.png",
+      "to": "Comtesse_d_Haussonville_slide_0019.png"
+    },
+    {
+      "from": "Comtesse_d_Haussonville_slide_0021.png",
+      "to": "Comtesse_d_Haussonville_slide_0020.png"
+    }
+  ],
+  "subtitle": "/Users/yingyuhsieh/Desktop/mcp/arts/Comtesse d'Haussonville/en_slides/subtitle/Comtesse_d_Haussonville.txt"
+}

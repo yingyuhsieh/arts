@@ -1,0 +1,74 @@
+{
+  "language": "zh-TW",
+  "speech_language_probability": 0.9989762306213379,
+  "source_video": "/Users/yingyuhsieh/Desktop/mcp/arts/Comtesse d'Haussonville/解構安格爾的《奧松維爾伯爵夫人》.mp4",
+  "source_duration_seconds": 496.094331,
+  "audio": "/Users/yingyuhsieh/Desktop/mcp/arts/Comtesse d'Haussonville/tw_slides/audio/解構安格爾的《奧松維爾伯爵夫人》_audio.m4a",
+  "audio_duration_seconds": 496.093991,
+  "audio_codec": "aac",
+  "audio_nonempty": true,
+  "decoded_audio_frames": 21365,
+  "audio_peak": 0.8593546152114868,
+  "source_audio_duration_difference": 0.0003399999999942338,
+  "original_slides": 21,
+  "supplemental_slides": 3,
+  "updated_slides": 24,
+  "dimensions": [
+    1280,
+    720
+  ],
+  "background": "/Users/yingyuhsieh/Desktop/mcp/arts/Comtesse d'Haussonville/tw_slides/解構安格爾的《奧松維爾伯爵夫人》_background.png",
+  "background_generator": "built-in image_gen",
+  "subtitle": "/Users/yingyuhsieh/Desktop/mcp/arts/Comtesse d'Haussonville/tw_slides/subtitle/解構安格爾的《奧松維爾伯爵夫人》.txt",
+  "subtitle_blocks": 24,
+  "subtitle_order_matches_images": true,
+  "visual_review": "All 24 updated PNGs opened individually at 1280x720; revised pages reopened. Title, timeline, diagram labels, supplements and end sticker checked.",
+  "readability_adjusted_original_slides": [
+    1,
+    4,
+    10,
+    12,
+    14,
+    17,
+    20
+  ],
+  "notebooklm_wordmark_removed": true,
+  "original_final_verified_before_sticker": true,
+  "original_final_pre_sticker_sha256": "177434272fa60af20d643c886633d4ba22df6c3b098a2f33f53d1c3d5165a60e",
+  "sticker_size": [
+    468,
+    468
+  ],
+  "sticker_position": [
+    406,
+    126
+  ],
+  "markdown_reviewed": [
+    "Comtesse d'Haussonville (complete).md",
+    "Comtesse d'Haussonville book.md",
+    "Comtesse d'Haussonville chatgpt.md",
+    "Comtesse d'Haussonville claude.md",
+    "Jean-Auguste-Dominique Ingres 1845 Comtesse d’Haussonville.md",
+    "comtesse_dhaussonville_youtube_en.md",
+    "comtesse_dhaussonville_youtube_tw.md"
+  ],
+  "direct_author_image_candidates": [],
+  "supplemental_visual_choice": "Text-only pages: no directly contained author images; images subdirectory not traversed, per skill.",
+  "correction_groups": 54,
+  "supplemental_audio_status": "Scripts provided; not recorded. Extracted complete original audio retains original speed. No final extended video requested or generated.",
+  "timing_manifest_scope": "Original-source manifest covers 21 source scenes only. Supplemental pages need actual narration timing before video integration.",
+  "supplemental_sources": {
+    "21": [
+      "Comtesse d'Haussonville (complete).md: 她是誰；1858/1872 publication chronology",
+      "comtesse_dhaussonville_youtube_tw.md: Segment 6"
+    ],
+    "22": [
+      "Comtesse d'Haussonville (complete).md: 從家族收藏到博物館",
+      "https://www.frick.org/exhibitions/past/1986/ingres_portraits"
+    ],
+    "23": [
+      "Comtesse d'Haussonville (complete).md: 開頭、跨越三年、畫面裡的精密安排",
+      "comtesse_dhaussonville_youtube_tw.md: Fact-Checking Notes"
+    ]
+  }
+}

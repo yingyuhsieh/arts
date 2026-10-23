@@ -1,0 +1,58 @@
+{
+  "language": "en",
+  "original_slides": 19,
+  "supplemental_slides": 2,
+  "final_slides": 21,
+  "dimensions": [
+    1280,
+    720
+  ],
+  "audio_duration_seconds": 462.680998,
+  "markdown_reviewed": [
+    "Comtesse d'Haussonville (complete).md",
+    "Comtesse d'Haussonville book.md",
+    "Comtesse d'Haussonville chatgpt.md",
+    "Comtesse d'Haussonville claude.md",
+    "Jean-Auguste-Dominique Ingres 1845 Comtesse d’Haussonville.md",
+    "comtesse_dhaussonville_youtube_en.md",
+    "comtesse_dhaussonville_youtube_tw.md"
+  ],
+  "direct_candidate_images": [],
+  "supplement_sources": [
+    "Comtesse d'Haussonville (complete).md",
+    "comtesse_dhaussonville_youtube_en.md",
+    "comtesse_dhaussonville_youtube_tw.md"
+  ],
+  "subtitle_corrections": {
+    "Contes de Osanville": "Comtesse d’Haussonville",
+    "Jean-August Dominique Angre": "Jean-Auguste-Dominique Ingres",
+    "Angre": "Ingres",
+    "Inge": "Ingres",
+    "Ingra's": "Ingres’s",
+    "Ingra": "Ingres",
+    "Contes,": "Comtesse,",
+    "Madame de Stal": "Madame de Staël",
+    "Académie Francaise": "Académie française",
+    "Robert Emmett": "Robert Emmet",
+    "In Louise herself": "And Louise herself",
+    "over time": "overtime",
+    "hanging off the base": "hanging off the vase",
+    "on the mantle": "on the mantel",
+    "remember the contests": "remember the Comtesse"
+  },
+  "visual_readability_adjustments": [
+    5,
+    7,
+    9,
+    11,
+    13
+  ],
+  "verification": "All 21 slides visually inspected; subtitle filenames contiguous and matching. Original final hash verified before sticker. NotebookLM wordmark removed.",
+  "scope": "Extracted source audio retains original narration and natural speed. Supplemental narration exists as text only; no supplemental speech or new video was generated.",
+  "source_cautions": [
+    "Original narration asserts deliberate suppression of literary identity and physical impossibility more strongly than the revised dossier; supplemental slides explicitly qualify these claims.",
+    "Original slide 17 contains PARIS (MET), an inaccurate source illustration label; original wording and images preserved as required.",
+    "Tiny decorative pseudo-handwriting in source illustrations preserved without inventing wording."
+  ],
+  "background_generation": "Built-in image_gen; user art direction verbatim plus 16:9, quiet pale center, decorative edges and no text/people/portraits constraints."
+}

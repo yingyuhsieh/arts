@@ -73,13 +73,13 @@ Use $youtube-and-social-media-post with
 Use $en-video-integrate-audio-slide to combine my English narration audio, slide images, script, and timing manifest into a YouTube-ready MP4.Use $en-video-integrate-audio-slide to create a YouTube-ready video from:
 
 - Narration script:
-  ./<topic>/en_slides/subtitle/.txt
+  ./<topic>/tw_slides/subtitle/.txt
 - PNG slides:
-  ./<topic>/en_slides/
+  ./<topic>/tw_slides/
 - Narration audio:
-  ./<topic>/en_slides/audio/.m4a
+  ./<topic>/tw_slides/audio/Sounds.m4a
 - Timing manifest:
-  ./<topic>/en_slides/slide_manifest.json
+  ./<topic>/tw_slides/slide_manifest.json
 
 # Podcast thumbnail
 Based on md file and images create a Podcast thumb image with size 720x720 Title: 戴珍珠耳環的少女

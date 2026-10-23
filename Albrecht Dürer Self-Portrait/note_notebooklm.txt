@@ -28,7 +28,7 @@ $create-youtube-slides by <files>
 # Verify contents from AI
 Search web, review & make correction suggestion (繁中) 用 narrative 寫
 
-Title:  500年前的「自拍始祖」？拆解阿爾布雷希特・丟勒的認同演變與凝視密碼
+Title:  500年前的「自拍始祖」？拆解阿爾布雷希特・勒的認同演變與凝視密碼
 
 Title: The Original "Selfie Master"? How Albrecht Dürer Revolutionized Artist Identity
 
@@ -80,13 +80,13 @@ Use $youtube-and-social-media-post with
 Use $tw-video-integrate-audio-slide to combine my 中文 narration audio, slide images, script, and timing manifest into a YouTube-ready MP4.Use $tw-video-integrate-audio-slide to create a YouTube-ready video from:
 
 - Narration script:
-  ./Albrecht Dürer Self-Portrait/en_slides/subtitle/.txt
+  ./Albrecht Dürer Self-Portrait/tw_slides/subtitle/阿爾布雷希特・杜勒：自畫像中的認同演變.txt
 - PNG slides:
-  ./Albrecht Dürer Self-Portrait/en_slides/update
+  ./Albrecht Dürer Self-Portrait/tw_slides/update
 - Narration audio:
-  ./Albrecht Dürer Self-Portrait/en_slides/.m4a
+  ./Albrecht Dürer Self-Portrait/tw_slides/Sounds.m4a
 - Timing manifest:
-  ./Albrecht Dürer Self-Portrait/en_slides/slide_manifest.json
+  ./Albrecht Dürer Self-Portrait/tw_slides/slide_manifest.json
 
 
 
