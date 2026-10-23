@@ -1,0 +1,1781 @@
+{
+  "method": "Deterministic Pillow composition using original local images",
+  "background": "Mantegna__The_Vantage_Point_background.png",
+  "size": [
+    3840,
+    2160
+  ],
+  "completed_slides": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21
+  ],
+  "unchanged_slides": [
+    1,
+    22
+  ],
+  "artwork_policy": "All supplied artworks and photographs are proportionally resized in full, with no cropping or generation. Original slide illustrations are retained on slides 2 and 5; slide 5 crops only the illustration above its old text.",
+  "removed_chapter_numerals": {
+    "4": "1",
+    "8": "2",
+    "13": "3",
+    "19": "4"
+  },
+  "slides": [
+    {
+      "slide": 2,
+      "file": "update/Mantegna__The_Vantage_Point_slide_0002.png",
+      "size": [
+        3840,
+        2160
+      ],
+      "text": [
+        {
+          "text": "ANDREA MANTEGNA",
+          "box": [
+            240,
+            1030,
+            570,
+            30
+          ],
+          "font_size_at_4k": 34
+        },
+        {
+          "text": "The viewer's position  /  02",
+          "box": [
+            930,
+            1030,
+            750,
+            30
+          ],
+          "font_size_at_4k": 34
+        },
+        {
+          "text": "Why stand at the feet\nof a corpse?",
+          "box": [
+            500,
+            495,
+            950,
+            195
+          ],
+          "font_size_at_4k": 142
+        }
+      ],
+      "images": [
+        {
+          "source": "en_slides/update copy/Mantegna__The_Vantage_Point_slide_0002.png",
+          "source_size": [
+            1280,
+            720
+          ],
+          "source_crop": null,
+          "placed_box_4k": [
+            569,
+            420,
+            2702,
+            1520
+          ],
+          "fit": "contain",
+          "kind": "original slide illustration"
+        }
+      ]
+    },
+    {
+      "slide": 3,
+      "file": "update/Mantegna__The_Vantage_Point_slide_0003.png",
+      "size": [
+        3840,
+        2160
+      ],
+      "text": [
+        {
+          "text": "ANDREA MANTEGNA",
+          "box": [
+            240,
+            1030,
+            570,
+            30
+          ],
+          "font_size_at_4k": 34
+        },
+        {
+          "text": "The Lamentation  /  03",
+          "box": [
+            930,
+            1030,
+            750,
+            30
+          ],
+          "font_size_at_4k": 34
+        },
+        {
+          "text": "The Lamentation\nover the\nDead Christ",
+          "box": [
+            1190,
+            310,
+            480,
+            300
+          ],
+          "font_size_at_4k": 110
+        },
+        {
+          "text": "c. 1483",
+          "box": [
+            1190,
+            735,
+            480,
+            80
+          ],
+          "font_size_at_4k": 90
+        }
+      ],
+      "images": [
+        {
+          "source": "images/1480 哀悼死去的基督 Lamentation over the Dead Christ.jpg",
+          "source_size": [
+            1280,
+            1063
+          ],
+          "source_crop": null,
+          "placed_box_4k": [
+            490,
+            432,
+            1790,
+            1487
+          ],
+          "fit": "contain",
+          "kind": "supplied artwork or photograph"
+        }
+      ]
+    },
+    {
+      "slide": 4,
+      "file": "update/Mantegna__The_Vantage_Point_slide_0004.png",
+      "size": [
+        3840,
+        2160
+      ],
+      "text": [
+        {
+          "text": "ANDREA MANTEGNA",
+          "box": [
+            240,
+            1030,
+            570,
+            30
+          ],
+          "font_size_at_4k": 34
+        },
+        {
+          "text": "Padua's Renaissance  /  04",
+          "box": [
+            930,
+            1030,
+            750,
+            30
+          ],
+          "font_size_at_4k": 34
+        },
+        {
+          "text": "Painting Like Sculpture",
+          "box": [
+            245,
+            116,
+            1430,
+            85
+          ],
+          "font_size_at_4k": 130
+        },
+        {
+          "text": "Padua's Renaissance",
+          "box": [
+            245,
+            240,
+            1430,
+            75
+          ],
+          "font_size_at_4k": 94
+        },
+        {
+          "text": "Italy Padua",
+          "box": [
+            245,
+            935,
+            1430,
+            50
+          ],
+          "font_size_at_4k": 74
+        }
+      ],
+      "images": [
+        {
+          "source": "images/Padua 義大利 帕多瓦.JPG",
+          "source_size": [
+            3968,
+            2015
+          ],
+          "source_crop": null,
+          "placed_box_4k": [
+            817,
+            690,
+            2206,
+            1120
+          ],
+          "fit": "contain",
+          "kind": "supplied artwork or photograph"
+        }
+      ]
+    },
+    {
+      "slide": 5,
+      "file": "update/Mantegna__The_Vantage_Point_slide_0005.png",
+      "size": [
+        3840,
+        2160
+      ],
+      "text": [
+        {
+          "text": "ANDREA MANTEGNA",
+          "box": [
+            240,
+            1030,
+            570,
+            30
+          ],
+          "font_size_at_4k": 34
+        },
+        {
+          "text": "Painting like a sculptor  /  05",
+          "box": [
+            930,
+            1030,
+            750,
+            30
+          ],
+          "font_size_at_4k": 34
+        },
+        {
+          "text": "Painting Like a Sculptor",
+          "box": [
+            245,
+            116,
+            1430,
+            85
+          ],
+          "font_size_at_4k": 128
+        },
+        {
+          "text": "Surrounded by plaster casts and antiquities,\nhe painted like a sculptor.",
+          "box": [
+            245,
+            845,
+            1430,
+            135
+          ],
+          "font_size_at_4k": 94
+        }
+      ],
+      "images": [
+        {
+          "source": "en_slides/update copy/Mantegna__The_Vantage_Point_slide_0005.png",
+          "source_size": [
+            1280,
+            720
+          ],
+          "source_crop": [
+            0,
+            0,
+            1280,
+            500
+          ],
+          "placed_box_4k": [
+            492,
+            450,
+            2857,
+            1116
+          ],
+          "fit": "contain",
+          "kind": "original slide illustration"
+        }
+      ]
+    },
+    {
+      "slide": 6,
+      "file": "update/Mantegna__The_Vantage_Point_slide_0006.png",
+      "size": [
+        3840,
+        2160
+      ],
+      "text": [
+        {
+          "text": "ANDREA MANTEGNA",
+          "box": [
+            240,
+            1030,
+            570,
+            30
+          ],
+          "font_size_at_4k": 34
+        },
+        {
+          "text": "The Agony in the Garden  /  06",
+          "box": [
+            930,
+            1030,
+            750,
+            30
+          ],
+          "font_size_at_4k": 34
+        },
+        {
+          "text": "The Agony in the Garden",
+          "box": [
+            245,
+            116,
+            1430,
+            85
+          ],
+          "font_size_at_4k": 128
+        },
+        {
+          "text": "By Andrea Mantegna",
+          "box": [
+            225,
+            830,
+            650,
+            65
+          ],
+          "font_size_at_4k": 74
+        },
+        {
+          "text": "By Giovanni Bellini",
+          "box": [
+            905,
+            830,
+            800,
+            65
+          ],
+          "font_size_at_4k": 74
+        },
+        {
+          "text": "Sharp, sculptural precision",
+          "box": [
+            225,
+            925,
+            650,
+            55
+          ],
+          "font_size_at_4k": 68
+        },
+        {
+          "text": "Soft, atmospheric warmth",
+          "box": [
+            905,
+            925,
+            800,
+            55
+          ],
+          "font_size_at_4k": 68
+        }
+      ],
+      "images": [
+        {
+          "source": "images/1455-1456 客西馬尼園祈禱 Agony in the Garden.jpg",
+          "source_size": [
+            1280,
+            991
+          ],
+          "source_crop": null,
+          "placed_box_4k": [
+            454,
+            530,
+            1292,
+            1000
+          ],
+          "fit": "contain",
+          "kind": "supplied artwork or photograph"
+        },
+        {
+          "source": "images/客西馬尼園祈禱 The Agony in the Garden (約 1459).jpg",
+          "source_size": [
+            1493,
+            936
+          ],
+          "source_crop": null,
+          "placed_box_4k": [
+            1812,
+            530,
+            1595,
+            1000
+          ],
+          "fit": "contain",
+          "kind": "supplied artwork or photograph"
+        }
+      ]
+    },
+    {
+      "slide": 7,
+      "file": "update/Mantegna__The_Vantage_Point_slide_0007.png",
+      "size": [
+        3840,
+        2160
+      ],
+      "text": [
+        {
+          "text": "ANDREA MANTEGNA",
+          "box": [
+            240,
+            1030,
+            570,
+            30
+          ],
+          "font_size_at_4k": 34
+        },
+        {
+          "text": "Two artists, one family  /  07",
+          "box": [
+            930,
+            1030,
+            750,
+            30
+          ],
+          "font_size_at_4k": 34
+        },
+        {
+          "text": "Two Artists, One Family",
+          "box": [
+            245,
+            116,
+            1430,
+            85
+          ],
+          "font_size_at_4k": 130
+        },
+        {
+          "text": "Giovanni Bellini",
+          "box": [
+            225,
+            785,
+            390,
+            60
+          ],
+          "font_size_at_4k": 66
+        },
+        {
+          "text": "Andrea Mantegna",
+          "box": [
+            625,
+            785,
+            390,
+            60
+          ],
+          "font_size_at_4k": 66
+        },
+        {
+          "text": "Mantegna married\nNicolosia Bellini.",
+          "box": [
+            1060,
+            285,
+            610,
+            125
+          ],
+          "font_size_at_4k": 86
+        },
+        {
+          "text": "Shared compositions\nand ideas",
+          "box": [
+            1087,
+            480,
+            583,
+            140
+          ],
+          "font_size_at_4k": 80
+        },
+        {
+          "text": "Mantegna: sharp,\nsculptural precision",
+          "box": [
+            1087,
+            635,
+            583,
+            140
+          ],
+          "font_size_at_4k": 80
+        },
+        {
+          "text": "Bellini: soft,\natmospheric warmth",
+          "box": [
+            1087,
+            790,
+            583,
+            140
+          ],
+          "font_size_at_4k": 80
+        }
+      ],
+      "images": [
+        {
+          "source": "images/Giovanni Bellini self-portrait.jpg",
+          "source_size": [
+            960,
+            1265
+          ],
+          "source_crop": null,
+          "placed_box_4k": [
+            500,
+            572,
+            680,
+            896
+          ],
+          "fit": "contain",
+          "kind": "supplied artwork or photograph"
+        },
+        {
+          "source": "images/曼特尼亞 Andrea Mantegna.png",
+          "source_size": [
+            568,
+            821
+          ],
+          "source_crop": null,
+          "placed_box_4k": [
+            1322,
+            560,
+            636,
+            920
+          ],
+          "fit": "contain",
+          "kind": "supplied artwork or photograph"
+        }
+      ]
+    },
+    {
+      "slide": 8,
+      "file": "update/Mantegna__The_Vantage_Point_slide_0008.png",
+      "size": [
+        3840,
+        2160
+      ],
+      "text": [
+        {
+          "text": "ANDREA MANTEGNA",
+          "box": [
+            240,
+            1030,
+            570,
+            30
+          ],
+          "font_size_at_4k": 34
+        },
+        {
+          "text": "Architectural illusions  /  08",
+          "box": [
+            930,
+            1030,
+            750,
+            30
+          ],
+          "font_size_at_4k": 34
+        },
+        {
+          "text": "Breaking\nthe Ceiling",
+          "box": [
+            250,
+            295,
+            580,
+            235
+          ],
+          "font_size_at_4k": 140
+        },
+        {
+          "text": "Architectural\nIllusions",
+          "box": [
+            250,
+            670,
+            580,
+            175
+          ],
+          "font_size_at_4k": 98
+        }
+      ],
+      "images": [
+        {
+          "source": "images/1465-1474 新婚夫婦之室天頂 Oculus of the Camera degli Sposi.jpg",
+          "source_size": [
+            1280,
+            1092
+          ],
+          "source_crop": null,
+          "placed_box_4k": [
+            1800,
+            518,
+            1540,
+            1314
+          ],
+          "fit": "contain",
+          "kind": "supplied artwork or photograph"
+        }
+      ]
+    },
+    {
+      "slide": 9,
+      "file": "update/Mantegna__The_Vantage_Point_slide_0009.png",
+      "size": [
+        3840,
+        2160
+      ],
+      "text": [
+        {
+          "text": "ANDREA MANTEGNA",
+          "box": [
+            240,
+            1030,
+            570,
+            30
+          ],
+          "font_size_at_4k": 34
+        },
+        {
+          "text": "San Zeno Altarpiece  /  09",
+          "box": [
+            930,
+            1030,
+            750,
+            30
+          ],
+          "font_size_at_4k": 34
+        },
+        {
+          "text": "San Zeno\nAltarpiece",
+          "box": [
+            1100,
+            300,
+            570,
+            225
+          ],
+          "font_size_at_4k": 126
+        },
+        {
+          "text": "Extending physical\nspace into\nthe frame.",
+          "box": [
+            1100,
+            660,
+            570,
+            240
+          ],
+          "font_size_at_4k": 96
+        }
+      ],
+      "images": [
+        {
+          "source": "images/聖則諾祭壇畫 San Zeno Altarpiece.jpg",
+          "source_size": [
+            1000,
+            1256
+          ],
+          "source_crop": null,
+          "placed_box_4k": [
+            673,
+            420,
+            1194,
+            1500
+          ],
+          "fit": "contain",
+          "kind": "supplied artwork or photograph"
+        }
+      ]
+    },
+    {
+      "slide": 10,
+      "file": "update/Mantegna__The_Vantage_Point_slide_0010.png",
+      "size": [
+        3840,
+        2160
+      ],
+      "text": [
+        {
+          "text": "ANDREA MANTEGNA",
+          "box": [
+            240,
+            1030,
+            570,
+            30
+          ],
+          "font_size_at_4k": 34
+        },
+        {
+          "text": "The Gonzaga court  /  10",
+          "box": [
+            930,
+            1030,
+            750,
+            30
+          ],
+          "font_size_at_4k": 34
+        },
+        {
+          "text": "A Court Painter's Compensation",
+          "box": [
+            245,
+            116,
+            1430,
+            85
+          ],
+          "font_size_at_4k": 116
+        },
+        {
+          "text": "180 ducats\na year",
+          "box": [
+            260,
+            280,
+            830,
+            230
+          ],
+          "font_size_at_4k": 154
+        },
+        {
+          "text": "Lodging, firewood,\nand enough grain\nfor a family of six.",
+          "box": [
+            260,
+            640,
+            830,
+            265
+          ],
+          "font_size_at_4k": 100
+        },
+        {
+          "text": "House of Gonzaga",
+          "box": [
+            1140,
+            795,
+            555,
+            115
+          ],
+          "font_size_at_4k": 82
+        }
+      ],
+      "images": [
+        {
+          "source": "images/House of Gonzaga.png",
+          "source_size": [
+            435,
+            506
+          ],
+          "source_crop": null,
+          "placed_box_4k": [
+            2480,
+            600,
+            739,
+            860
+          ],
+          "fit": "contain",
+          "kind": "supplied artwork or photograph"
+        }
+      ]
+    },
+    {
+      "slide": 11,
+      "file": "update/Mantegna__The_Vantage_Point_slide_0011.png",
+      "size": [
+        3840,
+        2160
+      ],
+      "text": [
+        {
+          "text": "ANDREA MANTEGNA",
+          "box": [
+            240,
+            1030,
+            570,
+            30
+          ],
+          "font_size_at_4k": 34
+        },
+        {
+          "text": "Camera Picta  /  11",
+          "box": [
+            930,
+            1030,
+            750,
+            30
+          ],
+          "font_size_at_4k": 34
+        },
+        {
+          "text": "Camera\nPicta",
+          "box": [
+            1190,
+            245,
+            480,
+            215
+          ],
+          "font_size_at_4k": 136
+        },
+        {
+          "text": "An open-air theater\ninside the palace.",
+          "box": [
+            1190,
+            525,
+            480,
+            180
+          ],
+          "font_size_at_4k": 86
+        },
+        {
+          "text": "Peering servants\nThe peacock\nThe open sky",
+          "box": [
+            1190,
+            800,
+            480,
+            160
+          ],
+          "font_size_at_4k": 70
+        }
+      ],
+      "images": [
+        {
+          "source": "images/1465-1474 新婚夫婦之室天頂 Oculus of the Camera degli Sposi.jpg",
+          "source_size": [
+            1280,
+            1092
+          ],
+          "source_crop": null,
+          "placed_box_4k": [
+            541,
+            460,
+            1688,
+            1440
+          ],
+          "fit": "contain",
+          "kind": "supplied artwork or photograph"
+        }
+      ]
+    },
+    {
+      "slide": 12,
+      "file": "update/Mantegna__The_Vantage_Point_slide_0012.png",
+      "size": [
+        3840,
+        2160
+      ],
+      "text": [
+        {
+          "text": "ANDREA MANTEGNA",
+          "box": [
+            240,
+            1030,
+            570,
+            30
+          ],
+          "font_size_at_4k": 34
+        },
+        {
+          "text": "The painted illusion  /  12",
+          "box": [
+            930,
+            1030,
+            750,
+            30
+          ],
+          "font_size_at_4k": 34
+        },
+        {
+          "text": "The Illusion\nof Open Sky",
+          "box": [
+            1040,
+            280,
+            625,
+            235
+          ],
+          "font_size_at_4k": 126
+        },
+        {
+          "text": "Painted architecture\ntransforms the ceiling\ninto an opening\nto the sky.",
+          "box": [
+            1040,
+            650,
+            625,
+            295
+          ],
+          "font_size_at_4k": 88
+        }
+      ],
+      "images": [
+        {
+          "source": "images/Camera picta_overview.png",
+          "source_size": [
+            543,
+            739
+          ],
+          "source_crop": null,
+          "placed_box_4k": [
+            656,
+            440,
+            1087,
+            1480
+          ],
+          "fit": "contain",
+          "kind": "supplied artwork or photograph"
+        }
+      ]
+    },
+    {
+      "slide": 13,
+      "file": "update/Mantegna__The_Vantage_Point_slide_0013.png",
+      "size": [
+        3840,
+        2160
+      ],
+      "text": [
+        {
+          "text": "ANDREA MANTEGNA",
+          "box": [
+            240,
+            1030,
+            570,
+            30
+          ],
+          "font_size_at_4k": 34
+        },
+        {
+          "text": "The Gonzaga years  /  13",
+          "box": [
+            930,
+            1030,
+            750,
+            30
+          ],
+          "font_size_at_4k": 34
+        },
+        {
+          "text": "Myths of\nthe Court",
+          "box": [
+            250,
+            295,
+            490,
+            235
+          ],
+          "font_size_at_4k": 134
+        },
+        {
+          "text": "The Gonzaga\nYears",
+          "box": [
+            250,
+            665,
+            490,
+            175
+          ],
+          "font_size_at_4k": 94
+        },
+        {
+          "text": "Family of Gonzaga by Andrea Mantegna",
+          "box": [
+            790,
+            940,
+            895,
+            45
+          ],
+          "font_size_at_4k": 58
+        }
+      ],
+      "images": [
+        {
+          "source": "images/House of Gonzaga 扎加家族.jpg",
+          "source_size": [
+            933,
+            749
+          ],
+          "source_crop": null,
+          "placed_box_4k": [
+            1663,
+            530,
+            1644,
+            1320
+          ],
+          "fit": "contain",
+          "kind": "supplied artwork or photograph"
+        }
+      ]
+    },
+    {
+      "slide": 14,
+      "file": "update/Mantegna__The_Vantage_Point_slide_0014.png",
+      "size": [
+        3840,
+        2160
+      ],
+      "text": [
+        {
+          "text": "ANDREA MANTEGNA",
+          "box": [
+            240,
+            1030,
+            570,
+            30
+          ],
+          "font_size_at_4k": 34
+        },
+        {
+          "text": "Duties of a court painter  /  14",
+          "box": [
+            930,
+            1030,
+            750,
+            30
+          ],
+          "font_size_at_4k": 34
+        },
+        {
+          "text": "Duties of a Court Painter",
+          "box": [
+            245,
+            116,
+            1430,
+            85
+          ],
+          "font_size_at_4k": 126
+        },
+        {
+          "text": "Painting portraits\nand palace frescoes",
+          "box": [
+            1117,
+            280,
+            553,
+            122
+          ],
+          "font_size_at_4k": 76
+        },
+        {
+          "text": "Designing theatrical sets",
+          "box": [
+            1117,
+            417,
+            553,
+            122
+          ],
+          "font_size_at_4k": 76
+        },
+        {
+          "text": "Appraising classical\nantiquities",
+          "box": [
+            1117,
+            554,
+            553,
+            122
+          ],
+          "font_size_at_4k": 76
+        },
+        {
+          "text": "Crafting intricate allegories",
+          "box": [
+            1117,
+            691,
+            553,
+            122
+          ],
+          "font_size_at_4k": 76
+        },
+        {
+          "text": "Exporting original prints",
+          "box": [
+            1117,
+            828,
+            553,
+            122
+          ],
+          "font_size_at_4k": 76
+        }
+      ],
+      "images": [
+        {
+          "source": "images/凱撒的凱旋 Triumphs of Caesar 1-9 3x3.png",
+          "source_size": [
+            4596,
+            4446
+          ],
+          "source_crop": null,
+          "placed_box_4k": [
+            526,
+            460,
+            1468,
+            1420
+          ],
+          "fit": "contain",
+          "kind": "supplied artwork or photograph"
+        }
+      ]
+    },
+    {
+      "slide": 15,
+      "file": "update/Mantegna__The_Vantage_Point_slide_0015.png",
+      "size": [
+        3840,
+        2160
+      ],
+      "text": [
+        {
+          "text": "ANDREA MANTEGNA",
+          "box": [
+            240,
+            1030,
+            570,
+            30
+          ],
+          "font_size_at_4k": 34
+        },
+        {
+          "text": "The Battle of the Sea Gods  /  15",
+          "box": [
+            930,
+            1030,
+            750,
+            30
+          ],
+          "font_size_at_4k": 34
+        },
+        {
+          "text": "Battle of\nthe Sea Gods",
+          "box": [
+            1230,
+            285,
+            440,
+            230
+          ],
+          "font_size_at_4k": 114
+        },
+        {
+          "text": "Reproducible\nprints exported\nhis genius.",
+          "box": [
+            1230,
+            655,
+            440,
+            250
+          ],
+          "font_size_at_4k": 90
+        }
+      ],
+      "images": [
+        {
+          "source": "images/海神之戰 The Battle of Sea Gods, 1480.jpg",
+          "source_size": [
+            4316,
+            2837
+          ],
+          "source_crop": null,
+          "placed_box_4k": [
+            490,
+            528,
+            1860,
+            1223
+          ],
+          "fit": "contain",
+          "kind": "supplied artwork or photograph"
+        }
+      ]
+    },
+    {
+      "slide": 16,
+      "file": "update/Mantegna__The_Vantage_Point_slide_0016.png",
+      "size": [
+        3840,
+        2160
+      ],
+      "text": [
+        {
+          "text": "ANDREA MANTEGNA",
+          "box": [
+            240,
+            1030,
+            570,
+            30
+          ],
+          "font_size_at_4k": 34
+        },
+        {
+          "text": "Madonna della Vittoria  /  16",
+          "box": [
+            930,
+            1030,
+            750,
+            30
+          ],
+          "font_size_at_4k": 34
+        },
+        {
+          "text": "Who gets to\ncall it a\nvictory?",
+          "box": [
+            250,
+            235,
+            675,
+            285
+          ],
+          "font_size_at_4k": 126
+        },
+        {
+          "text": "Madonna della Vittoria",
+          "box": [
+            250,
+            570,
+            675,
+            120
+          ],
+          "font_size_at_4k": 80
+        },
+        {
+          "text": "A kneeling ruler still occupies\nthe political center\nof the image.",
+          "box": [
+            250,
+            725,
+            675,
+            180
+          ],
+          "font_size_at_4k": 78
+        },
+        {
+          "text": "1495–1496 · Tempera on canvas\nMusée du Louvre, Paris",
+          "box": [
+            980,
+            935,
+            750,
+            55
+          ],
+          "font_size_at_4k": 46
+        }
+      ],
+      "images": [
+        {
+          "source": "images/1496 勝利聖母 Madonna della Vittoria.jpg",
+          "source_size": [
+            1280,
+            2185
+          ],
+          "source_crop": null,
+          "placed_box_4k": [
+            2307,
+            430,
+            826,
+            1410
+          ],
+          "fit": "contain",
+          "kind": "supplied artwork or photograph"
+        }
+      ]
+    },
+    {
+      "slide": 17,
+      "file": "update/Mantegna__The_Vantage_Point_slide_0017.png",
+      "size": [
+        3840,
+        2160
+      ],
+      "text": [
+        {
+          "text": "ANDREA MANTEGNA",
+          "box": [
+            240,
+            1030,
+            570,
+            30
+          ],
+          "font_size_at_4k": 34
+        },
+        {
+          "text": "Parnassus  /  17",
+          "box": [
+            930,
+            1030,
+            750,
+            30
+          ],
+          "font_size_at_4k": 34
+        },
+        {
+          "text": "Parnassus",
+          "box": [
+            1250,
+            315,
+            420,
+            110
+          ],
+          "font_size_at_4k": 122
+        },
+        {
+          "text": "A blend of\nclassical myth\nand courtly\nallegory.",
+          "box": [
+            1250,
+            585,
+            420,
+            330
+          ],
+          "font_size_at_4k": 90
+        }
+      ],
+      "images": [
+        {
+          "source": "images/帕納索斯山 Parnassus.jpg",
+          "source_size": [
+            1280,
+            1056
+          ],
+          "source_crop": null,
+          "placed_box_4k": [
+            531,
+            420,
+            1818,
+            1500
+          ],
+          "fit": "contain",
+          "kind": "supplied artwork or photograph"
+        }
+      ]
+    },
+    {
+      "slide": 18,
+      "file": "update/Mantegna__The_Vantage_Point_slide_0018.png",
+      "size": [
+        3840,
+        2160
+      ],
+      "text": [
+        {
+          "text": "ANDREA MANTEGNA",
+          "box": [
+            240,
+            1030,
+            570,
+            30
+          ],
+          "font_size_at_4k": 34
+        },
+        {
+          "text": "Minerva Expelling the Vices  /  18",
+          "box": [
+            930,
+            1030,
+            750,
+            30
+          ],
+          "font_size_at_4k": 34
+        },
+        {
+          "text": "An argument\nbecomes a\nvisible conflict",
+          "box": [
+            245,
+            235,
+            570,
+            280
+          ],
+          "font_size_at_4k": 106
+        },
+        {
+          "text": "Minerva Expelling\nthe Vices",
+          "box": [
+            245,
+            560,
+            570,
+            125
+          ],
+          "font_size_at_4k": 78
+        },
+        {
+          "text": "Minerva enters the garden\nas strange figures\nscatter before her.",
+          "box": [
+            245,
+            735,
+            570,
+            165
+          ],
+          "font_size_at_4k": 76
+        },
+        {
+          "text": "c. 1500–1502 · Tempera on canvas\nMusée du Louvre, Paris",
+          "box": [
+            245,
+            935,
+            570,
+            55
+          ],
+          "font_size_at_4k": 46
+        }
+      ],
+      "images": [
+        {
+          "source": "images/密涅瓦驅逐惡習 Minerva Expelling the Vices.jpg",
+          "source_size": [
+            1280,
+            1057
+          ],
+          "source_crop": null,
+          "placed_box_4k": [
+            1730,
+            521,
+            1620,
+            1338
+          ],
+          "fit": "contain",
+          "kind": "supplied artwork or photograph"
+        }
+      ]
+    },
+    {
+      "slide": 19,
+      "file": "update/Mantegna__The_Vantage_Point_slide_0019.png",
+      "size": [
+        3840,
+        2160
+      ],
+      "text": [
+        {
+          "text": "ANDREA MANTEGNA",
+          "box": [
+            240,
+            1030,
+            570,
+            30
+          ],
+          "font_size_at_4k": 34
+        },
+        {
+          "text": "Weight of perspective  /  19",
+          "box": [
+            930,
+            1030,
+            750,
+            30
+          ],
+          "font_size_at_4k": 34
+        },
+        {
+          "text": "Ovetari Chapel Frescoes",
+          "box": [
+            245,
+            945,
+            760,
+            45
+          ],
+          "font_size_at_4k": 66
+        },
+        {
+          "text": "Weight of\nPerspective",
+          "box": [
+            1080,
+            295,
+            590,
+            230
+          ],
+          "font_size_at_4k": 128
+        },
+        {
+          "text": "Emotional\nManipulation",
+          "box": [
+            1080,
+            680,
+            590,
+            180
+          ],
+          "font_size_at_4k": 98
+        }
+      ],
+      "images": [
+        {
+          "source": "images/1448-1457 奧韋塔里禮拜堂壁畫 Ovetari Chapel Frescoes.jpg",
+          "source_size": [
+            1280,
+            1538
+          ],
+          "source_crop": null,
+          "placed_box_4k": [
+            659,
+            420,
+            1182,
+            1420
+          ],
+          "fit": "contain",
+          "kind": "supplied artwork or photograph"
+        }
+      ]
+    },
+    {
+      "slide": 20,
+      "file": "update/Mantegna__The_Vantage_Point_slide_0020.png",
+      "size": [
+        3840,
+        2160
+      ],
+      "text": [
+        {
+          "text": "ANDREA MANTEGNA",
+          "box": [
+            240,
+            1030,
+            570,
+            30
+          ],
+          "font_size_at_4k": 34
+        },
+        {
+          "text": "Perspective and emotion  /  20",
+          "box": [
+            930,
+            1030,
+            750,
+            30
+          ],
+          "font_size_at_4k": 34
+        },
+        {
+          "text": "Perspective\nand Emotion",
+          "box": [
+            1150,
+            235,
+            520,
+            210
+          ],
+          "font_size_at_4k": 110
+        },
+        {
+          "text": "Severe perspective as an\nintentional narrative device.",
+          "box": [
+            1150,
+            510,
+            520,
+            155
+          ],
+          "font_size_at_4k": 74
+        },
+        {
+          "text": "Adjusted proportions\npreserve sacred dignity",
+          "box": [
+            1177,
+            700,
+            493,
+            79
+          ],
+          "font_size_at_4k": 64
+        },
+        {
+          "text": "Wounds pushed\ninto the foreground",
+          "box": [
+            1177,
+            794,
+            493,
+            79
+          ],
+          "font_size_at_4k": 64
+        },
+        {
+          "text": "Compressed space\nintensifies tension",
+          "box": [
+            1177,
+            888,
+            493,
+            79
+          ],
+          "font_size_at_4k": 64
+        }
+      ],
+      "images": [
+        {
+          "source": "images/1480 哀悼死去的基督 Lamentation over the Dead Christ.jpg",
+          "source_size": [
+            1280,
+            1063
+          ],
+          "source_crop": null,
+          "placed_box_4k": [
+            490,
+            479,
+            1700,
+            1412
+          ],
+          "fit": "contain",
+          "kind": "supplied artwork or photograph"
+        }
+      ]
+    },
+    {
+      "slide": 21,
+      "file": "update/Mantegna__The_Vantage_Point_slide_0021.png",
+      "size": [
+        3840,
+        2160
+      ],
+      "text": [
+        {
+          "text": "ANDREA MANTEGNA",
+          "box": [
+            240,
+            1030,
+            570,
+            30
+          ],
+          "font_size_at_4k": 34
+        },
+        {
+          "text": "Where does the artist place you?  /  21",
+          "box": [
+            930,
+            1030,
+            750,
+            30
+          ],
+          "font_size_at_4k": 34
+        },
+        {
+          "text": "Lamentation over the Dead Christ",
+          "box": [
+            237,
+            547,
+            416,
+            65
+          ],
+          "font_size_at_4k": 50
+        },
+        {
+          "text": "Camera degli Sposi",
+          "box": [
+            677,
+            547,
+            416,
+            65
+          ],
+          "font_size_at_4k": 50
+        },
+        {
+          "text": "Parnassus",
+          "box": [
+            237,
+            932,
+            416,
+            65
+          ],
+          "font_size_at_4k": 50
+        },
+        {
+          "text": "Crucifixion",
+          "box": [
+            677,
+            932,
+            416,
+            65
+          ],
+          "font_size_at_4k": 50
+        },
+        {
+          "text": "Where does\nthe artist\nplace you",
+          "box": [
+            1180,
+            270,
+            490,
+            330
+          ],
+          "font_size_at_4k": 128
+        },
+        {
+          "text": "to change\nthe story?",
+          "box": [
+            1180,
+            735,
+            490,
+            210
+          ],
+          "font_size_at_4k": 128
+        }
+      ],
+      "images": [
+        {
+          "source": "images/哀悼死去的基督 Lamentation over the Dead Christ.jpg",
+          "source_size": [
+            1536,
+            1316
+          ],
+          "source_crop": null,
+          "placed_box_4k": [
+            552,
+            470,
+            677,
+            580
+          ],
+          "fit": "contain",
+          "kind": "supplied artwork or photograph"
+        },
+        {
+          "source": "images/新婚夫婦之室 Camera degli Sposi.jpg",
+          "source_size": [
+            1280,
+            853
+          ],
+          "source_crop": null,
+          "placed_box_4k": [
+            1370,
+            494,
+            800,
+            533
+          ],
+          "fit": "contain",
+          "kind": "supplied artwork or photograph"
+        },
+        {
+          "source": "images/帕納索斯山 Parnassus.jpg",
+          "source_size": [
+            1280,
+            1056
+          ],
+          "source_crop": null,
+          "placed_box_4k": [
+            538,
+            1240,
+            703,
+            580
+          ],
+          "fit": "contain",
+          "kind": "supplied artwork or photograph"
+        },
+        {
+          "source": "images/Crucifixion.jpg",
+          "source_size": [
+            1904,
+            1374
+          ],
+          "source_crop": null,
+          "placed_box_4k": [
+            1370,
+            1242,
+            800,
+            577
+          ],
+          "fit": "contain",
+          "kind": "supplied artwork or photograph"
+        }
+      ]
+    }
+  ],
+  "validation": {
+    "png_count": 20,
+    "resolution": [
+      3840,
+      2160
+    ],
+    "unchanged_image_placements_verified": 24,
+    "requested_captions_verified": true,
+    "slide_2_original_illustration": "retained with replaced question panel"
+  },
+  "notes": [
+    "Comparison images on slide 6 aligned to a common height of 1000 pixels with original proportions preserved."
+  ]
+}

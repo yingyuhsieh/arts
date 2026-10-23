@@ -1,0 +1,124 @@
+{
+  "video": "/Users/yingyuhsieh/Desktop/mcp/arts/Andrea Mantegna/en_slides/video/Mantegna__The_Vantage_Point_natural_male.mp4",
+  "audio": "/Users/yingyuhsieh/Desktop/mcp/arts/Andrea Mantegna/en_slides/audio/Mantegna__The_Vantage_Point_narration_male_natural.wav",
+  "duration_seconds": 758.4121541950113,
+  "slide_count": 22,
+  "source_dimensions": [
+    [
+      1280,
+      720
+    ],
+    [
+      3840,
+      2160
+    ]
+  ],
+  "output_dimensions": [
+    3840,
+    2160
+  ],
+  "fps": 30,
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-3%",
+  "inter_slide_pause": 1.5,
+  "streams": {
+    "video": 1,
+    "audio": 1,
+    "subtitles": 0
+  },
+  "hard_cuts": 21,
+  "ordered_slide_transitions": [
+    {
+      "slide": 1,
+      "time": 0.0
+    },
+    {
+      "slide": 2,
+      "time": 38.433333
+    },
+    {
+      "slide": 3,
+      "time": 71.766667
+    },
+    {
+      "slide": 4,
+      "time": 121.766667
+    },
+    {
+      "slide": 5,
+      "time": 138.433333
+    },
+    {
+      "slide": 6,
+      "time": 171.766667
+    },
+    {
+      "slide": 7,
+      "time": 205.1
+    },
+    {
+      "slide": 8,
+      "time": 246.766667
+    },
+    {
+      "slide": 9,
+      "time": 255.1
+    },
+    {
+      "slide": 10,
+      "time": 296.766667
+    },
+    {
+      "slide": 11,
+      "time": 330.1
+    },
+    {
+      "slide": 12,
+      "time": 371.766667
+    },
+    {
+      "slide": 13,
+      "time": 396.766667
+    },
+    {
+      "slide": 14,
+      "time": 405.1
+    },
+    {
+      "slide": 15,
+      "time": 438.433333
+    },
+    {
+      "slide": 16,
+      "time": 471.766667
+    },
+    {
+      "slide": 17,
+      "time": 537.766667
+    },
+    {
+      "slide": 18,
+      "time": 579.433333
+    },
+    {
+      "slide": 19,
+      "time": 662.766667
+    },
+    {
+      "slide": 20,
+      "time": 671.1
+    },
+    {
+      "slide": 21,
+      "time": 729.433333
+    },
+    {
+      "slide": 22,
+      "time": 750.466667
+    }
+  ],
+  "static_hold_samples_verified": 44,
+  "maximum_keyframe_thumbnail_rmse": 1.5894763718895113,
+  "wav_rms": 2700.9326230348393,
+  "original_input_hashes_unchanged": true
+}

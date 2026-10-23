@@ -59,7 +59,7 @@ Replace ./Andrea Mantegna/en_slides/update/Mantegna__The_Vantage_Point_slide_000
 # 產生English video
 Use $en-make-video.
 Narration:
-./Andrea Mantegna/en_slides/subtitle/.txt
+./Andrea Mantegna/en_slides/subtitle/Mantegna__The_Vantage_Point.txt
 Images:
 ./Andrea Mantegna/en_slides/update
 

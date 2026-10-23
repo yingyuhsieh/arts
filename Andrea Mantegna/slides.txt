@@ -52,7 +52,6 @@ Modify Andrea Mantegna\en_slides\update\Mantegna__The_Vantage_Point_slide_0015.p
 Modify Andrea Mantegna\en_slides\update\Mantegna__The_Vantage_Point_slide_0016.png and make description clear
 Modify Andrea Mantegna\en_slides\update\Mantegna__The_Vantage_Point_slide_0017.png and use image Andrea Mantegna\images\帕納索斯山 Parnassus.jpg and make description large and clear
 Modify Andrea Mantegna\en_slides\update\Mantegna__The_Vantage_Point_slide_0018.png and make description clear
-
 Modify Andrea Mantegna\en_slides\update\Mantegna__The_Vantage_Point_slide_0019.png and remove "4" from image and add image Andrea Mantegna\images\1448-1457 奧韋塔里禮拜堂壁畫 Ovetari Chapel Frescoes.jpg mark "Ovetari Chapel Frescoes" and make description large and clear
 Modify Andrea Mantegna\en_slides\update\Mantegna__The_Vantage_Point_slide_0020.png and use image Andrea Mantegna\images\1480 哀悼死去的基督 Lamentation over the Dead Christ.jpg and make description large and clear
 Modify Andrea Mantegna\en_slides\update\Mantegna__The_Vantage_Point_slide_0021.png and add image Andrea Mantegna\images\哀悼死去的基督 Lamentation over the Dead Christ.jpg, 新婚夫婦之室 Camera degli Sposi.jpg, 帕納索斯山 Parnassus.jpg, Crucifixion.jpg and make description large and clear

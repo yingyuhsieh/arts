@@ -1,0 +1,138 @@
+{
+  "slides": [
+    {
+      "slide": 1,
+      "file": "Mantegna__The_Vantage_Point_slide_0001.png",
+      "start": 0.0,
+      "duration": 38.436009
+    },
+    {
+      "slide": 2,
+      "file": "Mantegna__The_Vantage_Point_slide_0002.png",
+      "start": 38.436009,
+      "duration": 25.572018
+    },
+    {
+      "slide": 3,
+      "file": "Mantegna__The_Vantage_Point_slide_0003.png",
+      "start": 64.008027,
+      "duration": 55.86
+    },
+    {
+      "slide": 4,
+      "file": "Mantegna__The_Vantage_Point_slide_0004.png",
+      "start": 119.868027,
+      "duration": 13.668005
+    },
+    {
+      "slide": 5,
+      "file": "Mantegna__The_Vantage_Point_slide_0005.png",
+      "start": 133.536032,
+      "duration": 38.22
+    },
+    {
+      "slide": 6,
+      "file": "Mantegna__The_Vantage_Point_slide_0006.png",
+      "start": 171.756032,
+      "duration": 33.228005
+    },
+    {
+      "slide": 7,
+      "file": "Mantegna__The_Vantage_Point_slide_0007.png",
+      "start": 204.984037,
+      "duration": 38.844014
+    },
+    {
+      "slide": 8,
+      "file": "Mantegna__The_Vantage_Point_slide_0008.png",
+      "start": 243.828051,
+      "duration": 11.052018
+    },
+    {
+      "slide": 9,
+      "file": "Mantegna__The_Vantage_Point_slide_0009.png",
+      "start": 254.880069,
+      "duration": 39.804014
+    },
+    {
+      "slide": 10,
+      "file": "Mantegna__The_Vantage_Point_slide_0010.png",
+      "start": 294.684083,
+      "duration": 34.98
+    },
+    {
+      "slide": 11,
+      "file": "Mantegna__The_Vantage_Point_slide_0011.png",
+      "start": 329.664083,
+      "duration": 34.884014
+    },
+    {
+      "slide": 12,
+      "file": "Mantegna__The_Vantage_Point_slide_0012.png",
+      "start": 364.548097,
+      "duration": 29.868005
+    },
+    {
+      "slide": 13,
+      "file": "Mantegna__The_Vantage_Point_slide_0013.png",
+      "start": 394.416102,
+      "duration": 10.068005
+    },
+    {
+      "slide": 14,
+      "file": "Mantegna__The_Vantage_Point_slide_0014.png",
+      "start": 404.484107,
+      "duration": 28.788005
+    },
+    {
+      "slide": 15,
+      "file": "Mantegna__The_Vantage_Point_slide_0015.png",
+      "start": 433.272112,
+      "duration": 34.548005
+    },
+    {
+      "slide": 16,
+      "file": "Mantegna__The_Vantage_Point_slide_0016.png",
+      "start": 467.820117,
+      "duration": 69.972018
+    },
+    {
+      "slide": 17,
+      "file": "Mantegna__The_Vantage_Point_slide_0017.png",
+      "start": 537.792135,
+      "duration": 37.428005
+    },
+    {
+      "slide": 18,
+      "file": "Mantegna__The_Vantage_Point_slide_0018.png",
+      "start": 575.22014,
+      "duration": 79.74
+    },
+    {
+      "slide": 19,
+      "file": "Mantegna__The_Vantage_Point_slide_0019.png",
+      "start": 654.96014,
+      "duration": 14.46
+    },
+    {
+      "slide": 20,
+      "file": "Mantegna__The_Vantage_Point_slide_0020.png",
+      "start": 669.42014,
+      "duration": 52.068005
+    },
+    {
+      "slide": 21,
+      "file": "Mantegna__The_Vantage_Point_slide_0021.png",
+      "start": 721.488145,
+      "duration": 29.004014
+    },
+    {
+      "slide": 22,
+      "file": "Mantegna__The_Vantage_Point_slide_0022.png",
+      "start": 750.492159,
+      "duration": 7.92
+    }
+  ],
+  "duration_seconds": 758.412159,
+  "inter_slide_pause": 1.5
+}
