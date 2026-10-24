@@ -1,0 +1,43 @@
+Modify Comtesse d'Haussonville\tw_slides\update\解構安格爾的《奧松維爾伯爵夫人》_slide_00.png
+ and add image Comtesse d'Haussonville\images\
+ and make description large and clear
+ and make description clear
+
+以下是修正要用在 YouTubbe 影片的 slides，請將它們做成可以吸引觀看者。輸出 size 1280x720
+使用 slide background 解構安格爾的《奧松維爾伯爵夫人》_background.png and 使用 YouTube_PNG_設計風格_Prompt.md
+Modify Comtesse d'Haussonville\tw_slides\update\解構安格爾的《奧松維爾伯爵夫人》_slide_0003.png and add image Comtesse d'Haussonville\images\detail.scarf,png, detail.telescope.png, detail.bag.png, detail.ring.png, detai.cards.png and make description clear
+Modify Comtesse d'Haussonville\tw_slides\update\解構安格爾的《奧松維爾伯爵夫人》_slide_0004.png and use image Comtesse d'Haussonville\images\Portrait of Comtesse d'Haussonville-lady.png and make description large and clear
+Modify Comtesse d'Haussonville\tw_slides\update\解構安格爾的《奧松維爾伯爵夫人》_slide_0005.pn and add image Comtesse d'Haussonville\images\Jean-Auguste-Dominique Ingres.jpg and the description is "3 Years"
+Modify Comtesse d'Haussonville\tw_slides\update\解構安格爾的《奧松維爾伯爵夫人》_slide_0006.png and add image Comtesse d'Haussonville\images\IMG-003_Preparatory_drawing.jpg, Preparatory drawing; graphite and white highlights on paper, 1842.jpg, draft-01.png, draft-02.png, draft-03.png, draft-04.png
+Modify Comtesse d'Haussonville\tw_slides\update\解構安格爾的《奧松維爾伯爵夫人》_slide_0008.png and make flow and description clear
+Modify Comtesse d'Haussonville\tw_slides\update\解構安格爾的《奧松維爾伯爵夫人》_slide_0009.png and make description large and clear and butify the original images
+Modify Comtesse d'Haussonville\tw_slides\update\解構安格爾的《奧松維爾伯爵夫人》_slide_0010.png and make description large and clear and butify the original images and add image Comtesse d'Haussonville\images\Louise de Broglie and make description clear
+Modify Comtesse d'Haussonville\tw_slides\update\解構安格爾的《奧松維爾伯爵夫人》_slide_0011.png
+ and add image Comtesse d'Haussonville\images\Robert Emmet, 1858 book by Louise de Broglie.png mark "Robert Emmet, 1858", La Jeunesse de Lord Byron, 1872 book by Louise de Broglie.png mark "La Jeunesse de Lord Byron, 1872" and keep the image on the right, and make description clear
+Modify Comtesse d'Haussonville\tw_slides\update\解構安格爾的《奧松維爾伯爵夫人》_slide_0012.png and mark left image "奧松維爾伯爵夫人", mark right image "德布羅伊王妃"
+Modify Comtesse d'Haussonville\tw_slides\update\解構安格爾的《奧松維爾伯爵夫人》_slide_0013.png and make description clear
+Modify Comtesse d'Haussonville\tw_slides\update\解構安格爾的《奧松維爾伯爵夫人》_slide_0014.png and add image Comtesse d'Haussonville\images\IMG-007_Frick_Collection.jpg, 弗里克收藏館 The Flick Collection.png and mark "弗里克收藏館"
+Modify Comtesse d'Haussonville\tw_slides\update\解構安格爾的《奧松維爾伯爵夫人》_slide_0019.png and add image Comtesse d'Haussonville\images\Portrait of Comtesse d'Haussonville.jpg, Preparatory drawing; graphite and white highlights on paper, 1842.jpg and make description large and clear
+Modify Comtesse d'Haussonville\tw_slides\update\解構安格爾的《奧松維爾伯爵夫人》_slide_00.png and add image Comtesse d'Haussonville\images\Portrait of Comtesse d'Haussonville.jpg mar "奧松維爾伯爵夫人", IMG-005_Princesse_de_Broglie.jpg mark "德布羅伊王妃" and make description clear
+
+
+Modify Comtesse d'Haussonville\en_slides\update\Comtesse_d_Haussonville_slide_00.png
+ and add image Comtesse d'Haussonville\images\
+ and make description large and clear
+ and make description clear
+
+以下是修正要用在 YouTubbe 影片的 slides，請將它們做成可以吸引觀看者。輸出 size 1280x720
+使用 slide background Comtesse d'Haussonville\en_slides\Comtesse_d_Haussonville_background.png and 使用 YouTube_PNG_設計風格_Prompt.md
+Modify Comtesse d'Haussonville\en_slides\update\Comtesse_d_Haussonville_slide_0002.png and make description large and clear
+Modify Comtesse d'Haussonville\en_slides\update\Comtesse_d_Haussonville_slide_0003.png and add image Comtesse d'Haussonville\images\Portrait of Comtesse d'Haussonville-lady.png and make description large and clear
+Modify Comtesse d'Haussonville\en_slides\update\Comtesse_d_Haussonville_slide_0004.png and add image Comtesse d'Haussonville\images\detail.scarf,png, detail.telescope.png, detail.bag.png, detail.ring.png, detai.cards.png and make description clear
+Modify Comtesse d'Haussonville\en_slides\update\Comtesse_d_Haussonville_slide_0005.png and butify images and make description clear
+Modify Comtesse d'Haussonville\en_slides\update\Comtesse_d_Haussonville_slide_0006.png and make flow and description clear
+Modify Comtesse d'Haussonville\en_slides\update\Comtesse_d_Haussonville_slide_0007.png and use image Comtesse d'Haussonville\images\First oil on canvas version of Portrait of Comtesse d'Haussonville, 1842.jpg, Portrait of Comtesse d'Haussonville.jpg, Preparatory drawing; graphite and white highlights on paper, 1842.jpg and make description large and clear and give description "80 Drawings & 9 Days for One Hand: The Hidden Labor of Elegance"
+Modify Comtesse d'Haussonville\en_slides\update\Comtesse_d_Haussonville_slide_0008.png and make description large and clear and butify the other images
+Modify Comtesse d'Haussonville\en_slides\update\Comtesse_d_Haussonville_slide_0009.png and make description large and clear 
+Modify Comtesse d'Haussonville\en_slides\update\Comtesse_d_Haussonville_slide_0010.png and add image Comtesse d'Haussonville\images\Louise de Broglie.png and make description large and clear 
+Modify Comtesse d'Haussonville\en_slides\update\Comtesse_d_Haussonville_slide_0011.png and add image Comtesse d'Haussonville\images\IMG-007_Frick_Collection.jpg, 弗里克收藏館 The Flick Collection.png and make description large and clear
+Modify Comtesse d'Haussonville\en_slides\update\Comtesse_d_Haussonville_slide_0012.png and use image Comtesse d'Haussonville\images\Portrait of Comtesse d'Haussonville.jpg mark "Comtesse d'Haussonville", IMG-005_Princesse_de_Broglie mark "Princesse de Broglie"
+Modify Comtesse d'Haussonville\en_slides\update\Comtesse_d_Haussonville_slide_0013.png and add image Comtesse d'Haussonville\images\Portrait of Comtesse d'Haussonville.jpg and make description large and clear
+

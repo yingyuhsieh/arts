@@ -1,0 +1,7 @@
+Modify Comtesse d'Haussonville\tw_slides\update\<topic>_slide_00.png
+ and add image Comtesse d'Haussonville\images\
+ and make description large and clear
+ and make description clear
+
+以下是修正要用在 YouTubbe 影片的 slides，請將它們做成可以吸引觀看者。輸出 size 1280x720
+使用 slide background <background_image_path>.png and 使用 YouTube_PNG_設計風格_Prompt.md
