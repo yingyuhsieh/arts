@@ -59,7 +59,7 @@ Replace ./Comtesse d'Haussonville/en_slides/update/Comtesse_d_Haussonville_slide
 # 產生English video
 Use $en-make-video.
 Narration:
-./Comtesse d'Haussonville/en_slides/subtitle/.txt
+./Comtesse d'Haussonville/en_slides/subtitle/Comtesse_d_Haussonville.txt
 Images:
 ./Comtesse d'Haussonville/en_slides/update
 

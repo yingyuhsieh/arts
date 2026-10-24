@@ -12,13 +12,12 @@ Modify Comtesse d'Haussonville\tw_slides\update\解構安格爾的《奧松維�
 Modify Comtesse d'Haussonville\tw_slides\update\解構安格爾的《奧松維爾伯爵夫人》_slide_0008.png and make flow and description clear
 Modify Comtesse d'Haussonville\tw_slides\update\解構安格爾的《奧松維爾伯爵夫人》_slide_0009.png and make description large and clear and butify the original images
 Modify Comtesse d'Haussonville\tw_slides\update\解構安格爾的《奧松維爾伯爵夫人》_slide_0010.png and make description large and clear and butify the original images and add image Comtesse d'Haussonville\images\Louise de Broglie and make description clear
-Modify Comtesse d'Haussonville\tw_slides\update\解構安格爾的《奧松維爾伯爵夫人》_slide_0011.png
- and add image Comtesse d'Haussonville\images\Robert Emmet, 1858 book by Louise de Broglie.png mark "Robert Emmet, 1858", La Jeunesse de Lord Byron, 1872 book by Louise de Broglie.png mark "La Jeunesse de Lord Byron, 1872" and keep the image on the right, and make description clear
+Modify Comtesse d'Haussonville\tw_slides\update\解構安格爾的《奧松維爾伯爵夫人》_slide_0011.png and add image Comtesse d'Haussonville\images\Robert Emmet, 1858 book by Louise de Broglie.png mark "Robert Emmet, 1858", La Jeunesse de Lord Byron, 1872 book by Louise de Broglie.png mark "La Jeunesse de Lord Byron, 1872" and keep the image on the right, and make description clear
 Modify Comtesse d'Haussonville\tw_slides\update\解構安格爾的《奧松維爾伯爵夫人》_slide_0012.png and mark left image "奧松維爾伯爵夫人", mark right image "德布羅伊王妃"
 Modify Comtesse d'Haussonville\tw_slides\update\解構安格爾的《奧松維爾伯爵夫人》_slide_0013.png and make description clear
 Modify Comtesse d'Haussonville\tw_slides\update\解構安格爾的《奧松維爾伯爵夫人》_slide_0014.png and add image Comtesse d'Haussonville\images\IMG-007_Frick_Collection.jpg, 弗里克收藏館 The Flick Collection.png and mark "弗里克收藏館"
-Modify Comtesse d'Haussonville\tw_slides\update\解構安格爾的《奧松維爾伯爵夫人》_slide_0019.png and add image Comtesse d'Haussonville\images\Portrait of Comtesse d'Haussonville.jpg, Preparatory drawing; graphite and white highlights on paper, 1842.jpg and make description large and clear
-Modify Comtesse d'Haussonville\tw_slides\update\解構安格爾的《奧松維爾伯爵夫人》_slide_00.png and add image Comtesse d'Haussonville\images\Portrait of Comtesse d'Haussonville.jpg mar "奧松維爾伯爵夫人", IMG-005_Princesse_de_Broglie.jpg mark "德布羅伊王妃" and make description clear
+Modify Comtesse d'Haussonville\tw_slides\update\解構安格爾的《奧松維爾伯爵夫人》_slide_0015.png and add image Comtesse d'Haussonville\images\Portrait of Comtesse d'Haussonville.jpg mar "奧松維爾伯爵夫人", IMG-005_Princesse_de_Broglie.jpg mark "德布羅伊王妃" and make description clear
+Modify Comtesse d'Haussonville\tw_slides\update\解構安格爾的《奧松維爾伯爵夫人》_slide_0016.png and add image Comtesse d'Haussonville\images\Portrait of Comtesse d'Haussonville.jpg, Preparatory drawing; graphite and white highlights on paper, 1842.jpg and make description large and clear
 
 
 Modify Comtesse d'Haussonville\en_slides\update\Comtesse_d_Haussonville_slide_00.png
