@@ -77,11 +77,11 @@ Use $youtube-and-social-media-post with
 Use $tw-video-integrate-audio-slide to combine my 中文 narration audio, slide images, script, and timing manifest into a YouTube-ready MP4.Use $tw-video-integrate-audio-slide to create a YouTube-ready video from:
 
 - Narration script:
-  ./Andrea Mantegna/tw_slides/subtitle/.txt
+  ./Andrea Mantegna/tw_slides/subtitle/安德烈亞·曼特尼亞：透視與空間大師.txt
 - PNG slides:
   ./Andrea Mantegna/tw_slides/update
 - Narration audio:
-  ./Andrea Mantegna/tw_slides/.m4a
+  ./Andrea Mantegna/tw_slides/Sounds.m4a
 - Timing manifest:
   ./Andrea Mantegna/tw_slides/slide_manifest.json
 

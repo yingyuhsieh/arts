@@ -1,0 +1,222 @@
+{
+  "audio_encoding": "AAC stream copy",
+  "source_audio_available_at_final_check": false,
+  "video": "/Users/yingyuhsieh/Desktop/mcp/arts/Andrea Mantegna/tw_slides/video/安德烈亞·曼特尼亞：透視與空間大師_4k.mp4",
+  "file_bytes": 258866310,
+  "megabytes": 258.87,
+  "slides": 21,
+  "expected_hard_cuts": 20,
+  "verified_cuts": 20,
+  "source_dimensions": [
+    [
+      1280,
+      720
+    ],
+    [
+      3840,
+      2160
+    ]
+  ],
+  "output_dimensions": [
+    3840,
+    2160
+  ],
+  "fps": 30,
+  "video_codec": "h264",
+  "audio_codec": "aac",
+  "subtitle_streams": 0,
+  "video_duration_seconds": 956.0,
+  "audio_duration_seconds": 955.967,
+  "source_audio_duration_seconds": 956.010667,
+  "audio_rms": 0.07679968650697602,
+  "all_source_images_unchanged": true,
+  "slide_checks": [
+    {
+      "slide": 1,
+      "sample_seconds": 22.145,
+      "mean_absolute_pixel_error": 1.399
+    },
+    {
+      "slide": 2,
+      "sample_seconds": 70.84,
+      "mean_absolute_pixel_error": 1.474
+    },
+    {
+      "slide": 3,
+      "sample_seconds": 114.55,
+      "mean_absolute_pixel_error": 1.458
+    },
+    {
+      "slide": 4,
+      "sample_seconds": 139.44,
+      "mean_absolute_pixel_error": 1.434
+    },
+    {
+      "slide": 5,
+      "sample_seconds": 163.64,
+      "mean_absolute_pixel_error": 1.456
+    },
+    {
+      "slide": 6,
+      "sample_seconds": 195.065,
+      "mean_absolute_pixel_error": 1.52
+    },
+    {
+      "slide": 7,
+      "sample_seconds": 218.64,
+      "mean_absolute_pixel_error": 1.47
+    },
+    {
+      "slide": 8,
+      "sample_seconds": 262.725,
+      "mean_absolute_pixel_error": 1.459
+    },
+    {
+      "slide": 9,
+      "sample_seconds": 315.295,
+      "mean_absolute_pixel_error": 1.426
+    },
+    {
+      "slide": 10,
+      "sample_seconds": 343.2,
+      "mean_absolute_pixel_error": 1.43
+    },
+    {
+      "slide": 11,
+      "sample_seconds": 388.875,
+      "mean_absolute_pixel_error": 1.447
+    },
+    {
+      "slide": 12,
+      "sample_seconds": 444.49,
+      "mean_absolute_pixel_error": 1.51
+    },
+    {
+      "slide": 13,
+      "sample_seconds": 482.55,
+      "mean_absolute_pixel_error": 1.453
+    },
+    {
+      "slide": 14,
+      "sample_seconds": 518.975,
+      "mean_absolute_pixel_error": 1.45
+    },
+    {
+      "slide": 15,
+      "sample_seconds": 574.4,
+      "mean_absolute_pixel_error": 1.442
+    },
+    {
+      "slide": 16,
+      "sample_seconds": 630.085,
+      "mean_absolute_pixel_error": 1.433
+    },
+    {
+      "slide": 17,
+      "sample_seconds": 681.5,
+      "mean_absolute_pixel_error": 1.454
+    },
+    {
+      "slide": 18,
+      "sample_seconds": 767.8,
+      "mean_absolute_pixel_error": 1.454
+    },
+    {
+      "slide": 19,
+      "sample_seconds": 868.445,
+      "mean_absolute_pixel_error": 1.459
+    },
+    {
+      "slide": 20,
+      "sample_seconds": 931.615,
+      "mean_absolute_pixel_error": 1.442
+    },
+    {
+      "slide": 21,
+      "sample_seconds": 952.2,
+      "mean_absolute_pixel_error": 1.283
+    }
+  ],
+  "cut_checks": [
+    {
+      "start": 44.29,
+      "before_after_match": true
+    },
+    {
+      "start": 97.39,
+      "before_after_match": true
+    },
+    {
+      "start": 131.71,
+      "before_after_match": true
+    },
+    {
+      "start": 147.17,
+      "before_after_match": true
+    },
+    {
+      "start": 180.11,
+      "before_after_match": true
+    },
+    {
+      "start": 210.02,
+      "before_after_match": true
+    },
+    {
+      "start": 227.26,
+      "before_after_match": true
+    },
+    {
+      "start": 298.19,
+      "before_after_match": true
+    },
+    {
+      "start": 332.4,
+      "before_after_match": true
+    },
+    {
+      "start": 354.0,
+      "before_after_match": true
+    },
+    {
+      "start": 423.75,
+      "before_after_match": true
+    },
+    {
+      "start": 465.23,
+      "before_after_match": true
+    },
+    {
+      "start": 499.87,
+      "before_after_match": true
+    },
+    {
+      "start": 538.08,
+      "before_after_match": true
+    },
+    {
+      "start": 610.72,
+      "before_after_match": true
+    },
+    {
+      "start": 649.45,
+      "before_after_match": true
+    },
+    {
+      "start": 713.55,
+      "before_after_match": true
+    },
+    {
+      "start": 822.05,
+      "before_after_match": true
+    },
+    {
+      "start": 914.84,
+      "before_after_match": true
+    },
+    {
+      "start": 948.39,
+      "before_after_match": true
+    }
+  ]
+}

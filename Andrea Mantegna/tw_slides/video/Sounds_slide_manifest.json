@@ -1,0 +1,282 @@
+{
+  "source_audio": "/Users/yingyuhsieh/Desktop/mcp/arts/Andrea Mantegna/tw_slides/Sounds.m4a",
+  "audio_sha256": "6c2657a4aa50d6569e53e8ecd1d037ef9176ad8c268716f3e61ac83d3968ec2b",
+  "timing_method": "Word timestamps from current Sounds.m4a; cut 0.15 seconds before opening phrase. First slide starts at zero.",
+  "slides": [
+    {
+      "filename": "安德烈亞·曼特尼亞：透視與空間大師_slide_0001.png",
+      "start": 0,
+      "speech_start": 0,
+      "source_filename": "安德烈亞·曼特尼亞：透視與空間大師_slide_0001.png",
+      "source_dimensions": [
+        1280,
+        720
+      ],
+      "source_sha256": "d440120b8459f07aa33708f714be854f0e17126e9336c4d713c767e666e8d1f4",
+      "narration_slide": 1,
+      "narration_original_header": "安德烈亞·曼特尼亞：透視與空間大師_slide_0001.png"
+    },
+    {
+      "filename": "安德烈亞·曼特尼亞：透視與空間大師_slide_0002.png",
+      "start": 44.29,
+      "speech_start": 44.44,
+      "source_filename": "安德烈亞·曼特尼亞：透視與空間大師_slide_0002.png",
+      "source_dimensions": [
+        3840,
+        2160
+      ],
+      "source_sha256": "72bea8aa3a8cfbf23a933fd4d8a13533d1c5102801239561ab65676431b8d158",
+      "narration_slide": 2,
+      "narration_original_header": "安德烈亞·曼特尼亞：透視與空間大師_slide_0002.png"
+    },
+    {
+      "filename": "安德烈亞·曼特尼亞：透視與空間大師_slide_0003.png",
+      "start": 97.39,
+      "speech_start": 97.54,
+      "source_filename": "安德烈亞·曼特尼亞：透視與空間大師_slide_0003.png",
+      "source_dimensions": [
+        3840,
+        2160
+      ],
+      "source_sha256": "1f6831f6b36fc20354b8e58e9ad809ca947594ebaaaf82e140a1d6e4de9037e2",
+      "narration_slide": 3,
+      "narration_original_header": "安德烈亞·曼特尼亞：透視與空間大師_slide_0003.png"
+    },
+    {
+      "filename": "安德烈亞·曼特尼亞：透視與空間大師_slide_0004.png",
+      "start": 131.71,
+      "speech_start": 131.86,
+      "source_filename": "安德烈亞·曼特尼亞：透視與空間大師_slide_0004.png",
+      "source_dimensions": [
+        3840,
+        2160
+      ],
+      "source_sha256": "847c5db2e3549afc074af153d8d9de2f06f06d482cc65cb03f7a8cc58a4028c3",
+      "narration_slide": 4,
+      "narration_original_header": "安德烈亞·曼特尼亞：透視與空間大師_slide_0004.png"
+    },
+    {
+      "filename": "安德烈亞·曼特尼亞：透視與空間大師_slide_0005.png",
+      "start": 147.17,
+      "speech_start": 147.32,
+      "source_filename": "安德烈亞·曼特尼亞：透視與空間大師_slide_0005.png",
+      "source_dimensions": [
+        3840,
+        2160
+      ],
+      "source_sha256": "9505d035152b7a3a68c472b857e208beccfda8ad47376200a2b1f707832e65ed",
+      "narration_slide": 5,
+      "narration_original_header": "安德烈亞·曼特尼亞：透視與空間大師_slide_0005.png"
+    },
+    {
+      "filename": "安德烈亞·曼特尼亞：透視與空間大師_slide_0006.png",
+      "start": 180.11,
+      "speech_start": 180.26,
+      "source_filename": "安德烈亞·曼特尼亞：透視與空間大師_slide_0006.png",
+      "source_dimensions": [
+        3840,
+        2160
+      ],
+      "source_sha256": "cbdc55060c681c5f37e3c98afda5269c4000fde0a703bcbf76e1143b87de0f2b",
+      "narration_slide": 6,
+      "narration_original_header": "安德烈亞·曼特尼亞：透視與空間大師_slide_0006.png"
+    },
+    {
+      "filename": "安德烈亞·曼特尼亞：透視與空間大師_slide_0007.png",
+      "start": 210.02,
+      "speech_start": 210.17,
+      "source_filename": "安德烈亞·曼特尼亞：透視與空間大師_slide_0007.png",
+      "source_dimensions": [
+        3840,
+        2160
+      ],
+      "source_sha256": "994865df4873733b1dadb0e1f1297dcbeb5d47ba66641fa5e3c6b2265e3a5343",
+      "narration_slide": 7,
+      "narration_original_header": "安德烈亞·曼特尼亞：透視與空間大師_slide_0007.png"
+    },
+    {
+      "filename": "安德烈亞·曼特尼亞：透視與空間大師_slide_0008.png",
+      "start": 227.26,
+      "speech_start": 227.41,
+      "source_filename": "安德烈亞·曼特尼亞：透視與空間大師_slide_0008.png",
+      "source_dimensions": [
+        3840,
+        2160
+      ],
+      "source_sha256": "d1a2b447286079d7f5d46dd052d2723de853a3a0f18f13b9dd124bae9550fba0",
+      "narration_slide": 8,
+      "narration_original_header": "安德烈亞·曼特尼亞：透視與空間大師_slide_0008.png"
+    },
+    {
+      "filename": "安德烈亞·曼特尼亞：透視與空間大師_slide_0009.png",
+      "start": 298.19,
+      "speech_start": 298.34,
+      "source_filename": "安德烈亞·曼特尼亞：透視與空間大師_slide_0009.png",
+      "source_dimensions": [
+        3840,
+        2160
+      ],
+      "source_sha256": "ed136fa01b4d3ae67b1d5387e4f0e963f93f29186ea9e88b0b30b67bb8d49934",
+      "narration_slide": 9,
+      "narration_original_header": "安德烈亞·曼特尼亞：透視與空間大師_slide_0009.png"
+    },
+    {
+      "filename": "安德烈亞·曼特尼亞：透視與空間大師_slide_0010.png",
+      "start": 332.4,
+      "speech_start": 332.55,
+      "source_filename": "安德烈亞·曼特尼亞：透視與空間大師_slide_0010.png",
+      "source_dimensions": [
+        3840,
+        2160
+      ],
+      "source_sha256": "fef70e90549e8c99a16faf79c943f36df0b9b55f51461d2b412decfafe5128e4",
+      "narration_slide": 10,
+      "narration_original_header": "安德烈亞·曼特尼亞：透視與空間大師_slide_0010.png"
+    },
+    {
+      "filename": "安德烈亞·曼特尼亞：透視與空間大師_slide_0011.png",
+      "start": 354.0,
+      "speech_start": 354.15,
+      "source_filename": "安德烈亞·曼特尼亞：透視與空間大師_slide_0011.png",
+      "source_dimensions": [
+        3840,
+        2160
+      ],
+      "source_sha256": "a78a295ad59bbf3bc3cb21d8118025a94e28448e4981beb98927e2f4925af0b1",
+      "narration_slide": 11,
+      "narration_original_header": "安德烈亞·曼特尼亞：透視與空間大師_slide_0011.png"
+    },
+    {
+      "filename": "安德烈亞·曼特尼亞：透視與空間大師_slide_0012.png",
+      "start": 423.75,
+      "speech_start": 423.9,
+      "source_filename": "安德烈亞·曼特尼亞：透視與空間大師_slide_0012.png",
+      "source_dimensions": [
+        3840,
+        2160
+      ],
+      "source_sha256": "229340734a11f33cfbecc9ccd44d334d5304e9b1d4a3ba82cca74b047bddfddf",
+      "narration_slide": 12,
+      "narration_original_header": "安德烈亞·曼特尼亞：透視與空間大師_slide_0012.png"
+    },
+    {
+      "filename": "安德烈亞·曼特尼亞：透視與空間大師_slide_0013.png",
+      "start": 465.23,
+      "speech_start": 465.38,
+      "source_filename": "安德烈亞·曼特尼亞：透視與空間大師_slide_0013.png",
+      "source_dimensions": [
+        3840,
+        2160
+      ],
+      "source_sha256": "c4439c6cfc8d682a2530b6afdbed9c43a29929d8dacd64124df4ed8efdbfda3e",
+      "narration_slide": 13,
+      "narration_original_header": "安德烈亞·曼特尼亞：透視與空間大師_slide_0013.png"
+    },
+    {
+      "filename": "安德烈亞·曼特尼亞：透視與空間大師_slide_0014.png",
+      "start": 499.87,
+      "speech_start": 500.02,
+      "source_filename": "安德烈亞·曼特尼亞：透視與空間大師_slide_0014.png",
+      "source_dimensions": [
+        3840,
+        2160
+      ],
+      "source_sha256": "9b2504bf48fda14de767620b75ab9c1c02d9ab29e9196720423cf63bcbc9f070",
+      "narration_slide": 14,
+      "narration_original_header": "安德烈亞·曼特尼亞：透視與空間大師_slide_0014.png"
+    },
+    {
+      "filename": "安德烈亞·曼特尼亞：透視與空間大師_slide_0017.png",
+      "start": 538.08,
+      "speech_start": 538.23,
+      "source_filename": "安德烈亞·曼特尼亞：透視與空間大師_slide_0017.png",
+      "source_dimensions": [
+        3840,
+        2160
+      ],
+      "source_sha256": "4280c9af05ee9f9a5cc7d2695e59490c9f69bb5c1ff007d4b420e3f8c009cab2",
+      "narration_slide": 15,
+      "narration_original_header": "安德烈亞·曼特尼亞：透視與空間大師_slide_0015.png"
+    },
+    {
+      "filename": "安德烈亞·曼特尼亞：透視與空間大師_slide_0015.png",
+      "start": 610.72,
+      "speech_start": 610.87,
+      "source_filename": "安德烈亞·曼特尼亞：透視與空間大師_slide_0015.png",
+      "source_dimensions": [
+        3840,
+        2160
+      ],
+      "source_sha256": "cf66417f773bf27468767eca33fea1be0d9c6a83a19163aa48e14866bbace975",
+      "narration_slide": 16,
+      "narration_original_header": "安德烈亞·曼特尼亞：透視與空間大師_slide_0016.png"
+    },
+    {
+      "filename": "安德烈亞·曼特尼亞：透視與空間大師_slide_0016.png",
+      "start": 649.45,
+      "speech_start": 649.6,
+      "source_filename": "安德烈亞·曼特尼亞：透視與空間大師_slide_0016.png",
+      "source_dimensions": [
+        3840,
+        2160
+      ],
+      "source_sha256": "6c3610dfceeccf857a221a91cdc0dfbd0e42890d1e24e3dc8bc42d66dd9a1857",
+      "narration_slide": 17,
+      "narration_original_header": "安德烈亞·曼特尼亞：透視與空間大師_slide_0017.png"
+    },
+    {
+      "filename": "安德烈亞·曼特尼亞：透視與空間大師_slide_0018.png",
+      "start": 713.55,
+      "speech_start": 713.7,
+      "source_filename": "安德烈亞·曼特尼亞：透視與空間大師_slide_0018.png",
+      "source_dimensions": [
+        3840,
+        2160
+      ],
+      "source_sha256": "dc16b8f61da3b540ec5de443ec73326b465161c9fd47d0c166ca73f5295b166e",
+      "narration_slide": 18,
+      "narration_original_header": "安德烈亞·曼特尼亞：透視與空間大師_slide_0018.png"
+    },
+    {
+      "filename": "安德烈亞·曼特尼亞：透視與空間大師_slide_0019.png",
+      "start": 822.05,
+      "speech_start": 822.2,
+      "source_filename": "安德烈亞·曼特尼亞：透視與空間大師_slide_0019.png",
+      "source_dimensions": [
+        3840,
+        2160
+      ],
+      "source_sha256": "d84abc2e42c371d016f060dcb0e99fb19112712c89ed522259b2033af76131d8",
+      "narration_slide": 19,
+      "narration_original_header": "安德烈亞·曼特尼亞：透視與空間大師_slide_0019.png"
+    },
+    {
+      "filename": "安德烈亞·曼特尼亞：透視與空間大師_slide_0020.png",
+      "start": 914.84,
+      "speech_start": 914.99,
+      "source_filename": "安德烈亞·曼特尼亞：透視與空間大師_slide_0020.png",
+      "source_dimensions": [
+        3840,
+        2160
+      ],
+      "source_sha256": "8ac5ad26aefe5f6ff5d890b978fbcd0c7ef82e017dc7e89776e597469d3211f4",
+      "narration_slide": 20,
+      "narration_original_header": "安德烈亞·曼特尼亞：透視與空間大師_slide_0020.png"
+    },
+    {
+      "filename": "安德烈亞·曼特尼亞：透視與空間大師_slide_0021.png",
+      "start": 948.39,
+      "speech_start": 948.54,
+      "source_filename": "安德烈亞·曼特尼亞：透視與空間大師_slide_0021.png",
+      "source_dimensions": [
+        1280,
+        720
+      ],
+      "source_sha256": "0eb4758607320186f1051d55adcd50c3f341f24596d95e242fe0c9780988a2fc",
+      "narration_slide": 21,
+      "narration_original_header": "安德烈亞·曼特尼亞：透視與空間大師_slide_0021.png"
+    }
+  ],
+  "ordered_narration_script": "Sounds_video_script.txt",
+  "image_processing": "Source images unchanged; stage all images at 3840x2160 with proportional Lanczos scaling."
+}
