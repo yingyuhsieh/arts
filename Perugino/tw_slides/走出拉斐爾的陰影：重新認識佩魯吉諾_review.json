@@ -1,0 +1,243 @@
+{
+  "language": "zh-TW",
+  "original_slides": 21,
+  "supplemental_slides": 3,
+  "markdown_reviewed": [
+    "/Users/yingyuhsieh/Desktop/mcp/arts/Perugino/Perugino (complete).md",
+    "/Users/yingyuhsieh/Desktop/mcp/arts/Perugino/Perugino chatgpt.md",
+    "/Users/yingyuhsieh/Desktop/mcp/arts/Perugino/Perugino claude.md",
+    "/Users/yingyuhsieh/Desktop/mcp/arts/Perugino/Perugino 最重要的的作品.md",
+    "/Users/yingyuhsieh/Desktop/mcp/arts/Perugino/perugino_youtube_en.md",
+    "/Users/yingyuhsieh/Desktop/mcp/arts/Perugino/perugino_youtube_tw.md"
+  ],
+  "candidate_images_direct_author_dir": [],
+  "subtitle_corrections": [
+    {
+      "from": "民洋天下",
+      "to": "名揚天下",
+      "count": 1
+    },
+    {
+      "from": "大臣是超大型專案",
+      "to": "大城市超大型專案",
+      "count": 1
+    },
+    {
+      "from": "西斯廳",
+      "to": "西斯汀",
+      "count": 3
+    },
+    {
+      "from": "西斯都四世",
+      "to": "西斯篤四世",
+      "count": 1
+    },
+    {
+      "from": "超級大安子",
+      "to": "超級大案子",
+      "count": 1
+    },
+    {
+      "from": "裝中到不行",
+      "to": "莊重到不行",
+      "count": 1
+    },
+    {
+      "from": "基督壽戲",
+      "to": "基督受洗",
+      "count": 1
+    },
+    {
+      "from": "波提切立",
+      "to": "波提切利",
+      "count": 1
+    },
+    {
+      "from": "翁布利亞",
+      "to": "翁布里亞",
+      "count": 2
+    },
+    {
+      "from": "深邃道",
+      "to": "深邃到",
+      "count": 1
+    },
+    {
+      "from": "透明照染",
+      "to": "透明罩染",
+      "count": 1
+    },
+    {
+      "from": "節製",
+      "to": "節制",
+      "count": 1
+    },
+    {
+      "from": "基督理想化",
+      "to": "極度理想化",
+      "count": 1
+    },
+    {
+      "from": "佩魯甲",
+      "to": "佩魯賈",
+      "count": 1
+    },
+    {
+      "from": "幻前商工會",
+      "to": "換錢商公會",
+      "count": 1
+    },
+    {
+      "from": "同湊位",
+      "to": "銅臭味",
+      "count": 1
+    },
+    {
+      "from": "挖薩裡",
+      "to": "瓦薩里",
+      "count": 1
+    },
+    {
+      "from": "積極嗎",
+      "to": "基吉嗎",
+      "count": 1
+    },
+    {
+      "from": "時代神美",
+      "to": "時代審美",
+      "count": 1
+    },
+    {
+      "from": "重�構圖",
+      "to": "重複構圖",
+      "count": 1
+    },
+    {
+      "from": "如略二世",
+      "to": "儒略二世",
+      "count": 1
+    },
+    {
+      "from": "拉菲爾",
+      "to": "拉斐爾",
+      "count": 2
+    },
+    {
+      "from": "自己老實畫",
+      "to": "自己老師畫",
+      "count": 1
+    },
+    {
+      "from": "前輩跟後輩的節奏",
+      "to": "前輩跟後輩的傑作",
+      "count": 1
+    },
+    {
+      "from": "染傷瘟疫",
+      "to": "染上瘟疫",
+      "count": 1
+    },
+    {
+      "from": "生命的鏡頭",
+      "to": "生命的盡頭",
+      "count": 1
+    },
+    {
+      "from": "充滿了前程",
+      "to": "充滿了虔誠",
+      "count": 1
+    },
+    {
+      "from": "歐布里亞",
+      "to": "翁布里亞",
+      "count": 1
+    },
+    {
+      "from": "佩魯基諾",
+      "to": "佩魯吉諾",
+      "count": 2
+    },
+    {
+      "from": "宗教化",
+      "to": "宗教畫",
+      "count": 1
+    },
+    {
+      "from": "它獨特視覺語言",
+      "to": "他獨特視覺語言",
+      "count": 1
+    },
+    {
+      "from": "它那種乾淨",
+      "to": "他那種乾淨",
+      "count": 1
+    },
+    {
+      "from": "放到哪裡都超大",
+      "to": "放到哪裡都超搭",
+      "count": 1
+    },
+    {
+      "from": "低磚線條",
+      "to": "地磚線條",
+      "count": 1
+    },
+    {
+      "from": "輸不出來",
+      "to": "說不出來",
+      "count": 1
+    },
+    {
+      "from": "證明瞭",
+      "to": "證明了",
+      "count": 1
+    },
+    {
+      "from": "說明瞭",
+      "to": "說明了",
+      "count": 1
+    }
+  ],
+  "audio_policy": "Complete original audio retained without speed change. Supplemental narration is text only; no extended audio or new video requested/generated.",
+  "readability_adjusted_original_slides": [
+    2,
+    8,
+    9,
+    11,
+    13,
+    16,
+    17,
+    19,
+    20
+  ],
+  "image_generation": "built-in image_gen; original user art direction with no-people/no-text background constraints",
+  "supplemental_sources": [
+    {
+      "final_slide": 21,
+      "source": "Perugino (complete).md：第六節、第十一節；Perugino chatgpt.md：第九節"
+    },
+    {
+      "final_slide": 22,
+      "source": "Perugino (complete).md：第五節、第八節；Perugino chatgpt.md：第十節"
+    },
+    {
+      "final_slide": 23,
+      "source": "Perugino chatgpt.md：第十二節"
+    }
+  ],
+  "original_narration_claims_preserved": [
+    "原聲對工作坊品質與生命最後時刻的強調屬敘事用語；未改動原音，補充頁說明品質須逐件檢視。"
+  ],
+  "verification": {
+    "original_slides": 21,
+    "updated_slides": 24,
+    "dimensions": "1280x720",
+    "audio_duration_seconds": 474.290998,
+    "subtitle_blocks": 24,
+    "every_slide_visually_inspected": true,
+    "original_final_hash_verified_before_sticker": true,
+    "final_slide": "走出拉斐爾的陰影：重新認識佩魯吉諾_slide_0024.png",
+    "notebooklm_wordmark_removed": true
+  },
+  "background_prompt_summary": "使用使用者提供的完整英文佩魯吉諾風格描述；加入16:9、安靜明亮的中央留白、邊緣建築與風景、無人物文字標誌浮水印。"
+}

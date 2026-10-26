@@ -1,0 +1,21 @@
+{
+  "manifest": "/Users/yingyuhsieh/Desktop/mcp/arts/Perugino/en_slides/Master_Before_Raphael_slide_manifest.json",
+  "original_count": 24,
+  "supplemental_count": 2,
+  "original_final": {
+    "from": "Master_Before_Raphael_slide_0024.png",
+    "to": "Master_Before_Raphael_slide_0026.png",
+    "sha256": "06a547e6ad28aea5d657e18ce237f68e6fc7baae55eb9f3f032437fb63d44f49"
+  },
+  "supplemental_renames": [
+    {
+      "from": "Master_Before_Raphael_slide_0025.png",
+      "to": "Master_Before_Raphael_slide_0024.png"
+    },
+    {
+      "from": "Master_Before_Raphael_slide_0026.png",
+      "to": "Master_Before_Raphael_slide_0025.png"
+    }
+  ],
+  "subtitle": "/Users/yingyuhsieh/Desktop/mcp/arts/Perugino/en_slides/subtitle/Master_Before_Raphael.txt"
+}

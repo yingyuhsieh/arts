@@ -1,0 +1,128 @@
+{
+  "video": "/Users/yingyuhsieh/Desktop/mcp/arts/Comtesse d'Haussonville/tw_slides/video/解構安格爾的《奧松維爾伯爵夫人》_4k.mp4",
+  "file_bytes": 79138636,
+  "video_duration_seconds": 799.3333333333334,
+  "source_dimensions": [
+    1280,
+    720
+  ],
+  "output_dimensions": [
+    3840,
+    2160
+  ],
+  "fps": 30,
+  "slides": 17,
+  "expected_hard_cuts": 16,
+  "verified_hard_cuts": 16,
+  "slide_checks": [
+    {
+      "slide": 1,
+      "sample_time": 0.2,
+      "matched": true,
+      "mse": 2.34
+    },
+    {
+      "slide": 2,
+      "sample_time": 42.75,
+      "matched": true,
+      "mse": 2.77
+    },
+    {
+      "slide": 3,
+      "sample_time": 84.75,
+      "matched": true,
+      "mse": 2.62
+    },
+    {
+      "slide": 4,
+      "sample_time": 145.91,
+      "matched": true,
+      "mse": 2.41
+    },
+    {
+      "slide": 5,
+      "sample_time": 203.29999999999998,
+      "matched": true,
+      "mse": 2.39
+    },
+    {
+      "slide": 6,
+      "sample_time": 241.56,
+      "matched": true,
+      "mse": 2.68
+    },
+    {
+      "slide": 7,
+      "sample_time": 289.09999999999997,
+      "matched": true,
+      "mse": 2.57
+    },
+    {
+      "slide": 8,
+      "sample_time": 339.94,
+      "matched": true,
+      "mse": 2.47
+    },
+    {
+      "slide": 9,
+      "sample_time": 386.39,
+      "matched": true,
+      "mse": 2.46
+    },
+    {
+      "slide": 10,
+      "sample_time": 421.52,
+      "matched": true,
+      "mse": 2.52
+    },
+    {
+      "slide": 11,
+      "sample_time": 458.56,
+      "matched": true,
+      "mse": 2.39
+    },
+    {
+      "slide": 12,
+      "sample_time": 535.86,
+      "matched": true,
+      "mse": 2.6
+    },
+    {
+      "slide": 13,
+      "sample_time": 602.2,
+      "matched": true,
+      "mse": 2.57
+    },
+    {
+      "slide": 14,
+      "sample_time": 665.94,
+      "matched": true,
+      "mse": 2.6
+    },
+    {
+      "slide": 15,
+      "sample_time": 717.48,
+      "matched": true,
+      "mse": 2.59
+    },
+    {
+      "slide": 16,
+      "sample_time": 753.5500000000001,
+      "matched": true,
+      "mse": 2.54
+    },
+    {
+      "slide": 17,
+      "sample_time": 791.9000000000001,
+      "matched": true,
+      "mse": 2.59
+    }
+  ],
+  "audio_volume_mean_db": -22.7,
+  "audio_volume_peak_db": -1.7,
+  "audio_codec": "aac",
+  "video_codec": "h264",
+  "subtitle_streams": 0,
+  "audio_duration_seconds": 799.274,
+  "source_audio_duration_seconds": 799.317333
+}

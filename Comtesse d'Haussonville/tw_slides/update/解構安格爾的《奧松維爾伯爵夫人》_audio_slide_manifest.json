@@ -1,0 +1,74 @@
+{
+  "source_audio": "/Users/yingyuhsieh/Desktop/mcp/arts/Comtesse d'Haussonville/tw_slides/Sounds.m4a",
+  "timing_method": "Narration section starts matched to faster-whisper small timestamped transcription of supplied Sounds.m4a; first slide starts at zero.",
+  "slides": [
+    {
+      "filename": "解構安格爾的《奧松維爾伯爵夫人》_slide_0001.png",
+      "start": 0
+    },
+    {
+      "filename": "解構安格爾的《奧松維爾伯爵夫人》_slide_0002.png",
+      "start": 42.55
+    },
+    {
+      "filename": "解構安格爾的《奧松維爾伯爵夫人》_slide_0003.png",
+      "start": 84.55
+    },
+    {
+      "filename": "解構安格爾的《奧松維爾伯爵夫人》_slide_0004.png",
+      "start": 145.71
+    },
+    {
+      "filename": "解構安格爾的《奧松維爾伯爵夫人》_slide_0005.png",
+      "start": 203.1
+    },
+    {
+      "filename": "解構安格爾的《奧松維爾伯爵夫人》_slide_0006.png",
+      "start": 241.36
+    },
+    {
+      "filename": "解構安格爾的《奧松維爾伯爵夫人》_slide_0007.png",
+      "start": 288.9
+    },
+    {
+      "filename": "解構安格爾的《奧松維爾伯爵夫人》_slide_0008.png",
+      "start": 339.74
+    },
+    {
+      "filename": "解構安格爾的《奧松維爾伯爵夫人》_slide_0009.png",
+      "start": 386.19
+    },
+    {
+      "filename": "解構安格爾的《奧松維爾伯爵夫人》_slide_0010.png",
+      "start": 421.32
+    },
+    {
+      "filename": "解構安格爾的《奧松維爾伯爵夫人》_slide_0011.png",
+      "start": 458.36
+    },
+    {
+      "filename": "解構安格爾的《奧松維爾伯爵夫人》_slide_0012.png",
+      "start": 535.66
+    },
+    {
+      "filename": "解構安格爾的《奧松維爾伯爵夫人》_slide_0013.png",
+      "start": 602.0
+    },
+    {
+      "filename": "解構安格爾的《奧松維爾伯爵夫人》_slide_0014.png",
+      "start": 665.74
+    },
+    {
+      "filename": "解構安格爾的《奧松維爾伯爵夫人》_slide_0015.png",
+      "start": 717.28
+    },
+    {
+      "filename": "解構安格爾的《奧松維爾伯爵夫人》_slide_0016.png",
+      "start": 753.35
+    },
+    {
+      "filename": "解構安格爾的《奧松維爾伯爵夫人》_slide_0017.png",
+      "start": 791.7
+    }
+  ]
+}

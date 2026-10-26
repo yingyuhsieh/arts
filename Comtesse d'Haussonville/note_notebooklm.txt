@@ -77,11 +77,11 @@ Use $youtube-and-social-media-post with
 Use $tw-video-integrate-audio-slide to combine my 中文 narration audio, slide images, script, and timing manifest into a YouTube-ready MP4.Use $tw-video-integrate-audio-slide to create a YouTube-ready video from:
 
 - Narration script:
-  ./Comtesse d'Haussonville/tw_slides/subtitle/.txt
+  ./Comtesse d'Haussonville/tw_slides/subtitle/解構安格爾的《奧松維爾伯爵夫人》.txt
 - PNG slides:
   ./Comtesse d'Haussonville/tw_slides/update
 - Narration audio:
-  ./Comtesse d'Haussonville/tw_slides/.m4a
+  ./Comtesse d'Haussonville/tw_slides/Sounds.m4a
 - Timing manifest:
   ./Comtesse d'Haussonville/tw_slides/slide_manifest.json
 
