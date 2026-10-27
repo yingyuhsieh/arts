@@ -1,0 +1,60 @@
+Modify Pietro Perugino\tw_slides\update\走出拉斐爾的陰影：重新認識佩魯吉諾_slide_00.png
+ and add image Pietro Perugino\images\
+ and make description large and clear
+ and make description clear
+ and use image Pietro Perugino\images\
+
+以下是修正要用在 YouTubbe 影片的 slides，請將它們做成可以吸引觀看者。輸出 size 1280x720
+使用 slide background Pietro Perugino\tw_slides\走出拉斐爾的陰影：重新認識佩魯吉諾_background.png and 使用 YouTube_PNG_設計風格_Prompt.md
+Modify Pietro Perugino\tw_slides\update\走出拉斐爾的陰影：重新認識佩魯吉諾_slide_0002.png and make description clear
+Modify Pietro Perugino\tw_slides\update\走出拉斐爾的陰影：重新認識佩魯吉諾_slide_0003.png and add image Pietro Perugino\images\阿戈斯蒂諾·基吉 Agostino Chigi.jpg mark "銀行家 文藝復興贊助者 阿戈斯蒂諾·基吉" and make description large and clear
+Modify Pietro Perugino\tw_slides\update\走出拉斐爾的陰影：重新認識佩魯吉諾_slide_0004.png and make description clear
+Modify Pietro Perugino\tw_slides\update\走出拉斐爾的陰影：重新認識佩魯吉諾_slide_0005.png and use image Pietro Perugino\images\IMG-003_Delivery_of_the_Keys.jpg and make it larger and make description large and clear
+Modify Pietro Perugino\tw_slides\update\走出拉斐爾的陰影：重新認識佩魯吉諾_slide_0006.png and use image Pietro Perugino\images\00.image.png as background of the flow and description and make description clear
+Modify Pietro Perugino\tw_slides\update\走出拉斐爾的陰影：重新認識佩魯吉諾_slide_0007.pngModify Pietro Perugino\tw_slides\update\走出拉斐爾的陰影：重新認識佩魯吉諾_slide_0007.png and use image Pietro Perugino\images\IMG-004_Baptism_of_Christ.jpg and make the image larger and make description large and clear
+Modify Pietro Perugino\tw_slides\update\走出拉斐爾的陰影：重新認識佩魯吉諾_slide_0008.png and make description clear
+Modify Pietro Perugino\tw_slides\update\走出拉斐爾的陰影：重新認識佩魯吉諾_slide_0009.png and add image Pietro Perugino\images\聖母與兩位聖人 Madonna and Child with Two Saints 1493–1495.jpg mark "聖母與兩位聖人 1493-1495", 帕齊十字架苦像 The Pazzi Crucifixion 1494-1496.jpg mark "帕齊十字架苦像 1494-1496" and make description clear
+Modify Pietro Perugino\tw_slides\update\走出拉斐爾的陰影：重新認識佩魯吉諾_slide_0010.png and make description clear
+Modify Pietro Perugino\tw_slides\update\走出拉斐爾的陰影：重新認識佩魯吉諾_slide_0011.png and mark left image "弗朗切斯科·德爾·奧佩雷肖像" and mark right image "聖塞巴斯蒂安"
+Modify Pietro Perugino\tw_slides\update\走出拉斐爾的陰影：重新認識佩魯吉諾_slide_0012.png and usa image Pietro Perugino\images\IMG-005_Collegio_del_Cambio.jpg on top and add image Pietro Perugino\images\Collegio del Cambio-combined.jpg and make description large and clear
+Modify Pietro Perugino\tw_slides\update\走出拉斐爾的陰影：重新認識佩魯吉諾_slide_0013.png and make description clear
+Modify Pietro Perugino\tw_slides\update\走出拉斐爾的陰影：重新認識佩魯吉諾_slide_0014.png and make description clear
+Modify Pietro Perugino\tw_slides\update\走出拉斐爾的陰影：重新認識佩魯吉諾_slide_0015.png and make description clear
+Modify Pietro Perugino\tw_slides\update\走出拉斐爾的陰影：重新認識佩魯吉諾_slide_0016.png and add image Pietro Perugino\images\(duplicate) Assumption of the Virgin with Four Saints 聖母升天.jpg mark "聖母升天", (duplicate) Ascension of Christ 基督升天.jpg mark "基督升天", (dupliicate) The Annunziata Altarpiece 聖母領報教堂主祭壇畫.jpg" mark "聖母領報教堂主祭壇畫" and make description large and clear
+Modify Pietro Perugino\tw_slides\update\走出拉斐爾的陰影：重新認識佩魯吉諾_slide_0017.png usa image Pietro Perugino\images\IMG-010_Room_of_the_Fire_in_the_Borgo_Ceiling.jpg, Pietro Perugino\images\Room_of_the_Fire_in_the_Borgo_Ceiling.png and make description large and clear 
+Modify Pietro Perugino\tw_slides\update\走出拉斐爾的陰影：重新認識佩魯吉諾_slide_0018.png and make description and flow clear and beautify other images
+Modify Pietro Perugino\tw_slides\update\走出拉斐爾的陰影：重新認識佩魯吉諾_slide_0019.png and use image Pietro Perugino\images\IMG-011_Nativity_Adoration_of_the_Shepherds.jpg and make image larger and make description large and clear
+Modify Pietro Perugino\tw_slides\update\走出拉斐爾的陰影：重新認識佩魯吉諾_slide_0020.png and make description large and clear and beautify other images
+Modify Pietro Perugino\tw_slides\update\走出拉斐爾的陰影：重新認識佩魯吉諾_slide_0021.png and add image Pietro Perugino\images\Perugino Marriage of the Virgin.jpg mark "佩魯吉諾 聖母婚禮" and add image Pietro Perugino\images\Raffaello Wedding of the Virgin 拉斐爾 聖母的婚禮.jpg mark "拉斐爾 聖母婚禮" and make description clear
+Modify Pietro Perugino\tw_slides\update\走出拉斐爾的陰影：重新認識佩魯吉諾_slide_0022.png and add image Pietro Perugino\images\Holy Trinity (c. 1505–1521) by Raphael and Perugino.jpg and mark "聖三一 佩魯吉諾 拉斐爾" and make description clear
+Modify Pietro Perugino\tw_slides\update\走出拉斐爾的陰影：重新認識佩魯吉諾_slide_0023.png and add image Pietro Perugino\images\IMG-003_Delivery_of_the_Keys.jpg, 帕齊十字架苦像 The Pazzi Crucifixion 1494-1496.jpg, The Vision of Saint Bernard.jpg, 聖母與兩位聖人 Madonna and Child with Two Saints 1493–1495.jpg and make description large and clear
+
+
+
+Modify Pietro Perugino\en_slides\update\Master_Before_Raphael_slide_00.png
+ and add image Pietro Perugino\images\
+ and make description large and clear
+ and make description clear
+ and use image Pietro Perugino\images\
+
+Modify Pietro Perugino\en_slides\update\Master_Before_Raphael_slide_0002.png and add image Pietro Perugino\images\Perugino Marriage of the Virgin.jpg mark "Marriage of the Virgin (Perugino)" and add image Pietro Perugino\images\Raffaello Wedding of the Virgin 拉斐爾 聖母的婚禮.jpg mark "Marriage of the Virgin (Raffaello)" and make description clear
+Modify Pietro Perugino\en_slides\update\Master_Before_Raphael_slide_0003.png and make description clear
+Modify Pietro Perugino\en_slides\update\Master_Before_Raphael_slide_0004.png and add image Pietro Perugino\images\Adoration of the Magi 1470–1473 or c. 1476.jpg mark "Adoration of the Magi (1470-1473)"
+Modify Pietro Perugino\en_slides\update\Master_Before_Raphael_slide_0005.png and make description clear
+Modify Pietro Perugino\en_slides\update\Master_Before_Raphael_slide_0006.png and use image Pietro Perugino\images\IMG-003_Delivery_of_the_Keys.jpg and make description large and clear
+Modify Pietro Perugino\en_slides\update\Master_Before_Raphael_slide_0007.png and add image Pietro Perugino\images\Delivery_of_the_Keys.jpg and make description clear
+Modify Pietro Perugino\en_slides\update\Master_Before_Raphael_slide_0008.png and use image Pietro Perugino\images\IMG-004_Baptism_of_Christ.jpg and make image larger and make description large and clear
+Modify Pietro Perugino\en_slides\update\Master_Before_Raphael_slide_0009.png and make description clear
+Modify Pietro Perugino\en_slides\update\Master_Before_Raphael_slide_0010.png and make description clear
+Modify Pietro Perugino\en_slides\update\Master_Before_Raphael_slide_0011.png and usa image Pietro Perugino\images\IMG-005_Collegio_del_Cambio.jpg and make description large and clear
+Modify Pietro Perugino\en_slides\update\Master_Before_Raphael_slide_0012.png and add image Pietro Perugino\images\Collegio del Cambio-2.jpg, Collegio del Cambio-3.jpg, Collegio del Cambio-4.jpg, Collegio del Cambio-8.jpg and add image Pietro Perugino\images\Self-portrait of Pietro Perugino and make description clear
+Modify Pietro Perugino\en_slides\update\Master_Before_Raphael_slide_0013.png and use image Pietro Perugino\images\IMG-008_Portrait_of_Francesco_delle_Opere.jpg and make description large and clear
+Modify Pietro Perugino\en_slides\update\Master_Before_Raphael_slide_0014.png and make the artwork image larger and beautify other images and make description large and clear
+Modify Pietro Perugino\en_slides\update\Master_Before_Raphael_slide_0015.png and make flow and description clear and beautify other images
+Modify Pietro Perugino\en_slides\update\Master_Before_Raphael_slide_0016.png and add image Pietro Perugino\images\(duplicate) Ascension of Christ 基督升天.jpg mark "Ascension of Christ", (duplicate) Assumption of the Virgin with Four Saints 聖母升天.jpg mark "Assumption of the Virgin", (dupliicate) The Annunziata Altarpiece 聖母領報教堂主祭壇畫.jpg mark "The Annunziata Altarpiece" and make description large and clear
+Modify Pietro Perugino\en_slides\update\Master_Before_Raphael_slide_0017.png and make flow and description clear and beautify other images
+Modify Pietro Perugino\en_slides\update\Master_Before_Raphael_slide_0018.png and use image Pietro Perugino\images\IMG-010_Room_of_the_Fire_in_the_Borgo_Ceiling.jpg and add image Pietro Perugino\images\ceiling-1.png, ceiling-2.png, ceiling-3.png, ceiling-4.png and make description large and clear
+Modify Pietro Perugino\en_slides\update\Master_Before_Raphael_slide_0019.png and use image Pietro Perugino\images\IMG-009_Saint_Sebastian.jpg and make description large and clear and beautify other images
+Modify Pietro Perugino\en_slides\update\Master_Before_Raphael_slide_0020.png and use image Pietro Perugino\images\IMG-011_Nativity_Adoration_of_the_Shepherds.jpg and make image larger and make description large and clear
+Modify Pietro Perugino\en_slides\update\Master_Before_Raphael_slide_0021.png add image Pietro Perugino\images\Perugino Marriage of the Virgin.jpg mark "Marriage of the Virgin (Perugino)" and add image Pietro Perugino\images\Raffaello Wedding of the Virgin 拉斐爾 聖母的婚禮.jpg mark "Marriage of the Virgin (Raffaello)" and make description clear
+Modify Pietro Perugino\en_slides\update\Master_Before_Raphael_slide_0022.png and add image Pietro Perugino\images\IMG-003_Delivery_of_the_Keys.jpg, 帕齊十字架苦像 The Pazzi Crucifixion 1494-1496.jpg, The Vision of Saint Bernard.jpg, 聖母與兩位聖人 Madonna and Child with Two Saints 1493–1495.jpg and make description large and clear

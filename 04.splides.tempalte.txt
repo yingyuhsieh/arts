@@ -1,5 +1,6 @@
-Modify Comtesse d'Haussonville\tw_slides\update\<topic>_slide_00.png
- and add image Comtesse d'Haussonville\images\
+Modify <title>\tw_slides\update\<topic>_slide_00.png
+ and add image <title>\images\
+ and use image <title>\images\
  and make description large and clear
  and make description clear
 
