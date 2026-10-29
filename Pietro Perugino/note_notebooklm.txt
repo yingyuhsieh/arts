@@ -45,8 +45,8 @@ Use a serene and harmonious Italian High Renaissance style inspired by Pietro Pi
 
 # 中文 Replace 1st slide with youtbute thumimage
 # English Replace 1st slide with youtbute thumimage
-Replace ./Pietro Perugino/tw_slides/update/.png by ./Pietro Perugino/YouTube/.png with size 1280x720
-Replace ./Pietro Perugino/en_slides/update/.png by ./Pietro Perugino/YouTube/.png with size 1280x720
+Replace ./Pietro Perugino/tw_slides/update/走出拉斐爾的陰影：重新認識佩魯吉諾_slide_0001.png by ./Pietro Perugino/YouTube/拉斐爾的老師，佩魯吉諾的空間魔法.png with size 1280x720
+Replace ./Pietro Perugino/en_slides/update/Master_Before_Raphael_slide_0001.png by ./Pietro Perugino/YouTube/Before Raphael - The Quiet Power of Pietro Perugino.png with size 1280x720
 
 
 # 產生中文 video
@@ -59,7 +59,7 @@ Replace ./Pietro Perugino/en_slides/update/.png by ./Pietro Perugino/YouTube/.pn
 # 產生English video
 Use $en-make-video.
 Narration:
-./Pietro Perugino/en_slides/subtitle/.txt
+./Pietro Perugino/en_slides/subtitle/Master_Before_Raphael.txt
 Images:
 ./Pietro Perugino/en_slides/update
 
@@ -115,3 +115,5 @@ Format
 <深度作品分析>
 <畫家生平>
 Example: search 超現實主義 in $Google Drive
+
+
