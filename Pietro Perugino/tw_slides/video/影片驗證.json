@@ -1,0 +1,150 @@
+{
+  "file_bytes": 207672645,
+  "dimensions": [
+    3840,
+    2160
+  ],
+  "fps": 30,
+  "video_duration": 1435.0,
+  "audio_duration": 1434.943,
+  "source_duration": 1434.986667,
+  "slides": 24,
+  "expected_hard_cuts": 23,
+  "source_dimensions": [
+    [
+      1280,
+      720
+    ],
+    [
+      1672,
+      941
+    ]
+  ],
+  "video_codec": "h264",
+  "audio_codec": "aac",
+  "subtitle_tracks": 0,
+  "frame_checks": [
+    {
+      "slide": 1,
+      "sample_time": 2,
+      "mean_pixel_difference": 4.001
+    },
+    {
+      "slide": 2,
+      "sample_time": 37.55,
+      "mean_pixel_difference": 2.288
+    },
+    {
+      "slide": 3,
+      "sample_time": 67.17,
+      "mean_pixel_difference": 2.127
+    },
+    {
+      "slide": 4,
+      "sample_time": 94.38,
+      "mean_pixel_difference": 2.349
+    },
+    {
+      "slide": 5,
+      "sample_time": 183.68,
+      "mean_pixel_difference": 2.523
+    },
+    {
+      "slide": 6,
+      "sample_time": 234.2,
+      "mean_pixel_difference": 2.549
+    },
+    {
+      "slide": 7,
+      "sample_time": 294.2,
+      "mean_pixel_difference": 2.698
+    },
+    {
+      "slide": 8,
+      "sample_time": 341.72,
+      "mean_pixel_difference": 3.053
+    },
+    {
+      "slide": 9,
+      "sample_time": 455.43,
+      "mean_pixel_difference": 2.306
+    },
+    {
+      "slide": 10,
+      "sample_time": 543.9,
+      "mean_pixel_difference": 2.319
+    },
+    {
+      "slide": 11,
+      "sample_time": 630.42,
+      "mean_pixel_difference": 2.252
+    },
+    {
+      "slide": 12,
+      "sample_time": 684.56,
+      "mean_pixel_difference": 2.631
+    },
+    {
+      "slide": 13,
+      "sample_time": 755.82,
+      "mean_pixel_difference": 2.228
+    },
+    {
+      "slide": 14,
+      "sample_time": 843.52,
+      "mean_pixel_difference": 2.189
+    },
+    {
+      "slide": 15,
+      "sample_time": 868.52,
+      "mean_pixel_difference": 2.246
+    },
+    {
+      "slide": 16,
+      "sample_time": 945,
+      "mean_pixel_difference": 3.06
+    },
+    {
+      "slide": 17,
+      "sample_time": 1005.24,
+      "mean_pixel_difference": 2.869
+    },
+    {
+      "slide": 18,
+      "sample_time": 1070.64,
+      "mean_pixel_difference": 2.194
+    },
+    {
+      "slide": 19,
+      "sample_time": 1122.83,
+      "mean_pixel_difference": 2.366
+    },
+    {
+      "slide": 20,
+      "sample_time": 1185.96,
+      "mean_pixel_difference": 2.214
+    },
+    {
+      "slide": 21,
+      "sample_time": 1260.62,
+      "mean_pixel_difference": 2.37
+    },
+    {
+      "slide": 22,
+      "sample_time": 1330.02,
+      "mean_pixel_difference": 2.312
+    },
+    {
+      "slide": 23,
+      "sample_time": 1373.82,
+      "mean_pixel_difference": 2.666
+    },
+    {
+      "slide": 24,
+      "sample_time": 1421.4,
+      "mean_pixel_difference": 2.449
+    }
+  ],
+  "encoding_method": "Each normalized slide encoded independently to exact frame count, then concatenated and muxed with original AAC",
+  "all_slide_samples_pass": true
+}

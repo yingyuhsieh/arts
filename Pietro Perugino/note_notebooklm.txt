@@ -77,11 +77,11 @@ Use $youtube-and-social-media-post with
 Use $tw-video-integrate-audio-slide to combine my 中文 narration audio, slide images, script, and timing manifest into a YouTube-ready MP4.Use $tw-video-integrate-audio-slide to create a YouTube-ready video from:
 
 - Narration script:
-  ./Pietro Perugino/tw_slides/subtitle/.txt
+  ./Pietro Perugino/tw_slides/subtitle/走出拉斐爾的陰影：重新認識佩魯吉諾.txt
 - PNG slides:
   ./Pietro Perugino/tw_slides/update
 - Narration audio:
-  ./Pietro Perugino/tw_slides/.m4a
+  ./Pietro Perugino/tw_slides/Sounds.m4a
 - Timing manifest:
   ./Pietro Perugino/tw_slides/slide_manifest.json
 

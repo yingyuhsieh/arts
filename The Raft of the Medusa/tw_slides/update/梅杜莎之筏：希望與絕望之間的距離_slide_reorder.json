@@ -1,0 +1,21 @@
+{
+  "manifest": "/Users/yingyuhsieh/Desktop/mcp/arts/The Raft of the Medusa/tw_slides/梅杜莎之筏：希望與絕望之間的距離_slide_manifest.json",
+  "original_count": 26,
+  "supplemental_count": 2,
+  "original_final": {
+    "from": "梅杜莎之筏：希望與絕望之間的距離_slide_0026.png",
+    "to": "梅杜莎之筏：希望與絕望之間的距離_slide_0028.png",
+    "sha256": "7bb819f5d8369f28f3471b41c8edf3b7a189477bbe0bf1b6bb2e16848fd13bce"
+  },
+  "supplemental_renames": [
+    {
+      "from": "梅杜莎之筏：希望與絕望之間的距離_slide_0027.png",
+      "to": "梅杜莎之筏：希望與絕望之間的距離_slide_0026.png"
+    },
+    {
+      "from": "梅杜莎之筏：希望與絕望之間的距離_slide_0028.png",
+      "to": "梅杜莎之筏：希望與絕望之間的距離_slide_0027.png"
+    }
+  ],
+  "subtitle": "/Users/yingyuhsieh/Desktop/mcp/arts/The Raft of the Medusa/tw_slides/subtitle/梅杜莎之筏：希望與絕望之間的距離.txt"
+}
