@@ -29,26 +29,27 @@
 14. Master of Vyšší Brod (生卒年不詳；活躍約1350年代)
 15. Master of the Třeboň Altarpiece (生卒年不詳；活躍約1380–1390年代)
 
-## 1400 (18)
+## 1400 (20)
 1. Rogier Van Der Weyden (1400–1464) 比利時
 2. Tommaso Masaccio (1401–1428) 佛羅倫斯
 3. Piero della Francesca (1415–1492) 佛羅倫斯
-4. Giovanni Bellini (1430–1516)
-5. Hans Memling (1430–1494)
-6. Andrea Mantegna (1431–1506)
-7. Perugino (1445–1523)
-8. Sandro Botticelli (1445–1510)
-9. Domenico Ghirlandaio (1448–1494)
-10. Hieronymus Bosch (1450–1516)
-11. Leonardo da Vinci (1452–1519)
-12. Matthias Grünewald (約1470–1528)
-13. Albrecht Dürer (1471–1528)
-14. Lucas Cranach the Elder (1472–1553)
-15. Michelangelo Buonarroti (1475–1564)
-16. Raphael Santi (1483–1520)
-17. Antonio Allegri da Correggio (1489-1534)
-17. Tiziano Vecellio (1488/1490–1576)
-18. Hans Holbein the Younger (1497–1543)
+4. Jean Fouquet (約1415/1420–1481年前) 法國
+5. Giovanni Bellini (1430–1516)
+6. Hans Memling (1430–1494)
+7. Andrea Mantegna (1431–1506)
+8. Perugino (1445–1523)
+9. Sandro Botticelli (1445–1510)
+10. Domenico Ghirlandaio (1448–1494)
+11. Hieronymus Bosch (1450–1516)
+12. Leonardo da Vinci (1452–1519)
+13. Matthias Grünewald (約1470–1528)
+14. Albrecht Dürer (1471–1528)
+15. Lucas Cranach the Elder (1472–1553)
+16. Michelangelo Buonarroti (1475–1564)
+17. Raphael Santi (1483–1520)
+18. Antonio Allegri da Correggio (1489-1534)
+19. Tiziano Vecellio (1488/1490–1576)
+20. Hans Holbein the Younger (1497–1543)
 
 ## 1500 (20)
 1. Giorgio Vasari (1511–1574)
@@ -242,4 +243,4 @@
 
 ---
 
-**Total: 218 artists**
+**Total: 225 artists**

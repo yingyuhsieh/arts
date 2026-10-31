@@ -1,0 +1,32 @@
+[
+  {
+    "filename": "Jean Fouquet Grandes Chroniques de France Banquet of Charles V 約1460.jpg",
+    "url": "https://classes.bnf.fr/fouquet/images/3/f049.jpg",
+    "source": "https://classes.bnf.fr/fouquet/grand/f049.htm",
+    "size": [
+      471,
+      600
+    ],
+    "bytes": 55165
+  },
+  {
+    "filename": "Jean Fouquet Hours of Etienne Chevalier Saint Margaret and Olibrius 約1453-1460.jpg",
+    "url": "https://collections.louvre.fr/media/cache/large/11/14/94/00/AGO111494-000_PE.jpg",
+    "source": "https://collections.louvre.fr/ark:/53355/cl020111494",
+    "size": [
+      768,
+      608
+    ],
+    "bytes": 114941
+  },
+  {
+    "filename": "Jean Fouquet The Right Hand of God Protecting the Faithful against the Demons 約1452-1460.jpg",
+    "url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/459207/914126/main-image",
+    "source": "https://www.metmuseum.org/art/collection/search/459207",
+    "size": [
+      909,
+      1200
+    ],
+    "bytes": 288382
+  }
+]
