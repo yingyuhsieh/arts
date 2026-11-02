@@ -1,234 +1,135 @@
 [Decoding_Raft_of_Medusa_slide_0001.png]
-Welcome to this explainer.
-Today we are going to decode a massive, truly historic masterpiece by asking just one very tiny question.
-Okay, let's dive right in and take a look at one of the most famous paintings hanging in the Louvre today.
+Welcome to this explainer from Our Famous Artists!
+Today, we’re exploring Théodore Géricault’s The Raft of the Medusa, one of the Louvre’s most powerful masterpieces. And we’ll begin with a tiny detail that holds the entire scene in suspense.
+Take a close look at the horizon, where the dark sea meets the sky. Can you spot that distant ship—and more importantly, can anyone aboard it see the people on the raft?
 
 [Decoding_Raft_of_Medusa_slide_0002.png]
-I want you to look really closely at this nearly invisible speck on the horizon line,
-way off in the distance.
-I mean, is that a ship?
-You seriously have to squint just to see it, right?
-Honestly, it almost looks like a mistake.
-Like a tiny smudge of paint right where the dark ocean meets the sky.
+Look closely at the horizon, where the dark sea meets the sky. Can you make out that tiny shape in the distance?
+It’s a ship—but it’s so small you could easily overlook it. At first glance, it might seem like nothing more than a faint mark of paint.
+Now follow the gestures of the people on the raft. All that effort, all those raised arms, are directed toward this barely visible speck.
+For them, it could mean rescue. But seeing a ship is one thing. Being seen is another.
 
 [Decoding_Raft_of_Medusa_slide_0003.png]
-So here is our big question for today.
-Why would an artist take the singular point of hope, the rescue ship,
-and make it so incredibly small that you almost miss it completely?
-Think about it.
-If you're painting a dramatic rescue scene,
-wouldn't you want the actual rescue to be, you know, visible?
+So here’s the question: why would Géricault make the ship—the survivors’ best hope of rescue—so small that we can barely see it?
+You might expect a painting like this to bring the rescuers closer, giving us some reassurance that help is on its way.
+Instead, that distant speck leaves us searching the horizon alongside the people on the raft. They can see a possibility of rescue, but there’s no sign yet that their desperate signals have been noticed.
+That uncertainty is what makes the scene so gripping. Hope is visible. The outcome is still out of reach.
 
 [Decoding_Raft_of_Medusa_slide_0004.png]
-Well, to answer that, we have to pull back and look at the sheer overwhelming scale of
-Théodore Géricault's canvas, which he painted between 1818 and 1819.
-This is not a small picture.
-It is literally almost five meters high and over seven meters wide.
-The human suffering is painted at this monumental, oppressive scale,
-literally spilling out into our physical space.
-And yet, the absolute only chance of survival
-is shrunk down to a single agonizing dot on the horizon.
+To understand that contrast, let’s pull back and take in the sheer scale of Théodore Géricault’s canvas, painted between 1818 and 1819.
+It stands almost five meters high and stretches more than seven meters across. At that size, the foreground bodies approach or exceed life size, bringing their weight and suffering uncomfortably close.
+Look at the figures draped over the edge of the raft. They seem almost within reach, as though the boundary between their world and ours is giving way.
+Then look back toward the ship. Against those enormous bodies, the possibility of rescue is reduced to a barely visible speck.
+That difference in scale is devastating: suffering fills our field of vision, while hope lies far beyond our reach.
 
 [Decoding_Raft_of_Medusa_slide_0005.png]
-The doomed 1816 voyage.
+Before we go further into the painting, we need to understand the disaster behind it.
+In 1816, the French frigate Méduse sailed toward Senegal as part of a mission to reestablish French colonial rule. On July 2nd, it ran aground on a sandbank off the West African coast.
+Its captain had spent many years away from active service, and his appointment under the restored monarchy became a focus of the scandal. Serious failures in navigation and command turned the voyage into a catastrophe.
+By July 5th, evacuation was underway. But the boats couldn’t accommodate everyone, so around 150 people, mostly soldiers and sailors, boarded a hastily constructed wooden raft.
+The plan was for the boats to tow them to safety. Instead, the towlines were lost or released. Accounts differ over exactly how this happened and who was responsible, so we shouldn’t present a single order to cut the ropes as an established fact.
+What is clear is the outcome: the boats continued without the raft, leaving its passengers adrift with desperately inadequate supplies.
 
 [Decoding_Raft_of_Medusa_slide_0006.png]
-Before we can solve this visual mystery,
-we have to understand the grim reality behind it.
-In 1816, a French frigate named the Méduse was on a colonial mission
-heading to Senegal when it ran aground on July 2nd.
-The captain?
-He hadn't sailed in roughly 25 years.
-It was a massive, fatal leadership failure,
-based entirely on political loyalty rather than actual nautical skill.
-By July 5th, they realized they had to abandon ship.
-But there was a huge problem.
-Not enough lifeboats.
-So about 150 people, soldiers, sailors, civilians,
-were shoved onto a makeshift wooden raft.
-The lifeboats were originally supposed to tow it,
-but instead, someone made the call to cut the ropes.
-Those 150 people were just abandoned at sea.
+Before we go further into the painting, we need to understand the disaster behind it.
+In 1816, the French frigate Méduse sailed toward Senegal as part of a mission to reestablish French colonial rule. On July 2nd, it ran aground on a sandbank off the West African coast.
+Its captain had spent many years away from active service, and his appointment under the restored monarchy became a focus of the scandal. Serious failures in navigation and command turned the voyage into a catastrophe.
+By July 5th, evacuation was underway. But the boats couldn’t accommodate everyone, so around 150 people, mostly soldiers and sailors, boarded a hastily constructed wooden raft.
+The plan was for the boats to tow them to safety. Instead, the towlines were lost or released. Accounts differ over exactly how this happened and who was responsible, so we shouldn’t present a single order to cut the ropes as an established fact.
+What is clear is the outcome: the boats continued without the raft, leaving its passengers adrift with desperately inadequate supplies.
 
 [Decoding_Raft_of_Medusa_slide_0007.png]
-For nearly two weeks, that raft just drifted.
-The survivor's accounts, which were later published
-by a surgeon named Savigny and an engineer named Corréard,
-detailed absolutely unimaginable horrors.
-We're talking brutal storms, violent mutiny,
-starvation, and extreme desperation,
-where people actually turned on one another.
-By the time the rescue ship, the Argus,
-finally spotted them on July 17th,
-a mere 15 people were left alive on those planks.
-And tragically, five of them would die shortly after being rescued.
+For thirteen days, the raft drifted at sea with desperately little food or drinking water.
+Two survivors, the surgeon Henri Savigny and the engineer Alexandre Corréard, later published an account of the ordeal. They described terrifying seas, violent clashes, hunger, and exhaustion. People died in the fighting, were swept overboard, or succumbed as their strength gave out. Those still alive eventually resorted to eating the flesh of the dead.
+On July 17th, the Argus finally found the raft. Of the roughly 150 people who had boarded it, only fifteen remained alive.
+Five more died after the rescue. Those numbers give the distant ship in Géricault’s painting a terrible weight: help would come, but for most of the people on the raft, it would come too late.
 
 [Decoding_Raft_of_Medusa_slide_0008.png]
-Shrinking the rescue ship.
+Now let’s compare the early oil sketch with the finished painting. Pay particular attention to the ship on the right side of the horizon.
+In the sketch, its shape is easier to make out. That clearer presence can feel reassuring: there’s a ship nearby, and rescue seems possible.
+In the final version, the vessel appears much smaller and farther away. You have to search for it, following the survivors’ gestures across that stretch of open water.
+The difference changes how we experience the scene. The people are close enough for us to see their desperate effort, but the ship is too distant for us to know whether anyone aboard has noticed.
+Géricault keeps us looking across that gap, caught between the sight of hope and the uncertainty of rescue.
 
 [Decoding_Raft_of_Medusa_slide_0009.png]
-Now, Géricault didn't just paint what happened.
-He engineered an experience.
-If you compare his early 1818 oil sketch to the final masterpiece,
-the deliberate shrinking of the rescue ship becomes our biggest clue.
-Look at the early sketch.
-The Argus is quite visible over on the right side of the horizon.
-You immediately register, okay, help is coming.
-But in the final painting, he pushed that ship
-so far back into the distance that you literally have to search for it.
+The ship’s size isn’t the only revealing choice. The survivors described clear weather on the morning they spotted the Argus. Yet Géricault gives us heavy clouds, deep shadows, and a threatening sea.
+Look closely, though, and you’ll notice that the sky isn’t completely dark. A band of light breaks through near the horizon, creating an uneasy contrast with the waves around the raft.
+That contrast helps hold danger and hope in the same scene. There’s light in the distance, but nothing beneath the survivors’ feet feels secure.
+Géricault reshapes the setting to convey the ordeal’s emotional force. Even with a ship in sight, the painting makes us feel that survival is still uncertain.
 
 [Decoding_Raft_of_Medusa_slide_0010.png]
-And get this, he didn't just change the size of the ship.
-While survivors specifically reported a sunny,
-cloudless morning when they first spotted the Argus,
-Géricault deliberately altered the weather.
-He paints it a dark, turbulent, terrifying storm.
-This right here is a masterclass in emotional manipulation.
-It proves he wasn't acting as a documentary photographer,
-but as an artist engineering a profound sense of overwhelming crisis.
+According to the survivors’ account, they signaled desperately when they first spotted the Argus. But the ship disappeared from view, leaving them to fear that their chance of rescue had passed. Only later did it return and reach them.
+That sequence helps us understand the uncertainty in Géricault’s painting. The distant ship offers hope, but there’s no visible response to the figures straining and waving toward it.
+Rather than pinning the scene to one exact second of the testimony, we can see how it captures the anguish of waiting: have they been noticed, or is the ship slipping away?
+Even knowing that rescue eventually came, we’re drawn into that unanswered question. For the people before us, survival is still far from certain.
 
 [Decoding_Raft_of_Medusa_slide_0011.png]
-According to those survivor testimonies,
-when they first saw the ship, they signaled frantically.
-But the ship actually disappeared from view
-for a terrifying stretch of time before finally returning to save them.
-Géricault intentionally trapped the viewer
-in that exact agonizing split second.
-The moment where hope is visible, but actual rescue is entirely uncertain.
-You are suspended right there in the torture
-of not knowing if they're actually going to survive.
+Now let’s look at the two overlapping pyramidal structures that organize the scene. Through them, Géricault guides our eyes upward, from the weight of death toward the desperate effort to be seen.
+Start at the lower left. A gray-haired man supports a young man’s limp body, his lowered gaze withdrawn from the urgency around him. Nearby, other bodies lie heavily across the boards, their limbs extending toward the raft’s edge.
+On this enormous canvas, those figures feel almost within reach. Their sculptural forms and pale flesh make the physical weight of suffering difficult to look past.
+Before our eyes can rise toward the waving cloth, they must pass through this foreground of loss. It gives the movement upward its emotional force: every reaching arm emerges from a scene in which so many can no longer move.
 
 [Decoding_Raft_of_Medusa_slide_0012.png]
-The two visual pyramids.
+Now let your eyes move upward and to the right, away from those motionless bodies. The poses begin to change: one figure braces himself, another turns toward the horizon, and outstretched arms draw us higher.
+Notice how the angled backs and overlapping bodies build a human pyramid. Each figure carries our gaze toward the next, until it reaches the man raising his cloth at the summit.
+These are different people responding in the same moment, yet their arrangement creates a powerful sense of gathering energy.
+From the heavy stillness below to the urgent gestures above, Géricault gives the struggle to survive a visible shape. Our eyes follow that rising movement, then turn with the figures toward the distant ship.
 
 [Decoding_Raft_of_Medusa_slide_0013.png]
-To make us physically feel this desperate stretch
-toward an uncertain hope, Géricault forces our eyes to climb.
-Look right down at the bottom left.
-There is almost no safe viewing distance here.
-We are right in front of the dead and the dying,
-whose life-sized, classically painted bodies
-seem to literally slide off the wooden boards
-and spill directly into our space.
-Their pale skin and heavy despair really anchor us in the tragedy.
+That upward movement finally brings us to the summit of the human pyramid: a man with his back to us, raising a cloth toward the barely visible ship.
+Look at the twist of his torso and the reach of his arm. Supported by a companion, he lifts himself higher, trying to make that small signal carry across the water.
+The surrounding bodies and gestures direct our attention toward him. It’s as though the group’s remaining strength has gathered into this single, urgent effort to be seen.
+But our gaze doesn’t stop there. It follows his signal out toward the distant ship, where all that movement meets an unsettling absence of response.
 
 [Decoding_Raft_of_Medusa_slide_0014.png]
-But as you move your eyes upward from those sprawling bodies,
-you see figures starting to rouse.
-Someone props themselves up, others point, arms stretch out.
-Together, these bodies are forming a human pyramid.
-They are physically struggling to rise from despair
-and death in the foreground as they reach
-with everything they have toward that horizon.
+But another force seems to pull against that upward surge. Look to the left, where the mast, ropes, and billowing sail form a second triangular structure.
+The sail swells toward the left, while the survivors stretch upward and to the right. These opposing movements create a powerful visual tension, drawing our eyes between the pressure of the wind and the urgency of the human signals.
+The sail alone doesn’t tell us exactly which way the raft is drifting. But alongside the looming wave and tilted platform, it makes the survivors’ footing feel dangerously unstable.
+They’re reaching toward the possibility of rescue while the sea threatens everything beneath them. That struggle gives the composition its force: hope is in sight, but they still have so little control over whether they can reach it.
 
 [Decoding_Raft_of_Medusa_slide_0015.png]
-And this brings us to the climax of that upward climb.
-Our eyes finally hit the apex of this human pyramid,
-a strong figure, desperately waving a red and white cloth
-at that tiny, almost invisible speck in the distance.
-Literally all the energy,
-all the remaining life force of the survivors,
-is concentrated right here at the very top.
+So who is the man at the summit of this pyramid, carrying the group’s hope of being seen?
+For this figure, Géricault worked with Joseph, a Black model from Haiti who posed in Paris. Those studio studies helped him develop the body’s powerful turn and reaching gesture.
+The historical accounts also identify a Black soldier named Jean-Charles among the raft’s survivors. But we should distinguish that historical person from the model who posed for the painting. The figure before us is an artistic construction, not necessarily a recognizable portrait of Jean-Charles.
+What we can see clearly is the prominence Géricault gives him. He occupies the highest point of the human grouping, where the surrounding gestures converge.
+His action becomes the focus of the collective struggle for survival—a choice that invites us to consider the painting’s racial and political significance.
 
 [Decoding_Raft_of_Medusa_slide_0016.png]
-But of course, there's a catch.
-Look over at the left side of the raft,
-a second pyramid formed by the heavy mast,
-the thick ropes, and the billowing, wind-filled sail
-is pushing the entire raft backward.
-The wind and that giant ocean wave
-are driving them away from the rescue ship.
-This creates this terrible, tearing tension
-right in the center of the painting.
-It's a visceral struggle between the human desire
-to climb forward toward hope
-and the raw, uncaring power of nature
-blowing them back into despair.
+By placing a Black man at the summit of this collective struggle, Géricault challenges a familiar visual hierarchy. A figure who might have been pushed to the margins instead becomes the focus of action and hope.
+And remember the canvas’s enormous size. These shipwreck victims receive the monumental treatment traditionally associated with sacred stories, ancient heroes, and great historical deeds. Their suffering demands sustained attention.
+That choice carries particular weight in the context of a French colonial expedition, at a time when slavery and the slave trade remained deeply contested realities. It invites an antislavery reading, even if the painting cannot be reduced to a single political message.
+Géricault brings people who held little power into the foreground of public attention. Their bodies, their losses, and their efforts to survive become a subject worthy of history—and difficult for the viewer to overlook.
 
 [Decoding_Raft_of_Medusa_slide_0017.png]
-Elevating the unseen victims.
+When the painting appeared at the 1819 Salon under the general title Scene of a Shipwreck, many viewers recognized the recent Méduse disaster—and the scandal surrounding it.
+That recognition gave the work a political charge. Its suffering figures could be read as a devastating indictment of failures associated with the restored monarchy.
+But the story of its acquisition needs some care. Proposals to purchase it during Géricault’s lifetime did not receive approval. That alone doesn’t establish that officials deliberately waited for his death.
+After Géricault died at thirty-two in 1824, the painting sold at his estate auction for 6,005 francs. The director of the royal museums arranged for a friend of the artist to bid on behalf of the Crown. collections.louvre.fr
+It’s a striking turn in the painting’s history: a work associated with public outrage entered an official collection, carrying the memory of that outrage with it.
 
 [Decoding_Raft_of_Medusa_slide_0018.png]
-Now we really have to ask,
-who exactly is standing at the peak of this pyramid of hope,
-holding the weight of everyone's survival in his hands?
-Géricault meticulously studied figures for this painting.
-For the figure at the absolute pinnacle of action,
-he used a Haitian model named Joseph,
-who actually posed in his Paris studio.
-The survivor list does record a black soldier
-named Jean Charles who was on the raft,
-though art historians say we shouldn't necessarily
-see this as a direct one-to-one portrait.
-But what is absolutely clear
-is that Géricault made a highly deliberate choice
-to place a black man at the very top of this visual hierarchy.
+Let’s return to the tiny ship on the horizon, and to the question we began with: why make the possibility of rescue so difficult to see?
+Its smallness makes us feel the distance the survivors’ signals must cross. Around them, the sea stretches outward, while their bodies crowd onto a fragile platform with almost nowhere to move.
+That contrast is unsettling. The ocean feels immense, yet life on the raft feels desperately confined.
+And because rescue remains so distant, it offers little relief from what lies before us: exhausted figures, lifeless bodies, and limbs hanging over the edge.
+Even if the ship reaches them, those deaths cannot be undone. Géricault holds hope and loss within the same view, leaving us to confront both the struggle to survive and the failures that brought these people here.
 
 [Decoding_Raft_of_Medusa_slide_0019.png]
-By placing this figure at the true center
-of a massive French colonial disaster,
-he completely disrupted 19th century artistic
-and social hierarchies.
-Remember the scale of this painting?
-Géricault took anonymous victims of a state failure,
-including a black man in a world where the slave trade
-was still a very recent, highly potent political issue,
-and he gave them the immense scale
-that was normally reserved for victorious kings,
-religious figures, or mythological heroes.
-It's such a bold reminder of how art
-can literally force society to look at marginalized victims,
-it would much rather ignore.
+The painting’s journey into the Louvre was more complicated than a straightforward official rejection. During Géricault’s lifetime, Auguste de Forbin, director of the royal museums, repeatedly tried to arrange its purchase, but those efforts never secured approval.
+Price and political unease may both have played a part. We should be cautious, though, about treating either as the sole explanation—or suggesting that officials deliberately waited for the artist to die.
+At the estate sale in 1824, Géricault’s friend Pierre-Joseph Dedreux-Dorcy bid on behalf of the royal administration, securing the painting for 6,005 francs. It went on public display at the Louvre in 1826. collections.louvre.fr
+That history gives us a more revealing picture: the work entered the collection through persistent advocacy and institutional negotiation, carrying its troubling subject into a place where generations would encounter it.
 
 [Decoding_Raft_of_Medusa_slide_0020.png]
-As you can imagine, this was incredibly politically disruptive.
-When it was exhibited at the 1819 Salon
-under the generic title, Scene of Shipwreck,
-everybody knew exactly what scandalous event it depicted.
-It completely highlighted the regime's deadly incompetence,
-and because of this extreme political sensitivity,
-the French state flat out refused to buy it
-while the artist was alive.
-They conveniently waited until Géricault died at just 32 years old,
-scooping it up at an auction in 1824 for a mere 6,005 francs.
+And that leaves us with a final thought. Perhaps the painting’s power lies in making us wait, even when we already know how the story ends.
+That tiny ship keeps us searching for a response to the waving cloth. We can see the survivors’ effort, but we cannot yet see whether it will be enough.
+Géricault leaves the rescue beyond the frame of this moment. Before us, hope rises above bodies that no help can bring back.
+As we look between the distant ship and the crowded raft, we’re asked to hold both truths together: rescue can save those still living, but it cannot erase what has happened.
 
 [Decoding_Raft_of_Medusa_slide_0021.png]
-The endless wait.
+There’s one more detail worth remembering: Géricault never witnessed the disaster himself. He had to build his understanding through survivors’ accounts, studies of the human figure, and repeated experiments with composition.
+That process helps explain the relationship between evidence and invention in the finished painting. The survivors’ experiences informed the story, while his choices of pose, scale, and arrangement shaped how we encounter it.
+Some accounts of his studio practices are sensational, and their details deserve caution where the evidence is uncertain. The preparatory work itself offers a clearer way to follow his thinking: we can see an artist testing how to give a distant tragedy an immediate human presence.
 
 [Decoding_Raft_of_Medusa_slide_0022.png]
-Let's pull back out and return to our original question
-about that tiny rescue ship,
-because it really is the key
-to the entire experience of this painting.
-By making the ship a mere dot,
-Géricault forces us to confront
-the vastness of the punishing ocean.
-The environment is boundless, it's terrifying,
-and it makes that crowded wooden raft
-feel incredibly claustrophobic and fragile.
-The tiny ship ensures that the sheer tragedy
-of the state's failure in the foreground,
-the dead bodies literally slipping into the water,
-cannot be ignored or magically erased
-by an easy heroic rescue.
-
-[Decoding_Raft_of_Medusa_slide_0023.png]
-Which leaves us with a lingering thought.
-By trapping us in this uncertain wait
-where rescue doesn't instantly erase the tragedy,
-did Géricault actually create something far more powerful?
-That tiny ship asks us to sit in the tension
-of an unanswered signal.
-He doesn't give us a neat victorious ending.
-Instead, he leaves us stranded on the raft,
-right alongside them,
-reaching out across the terrifying distance
-waiting for a rescue that we can only pray is real.
-
-[Decoding_Raft_of_Medusa_slide_0024.png]
-Supplement: Géricault reconstructed a disaster he had not witnessed. Survivor testimony, figure studies, and compositional sketches helped him transform evidence into a painting. Sensational stories about his studio should be treated cautiously because their details are difficult to verify.
-
-[Decoding_Raft_of_Medusa_slide_0025.png]
-Supplement: The path into the Louvre was more complicated than a simple official refusal. Forbin repeatedly tried to arrange a purchase during the artist’s lifetime. Price and political discomfort may both have contributed to the failed negotiations. At the estate sale in 1824, Dedreux-Dorcy bid for the royal administration, and the painting sold for 6,005 francs. It went on display at the Louvre in 1826.
-
-[Decoding_Raft_of_Medusa_slide_0026.png]
+Thank you for joining this explainer from Our Famous Artists. I hope the next time you see The Raft of the Medusa, that small mark on the horizon will carry a little more weight. Until next time, keep looking closely.

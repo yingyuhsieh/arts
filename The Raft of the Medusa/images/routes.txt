@@ -1,0 +1,6 @@
+• 🟣 ruta de La Medusa (purple line): The route of the Méduse.
+    • Critical error: It deviated completely from the routes taken by the other ships in the squadron, sailing too close to the coast in an attempt to take a shortcut. As a result, it passed directly through dangerous shallows and ultimately ran aground and sank on the sandbank (within the yellow dotted lines).
+• 🟢 ruta del Argus (green line): The route of the Argus, a two-masted brig.
+    • It safely skirted the outer edge of the sandbank. After the Méduse sank, this was the ship that rescued the survivors depicted in The Raft of the Medusa.
+• 🔴 ruta del Écho (red line): The route of the Écho, a corvette.
+    • It took a safer route around the area, avoiding the dangerous waters of the Arguin Bank entirely.

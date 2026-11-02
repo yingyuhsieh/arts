@@ -3,4 +3,10 @@
 - 插畫或角色動畫：簡單角色動作、循環動畫與場景轉換。
 - 藝術史影片：結合畫作、旁白、字幕、配樂與動畫效果。
 
-用 Pietro Perugino/tw_slides/update/走出拉斐爾的陰影：重新認識佩魯吉諾_slide_0009.png 參考它的旁白 in Pietro Perugino/tw_slides/subtitle/走出拉斐爾的陰影：重新認識佩魯吉諾.txt 做出 圖文解說動
+用 Pietro Perugino/tw_slides/update/走出拉斐爾的陰影：重新認識佩魯吉諾_slide_0009.png 參考它的旁白 in Pietro Perugino/tw_slides/subtitle/走出拉斐爾的陰影：重新認識佩魯吉諾.txt 做出 圖文解說動畫 size 1280x720
+
+
+
+插畫或角色動畫：簡單角色動作、循環動畫與場景轉換
+
+使用 The Raft of the Medusa\images\The Raft of the Medusa 梅杜莎之筏.jpg 做一段約 8 秒鐘的動畫，讓人物動起來 size 1280x720
