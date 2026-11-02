@@ -45,8 +45,8 @@ Use a dramatic French Romantic style inspired by Théodore Géricault’s The Ra
 
 # 中文 Replace 1st slide with youtbute thumimage
 # English Replace 1st slide with youtbute thumimage
-Replace ./The Raft of the Medusa/tw_slides/update/.png by ./The Raft of the Medusa/YouTube/.png with size 1280x720
-Replace ./The Raft of the Medusa/en_slides/update/.png by ./The Raft of the Medusa/YouTube/.png with size 1280x720
+Replace ./The Raft of the Medusa/tw_slides/update/梅杜莎之筏：希望與絕望之間的距離_slide_0001.png by ./The Raft of the Medusa/YouTube/150人被留在海上，只有15人等到救援 傑利柯《梅杜莎之筏》背後的真實悲劇.png.png with size 1280x720
+Replace ./The Raft of the Medusa/en_slides/update/Decoding_Raft_of_Medusa_slide_0001.png by ./The Raft of the Medusa/YouTube/The Raft of the Medusa - How Géricault Made Hope Feel So Uncertain.png.png with size 1280x720
 
 
 # 產生中文 video

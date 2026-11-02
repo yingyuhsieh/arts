@@ -5,25 +5,18 @@ Modify The Raft of the Medusa\tw_slides\update\梅杜莎之筏：希望與絕望
  and make description clear
 
 以下是修正要用在 YouTubbe 影片的 slides，請將它們做成可以吸引觀看者。輸出 size 1280x720
-使用 slide background <background_image_path>.png and 使用 YouTube_PNG_設計風格_Prompt.md
+Background 使用 The Raft of the Medusa\tw_slides\梅杜莎之筏：希望與絕望之間的距離_background.png and 使用 YouTube_PNG_設計風格_Prompt.md
 Modify The Raft of the Medusa\tw_slides\update\梅杜莎之筏：希望與絕望之間的距離_slide_0002.png and use let image The Raft of the Medusa\images\The Raft of the Medusa 梅杜莎之筏.jpg and right image The Raft of the Medusa\images\the-rescue-annotated-slide.png and make description large and clear
-Modify The Raft of the Medusa\tw_slides\update\梅杜莎之筏：希望與絕望之間的距離_slide_0003.png and add image The Raft of the Medusa\images\Detail of the crew member waving his handkerchief to draw the ship's attention.jpg and make description large and clear
 Modify The Raft of the Medusa\tw_slides\update\梅杜莎之筏：希望與絕望之間的距離_slide_0004.png and use image The Raft of the Medusa\images\The Raft of the Medusa 梅杜莎之筏.jpg and make the image larger and make description large and clear and beautify other images
-Modify The Raft of the Medusa\tw_slides\update\梅杜莎之筏：希望與絕望之間的距離_slide_0005.png and make description clear
-Modify The Raft of the Medusa\tw_slides\update\梅杜莎之筏：希望與絕望之間的距離_slide_0006.png and make description clear
 Modify The Raft of the Medusa\tw_slides\update\梅杜莎之筏：希望與絕望之間的距離_slide_0007.png and make description large and clear
 Modify The Raft of the Medusa\tw_slides\update\梅杜莎之筏：希望與絕望之間的距離_slide_0008.png and use left image The Raft of the Medusa\images\This preparatory oil sketch nearly fully realises the positions of the figures in the final work.jpg mark mark "油畫草稿｜船影較明顯，救援彷彿就在眼前" and right image The Raft of the Medusa 梅杜莎之筏.jpg mark "完成版本｜船影縮向遠方，希望變得難以確定" and add title "看見船，不代表被看見" and in the bottom add "希望已經出現，救援卻還沒有抵達。"
-Modify The Raft of the Medusa\tw_slides\update\梅杜莎之筏：希望與絕望之間的距離_slide_0009.png and make description large and clear
 Modify The Raft of the Medusa\tw_slides\update\梅杜莎之筏：希望與絕望之間的距離_slide_0010.png and use image The Raft of the Medusa\images\Diagram showing the outline of the two pyramidal structures that form the basis of the work. The position of the Argus rescue vessel is indicated by the yellow dot.jpg and make description large and clear
 Modify The Raft of the Medusa\tw_slides\update\梅杜莎之筏：希望與絕望之間的距離_slide_0011.png and make description large and clear and beautify other images
 Modify The Raft of the Medusa\tw_slides\update\梅杜莎之筏：希望與絕望之間的距離_slide_0012.png and make description large and clear
 Modify The Raft of the Medusa\tw_slides\update\梅杜莎之筏：希望與絕望之間的距離_slide_0013.png and make description large and clear and beautify other images
 Modify The Raft of the Medusa\tw_slides\update\梅杜莎之筏：希望與絕望之間的距離_slide_0014.png and use left image The Raft of the Medusa\images\the-rescue.png and right image Portrait study by Théodore Géricault.jpg mark "瑟奧多·傑里科特的肖像研究" and make description large and clear
 Modify The Raft of the Medusa\tw_slides\update\梅杜莎之筏：希望與絕望之間的距離_slide_0015.png and use iimage The Raft of the Medusa\images\La Liberté guidant le peuple Eugène Delacroix 自由引導人民 歐仁·德拉克洛瓦.jpg - top.png mark "自由引導人民 歐仁·德拉克洛瓦" and the-rescue-top.png mark "梅杜莎之筏" and make description large and clear
-Modify The Raft of the Medusa\tw_slides\update\梅杜莎之筏：希望與絕望之間的距離_slide_0016.png and make description large and clear
-Modify The Raft of the Medusa\tw_slides\update\梅杜莎之筏：希望與絕望之間的距離_slide_0017.png and make description large and clear
 Modify The Raft of the Medusa\tw_slides\update\梅杜莎之筏：希望與絕望之間的距離_slide_0018.png and use image The Raft of the Medusa\images\the-rescue.png and make description large and clear
-Modify The Raft of the Medusa\tw_slides\update\梅杜莎之筏：希望與絕望之間的距離_slide_0019.png and make description clear
 
 Modify The Raft of the Medusa\en_slides\update\Decoding_Raft_of_Medusa_slide_00.png
  and add image The Raft of the Medusa\images\
@@ -31,15 +24,15 @@ Modify The Raft of the Medusa\en_slides\update\Decoding_Raft_of_Medusa_slide_00.
  and make description large and clear
  and make description clear
 
+以下是修正要用在 YouTubbe 影片的 slides，請將它們做成可以吸引觀看者。輸出 size 1280x720
+Refer to scripts in The Raft of the Medusa/en_slides/subtitle/Decoding_Raft_of_Medusa.txt
+Bacground 使用 The Raft of the Medusa\en_slides\Decoding_Raft_of_Medusa_background.png and 使用 YouTube_PNG_設計風格_Prompt.md
 Modify The Raft of the Medusa\en_slides\update\Decoding_Raft_of_Medusa_slide_0002.png and replace top image by The Raft of the Medusa\images\the-rescue-annotated-slide-en.png and make description large and clear
 Modify The Raft of the Medusa\en_slides\update\Decoding_Raft_of_Medusa_slide_0003.png and add image The Raft of the Medusa\images\the-rescue.png and make description large and clear
 Modify The Raft of the Medusa\en_slides\update\Decoding_Raft_of_Medusa_slide_0004.png and make description large and clear and beautify other images
 Modify The Raft of the Medusa\en_slides\update\Decoding_Raft_of_Medusa_slide_0005.png and remove "1" from image and add image The Raft of the Medusa\images\La Méduse 梅杜斯號.JPG mark "La Méduse" and add image The Raft of the Medusa\images\The route of the Méduse, the Argus, and the Écho.png and based on The Raft of the Medusa\images\routes.txt and write the reason of sink
-Modify The Raft of the Medusa\en_slides\update\Decoding_Raft_of_Medusa_slide_0006.png and make description and flow clear
-Modify The Raft of the Medusa\en_slides\update\Decoding_Raft_of_Medusa_slide_0007.png and make description and flow clear
 Modify The Raft of the Medusa\en_slides\update\Decoding_Raft_of_Medusa_slide_0008.png
- and use left image The Raft of the Medusa\images\This preparatory oil sketch nearly fully realises the positions of the figures in the final work.jpg mark mark "Oil sketch | The ship is more prominent, as if rescue were right before their eyes" and right image The Raft of the Medusa 梅杜莎之筏.jpg mark "Final version | The ship recedes into the distance, and hope grows uncertain" and add title "Seeing a ship does not mean being seen" and in the bottom add "Hope has appeared, but rescue has not yet arrived"
-Modify The Raft of the Medusa\en_slides\update\Decoding_Raft_of_Medusa_slide_0009.png and make description large and clear
+ and use left image The Raft of the Medusa\images\This preparatory oil sketch nearly fully realises the positions of the figures in the final work.jpg mark mark "Oil sketch | The ship is more prominent, as if rescue were right before their eyes" and right image The Raft of the Medusa 梅杜莎之筏.jpg mark "Final version | The ship recedes into the distance, and hope grows uncertain" and add title "Seeing a ship does not mean being seen" and in the bottom add "Hope has appeared, but rescue has not yet arrived
 Modify The Raft of the Medusa\en_slides\update\Decoding_Raft_of_Medusa_slide_0010.png and add image The Raft of the Medusa\images\the-rescue-annotated-slide-en.png and make description large and clear
 Modify The Raft of the Medusa\en_slides\update\Decoding_Raft_of_Medusa_slide_0011.png and make description large and clear
 Modify The Raft of the Medusa\en_slides\update\Decoding_Raft_of_Medusa_slide_0012.png and use image The Raft of the Medusa\images\the-rescue-top.png and make description large and clear
@@ -47,8 +40,5 @@ Modify The Raft of the Medusa\en_slides\update\Decoding_Raft_of_Medusa_slide_001
 Modify The Raft of the Medusa\en_slides\update\Decoding_Raft_of_Medusa_slide_0014.png and make description large and clear
 Modify The Raft of the Medusa\en_slides\update\Decoding_Raft_of_Medusa_slide_0015.png and add image The Raft of the Medusa\images\Portrait study by Théodore Géricault.jpg mark "Portrait study by Théodore Géricault" and beautify other images
 Modify The Raft of the Medusa\en_slides\update\Decoding_Raft_of_Medusa_slide_0016.png and add image La Liberté guidant le peuple Eugène Delacroix 自由引導人民 歐仁·德拉克洛瓦.jpg - top.png mark "La Liberté guidant le peuple Eugène Delacroix" and the-rescue-top.png mark "The Raft of the Medusa" and make description clear 
-Modify The Raft of the Medusa\en_slides\update\Decoding_Raft_of_Medusa_slide_0017.png and make description clear
-Modify The Raft of the Medusa\en_slides\update\Decoding_Raft_of_Medusa_slide_0018.png and make description clear
-Modify The Raft of the Medusa\en_slides\update\Decoding_Raft_of_Medusa_slide_0019.png and add image The Raft of the Medusa\images\The Raft of the Medusa - Louvre.jpg+ and make description clear
-Modify The Raft of the Medusa\en_slides\update\Decoding_Raft_of_Medusa_slide_0020.png and make description clear
-Modify The Raft of the Medusa\en_slides\update\Decoding_Raft_of_Medusa_slide_0021.png and add image The Raft of the Medusa\images\泰奧多爾·傑利柯 Théodore Géricault self-portrait.jpg mark "Théodore Géricault", Plan of the Medusa's raft at the moment of its crew's rescue.JPG mark "Medusa's raft", The route of the Méduse, the Argus, and the Écho.png mark "The route of the Méduse, the Argus, and the Écho" and make description clear
+Modify The Raft of the Medusa\en_slides\update\Decoding_Raft_of_Medusa_slide_0019.png and add image The Raft of the Medusa\images\泰奧多爾·傑利柯 Théodore Géricault self-portrait.jpg mark "Théodore Géricault", Plan of the Medusa's raft at the moment of its crew's rescue.JPG mark "Medusa's raft", The route of the Méduse, the Argus, and the Écho.png mark "The route of the Méduse, the Argus, and the Écho" and make description clear
+Modify The Raft of the Medusa\en_slides\update\Decoding_Raft_of_Medusa_slide_0020.png and add image The Raft of the Medusa\images\The Raft of the Medusa - Louvre.jpg+ and make description clear
