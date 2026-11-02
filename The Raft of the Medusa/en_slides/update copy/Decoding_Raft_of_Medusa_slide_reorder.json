@@ -1,0 +1,21 @@
+{
+  "manifest": "/Users/yingyuhsieh/Desktop/mcp/arts/The Raft of the Medusa/en_slides/Decoding_Raft_of_Medusa_slide_manifest.json",
+  "original_count": 24,
+  "supplemental_count": 2,
+  "original_final": {
+    "from": "Decoding_Raft_of_Medusa_slide_0024.png",
+    "to": "Decoding_Raft_of_Medusa_slide_0026.png",
+    "sha256": "1a385e89e56f819e3c3c934e88f6c72ac80dc8b9b7793f84f61818789338fba4"
+  },
+  "supplemental_renames": [
+    {
+      "from": "Decoding_Raft_of_Medusa_slide_0025.png",
+      "to": "Decoding_Raft_of_Medusa_slide_0024.png"
+    },
+    {
+      "from": "Decoding_Raft_of_Medusa_slide_0026.png",
+      "to": "Decoding_Raft_of_Medusa_slide_0025.png"
+    }
+  ],
+  "subtitle": "/Users/yingyuhsieh/Desktop/mcp/arts/The Raft of the Medusa/en_slides/subtitle/Decoding_Raft_of_Medusa.txt"
+}
