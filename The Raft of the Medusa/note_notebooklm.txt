@@ -59,7 +59,7 @@ Replace ./The Raft of the Medusa/en_slides/update/Decoding_Raft_of_Medusa_slide_
 # 產生English video
 Use $en-make-video.
 Narration:
-./The Raft of the Medusa/en_slides/subtitle/.txt
+./The Raft of the Medusa/en_slides/subtitle/Decoding_Raft_of_Medusa.txt
 Images:
 ./The Raft of the Medusa/en_slides/update
 
