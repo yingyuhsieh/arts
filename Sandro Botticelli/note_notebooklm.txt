@@ -32,14 +32,14 @@ Title: <EN>
 
 # 中文 Video 產生 slide images 並加上背景
 使用 $video-to-slides
-Video path: ./Sandro Botticelli/.mp4
+Video path: ./Sandro Botticelli/波提切利的線條：超越維納斯的視野.mp4
 背景風格描述：
 Use an elegant Early Italian Renaissance style inspired by Sandro Botticelli, with delicate ivory, soft rose, pale turquoise, muted ultramarine, sage green, warm golden ochre, and subtle coral tones, combining refined egg-tempera textures with graceful flowing contours, elongated idealized figures, ethereal facial expressions, intricately patterned fabrics, and rhythmic windswept drapery, incorporating classical mythological motifs, delicate floral meadows, orange groves, gently rippling seas, seashell forms, and harmonious Florentine landscapes, with subtle gold accents and decorative linear patterns evoking The Birth of Venus and Primavera, creating a poetic atmosphere of timeless beauty, humanist elegance, mythological enchantment, and spiritual refinement, while preserving spacious softly illuminated negative space, restrained botanical ornament, and gentle tonal contrasts so the artwork, titles, and subtitles remain visually dominant.
 
 
 # English Video 產生 slide images 並加上背景
 使用 $video-to-slides
-Video path: ./Sandro Botticelli/.mp4
+Video path: ./Sandro Botticelli/Botticelli_Beyond_Venus.mp4
 背景風格描述：
 Use an elegant Early Italian Renaissance style inspired by Sandro Botticelli, with delicate ivory, soft rose, pale turquoise, muted ultramarine, sage green, warm golden ochre, and subtle coral tones, combining refined egg-tempera textures with graceful flowing contours, elongated idealized figures, ethereal facial expressions, intricately patterned fabrics, and rhythmic windswept drapery, incorporating classical mythological motifs, delicate floral meadows, orange groves, gently rippling seas, seashell forms, and harmonious Florentine landscapes, with subtle gold accents and decorative linear patterns evoking The Birth of Venus and Primavera, creating a poetic atmosphere of timeless beauty, humanist elegance, mythological enchantment, and spiritual refinement, while preserving spacious softly illuminated negative space, restrained botanical ornament, and gentle tonal contrasts so the artwork, titles, and subtitles remain visually dominant.
 

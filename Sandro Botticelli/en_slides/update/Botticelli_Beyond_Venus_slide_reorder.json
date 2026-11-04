@@ -1,0 +1,21 @@
+{
+  "manifest": "/Users/yingyuhsieh/Desktop/mcp/arts/Sandro Botticelli/en_slides/Botticelli_Beyond_Venus_slide_manifest.json",
+  "original_count": 21,
+  "supplemental_count": 2,
+  "original_final": {
+    "from": "Botticelli_Beyond_Venus_slide_0021.png",
+    "to": "Botticelli_Beyond_Venus_slide_0023.png",
+    "sha256": "e690a2d8efddd4abbe088a07e3ee706c11ab05d42fd2a6dba3a94aebac835090"
+  },
+  "supplemental_renames": [
+    {
+      "from": "Botticelli_Beyond_Venus_slide_0022.png",
+      "to": "Botticelli_Beyond_Venus_slide_0021.png"
+    },
+    {
+      "from": "Botticelli_Beyond_Venus_slide_0023.png",
+      "to": "Botticelli_Beyond_Venus_slide_0022.png"
+    }
+  ],
+  "subtitle": "/Users/yingyuhsieh/Desktop/mcp/arts/Sandro Botticelli/en_slides/subtitle/Botticelli_Beyond_Venus.txt"
+}
