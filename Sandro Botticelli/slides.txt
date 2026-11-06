@@ -1,0 +1,58 @@
+
+Based on Sandro Botticelli\tw_slides\update\波提切利的線條：超越維納斯的視野_slide_00.png to create new slide as new_超越維納斯的視野_slide_00.png
+ and add image Sandro Botticelli\images\
+ and use image Sandro Botticelli\images\
+ and make description large and clear
+ and make description clear
+
+以下是 png 要用在 YouTubbe 影片的 slides，請將它們做成可以吸引觀看者。輸出 size 1280x720
+Background 使用 Sandro Botticelli\tw_slides\波提切利的線條：超越維納斯的視野_background.png and 使用 YouTube_PNG_設計風格_Prompt.md
+讀取 slide 內容 Sandro Botticelli\tw_slides\subtitle\波提切利的線條：超越維納斯的視野.txt
+Based on Sandro Botticelli\tw_slides\update\波提切利的線條：超越維納斯的視野_slide_0002.png to create new slide as new_超越維納斯的視野_slide_0002.png and use left image Sandro Botticelli\images\Sandro Botticelli Fortitude.jpg mark "剛毅" and right image Sandro Botticelli\images\Sandro Mystic Nativity.jpg mark "神秘的基督誕生"
+Based on Sandro Botticelli\tw_slides\update\波提切利的線條：超越維納斯的視野_slide_0004.png to create new slide as new_超越維納斯的視野_slide_0004.png and remove number and remove "1" from image  and add image Sandro Botticelli\images\View of Florence by Hartmann Schedel, published in 1493 佛羅倫斯的視角,哈特曼·謝德爾著,出版於1493年).jpg mark "佛羅倫斯的視角,哈特曼·謝德爾" , A typical street scene in Florence in the early 15th century by Pat Nicolle.jpg mark "十五世紀初佛羅倫斯街景 派特尼可"
+Based on Sandro Botticelli\tw_slides\update\波提切利的線條：超越維納斯的視野_slide_0005.png to create new slide as new_超越維納斯的視野_slide_0005.png and add image Sandro Botticelli\images\Probable self-portrait of Botticelli.jpg mark "波提切利" and make description large and clear
+Based on Sandro Botticelli\tw_slides\update\波提切利的線條：超越維納斯的視野_slide_0006.png to create new slide as new_超越維納斯的視野_slide_0006.png and use image Sandro Botticelli\images\Sandro Botticelli Fortitude.jpg and make description large and clear
+Based on Sandro Botticelli\tw_slides\update\波提切利的線條：超越維納斯的視野_slide_0007.png to create new slide as new_超越維納斯的視野_slide_0007.png and remove "2" from image and add image Sandro Botticelli\images\Sistine Chapel 西斯汀禮拜堂 2.jpg mark "西斯汀禮拜堂" and make description large and clear
+Based on Sandro Botticelli\tw_slides\update\波提切利的線條：超越維納斯的視野_slide_0010.png to create new slide as new_超越維納斯的視野_slide_0010.png and remove "3" from image and add image Sandro Botticelli\images\帕拉斯與半人馬 Pallas and the Centaur.jpg mark "帕拉斯與半人馬", 春 Primavera.jpg mark "春", The Birth of Venus.jpg mark "維納斯的誕生" and make description large and clear
+Based on Sandro Botticelli\tw_slides\update\波提切利的線條：超越維納斯的視野_slide_0011.png to create new slide as new_超越維納斯的視野_slide_0011.png and use image Sandro Botticelli\images\春 Primavera.jpg and make the imager larger and make description large and clear
+Based on Sandro Botticelli\tw_slides\update\波提切利的線條：超越維納斯的視野_slide_0013.png to create new slide as new_超越維納斯的視野_slide_0013.png and add image Sandro Botticelli\images\美第奇家族 美第奇-里卡迪宫 Palazzo Medici Riccardi.jpg mark "美第奇家族 美第奇-里卡迪宫" and make description large and clear
+Based on Sandro Botticelli\tw_slides\update\波提切利的線條：超越維納斯的視野_slide_0014.png to create new slide as new_超越維納斯的視野_slide_0014.png and use image Sandro Botticelli\images\IMG-011_Pallas_and_the_Centaur.jpg and make description large and clear
+Based on Sandro Botticelli\tw_slides\update\波提切利的線條：超越維納斯的視野_slide_0015.png to create new slide as new_超越維納斯的視野_slide_0015.png and add image Sandro Botticelli\images\The Birth of Venus.jpg mark "維納斯的誕生" and make description clear
+Based on Sandro Botticelli\tw_slides\update\波提切利的線條：超越維納斯的視野_slide_0016.png to create new slide as new_超越維納斯的視野_slide_0016.png and remove "4" from image and add image Sandro Botticelli\images\哀悼基督 Lamentation over the Dead Christ.jpg mark "哀悼基督", 帕齊的切斯泰洛聖母領報 Cestello Annunciation.jpg mark "帕齊的切斯泰洛聖母領報", 聖母頌 Madonna of the Magnificat.png mark "聖母頌" and make description large and clear
+Based on Sandro Botticelli\tw_slides\update\波提切利的線條：超越維納斯的視野_slide_0017.png to create new slide as new_超越維納斯的視野_slide_0017.and and use image Sandro Botticelli\images\聖母頌 Madonna of the Magnificat.png and make image larger and make description clear
+Based on Sandro Botticelli\tw_slides\update\波提切利的線條：超越維納斯的視野_slide_0018.png to create new slide as new_超越維納斯的視野_slide_0018.png and use image Sandro Botticelli\images\帕齊的切斯泰洛聖母領報 Cestello Annunciation.jpg mark "帕齊的切斯泰洛聖母領報" and make description large and clear
+Based on Sandro Botticelli\tw_slides\update\波提切利的線條：超越維納斯的視野_slide_0019.png to create new slide as new_超越維納斯的視野_slide_0019.png and add image Sandro Botticelli\images\帕齊的切斯泰洛聖母領報 Cestello Annunciation sub.png and make description large and clear
+Based on Sandro Botticelli\tw_slides\update\波提切利的線條：超越維納斯的視野_slide_0020.png to create new slide as new_超越維納斯的視野_slide_0020.png and remove "5" from image and add image Sandro Botticelli\images\薩佛納羅拉在佛羅倫斯的處決 Hanging and burning of Girolamo Savonarola in Florence.jpg mark "薩佛納羅拉在佛羅倫斯的處決" and make description large and clear
+Based on Sandro Botticelli\tw_slides\update\波提切利的線條：超越維納斯的視野_slide_0021.png to create new slide as new_超越維納斯的視野_slide_0021.png and make description and flow clear
+Based on Sandro Botticelli\tw_slides\update\波提切利的線條：超越維納斯的視野_slide_0022.png to create new slide as new_超越維納斯的視野_slide_0022.png and use image Sandro Botticelli\images\誹謗 Calumny of Apelles.jpg and make the image large and make description large and clear
+Based on Sandro Botticelli\tw_slides\update\波提切利的線條：超越維納斯的視野_slide_0024.png to create new slide as new_超越維納斯的視野_slide_0024.png and make description large and clear
+
+
+Based on Sandro Botticelli\en_slides\update\Botticelli_Beyond_Venus_slide_00.png to create new slide as Botticelli_Beyond_Venus_slide_00.png
+ and add image Sandro Botticelli\images\
+ and use image Sandro Botticelli\images\
+ and make description large and clear
+ and make description clear
+
+以下是 png 要用在 YouTubbe 影片的 slides，請將它們做成可以吸引觀看者。輸出 size 1280x720
+Background 使用 Sandro Botticelli\en_slides\Sandro Botticelli\en_slides\Botticelli_Beyond_Venus_background.png and 使用 YouTube_PNG_設計風格_Prompt.md
+讀取 slide 內容 Sandro Botticelli\en_slides\subtitle\Botticelli_Beyond_Venus.txt
+Based on Sandro Botticelli\en_slides\update\Botticelli_Beyond_Venus_slide_0002.png to create new slide as Botticelli_Beyond_Venus_slide_0002.png and add image Sandro Botticelli\images\The Birth of Venus in museum.png and make description large and clear
+Based on Sandro Botticelli\en_slides\update\Botticelli_Beyond_Venus_slide_0003.png to create new slide as Botticelli_Beyond_Venus_slide_0003.png and use image Sandro Botticelli\images\春 Primavera.jpg and make image larger and make description large and clear
+Based on Sandro Botticelli\en_slides\update\Botticelli_Beyond_Venus_slide_0004.png to create new slide as Botticelli_Beyond_Venus_slide_0004.png and add image Sandro Botticelli\images\Sandro Botticelli Fortitude.jpg, The Life of Moses 年輕摩西的生平.jpg, The Birth of Venus.jpg, Sandro Mystic Nativity.jpg and make images small and under the box of description and make description and flow clear
+Based on Sandro Botticelli\en_slides\update\Botticelli_Beyond_Venus_slide_0005.png to create new slide as Botticelli_Beyond_Venus_slide_0005.png
+ and use left image Sandro Botticelli\images\Portrait of a woman, said to be of Vespucci by Piero di Cosimo.jpg mark "Portrait of a woman, said to be of Vespucci by Piero di Cosimo" and right image Sandro Botticelli\images\The Florentine Academy by the Italian Renaissance artist Baccio Bandinelli.jpg
+Based on Sandro Botticelli\en_slides\update\Botticelli_Beyond_Venus_slide_0007.png to create new slide as Botticelli_Beyond_Venus_slide_0007.png and use image Sandro Botticelli\images\Adoration of the Magi 三博士來朝.jpg and make image larger and make description clear
+Based on Sandro Botticelli\en_slides\update\Botticelli_Beyond_Venus_slide_0008.png to create new slide as Botticelli_Beyond_Venus_slide_0008.png
+ and use image Sandro Botticelli\images\Saint Sebastian 聖塞巴斯蒂安.jpg and make image larger and make description clear
+Based on Sandro Botticelli\en_slides\update\Botticelli_Beyond_Venus_slide_0009.png to create new slide as Botticelli_Beyond_Venus_slide_0009.png and use image Sandro Botticelli\images\Sandro Botticelli Fortitude.jpg and make image larger and make description large and clear
+Based on Sandro Botticelli\en_slides\update\Botticelli_Beyond_Venus_slide_0010.png to create new slide as Botticelli_Beyond_Venus_slide_0010.png and left use image Sandro Botticelli\images\春 Primavera.jpg mark "Primavera" and right use image Sandro Botticelli\images\帕拉斯與半人馬 Pallas and the Centaur.jpg mark "Pallas and the Centaur"
+Based on Sandro Botticelli\en_slides\update\Botticelli_Beyond_Venus_slide_0011.png to create new slide as Botticelli_Beyond_Venus_slide_0011.png and make description clear
+Based on Sandro Botticelli\en_slides\update\Botticelli_Beyond_Venus_slide_0016.png to create new slide as Botticelli_Beyond_Venus_slide_0016.png and left use image Sandro Botticelli\images\帕拉斯與半人馬 Pallas and the Centaur.jpg mark "Pallas and the Centaur" and right use image Sandro Botticelli\images\帕齊的切斯泰洛聖母領報 Cestello Annunciation.jpg mark "Cestello Annunciation" and make description large and clear
+Based on Sandro Botticelli\en_slides\update\Botticelli_Beyond_Venus_slide_0016.png to create new slide as Botticelli_Beyond_Venus_slide_0016.png and add image Sandro Botticelli\images\薩佛納羅拉在佛羅倫斯的處決 Hanging and burning of Girolamo Savonarola in Florence.jpg mark "Hanging and burning of Girolamo Savonarola in Florence" and make description clear
+Based on Sandro Botticelli\en_slides\update\Botticelli_Beyond_Venus_slide_0017.png to create new slide as Botticelli_Beyond_Venus_slide_0017.png and make description large and clear
+Based on Sandro Botticelli\en_slides\update\Botticelli_Beyond_Venus_slide_0018.png to create new slide as Botticelli_Beyond_Venus_slide_0018.png and use image Sandro Botticelli\images\Sandro Mystic Nativity.jpg and make description large and clear
+Based on Sandro Botticelli\en_slides\update\Botticelli_Beyond_Venus_slide_0019.png to create new slide as Botticelli_Beyond_Venus_slide_0019.png and add image Sandro Botticelli\images\Sandro Botticelli Fortitude.jpg mark "Fortitude", 春 Primavera.jpg mark "Primavera", Sandro Mystic Nativity.jpg mark "Sandro Mystic Nativity" and make description large and clear
+Based on Sandro Botticelli\en_slides\update\Botticelli_Beyond_Venus_slide_0020.png to create new slide as Botticelli_Beyond_Venus_slide_0020.png
+ and add image Sandro Botticelli\images\The Birth of Venus.jpg and make description clear
+
