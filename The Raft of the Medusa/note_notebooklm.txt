@@ -77,11 +77,11 @@ Use $youtube-and-social-media-post with
 Use $tw-video-integrate-audio-slide to combine my 中文 narration audio, slide images, script, and timing manifest into a YouTube-ready MP4.Use $tw-video-integrate-audio-slide to create a YouTube-ready video from:
 
 - Narration script:
-  ./The Raft of the Medusa/tw_slides/subtitle/.txt
+  ./The Raft of the Medusa/tw_slides/subtitle/梅杜莎之筏：希望與絕望之間的距離.txt
 - PNG slides:
   ./The Raft of the Medusa/tw_slides/update
 - Narration audio:
-  ./The Raft of the Medusa/tw_slides/.m4a
+  ./The Raft of the Medusa/tw_slides/Sounds.m4a
 - Timing manifest:
   ./The Raft of the Medusa/tw_slides/slide_manifest.json
 

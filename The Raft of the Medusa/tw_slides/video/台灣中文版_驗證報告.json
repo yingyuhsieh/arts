@@ -1,0 +1,38 @@
+{
+  "video": "/Users/yingyuhsieh/Desktop/mcp/arts/The Raft of the Medusa/tw_slides/video/梅杜莎之筏：希望與絕望之間的距離_4k.mp4",
+  "bytes": 240394090,
+  "slides": 20,
+  "expected_hard_cuts": 19,
+  "original_source_dimensions": [
+    [
+      1280,
+      720
+    ],
+    [
+      1672,
+      941
+    ]
+  ],
+  "output_dimensions": [
+    3840,
+    2160
+  ],
+  "fps": 30,
+  "video_duration_seconds": 1321.1,
+  "audio_duration_seconds": 1321.066,
+  "source_audio_container_duration_seconds": 1321.109333,
+  "video_codec": "h264",
+  "audio_codec": "aac",
+  "subtitle_streams": 0,
+  "audio_mean_volume_db": -23.5,
+  "audio_peak_db": -0.2,
+  "sampled_frames_seconds": [
+    0,
+    603,
+    1020,
+    1022,
+    1112,
+    1320
+  ],
+  "note": "Updated audio includes slide 16; all 20 slides included. Full-layout Lanczos copies used for mixed-size sources."
+}
