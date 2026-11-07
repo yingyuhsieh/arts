@@ -46,7 +46,7 @@ Use an elegant Early Italian Renaissance style inspired by Sandro Botticelli, wi
 
 # 中文 Replace 1st slide with youtbute thumimage
 # English Replace 1st slide with youtbute thumimage
-Replace ./Sandro Botticelli/tw_slides/update/年輕摩西的生平_四個場景_1280x720.png by ./Sandro Botticelli/YouTube/波提切利不只有維納斯：從花園神話走入靈魂信仰.png with size 1280x720
+Replace ./Sandro Botticelli/tw_slides/update/波提切利的線條：超越維納斯的視野_slide_0001.png by ./Sandro Botticelli/YouTube/波提切利不只有維納斯：從花園神話走入靈魂信仰.png with size 1280x720
 Replace ./Sandro Botticelli/en_slides/update/Botticelli_Beyond_Venus_slide_0001.png by ./Sandro Botticelli/YouTube/Botticelli Beyond Venus - A Line Through Myth and Faith.png with size 1280x720
 
 
@@ -60,7 +60,7 @@ Replace ./Sandro Botticelli/en_slides/update/Botticelli_Beyond_Venus_slide_0001.
 # 產生English video
 Use $en-make-video.
 Narration:
-./Sandro Botticelli/en_slides/subtitle/.txt
+./Sandro Botticelli/en_slides/subtitle/Botticelli_Beyond_Venus.txt
 Images:
 ./Sandro Botticelli/en_slides/update
 
