@@ -1,0 +1,117 @@
+// for artists to ask all AI
+使用 藝術家深度研究與長篇故事文章.md
+撰寫 <artist>
+直接把全文貼成可複製的 code block 給我
+
+// consolidate
+照 Pasted markdown 的 Prompt，整合其他 5 份 Jan van Goyen MD，產生最終文章。
+
+Based on all md files in ./artist
+透過 WebSearch 搜尋該畫家的相關資料
+整合所有資料，以繁體中文 narrative 撰寫深度分析文章，至少8000字。
+將結果存為 <artist>.md。
+
+// Verify content of the md file, search more information from web to add to the document, and update correction suggestion. List as bullet items in 繁中 and present by md format here.
+
+------------------
+$create-youtube-contents by <files>
+
+$create_google_doc_image_info by <file>
+
+$create-youtube-slides by <files>
+
+------------------
+
+# Verify contents from AI
+Search web, review & make correction suggestion (繁中) 用 narrative 寫
+
+Title: <TC>
+
+Title: <EN>
+
+# 中文 Video 產生 slide images 並加上背景
+使用 $video-to-slides
+Video path: ./Ascetic/.mp4
+背景風格描述：
+Use a solemn and contemplative European sacred art style inspired by the theme of Christian asceticism across the Renaissance, Mannerist, and Baroque periods, with deep umber, burnt sienna, muted ochre, weathered stone gray, olive green, aged ivory, and restrained crimson and ultramarine accents, combining delicate Renaissance oil-painted textures and Northern European engraving-inspired details with dramatic Baroque chiaroscuro, weathered parchment surfaces, rough monastic robes, rugged desert rocks, secluded caves, simple wooden crosses, skulls, ancient manuscripts, and subtle candlelit interiors, incorporating the serene natural light of Giovanni Bellini, the anatomical intensity of Michelangelo and Leonardo da Vinci, the symbolic imagination of Hieronymus Bosch, and the austere realism of Francisco de Zurbarán and Jusepe de Ribera, creating a profound atmosphere of solitude, repentance, spiritual discipline, inner struggle, and divine contemplation, while preserving expansive shadowed negative space, subdued religious symbolism, and carefully controlled lighting so the artworks, titles, and subtitles remain visually dominant.
+
+
+# English Video 產生 slide images 並加上背景
+使用 $video-to-slides
+Video path: ./Ascetic/.mp4
+背景風格描述：
+Use a solemn and contemplative European sacred art style inspired by the theme of Christian asceticism across the Renaissance, Mannerist, and Baroque periods, with deep umber, burnt sienna, muted ochre, weathered stone gray, olive green, aged ivory, and restrained crimson and ultramarine accents, combining delicate Renaissance oil-painted textures and Northern European engraving-inspired details with dramatic Baroque chiaroscuro, weathered parchment surfaces, rough monastic robes, rugged desert rocks, secluded caves, simple wooden crosses, skulls, ancient manuscripts, and subtle candlelit interiors, incorporating the serene natural light of Giovanni Bellini, the anatomical intensity of Michelangelo and Leonardo da Vinci, the symbolic imagination of Hieronymus Bosch, and the austere realism of Francisco de Zurbarán and Jusepe de Ribera, creating a profound atmosphere of solitude, repentance, spiritual discipline, inner struggle, and divine contemplation, while preserving expansive shadowed negative space, subdued religious symbolism, and carefully controlled lighting so the artworks, titles, and subtitles remain visually dominant.
+
+
+# 中文 Replace 1st slide with youtbute thumimage
+# English Replace 1st slide with youtbute thumimage
+Replace ./Ascetic/tw_slides/update/.png by ./Ascetic/YouTube/.png with size 1280x720
+Replace ./Ascetic/en_slides/update/.png by ./Ascetic/YouTube/.png with size 1280x720
+
+
+# 產生中文 video
+使用 $tw-make-video
+旁白 path：
+./Ascetic/tw_slides/subtitle/.txt
+圖片 path：
+./Ascetic/tw_slides/tw_slides/update
+
+# 產生English video
+Use $en-make-video.
+Narration:
+./Ascetic/en_slides/subtitle/.txt
+Images:
+./Ascetic/en_slides/update
+
+
+# 產生YouTube description & social post
+Use $youtube-and-social-media-post with
+./Ascetic/tw_slides/subtitle/.txt
+./Ascetic/en_slides/subtitle/.txt
+./Ascetic/.md
+./Ascetic/.txt
+
+
+------------------
+# 將中文音檔做影片
+Use $tw-video-integrate-audio-slide to combine my 中文 narration audio, slide images, script, and timing manifest into a YouTube-ready MP4.Use $tw-video-integrate-audio-slide to create a YouTube-ready video from:
+
+- Narration script:
+  ./Ascetic/tw_slides/subtitle/.txt
+- PNG slides:
+  ./Ascetic/tw_slides/update
+- Narration audio:
+  ./Ascetic/tw_slides/.m4a
+- Timing manifest:
+  ./Ascetic/tw_slides/slide_manifest.json
+
+
+
+# 將英文音檔做影片
+Use $en-video-integrate-audio-slide to combine my English narration audio, slide images, script, and timing manifest into a YouTube-ready MP4.Use $en-video-integrate-audio-slide to create a YouTube-ready video from:
+
+- Narration script:
+  ./Ascetic/en_slides/subtitle/.txt
+- PNG slides:
+  ./Ascetic/en_slides/updateß
+- Narration audio:
+  ./Ascetic/en_slides/.m4a
+- Timing manifest:
+  ./Ascetic/en_slides/slide_manifest.json
+
+# Podcast thumbnail
+Based on md file and images create a Podcast thumb image with size 720x720 Title: 戴珍珠耳環的少女
+
+# 展覽分析
+使用
+$Google Drive
+create a document named: <show_name>
+我會上傳相片，請以以下格式撰寫分析到 Google document
+Format
+<image>
+<畫家中文> <畫家英文> (<出生年>-<過逝年>)
+<中文作品名稱> <英文作品名稱 <創作年代>
+<作品簡單描述>
+<深度作品分析>
+<畫家生平>
+Example: search 超現實主義 in $Google Drive
