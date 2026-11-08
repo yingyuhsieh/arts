@@ -1,0 +1,65 @@
+
+Based on Ascetic\tw_slides\ascetic_tw\ascetic_tw.0.png to create new slide as new_ascetic_tw.0.png
+ and use image Ascetic\images\
+ and make description large and clear
+ and make description clear
+
+
+以下是 png 要用在 YouTubbe 影片的 slides，請將它們做成可以吸引觀看者。輸出 size 1280x720
+Background 使用 Ascetic\en_slides\Ascetic_Masterpieces_background.png and 使用 YouTube_PNG_設計風格_Prompt.md
+讀取 slide 內容 Ascetic\tw_slides\ascetic_subtitle.txt
+Based on Ascetic\tw_slides\ascetic_tw\ascetic_tw.007.png to create new slide as new_ascetic_tw.007.png and add image Ascetic\images\Michelangelo 聖安東尼受魔鬼折磨 The Torment of Saint Anthony.jpg mark "聖安東尼受魔鬼折磨", Hieronymus Bosch 聖安東尼的誘惑 三聯畫 The Temptations of St. Anthony.jpg mark "聖安東尼的誘惑 三聯畫" and make description large and clear
+Based on Ascetic\tw_slides\ascetic_tw\ascetic_tw.008.png to create new slide as new_ascetic_tw.008.png and make description large and clear
+Based on Ascetic\tw_slides\ascetic_tw\ascetic_tw.010.png to create new slide as new_ascetic_tw.010.png and make description large and clear
+Based on Ascetic\tw_slides\ascetic_tw\ascetic_tw.011.png to create new slide as new_ascetic_tw.011.png and use image Ascetic\images\Giovanni Bellini 沙漠中的聖方濟各 St. Francis in the Desert.jpg mark "沙漠中的聖方濟各", Francisco de Zurbarán 默想中的聖方濟各 Saint Francis in Meditation.jpg mark "默想中的聖方濟各" and make description large and clear
+Based on Ascetic\tw_slides\ascetic_tw\ascetic_tw.012.png to create new slide as new_ascetic_tw.012.png and make description large and clear
+Based on Ascetic\tw_slides\ascetic_tw\ascetic_tw.013.png to create new slide as new_ascetic_tw.013.png and make description large and clear
+Based on Ascetic\tw_slides\ascetic_tw\ascetic_tw.014.png to create new slide as new_ascetic_tw.014.png and make description large and clear
+Based on Ascetic\tw_slides\ascetic_tw\ascetic_tw.015.png to create new slide as new_ascetic_tw.015.png and use image Ascetic\images\Leonardo da Vinci 曠野中的聖耶柔米 Saint Jerome Praying in the Wilderness.jpg mark "曠野中的聖耶柔米", Albrecht Dürer 書房中的聖耶柔米 Saint Jerome in His Study.jpg mark "書房中的聖耶柔米", El Greco 懺悔中的聖耶柔米 Saint Jerome in Penitence.jpg mark "懺悔中的聖耶柔米", 懺悔中的聖耶柔米 The Penitent St Jerome.jpg mark "懺悔中的聖耶柔米"
+Based on Ascetic\tw_slides\ascetic_tw\ascetic_tw.016.png to create new slide as new_ascetic_tw.016.png and make description large and clear
+Based on Ascetic\tw_slides\ascetic_tw\ascetic_tw.017.png to create new slide as new_ascetic_tw.017.png and make description large and clear
+Based on Ascetic\tw_slides\ascetic_tw\ascetic_tw.018.png to create new slide as new_ascetic_tw.018.png and make description large and clear
+Based on Ascetic\tw_slides\ascetic_tw\ascetic_tw.019.png to create new slide as new_ascetic_tw.019.png and make description large and clear
+Based on Ascetic\tw_slides\ascetic_tw\ascetic_tw.020.png to create new slide as new_ascetic_tw.020.png
+ and use image Ascetic\images\聖塞拉皮翁 Saint Serapion.jpg mark "聖安東尼院長與隱修士聖保羅", Jusepe de Ribera 隱修士聖保羅 Saint Paul the Hermit.jpg mark "隱修士聖保羅"
+Based on Ascetic\tw_slides\ascetic_tw\ascetic_tw.021.png to create new slide as new_ascetic_tw.021.png and make description large and clear
+Based on Ascetic\tw_slides\ascetic_tw\ascetic_tw.022.png to create new slide as new_ascetic_tw.022.png and make description large and clear
+Based on Ascetic\tw_slides\ascetic_tw\ascetic_tw.023.png to create new slide as new_ascetic_tw.023.png and make description large and clear
+Based on Ascetic\tw_slides\ascetic_tw\ascetic_tw.024.png to create new slide as new_ascetic_tw.024.png and use image Ascetic\images\Francisco de Zurbarán 聖塞拉皮翁 Saint Serapion.jpg mark "聖塞拉皮翁", Georges de La Tour 懺悔的抹大拉 The Penitent Magdalen.jpg mark "懺悔的抹大拉" and make description large and clear
+Based on Ascetic\tw_slides\ascetic_tw\ascetic_tw.025.png to create new slide as new_ascetic_tw.025.png and make description large and clear
+Based on Ascetic\tw_slides\ascetic_tw\ascetic_tw.026.png to create new slide as new_ascetic_tw.026.png and make description large and clear
+Based on Ascetic\tw_slides\ascetic_tw\ascetic_tw.027.png to create new slide as new_ascetic_tw.027.png and make description large and clear
+Based on Ascetic\tw_slides\ascetic_tw\ascetic_tw.028.png to create new slide as new_ascetic_tw.028.png and make description large and clear
+Based on Ascetic\tw_slides\ascetic_tw\ascetic_tw.029.png to create new slide as new_ascetic_tw.029.png and use image Ascetic\images\Ascetic_images_4x3.png and make description large and clear
+
+以下是 png 要用在 YouTubbe 影片的 slides，請將它們做成可以吸引觀看者。輸出 size 1280x720
+Background 使用 Ascetic\en_slides\Ascetic_Masterpieces_background.png and 使用 YouTube_PNG_設計風格_Prompt.md
+讀取 slide 內容 Ascetic\tw_slides\ascetic_subtitle.txt
+Based on Ascetic\tw_slides\ascetic_en\ascetic_en.007.png to create new slide as new_ascetic_en.007.png and add image Ascetic\images\Michelangelo 聖安東尼受魔鬼折磨 The Torment of Saint Anthony.jpg mark "The Torment of Saint Anthony", Hieronymus Bosch 聖安東尼的誘惑 三聯畫 The Temptations of St. Anthony.jpg mark "The Temptations of St. Anthony" and make description large and clear
+Based on Ascetic\tw_slides\ascetic_en\ascetic_en.008.png to create new slide as new_ascetic_en.008.png and make description large and clear
+Based on Ascetic\tw_slides\ascetic_en\ascetic_en.010.png to create new slide as new_ascetic_en.010.png and make description large and clear
+Based on Ascetic\tw_slides\ascetic_en\ascetic_en.011.png to create new slide as new_ascetic_en.011.png and use image Ascetic\images\Giovanni Bellini 沙漠中的聖方濟各 St. Francis in the Desert.jpg mark "St. Francis in the Desert", Francisco de Zurbarán 默想中的聖方濟各 Saint Francis in Meditation.jpg mark "Saint Francis in Meditation" and make description large and clear
+Based on Ascetic\tw_slides\ascetic_en\ascetic_en.012.png to create new slide as new_ascetic_en.012.png and make description large and clear
+Based on Ascetic\tw_slides\ascetic_en\ascetic_en.013.png to create new slide as new_ascetic_en.013.png and make description large and clear
+Based on Ascetic\tw_slides\ascetic_en\ascetic_en.014.png to create new slide as new_ascetic_en.014.png and make description large and clear
+Based on Ascetic\tw_slides\ascetic_en\ascetic_en.015.png to create new slide as new_ascetic_en.015.png and use image Ascetic\images\Leonardo da Vinci 曠野中的聖耶柔米 Saint Jerome Praying in the Wilderness.jpg mark "Saint Jerome Praying in the Wilderness", Albrecht Dürer 書房中的聖耶柔米 Saint Jerome in His Study.jpg mark "Saint Jerome in His Study", El Greco 懺悔中的聖耶柔米 Saint Jerome in Penitence.jpg mark "Saint Jerome in Penitence", 懺悔中的聖耶柔米 The Penitent St Jerome.jpg mark "Saint Jerome in Penitence"
+Based on Ascetic\tw_slides\ascetic_en\ascetic_en.016.png to create new slide as new_ascetic_en.016.png and make description large and clear
+Based on Ascetic\tw_slides\ascetic_en\ascetic_en.017.png to create new slide as new_ascetic_en.017.png and make description large and clear
+Based on Ascetic\tw_slides\ascetic_en\ascetic_en.018.png to create new slide as new_ascetic_en.018.png and make description large and clear
+Based on Ascetic\tw_slides\ascetic_en\ascetic_en.019.png to create new slide as new_ascetic_en.019.png and make description large and clear
+Based on Ascetic\tw_slides\ascetic_en\ascetic_en.020.png to create new slide as new_ascetic_en.020.png
+ and use image Ascetic\images\聖塞拉皮翁 Saint Serapion.jpg mark "St Anthony Abbot and St Paul the Hermit", Jusepe de Ribera 隱修士聖保羅 Saint Paul the Hermit.jpg mark "Saint Paul the Hermit"
+Based on Ascetic\tw_slides\ascetic_en\ascetic_en.021.png to create new slide as new_ascetic_en.021.png and make description large and clear
+Based on Ascetic\tw_slides\ascetic_en\ascetic_en.022.png to create new slide as new_ascetic_en.022.png and make description large and clear
+Based on Ascetic\tw_slides\ascetic_en\ascetic_en.023.png to create new slide as new_ascetic_en.023.png and make description large and clear
+Based on Ascetic\tw_slides\ascetic_en\ascetic_en.024.png to create new slide as new_ascetic_en.024.png and use image Ascetic\images\Francisco de Zurbarán 聖塞拉皮翁 Saint Serapion.jpg mark "Saint Serapion", Georges de La Tour 懺悔的抹大拉 The Penitent Magdalen.jpg mark "The Penitent Magdalen" and make description large and clear
+Based on Ascetic\tw_slides\ascetic_en\ascetic_en.025.png to create new slide as new_ascetic_en.025.png and make description large and clear
+Based on Ascetic\tw_slides\ascetic_en\ascetic_en.026.png to create new slide as new_ascetic_en.026.png and make description large and clear
+Based on Ascetic\tw_slides\ascetic_en\ascetic_en.027.png to create new slide as new_ascetic_en.027.png and make description large and clear
+Based on Ascetic\tw_slides\ascetic_en\ascetic_en.028.png to create new slide as new_ascetic_en.028.png and make description large and clear
+Based on Ascetic\tw_slides\ascetic_en\ascetic_en.029.png to create new slide as new_ascetic_en.029.png and use image Ascetic\images\Ascetic_images_4x3.png and make description large and clear
+
+
+
+
+
