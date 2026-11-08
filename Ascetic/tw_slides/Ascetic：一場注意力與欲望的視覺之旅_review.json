@@ -1,0 +1,253 @@
+{
+  "language": "zh-TW",
+  "source_duration_seconds": 502.735238,
+  "audio_duration_seconds": 502.735011,
+  "original_slide_count": 22,
+  "supplemental_slide_count": 3,
+  "updated_slide_count": 25,
+  "markdown_reviewed": [
+    "ascetic_youtube_en.md",
+    "Ascetic.md",
+    "ascetic_youtube_tw.md",
+    "ascetic (complete).md"
+  ],
+  "direct_author_image_candidates": [],
+  "supplemental_sources": {
+    "0022": "ascetic (complete).md — artwork 03; ascetic_youtube_tw.md — G",
+    "0023": "ascetic (complete).md — artworks 07,09,11; ascetic_youtube_tw.md — G",
+    "0024": "ascetic (complete).md — artwork 10; ascetic_youtube_tw.md — segment 7"
+  },
+  "corrections": [
+    {
+      "from": "Athetic",
+      "to": "Ascetic",
+      "count": 1
+    },
+    {
+      "from": "Azatec",
+      "to": "Ascetic",
+      "count": 3
+    },
+    {
+      "from": "Aesthetic",
+      "to": "Ascetic",
+      "count": 1
+    },
+    {
+      "from": "Edimology",
+      "to": "etymology",
+      "count": 1
+    },
+    {
+      "from": "Chad GPT",
+      "to": "ChatGPT",
+      "count": 1
+    },
+    {
+      "from": "隱世",
+      "to": "隱士",
+      "count": 1
+    },
+    {
+      "from": "影視",
+      "to": "隱士",
+      "count": 2
+    },
+    {
+      "from": "退局",
+      "to": "退居",
+      "count": 1
+    },
+    {
+      "from": "客己",
+      "to": "克己",
+      "count": 1
+    },
+    {
+      "from": "站在光中的修飾",
+      "to": "站在光中的修士",
+      "count": 1
+    },
+    {
+      "from": "由於群",
+      "to": "有一群",
+      "count": 1
+    },
+    {
+      "from": "戲劇章裡",
+      "to": "戲劇張力",
+      "count": 1
+    },
+    {
+      "from": "死殺",
+      "to": "廝殺",
+      "count": 1
+    },
+    {
+      "from": "抽絲剝剪",
+      "to": "抽絲剝繭",
+      "count": 1
+    },
+    {
+      "from": "波西",
+      "to": "波希",
+      "count": 2
+    },
+    {
+      "from": "三連化",
+      "to": "三聯畫",
+      "count": 1
+    },
+    {
+      "from": "小計坦",
+      "to": "小祭壇",
+      "count": 1
+    },
+    {
+      "from": "完美俱傷化",
+      "to": "完美具象化",
+      "count": 1
+    },
+    {
+      "from": "精神的瓶頸",
+      "to": "精神的平靜",
+      "count": 1
+    },
+    {
+      "from": "那個瓶頸的中心",
+      "to": "那個平靜的中心",
+      "count": 1
+    },
+    {
+      "from": "耶魯米",
+      "to": "耶柔米",
+      "count": 1
+    },
+    {
+      "from": "野樓米",
+      "to": "耶柔米",
+      "count": 1
+    },
+    {
+      "from": "背景當畫",
+      "to": "背景淡化",
+      "count": 1
+    },
+    {
+      "from": "赤裸 銷售",
+      "to": "赤裸、消瘦",
+      "count": 1
+    },
+    {
+      "from": "一句活生生",
+      "to": "一具活生生",
+      "count": 1
+    },
+    {
+      "from": "書房裡的緊墨",
+      "to": "書房裡的靜默",
+      "count": 1
+    },
+    {
+      "from": "銅板畫",
+      "to": "銅版畫",
+      "count": 1
+    },
+    {
+      "from": "翻譯經典史",
+      "to": "翻譯經典時",
+      "count": 1
+    },
+    {
+      "from": "雙臺上的頭骨",
+      "to": "窗臺上的頭骨",
+      "count": 1
+    },
+    {
+      "from": "下人的恐怖",
+      "to": "嚇人的恐怖",
+      "count": 1
+    },
+    {
+      "from": "時間有先",
+      "to": "時間有限",
+      "count": 1
+    },
+    {
+      "from": "完全的氣黑",
+      "to": "完全的漆黑",
+      "count": 1
+    },
+    {
+      "from": "內在禁止",
+      "to": "內在靜止",
+      "count": 1
+    },
+    {
+      "from": "拉圖爾比夏",
+      "to": "拉・圖爾筆下",
+      "count": 1
+    },
+    {
+      "from": "摩大拉瑪利亞",
+      "to": "抹大拉瑪利亞",
+      "count": 1
+    },
+    {
+      "from": "端響外貌",
+      "to": "端詳外貌",
+      "count": 1
+    },
+    {
+      "from": "影修士",
+      "to": "隱修士",
+      "count": 1
+    },
+    {
+      "from": "正雕著麵包",
+      "to": "正叼著麵包",
+      "count": 1
+    },
+    {
+      "from": "學習千杯",
+      "to": "學習謙卑",
+      "count": 1
+    },
+    {
+      "from": "飢餓跟潰伐",
+      "to": "飢餓跟匱乏",
+      "count": 1
+    },
+    {
+      "from": "剝析畫裡",
+      "to": "波希畫裡",
+      "count": 1
+    }
+  ],
+  "visual_adjustments": {
+    "original_artwork_pixels_restored": [
+      7,
+      10,
+      13,
+      17,
+      19
+    ],
+    "readability_panels": [
+      4,
+      8,
+      16,
+      20
+    ]
+  },
+  "verification": {
+    "all_25_images_visually_reviewed": true,
+    "dimensions": "1280x720",
+    "subtitle_filename_order_matches": true,
+    "watermark_visually_absent": true,
+    "final_sticker_complete": true,
+    "original_final_moved_to": 25
+  },
+  "audio_scope": "Complete original audio only. Supplemental narration exists as text and is not synthesized. No new MP4 was requested or generated.",
+  "spoken_claim_preserved": "Slide 0011 spoken attribution of intentional background simplification is retained; supplemental slide 0022 explicitly notes that the reason Leonardo stopped is not established.",
+  "background_generation": "Built-in image_gen; user art direction verbatim, plus a pale quiet center, restrained edge detail, and no people/text/logos constraints."
+}

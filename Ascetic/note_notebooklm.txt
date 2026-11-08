@@ -31,14 +31,14 @@ Title: <EN>
 
 # 中文 Video 產生 slide images 並加上背景
 使用 $video-to-slides
-Video path: ./Ascetic/.mp4
+Video path: ./Ascetic/Ascetic：一場注意力與欲望的視覺之旅.mp4
 背景風格描述：
 Use a solemn and contemplative European sacred art style inspired by the theme of Christian asceticism across the Renaissance, Mannerist, and Baroque periods, with deep umber, burnt sienna, muted ochre, weathered stone gray, olive green, aged ivory, and restrained crimson and ultramarine accents, combining delicate Renaissance oil-painted textures and Northern European engraving-inspired details with dramatic Baroque chiaroscuro, weathered parchment surfaces, rough monastic robes, rugged desert rocks, secluded caves, simple wooden crosses, skulls, ancient manuscripts, and subtle candlelit interiors, incorporating the serene natural light of Giovanni Bellini, the anatomical intensity of Michelangelo and Leonardo da Vinci, the symbolic imagination of Hieronymus Bosch, and the austere realism of Francisco de Zurbarán and Jusepe de Ribera, creating a profound atmosphere of solitude, repentance, spiritual discipline, inner struggle, and divine contemplation, while preserving expansive shadowed negative space, subdued religious symbolism, and carefully controlled lighting so the artworks, titles, and subtitles remain visually dominant.
 
 
 # English Video 產生 slide images 並加上背景
 使用 $video-to-slides
-Video path: ./Ascetic/.mp4
+Video path: ./Ascetic/Ascetic_Masterpieces.mp4
 背景風格描述：
 Use a solemn and contemplative European sacred art style inspired by the theme of Christian asceticism across the Renaissance, Mannerist, and Baroque periods, with deep umber, burnt sienna, muted ochre, weathered stone gray, olive green, aged ivory, and restrained crimson and ultramarine accents, combining delicate Renaissance oil-painted textures and Northern European engraving-inspired details with dramatic Baroque chiaroscuro, weathered parchment surfaces, rough monastic robes, rugged desert rocks, secluded caves, simple wooden crosses, skulls, ancient manuscripts, and subtle candlelit interiors, incorporating the serene natural light of Giovanni Bellini, the anatomical intensity of Michelangelo and Leonardo da Vinci, the symbolic imagination of Hieronymus Bosch, and the austere realism of Francisco de Zurbarán and Jusepe de Ribera, creating a profound atmosphere of solitude, repentance, spiritual discipline, inner struggle, and divine contemplation, while preserving expansive shadowed negative space, subdued religious symbolism, and carefully controlled lighting so the artworks, titles, and subtitles remain visually dominant.
 

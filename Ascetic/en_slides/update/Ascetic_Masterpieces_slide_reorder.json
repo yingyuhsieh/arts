@@ -1,0 +1,25 @@
+{
+  "manifest": "/Users/yingyuhsieh/Desktop/mcp/arts/Ascetic/en_slides/Ascetic_Masterpieces_slide_manifest.json",
+  "original_count": 22,
+  "supplemental_count": 3,
+  "original_final": {
+    "from": "Ascetic_Masterpieces_slide_0022.png",
+    "to": "Ascetic_Masterpieces_slide_0025.png",
+    "sha256": "3c604f2e78db95ce1ea1de24492da39df50269b153337d3aea0de9eea89c72a5"
+  },
+  "supplemental_renames": [
+    {
+      "from": "Ascetic_Masterpieces_slide_0023.png",
+      "to": "Ascetic_Masterpieces_slide_0022.png"
+    },
+    {
+      "from": "Ascetic_Masterpieces_slide_0024.png",
+      "to": "Ascetic_Masterpieces_slide_0023.png"
+    },
+    {
+      "from": "Ascetic_Masterpieces_slide_0025.png",
+      "to": "Ascetic_Masterpieces_slide_0024.png"
+    }
+  ],
+  "subtitle": "/Users/yingyuhsieh/Desktop/mcp/arts/Ascetic/en_slides/subtitle/Ascetic_Masterpieces.txt"
+}

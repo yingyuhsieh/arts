@@ -1,0 +1,25 @@
+{
+  "manifest": "/Users/yingyuhsieh/Desktop/mcp/arts/Ascetic/tw_slides/Ascetic：一場注意力與欲望的視覺之旅_slide_manifest.json",
+  "original_count": 22,
+  "supplemental_count": 3,
+  "original_final": {
+    "from": "Ascetic：一場注意力與欲望的視覺之旅_slide_0022.png",
+    "to": "Ascetic：一場注意力與欲望的視覺之旅_slide_0025.png",
+    "sha256": "175ac2a2ee7f7102cf2aaf6ed6f4dfb15e2803cfc53971b5cb34ec9654074d07"
+  },
+  "supplemental_renames": [
+    {
+      "from": "Ascetic：一場注意力與欲望的視覺之旅_slide_0023.png",
+      "to": "Ascetic：一場注意力與欲望的視覺之旅_slide_0022.png"
+    },
+    {
+      "from": "Ascetic：一場注意力與欲望的視覺之旅_slide_0024.png",
+      "to": "Ascetic：一場注意力與欲望的視覺之旅_slide_0023.png"
+    },
+    {
+      "from": "Ascetic：一場注意力與欲望的視覺之旅_slide_0025.png",
+      "to": "Ascetic：一場注意力與欲望的視覺之旅_slide_0024.png"
+    }
+  ],
+  "subtitle": "/Users/yingyuhsieh/Desktop/mcp/arts/Ascetic/tw_slides/subtitle/Ascetic：一場注意力與欲望的視覺之旅.txt"
+}
