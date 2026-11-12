@@ -8,7 +8,9 @@ Based on Ascetic\tw_slides\ascetic_tw\ascetic_tw.0.png to create new slide as ne
 以下是 png 要用在 YouTubbe 影片的 slides，請將它們做成可以吸引觀看者。輸出 size 1280x720
 Background 使用 Ascetic\en_slides\Ascetic_Masterpieces_background.png and 使用 YouTube_PNG_設計風格_Prompt.md
 讀取 slide 內容 Ascetic\tw_slides\ascetic_subtitle.txt
-Based on Ascetic\tw_slides\ascetic_tw\ascetic_tw.007.png to create new slide as new_ascetic_tw.007.png and add image Ascetic\images\Michelangelo 聖安東尼受魔鬼折磨 The Torment of Saint Anthony.jpg mark "聖安東尼受魔鬼折磨", Hieronymus Bosch 聖安東尼的誘惑 三聯畫 The Temptations of St. Anthony.jpg mark "聖安東尼的誘惑 三聯畫" and make description large and clear
+使用 Ascetic\tw_slides\ascetic_tw\ascetic_tw.003.png 字型 和版型 & style
+Based on Ascetic\tw_slides\ascetic_tw\ascetic_tw.006.png to create new slide as new_ascetic_tw.006.png and add image Ascetic\images\Michelangelo 聖安東尼受魔鬼折磨 The Torment of Saint Anthony.jpg mark "聖安東尼受魔鬼折磨", Hieronymus Bosch 聖安東尼的誘惑 三聯畫 The Temptations of St. Anthony.jpg mark "聖安東尼的誘惑 三聯畫" and make description large and clear
+Based on Ascetic\tw_slides\ascetic_tw\ascetic_tw.007.png to create new slide as new_ascetic_tw.007.png and make description large and clear
 Based on Ascetic\tw_slides\ascetic_tw\ascetic_tw.008.png to create new slide as new_ascetic_tw.008.png and make description large and clear
 Based on Ascetic\tw_slides\ascetic_tw\ascetic_tw.010.png to create new slide as new_ascetic_tw.010.png and make description large and clear
 Based on Ascetic\tw_slides\ascetic_tw\ascetic_tw.011.png to create new slide as new_ascetic_tw.011.png and use image Ascetic\images\Giovanni Bellini 沙漠中的聖方濟各 St. Francis in the Desert.jpg mark "沙漠中的聖方濟各", Francisco de Zurbarán 默想中的聖方濟各 Saint Francis in Meditation.jpg mark "默想中的聖方濟各" and make description large and clear
@@ -33,8 +35,9 @@ Based on Ascetic\tw_slides\ascetic_tw\ascetic_tw.028.png to create new slide as 
 Based on Ascetic\tw_slides\ascetic_tw\ascetic_tw.029.png to create new slide as new_ascetic_tw.029.png and use image Ascetic\images\Ascetic_images_4x3.png and make description large and clear
 
 以下是 png 要用在 YouTubbe 影片的 slides，請將它們做成可以吸引觀看者。輸出 size 1280x720
-Background 使用 Ascetic\en_slides\Ascetic_Masterpieces_background.png and 使用 YouTube_PNG_設計風格_Prompt.md
+Background 使用 Ascetic\en_slides\Ascetic_Masterpieces_background.png
 讀取 slide 內容 Ascetic\tw_slides\ascetic_subtitle.txt
+使用和 Ascetic\en_slides\ascetic_en\ascetic_en.003.png 一樣的 design 和字型
 Based on Ascetic\tw_slides\ascetic_en\ascetic_en.007.png to create new slide as new_ascetic_en.007.png and add image Ascetic\images\Michelangelo 聖安東尼受魔鬼折磨 The Torment of Saint Anthony.jpg mark "The Torment of Saint Anthony", Hieronymus Bosch 聖安東尼的誘惑 三聯畫 The Temptations of St. Anthony.jpg mark "The Temptations of St. Anthony" and make description large and clear
 Based on Ascetic\tw_slides\ascetic_en\ascetic_en.008.png to create new slide as new_ascetic_en.008.png and make description large and clear
 Based on Ascetic\tw_slides\ascetic_en\ascetic_en.010.png to create new slide as new_ascetic_en.010.png and make description large and clear

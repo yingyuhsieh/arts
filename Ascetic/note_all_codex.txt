@@ -40,8 +40,8 @@ Use a solemn and contemplative European sacred art style inspired by the theme o
 
 # 中文 Replace 1st slide with youtbute thumimage
 # English Replace 1st slide with youtbute thumimage
-Replace ./Ascetic/tw_slides/Ascetic_TW/Slide1.PNG by ./Ascetic/YouTube/.png with size 1280x720
-Replace ./Ascetic/en_slides/Ascetic_EN/Slide1.PNG by ./Ascetic/YouTube/.png with size 1280x720
+Replace ./Ascetic/tw_slides/Ascetic_TW/ascetic_tw.001.PNG by ./Ascetic/YouTube/Ascetic 是什麼？從十二件名畫看見隱修與苦修.png with size 1280x720
+Replace ./Ascetic/en_slides/Ascetic_EN/ascetic_en.001.PNG by ./Ascetic/YouTube/What Does Ascetic Mean  Twelve Artworks Offer an Answer.png with size 1280x720
 
 
 # 產生中文 video
