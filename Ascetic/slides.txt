@@ -65,4 +65,8 @@ Based on Ascetic\tw_slides\ascetic_en\ascetic_en.029.png to create new slide as 
 
 
 
-
+以下是 png 要用在 YouTubbe 影片的 slides，請將它們做成可以吸引觀看者。輸出 size 1280x720
+Background 使用 Ascetic\en_slides\Ascetic_Masterpieces_background.png
+讀取 slide 內容 Ascetic\tw_slides\ascetic_subtitle.txt
+使用和 Ascetic\en_slides\ascetic_en\ascetic_en.003.png 一樣的 design 和字型
+Based on Ascetic\en_slides\ascetic_en\ascetic_en.006.png to create new slide as new_ascetic_en.006.png and add image Ascetic\images\Michelangelo 聖安東尼受魔鬼折磨 The Torment of Saint Anthony.jpg mark "The Torment of Saint Anthony", Hieronymus Bosch 聖安東尼的誘惑 三聯畫 The Temptations of St. Anthony.jpg mark "The Temptations of St. Anthony" and make description large and clear
