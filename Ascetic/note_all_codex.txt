@@ -54,9 +54,9 @@ Replace ./Ascetic/en_slides/Ascetic_EN/ascetic_en.001.PNG by ./Ascetic/YouTube/W
 # 產生English video
 Use $en-make-video.
 Narration:
-./Ascetic/tw_slides/Ascetic_EN.txt
+./Ascetic/tw_slides/ascetic_subtitle_en.txt
 圖片 path：
-./Ascetic/tw_slides/Ascetic_EN
+./Ascetic/tw_slides/ascetic_en
 
 
 # 產生YouTube description & social post
@@ -73,7 +73,7 @@ Use $youtube-and-social-media-post with
 Use $en-video-integrate-audio-slide to combine my English narration audio, slide images, script, and timing manifest into a YouTube-ready MP4.Use $en-video-integrate-audio-slide to create a YouTube-ready video from:
 
 - Narration script:
-  ./Ascetic/tw_slides/subtitle/.txt
+  ./Ascetic/tw_slides/subtitle/Ascetic：一場注意力與欲望的視覺之旅.txt
 - PNG slides:
   ./Ascetic/tw_slides/
 - Narration audio:
