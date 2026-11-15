@@ -54,9 +54,9 @@ Replace ./Ascetic/en_slides/Ascetic_EN/ascetic_en.001.PNG by ./Ascetic/YouTube/W
 # 產生English video
 Use $en-make-video.
 Narration:
-./Ascetic/tw_slides/ascetic_subtitle_en.txt
+./Ascetic/en_slides/ascetic_subtitle_en_20min.txt
 圖片 path：
-./Ascetic/tw_slides/ascetic_en
+./Ascetic/en_slides/ascetic_en
 
 
 # 產生YouTube description & social post
@@ -97,3 +97,16 @@ Format
 <深度作品分析>
 <畫家生平>
 Example: search 超現實主義 in $Google Drive
+
+用 Ascetic/tw_slides/Ascetic_tw.png 參考它的旁白 in Ascetic/tw_slides/subtitle/ascetic_subtitle_short.txt 做出 圖文解說動畫 size 3840x2160
+
+用 Ascetic/en_slides/Ascetic_en.png 參考它的旁白 in Ascetic/en_slides/subtitle/.txt 做出 圖文解說動畫 size 3840x2160
+
+
+用 Ascetic/en_slides/ascetic_en.002.png 參考它的旁白 in Ascetic/en_slides/subtitle/ascetic_subtitle_en_20min.txt 做出 圖文解說動畫 size 3840x2160
+用 Ascetic/en_slides/ascetic_en.007.png 參考它的旁白 in Ascetic/en_slides/subtitle/ascetic_subtitle_en_20min.txt 做出 圖文解說動畫 size 3840x2160
+用 Ascetic/en_slides/ascetic_en.008.png 參考它的旁白 in Ascetic/en_slides/subtitle/ascetic_subtitle_en_20min.txt 做出 圖文解說動畫 size 3840x2160
+用 Ascetic/en_slides/ascetic_en.014.png 參考它的旁白 in Ascetic/en_slides/subtitle/ascetic_subtitle_en_20min.txt 做出 圖文解說動畫 size 3840x2160
+用 Ascetic/en_slides/ascetic_en.024.png 參考它的旁白 in Ascetic/en_slides/subtitle/ascetic_subtitle_en_20min.txt 做出 圖文解說動畫 size 3840x2160
+用 Ascetic/en_slides/ascetic_en.024.png 參考它的旁白 in Ascetic/en_slides/subtitle/ascetic_subtitle_en_20min.txt 做出 圖文解說動畫 size 3840x2160
+用 Ascetic/en_slides/ascetic_en.029.png 參考它的旁白 in Ascetic/en_slides/subtitle/ascetic_subtitle_en_20min.txt 做出 圖文解說動畫 size 3840x2160

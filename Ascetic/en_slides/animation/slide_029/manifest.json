@@ -1,0 +1,256 @@
+{
+  "slide": 29,
+  "source_slide": "/Users/yingyuhsieh/Desktop/mcp/arts/Ascetic/en_slides/ascetic_en/ascetic_en.029.png",
+  "narration_source": "/Users/yingyuhsieh/Desktop/mcp/arts/Ascetic/en_slides/ascetic_subtitle_en_20min.txt",
+  "video": "/Users/yingyuhsieh/Desktop/mcp/arts/Ascetic/en_slides/video/ascetic_en_029_explainer_4k.mp4",
+  "audio": "/Users/yingyuhsieh/Desktop/mcp/arts/Ascetic/en_slides/audio/ascetic_en_029_explainer_narration.wav",
+  "duration_seconds": 40.68,
+  "dimensions": [
+    3840,
+    2160
+  ],
+  "fps": 30,
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-3%",
+  "scenes": [
+    {
+      "start": 0,
+      "heading": [
+        "One word.",
+        "Many ways of living."
+      ],
+      "eyebrow": "ASCETIC",
+      "notes": [
+        [
+          1.6,
+          [
+            "Anthony · enduring turmoil."
+          ]
+        ],
+        [
+          4.77,
+          [
+            "Francis · choosing poverty."
+          ]
+        ],
+        [
+          6.94,
+          [
+            "Jerome · studying."
+          ]
+        ],
+        [
+          8.95,
+          [
+            "Paul · welcoming a guest."
+          ]
+        ]
+      ],
+      "layout": "gallery",
+      "arts": [
+        "anthony",
+        "bellini",
+        "leonardo",
+        "durer",
+        "jerome",
+        "francis",
+        "magdalen",
+        "bosch",
+        "hospitality",
+        "serapion",
+        "paul",
+        "latour"
+      ],
+      "captions": [],
+      "gallery_focus": [
+        [
+          1.6,
+          0
+        ],
+        [
+          4.77,
+          5
+        ],
+        [
+          6.94,
+          3
+        ],
+        [
+          8.95,
+          8
+        ]
+      ]
+    },
+    {
+      "start": 12.32,
+      "heading": [
+        "Different lives.",
+        "Different contexts."
+      ],
+      "eyebrow": "SERAPION AND MAGDALEN",
+      "notes": [
+        [
+          12.7,
+          [
+            "Chosen discipline."
+          ]
+        ],
+        [
+          16.52,
+          [
+            "Inflicted suffering."
+          ]
+        ],
+        [
+          18.5,
+          [
+            "Later traditions of repentance."
+          ]
+        ]
+      ],
+      "layout": "duo",
+      "arts": [
+        "serapion",
+        "magdalen"
+      ],
+      "captions": [
+        "Martyrdom",
+        "Penitential tradition"
+      ]
+    },
+    {
+      "start": 21.89,
+      "heading": [
+        "The inward life",
+        "becomes visible."
+      ],
+      "eyebrow": "HOW ARTISTS SHOW COMMITMENT",
+      "notes": [
+        [
+          22.1,
+          [
+            "Light."
+          ]
+        ],
+        [
+          23.66,
+          [
+            "Cloth."
+          ]
+        ],
+        [
+          25.3,
+          [
+            "Engraved lines."
+          ]
+        ],
+        [
+          27.1,
+          [
+            "Bodies."
+          ]
+        ]
+      ],
+      "layout": "quad",
+      "arts": [
+        "magdalen",
+        "meditation",
+        "durer",
+        "anthony"
+      ],
+      "captions": [
+        "LIGHT",
+        "CLOTH",
+        "ENGRAVED LINES",
+        "BODIES"
+      ]
+    },
+    {
+      "start": 29.23,
+      "heading": [
+        "Pause over",
+        "one small action."
+      ],
+      "eyebrow": "A WAY OF LOOKING",
+      "notes": [
+        [
+          29.6,
+          [
+            "Hands in prayer."
+          ]
+        ],
+        [
+          30.88,
+          [
+            "A head over a book."
+          ]
+        ],
+        [
+          33.3,
+          [
+            "A face toward light."
+          ]
+        ]
+      ],
+      "layout": "trio",
+      "arts": [
+        "meditation",
+        "durer",
+        "bellini"
+      ],
+      "captions": [
+        "Hands in prayer",
+        "A head over a book",
+        "A face toward light"
+      ]
+    },
+    {
+      "start": 37.12,
+      "heading": [
+        "Where is",
+        "their attention?"
+      ],
+      "eyebrow": "LOOK AGAIN",
+      "notes": [
+        [
+          37.5,
+          [
+            "What are they trying",
+            "to sustain?"
+          ]
+        ]
+      ],
+      "layout": "gallery",
+      "arts": [
+        "anthony",
+        "bellini",
+        "leonardo",
+        "durer",
+        "jerome",
+        "francis",
+        "magdalen",
+        "bosch",
+        "hospitality",
+        "serapion",
+        "paul",
+        "latour"
+      ],
+      "captions": []
+    }
+  ],
+  "artwork_files": {
+    "francis": "/Users/yingyuhsieh/Desktop/mcp/arts/Ascetic/images/Ascetic_images/IMG-006_Saint_Francis_in_Meditation.jpg",
+    "bosch": "/Users/yingyuhsieh/Desktop/mcp/arts/Ascetic/images/Ascetic_images/IMG-008_Temptation_of_Saint_Anthony_Triptych.jpg",
+    "durer": "/Users/yingyuhsieh/Desktop/mcp/arts/Ascetic/images/Ascetic_images/IMG-004_Saint_Jerome_in_His_Study.jpg",
+    "paul": "/Users/yingyuhsieh/Desktop/mcp/arts/Ascetic/images/Ascetic_images/IMG-011_Saint_Paul_the_Hermit.jpg",
+    "latour": "/Users/yingyuhsieh/Desktop/mcp/arts/Ascetic/images/Ascetic_images/IMG-012_Saint_Jerome_in_Penitence_La_Tour.jpg",
+    "serapion": "/Users/yingyuhsieh/Desktop/mcp/arts/Ascetic/images/Ascetic_images/IMG-010_Saint_Serapion.jpg",
+    "hospitality": "/Users/yingyuhsieh/Desktop/mcp/arts/Ascetic/images/Ascetic_images/IMG-009_Saint_Anthony_Abbot_and_Saint_Paul_the_Hermit.jpg",
+    "meditation": "/Users/yingyuhsieh/Desktop/mcp/arts/Ascetic/images/Francisco de Zurbarán 默想中的聖方濟各 Saint Francis in Meditation.jpg",
+    "bellini": "/Users/yingyuhsieh/Desktop/mcp/arts/Ascetic/images/Ascetic_images/IMG-002_Saint_Francis_in_the_Desert.jpg",
+    "anthony": "/Users/yingyuhsieh/Desktop/mcp/arts/Ascetic/images/Ascetic_images/IMG-001_The_Torment_of_Saint_Anthony.jpg",
+    "leonardo": "/Users/yingyuhsieh/Desktop/mcp/arts/Ascetic/images/Ascetic_images/IMG-003_Saint_Jerome_in_the_Wilderness.jpg",
+    "magdalen": "/Users/yingyuhsieh/Desktop/mcp/arts/Ascetic/images/Ascetic_images/IMG-007_The_Penitent_Magdalen.jpg",
+    "jerome": "/Users/yingyuhsieh/Desktop/mcp/arts/Ascetic/images/Ascetic_images/IMG-005_Saint_Jerome_in_Penitence_El_Greco.jpg"
+  }
+}

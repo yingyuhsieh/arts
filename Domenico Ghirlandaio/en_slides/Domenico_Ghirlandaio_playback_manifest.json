@@ -1,0 +1,159 @@
+{
+  "duration": 582.687732,
+  "source_audio_duration": 495.839002,
+  "supplemental_voice": "macOS Daniel, default natural rate",
+  "audio_speed": 1.0,
+  "original_final_before_sticker_sha256": "217ef8a08bfef0f0bcc3024423b29c3d4187cb8e4b5a5681a8f581077db0b77e",
+  "slides": [
+    {
+      "filename": "Domenico_Ghirlandaio_slide_0001.png",
+      "start": 0,
+      "duration": 24.291667,
+      "kind": "original"
+    },
+    {
+      "filename": "Domenico_Ghirlandaio_slide_0002.png",
+      "start": 24.291667,
+      "duration": 26.624999999999996,
+      "kind": "original"
+    },
+    {
+      "filename": "Domenico_Ghirlandaio_slide_0003.png",
+      "start": 50.916667,
+      "duration": 21.875000000000007,
+      "kind": "original"
+    },
+    {
+      "filename": "Domenico_Ghirlandaio_slide_0004.png",
+      "start": 72.791667,
+      "duration": 4.541665999999992,
+      "kind": "original"
+    },
+    {
+      "filename": "Domenico_Ghirlandaio_slide_0005.png",
+      "start": 77.333333,
+      "duration": 33.541667000000004,
+      "kind": "original"
+    },
+    {
+      "filename": "Domenico_Ghirlandaio_slide_0006.png",
+      "start": 110.875,
+      "duration": 26.33333300000001,
+      "kind": "original"
+    },
+    {
+      "filename": "Domenico_Ghirlandaio_slide_0007.png",
+      "start": 137.208333,
+      "duration": 4.16666699999999,
+      "kind": "original"
+    },
+    {
+      "filename": "Domenico_Ghirlandaio_slide_0008.png",
+      "start": 141.375,
+      "duration": 34.75,
+      "kind": "original"
+    },
+    {
+      "filename": "Domenico_Ghirlandaio_slide_0009.png",
+      "start": 176.125,
+      "duration": 34.75,
+      "kind": "original"
+    },
+    {
+      "filename": "Domenico_Ghirlandaio_slide_0010.png",
+      "start": 210.875,
+      "duration": 4.625,
+      "kind": "original"
+    },
+    {
+      "filename": "Domenico_Ghirlandaio_slide_0011.png",
+      "start": 215.5,
+      "duration": 38.66666699999999,
+      "kind": "original"
+    },
+    {
+      "filename": "Domenico_Ghirlandaio_slide_0012.png",
+      "start": 254.166667,
+      "duration": 23.041665999999992,
+      "kind": "original"
+    },
+    {
+      "filename": "Domenico_Ghirlandaio_slide_0013.png",
+      "start": 277.208333,
+      "duration": 29.625,
+      "kind": "original"
+    },
+    {
+      "filename": "Domenico_Ghirlandaio_slide_0014.png",
+      "start": 306.833333,
+      "duration": 4.375,
+      "kind": "original"
+    },
+    {
+      "filename": "Domenico_Ghirlandaio_slide_0015.png",
+      "start": 311.208333,
+      "duration": 40.91666700000002,
+      "kind": "original"
+    },
+    {
+      "filename": "Domenico_Ghirlandaio_slide_0016.png",
+      "start": 352.125,
+      "duration": 28.458332999999982,
+      "kind": "original"
+    },
+    {
+      "filename": "Domenico_Ghirlandaio_slide_0017.png",
+      "start": 380.583333,
+      "duration": 29.708334000000036,
+      "kind": "original"
+    },
+    {
+      "filename": "Domenico_Ghirlandaio_slide_0018.png",
+      "start": 410.291667,
+      "duration": 4.583332999999982,
+      "kind": "original"
+    },
+    {
+      "filename": "Domenico_Ghirlandaio_slide_0019.png",
+      "start": 414.875,
+      "duration": 38.83333299999998,
+      "kind": "original"
+    },
+    {
+      "filename": "Domenico_Ghirlandaio_slide_0020.png",
+      "start": 453.708333,
+      "duration": 24.291667000000018,
+      "kind": "original"
+    },
+    {
+      "filename": "Domenico_Ghirlandaio_slide_0021.png",
+      "start": 478.0,
+      "duration": 14.75,
+      "kind": "original"
+    },
+    {
+      "filename": "Domenico_Ghirlandaio_slide_0022.png",
+      "start": 492.75,
+      "duration": 25.908707,
+      "kind": "supplemental"
+    },
+    {
+      "filename": "Domenico_Ghirlandaio_slide_0023.png",
+      "start": 518.658707,
+      "duration": 28.89932,
+      "kind": "supplemental"
+    },
+    {
+      "filename": "Domenico_Ghirlandaio_slide_0024.png",
+      "start": 547.558027,
+      "duration": 30.129704999999998,
+      "kind": "supplemental"
+    },
+    {
+      "filename": "Domenico_Ghirlandaio_slide_0025.png",
+      "start": 577.687732,
+      "duration": 5.0,
+      "kind": "original"
+    }
+  ]
+}

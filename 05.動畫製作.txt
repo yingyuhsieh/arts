@@ -9,4 +9,3 @@
 
 插畫或角色動畫：簡單角色動作、循環動畫與場景轉換
 
-使用 The Raft of the Medusa\images\The Raft of the Medusa 梅杜莎之筏.jpg 做一段約 8 秒鐘的動畫，讓人物動起來 size 1280x720

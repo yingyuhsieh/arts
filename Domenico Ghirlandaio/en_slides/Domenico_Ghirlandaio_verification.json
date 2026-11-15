@@ -1,0 +1,104 @@
+{
+  "language": "en",
+  "original_slides": 22,
+  "supplemental_slides": 3,
+  "updated_slides": 25,
+  "subtitle_blocks": 25,
+  "dimensions": [
+    1280,
+    720
+  ],
+  "background_dimensions": [
+    1536,
+    864
+  ],
+  "source_duration_seconds": 495.839002,
+  "output_video_duration_seconds": 582.708333,
+  "output_audio_duration_seconds": 582.687007,
+  "source_rate": 1.0,
+  "supplemental_voice": "macOS Daniel; default rate and pitch",
+  "markdown_reviewed": [
+    "Domenico Ghirlandaio (complete).md",
+    "Domenico Ghirlandaio chatgpt.md",
+    "Domenico Ghirlandaio claude.md",
+    "Domenico Ghirlandaio 最重要的的作品.md",
+    "artworks.md",
+    "domenico_ghirlandaio_youtube_en.md",
+    "domenico_ghirlandaio_youtube_tw.md"
+  ],
+  "direct_author_images": 0,
+  "subtitle_corrections": {
+    "replacements": {
+      "Ghirlandio": "Ghirlandaio",
+      "Girlandio": "Ghirlandaio",
+      "Gielandiah": "Ghirlandaio",
+      "Santa Maria novella": "Santa Maria Novella",
+      "ornate freezes": "ornate friezes",
+      "Adnissanti": "Ognissanti",
+      "Tornebuoni": "Tornabuoni",
+      "Santa Ternita": "Santa Trinita",
+      "civic architect of Florence": "civic architecture of Florence",
+      "Torna Buoni": "Tornabuoni",
+      "completely breeds life": "completely breathes life",
+      "Paint it around": "Painted around",
+      "tempura and oil": "tempera and oil",
+      "poet Marshall": "poet Martial",
+      "art, wood that": "art, would that",
+      "total explosion of the Medici": "total expulsion of the Medici"
+    },
+    "occurrences": {
+      "Ghirlandio": 4,
+      "Girlandio": 4,
+      "Gielandiah": 1,
+      "Santa Maria novella": 1,
+      "ornate freezes": 1,
+      "Adnissanti": 1,
+      "Tornebuoni": 1,
+      "Santa Ternita": 1,
+      "civic architect of Florence": 1,
+      "Torna Buoni": 3,
+      "completely breeds life": 1,
+      "Paint it around": 1,
+      "tempura and oil": 1,
+      "poet Marshall": 1,
+      "art, wood that": 1,
+      "total explosion of the Medici": 1
+    }
+  },
+  "original_final_hash_verified_before_sticker": true,
+  "original_final_pre_sticker_sha256": "217ef8a08bfef0f0bcc3024423b29c3d4187cb8e4b5a5681a8f581077db0b77e",
+  "final_slide_post_sticker_sha256": "f8f399f0b3559bd3a2e2a11d14e44b4f4d0d1ac73b334e120bbc2ee69560d597",
+  "supplemental_evidence": {
+    "0022": [
+      "Domenico Ghirlandaio (complete).md: 一年之內的兩份合約; 一個十三歲的學徒",
+      "domenico_ghirlandaio_youtube_en.md: Segments 6, 8"
+    ],
+    "0023": [
+      "Domenico Ghirlandaio (complete).md: 一位年輕妻子與一位老人",
+      "domenico_ghirlandaio_youtube_en.md: Segment 7"
+    ],
+    "0024": [
+      "Domenico Ghirlandaio (complete).md: 羅馬的數個月; 聖母與施洗者的宮殿; 被低估，又被重新看見",
+      "domenico_ghirlandaio_youtube_en.md: Segments 1, 3"
+    ]
+  },
+  "readability_changes": [
+    2,
+    5,
+    8,
+    17,
+    19,
+    21
+  ],
+  "checks": [
+    "Contiguous numbering",
+    "Exact subtitle-to-image order",
+    "Every PNG opens at source dimensions",
+    "16:9 reusable background",
+    "Pre-sticker moved-final hash verified",
+    "Natural-rate source and supplemental narration",
+    "Audio/video duration agreement within one frame"
+  ],
+  "final_visual_review": "All 25 final PNGs opened individually at output resolution; contact sheet and encoded supplemental/final frames inspected.",
+  "video_full_decode": "passed"
+}

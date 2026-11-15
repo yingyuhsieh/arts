@@ -1,0 +1,27 @@
+{
+  "slide": 14,
+  "video": "/Users/yingyuhsieh/Desktop/mcp/arts/Ascetic/en_slides/video/ascetic_en_014_explainer_4k.mp4",
+  "duration_seconds": 57.62401360544218,
+  "dimensions": [
+    3840,
+    2160
+  ],
+  "fps": 30,
+  "sample_aspect_ratio": "1:1",
+  "streams": [
+    "h264",
+    "aac"
+  ],
+  "subtitle_streams": 0,
+  "verified_scenes": 6,
+  "decoded_frame_mse": [
+    2.4003138542175293,
+    2.411141872406006,
+    2.4098739624023438,
+    2.4195961952209473,
+    2.407700538635254,
+    2.3701491355895996
+  ],
+  "motion_difference": 5.810708999633789,
+  "bytes": 15678990
+}

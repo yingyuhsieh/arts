@@ -40,8 +40,8 @@ $create-youtube-slides by <files>
 
 # 中文 Replace 1st slide with youtbute thumimage
 # English Replace 1st slide with youtbute thumimage
-Replace ./<topic>/tw_slides/<topic>_TW/Slide1.PNG by ./<topic>/YouTube/.png with size 1280x720
-Replace ./<topic>/en_slides/<topic>_EN/Slide1.PNG by ./<topic>/YouTube/.png with size 1280x720
+Replace ./<topic>/tw_slides/<topic>_TW/Slide1.PNG by ./<topic>/YouTube/.png with size 3840x2160
+Replace ./<topic>/en_slides/<topic>_EN/Slide1.PNG by ./<topic>/YouTube/.png with size 3840x2160
 
 
 # 產生中文 video
@@ -97,3 +97,8 @@ Format
 <深度作品分析>
 <畫家生平>
 Example: search 超現實主義 in $Google Drive
+
+
+用 <topic>>/tw_slides/<topic>_tw.png 參考它的旁白 in <topic>/tw_slides/subtitle/.txt 做出 圖文解說動畫 size 3840x2160
+
+用 <topic>>/en_slides/<topic>_en.png 參考它的旁白 in <topic>/en_slides/subtitle/.txt 做出 圖文解說動畫 size 3840x2160

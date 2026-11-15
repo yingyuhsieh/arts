@@ -1,0 +1,29 @@
+{
+  "manifest": "/Users/yingyuhsieh/Desktop/mcp/arts/Domenico Ghirlandaio/tw_slides/多梅尼科・吉蘭達約：把佛羅倫斯畫進聖經的人_slide_manifest.json",
+  "original_count": 23,
+  "supplemental_count": 4,
+  "original_final": {
+    "from": "多梅尼科・吉蘭達約：把佛羅倫斯畫進聖經的人_slide_0023.png",
+    "to": "多梅尼科・吉蘭達約：把佛羅倫斯畫進聖經的人_slide_0027.png",
+    "sha256": "2b813e19ab78be9010a59c830b4650077d5591d5e6d0884b82f332348f813afd"
+  },
+  "supplemental_renames": [
+    {
+      "from": "多梅尼科・吉蘭達約：把佛羅倫斯畫進聖經的人_slide_0024.png",
+      "to": "多梅尼科・吉蘭達約：把佛羅倫斯畫進聖經的人_slide_0023.png"
+    },
+    {
+      "from": "多梅尼科・吉蘭達約：把佛羅倫斯畫進聖經的人_slide_0025.png",
+      "to": "多梅尼科・吉蘭達約：把佛羅倫斯畫進聖經的人_slide_0024.png"
+    },
+    {
+      "from": "多梅尼科・吉蘭達約：把佛羅倫斯畫進聖經的人_slide_0026.png",
+      "to": "多梅尼科・吉蘭達約：把佛羅倫斯畫進聖經的人_slide_0025.png"
+    },
+    {
+      "from": "多梅尼科・吉蘭達約：把佛羅倫斯畫進聖經的人_slide_0027.png",
+      "to": "多梅尼科・吉蘭達約：把佛羅倫斯畫進聖經的人_slide_0026.png"
+    }
+  ],
+  "subtitle": "/Users/yingyuhsieh/Desktop/mcp/arts/Domenico Ghirlandaio/tw_slides/subtitle/多梅尼科・吉蘭達約：把佛羅倫斯畫進聖經的人.txt"
+}

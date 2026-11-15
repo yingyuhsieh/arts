@@ -1,0 +1,25 @@
+{
+  "manifest": "/Users/yingyuhsieh/Desktop/mcp/arts/Domenico Ghirlandaio/en_slides/Domenico_Ghirlandaio_slide_manifest.json",
+  "original_count": 22,
+  "supplemental_count": 3,
+  "original_final": {
+    "from": "Domenico_Ghirlandaio_slide_0022.png",
+    "to": "Domenico_Ghirlandaio_slide_0025.png",
+    "sha256": "217ef8a08bfef0f0bcc3024423b29c3d4187cb8e4b5a5681a8f581077db0b77e"
+  },
+  "supplemental_renames": [
+    {
+      "from": "Domenico_Ghirlandaio_slide_0023.png",
+      "to": "Domenico_Ghirlandaio_slide_0022.png"
+    },
+    {
+      "from": "Domenico_Ghirlandaio_slide_0024.png",
+      "to": "Domenico_Ghirlandaio_slide_0023.png"
+    },
+    {
+      "from": "Domenico_Ghirlandaio_slide_0025.png",
+      "to": "Domenico_Ghirlandaio_slide_0024.png"
+    }
+  ],
+  "subtitle": "/Users/yingyuhsieh/Desktop/mcp/arts/Domenico Ghirlandaio/en_slides/subtitle/Domenico_Ghirlandaio.txt"
+}

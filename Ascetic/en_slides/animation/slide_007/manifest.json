@@ -1,0 +1,171 @@
+{
+  "slide": 7,
+  "source_slide": "/Users/yingyuhsieh/Desktop/mcp/arts/Ascetic/en_slides/ascetic_en/ascetic_en.007.png",
+  "narration_source": "/Users/yingyuhsieh/Desktop/mcp/arts/Ascetic/en_slides/ascetic_subtitle_en_20min.txt",
+  "video": "/Users/yingyuhsieh/Desktop/mcp/arts/Ascetic/en_slides/video/ascetic_en_007_explainer_4k.mp4",
+  "audio": "/Users/yingyuhsieh/Desktop/mcp/arts/Ascetic/en_slides/audio/ascetic_en_007_explainer_narration.wav",
+  "duration_seconds": 43.63201814058957,
+  "dimensions": [
+    3840,
+    2160
+  ],
+  "fps": 30,
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-3%",
+  "scenes": [
+    {
+      "start": 0,
+      "heading": [
+        "A young artist.",
+        "An early painting."
+      ],
+      "eyebrow": "1487  /  ABOUT TWELVE YEARS OLD",
+      "notes": [
+        [
+          0.8,
+          [
+            "Michelangelo learns",
+            "by looking closely."
+          ]
+        ]
+      ],
+      "layout": "hero",
+      "arts": [
+        "anthony"
+      ],
+      "captions": [
+        "Michelangelo · The Torment of Saint Anthony"
+      ]
+    },
+    {
+      "start": 7.98,
+      "heading": [
+        "Frantic movement.",
+        "A composed face."
+      ],
+      "eyebrow": "LOOK AT THE CONTRAST",
+      "notes": [
+        [
+          8.3,
+          [
+            "Monsters pull at his clothing."
+          ]
+        ],
+        [
+          12.35,
+          [
+            "Anthony holds his expression."
+          ]
+        ]
+      ],
+      "layout": "hero",
+      "arts": [
+        "anthony"
+      ],
+      "captions": [
+        "Turmoil around him · stillness at the center"
+      ],
+      "focus": [
+        [
+          8.4,
+          0.72,
+          0.4,
+          0.13
+        ],
+        [
+          12.35,
+          0.43,
+          0.28,
+          0.075
+        ]
+      ]
+    },
+    {
+      "start": 16.32,
+      "heading": [
+        "Borrowed lines.",
+        "A new painting."
+      ],
+      "eyebrow": "LEARNING THROUGH IMITATION",
+      "notes": [
+        [
+          16.7,
+          [
+            "Schongauer’s engraving"
+          ]
+        ],
+        [
+          20.28,
+          [
+            "Color · animal textures",
+            "a quiet landscape"
+          ]
+        ],
+        [
+          24.66,
+          [
+            "Fish-market study:",
+            "reported by early biographers"
+          ]
+        ]
+      ],
+      "layout": "duo",
+      "arts": [
+        "schongauer",
+        "anthony"
+      ],
+      "captions": [
+        "Martin Schongauer · engraving",
+        "Michelangelo · painting"
+      ],
+      "connector": true
+    },
+    {
+      "start": 29.3,
+      "heading": [
+        "Imitation becomes",
+        "an individual vision."
+      ],
+      "eyebrow": "THE COMMISSION REMAINS UNCERTAIN",
+      "notes": [
+        [
+          31.66,
+          [
+            "Learning from a model."
+          ]
+        ],
+        [
+          36.03,
+          [
+            "Making the image his own."
+          ]
+        ],
+        [
+          38.38,
+          [
+            "Return to Anthony’s face."
+          ]
+        ]
+      ],
+      "layout": "hero",
+      "arts": [
+        "anthony"
+      ],
+      "captions": [
+        "Restless creatures · a still expression"
+      ],
+      "focus": [
+        [
+          38.38,
+          0.43,
+          0.28,
+          0.075
+        ]
+      ]
+    }
+  ],
+  "artwork_files": {
+    "schongauer": "/Users/yingyuhsieh/Desktop/mcp/arts/Ascetic/images/馬丁·肖高爾 聖安東尼的誘惑 Martin Schongauer The Temptation of St Anthony.jpg",
+    "anthony": "/Users/yingyuhsieh/Desktop/mcp/arts/Ascetic/images/Ascetic_images/IMG-001_The_Torment_of_Saint_Anthony.jpg"
+  }
+}

@@ -1,0 +1,495 @@
+{
+  "pages_requested": [
+    8,
+    9,
+    10,
+    12,
+    13,
+    15,
+    21,
+    24,
+    25
+  ],
+  "completed_pages": [
+    8,
+    9,
+    10,
+    12,
+    13,
+    15,
+    21,
+    24,
+    25
+  ],
+  "all_complete": true,
+  "videos": [
+    {
+      "page": 8,
+      "video": "/Users/yingyuhsieh/Desktop/mcp/arts/Sandro Botticelli/tw_slides/animation/slide_008/波提切利_008_圖文解說動畫_4k.mp4",
+      "bytes": 12272454,
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "fps": 30,
+      "video_codec": "h264",
+      "pixel_format": "yuv420p",
+      "audio_codec": "aac",
+      "video_duration_seconds": 61.5667,
+      "audio_duration_seconds": 61.58,
+      "expected_duration_seconds": 61.58,
+      "subtitle_streams": 0,
+      "audio_peak": 0.635708,
+      "audio_rms": 0.075466,
+      "scene_samples": [
+        {
+          "time": 3.0,
+          "scene": 1,
+          "mean_pixel_error": 1.4146
+        },
+        {
+          "time": 14.367,
+          "scene": 2,
+          "mean_pixel_error": 1.4288
+        },
+        {
+          "time": 20.2,
+          "scene": 3,
+          "mean_pixel_error": 1.4618
+        },
+        {
+          "time": 26.6,
+          "scene": 4,
+          "mean_pixel_error": 1.4257
+        },
+        {
+          "time": 37.867,
+          "scene": 5,
+          "mean_pixel_error": 1.428
+        },
+        {
+          "time": 54.567,
+          "scene": 6,
+          "mean_pixel_error": 1.4287
+        }
+      ],
+      "verification_passed": true
+    },
+    {
+      "page": 9,
+      "video": "/Users/yingyuhsieh/Desktop/mcp/arts/Sandro Botticelli/tw_slides/animation/slide_009/波提切利_009_圖文解說動畫_4k.mp4",
+      "bytes": 10573944,
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "fps": 30,
+      "video_codec": "h264",
+      "pixel_format": "yuv420p",
+      "audio_codec": "aac",
+      "video_duration_seconds": 57.0333,
+      "audio_duration_seconds": 57.02,
+      "expected_duration_seconds": 57.02,
+      "subtitle_streams": 0,
+      "audio_peak": 0.641425,
+      "audio_rms": 0.065127,
+      "scene_samples": [
+        {
+          "time": 3.0,
+          "scene": 1,
+          "mean_pixel_error": 1.4078
+        },
+        {
+          "time": 17.7,
+          "scene": 2,
+          "mean_pixel_error": 1.4837
+        },
+        {
+          "time": 21.8,
+          "scene": 3,
+          "mean_pixel_error": 1.4573
+        },
+        {
+          "time": 26.033,
+          "scene": 4,
+          "mean_pixel_error": 1.4864
+        },
+        {
+          "time": 31.167,
+          "scene": 5,
+          "mean_pixel_error": 1.4254
+        },
+        {
+          "time": 43.967,
+          "scene": 6,
+          "mean_pixel_error": 1.422
+        }
+      ],
+      "verification_passed": true
+    },
+    {
+      "page": 10,
+      "video": "/Users/yingyuhsieh/Desktop/mcp/arts/Sandro Botticelli/tw_slides/animation/slide_010/波提切利_010_圖文解說動畫_4k.mp4",
+      "bytes": 7211922,
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "fps": 30,
+      "video_codec": "h264",
+      "pixel_format": "yuv420p",
+      "audio_codec": "aac",
+      "video_duration_seconds": 40.3,
+      "audio_duration_seconds": 40.31,
+      "expected_duration_seconds": 40.31,
+      "subtitle_streams": 0,
+      "audio_peak": 0.671275,
+      "audio_rms": 0.078123,
+      "scene_samples": [
+        {
+          "time": 3.0,
+          "scene": 1,
+          "mean_pixel_error": 1.4166
+        },
+        {
+          "time": 13.3,
+          "scene": 2,
+          "mean_pixel_error": 1.4543
+        },
+        {
+          "time": 18.4,
+          "scene": 3,
+          "mean_pixel_error": 1.3618
+        },
+        {
+          "time": 23.667,
+          "scene": 4,
+          "mean_pixel_error": 1.3624
+        },
+        {
+          "time": 29.067,
+          "scene": 5,
+          "mean_pixel_error": 1.4235
+        }
+      ],
+      "verification_passed": true
+    },
+    {
+      "page": 12,
+      "video": "/Users/yingyuhsieh/Desktop/mcp/arts/Sandro Botticelli/tw_slides/animation/slide_012/波提切利_012_圖文解說動畫_4k.mp4",
+      "bytes": 9616646,
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "fps": 30,
+      "video_codec": "h264",
+      "pixel_format": "yuv420p",
+      "audio_codec": "aac",
+      "video_duration_seconds": 52.2667,
+      "audio_duration_seconds": 52.26,
+      "expected_duration_seconds": 52.26,
+      "subtitle_streams": 0,
+      "audio_peak": 0.595408,
+      "audio_rms": 0.076185,
+      "scene_samples": [
+        {
+          "time": 3.0,
+          "scene": 1,
+          "mean_pixel_error": 1.4139
+        },
+        {
+          "time": 9.1,
+          "scene": 2,
+          "mean_pixel_error": 1.5376
+        },
+        {
+          "time": 13.967,
+          "scene": 3,
+          "mean_pixel_error": 1.4889
+        },
+        {
+          "time": 21.767,
+          "scene": 4,
+          "mean_pixel_error": 1.4924
+        },
+        {
+          "time": 31.267,
+          "scene": 5,
+          "mean_pixel_error": 1.4213
+        },
+        {
+          "time": 41.133,
+          "scene": 6,
+          "mean_pixel_error": 1.4299
+        }
+      ],
+      "verification_passed": true
+    },
+    {
+      "page": 13,
+      "video": "/Users/yingyuhsieh/Desktop/mcp/arts/Sandro Botticelli/tw_slides/animation/slide_013/波提切利_013_圖文解說動畫_4k.mp4",
+      "bytes": 13032909,
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "fps": 30,
+      "video_codec": "h264",
+      "pixel_format": "yuv420p",
+      "audio_codec": "aac",
+      "video_duration_seconds": 70.8333,
+      "audio_duration_seconds": 70.82,
+      "expected_duration_seconds": 70.82,
+      "subtitle_streams": 0,
+      "audio_peak": 0.77087,
+      "audio_rms": 0.078255,
+      "scene_samples": [
+        {
+          "time": 3.0,
+          "scene": 1,
+          "mean_pixel_error": 1.4221
+        },
+        {
+          "time": 14.167,
+          "scene": 2,
+          "mean_pixel_error": 1.4363
+        },
+        {
+          "time": 32.833,
+          "scene": 3,
+          "mean_pixel_error": 1.4653
+        },
+        {
+          "time": 48.933,
+          "scene": 4,
+          "mean_pixel_error": 1.422
+        },
+        {
+          "time": 63.5,
+          "scene": 5,
+          "mean_pixel_error": 1.4108
+        }
+      ],
+      "verification_passed": true
+    },
+    {
+      "page": 15,
+      "video": "/Users/yingyuhsieh/Desktop/mcp/arts/Sandro Botticelli/tw_slides/animation/slide_015/波提切利_015_圖文解說動畫_4k.mp4",
+      "bytes": 15459725,
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "fps": 30,
+      "video_codec": "h264",
+      "pixel_format": "yuv420p",
+      "audio_codec": "aac",
+      "video_duration_seconds": 85.1667,
+      "audio_duration_seconds": 85.16,
+      "expected_duration_seconds": 85.16,
+      "subtitle_streams": 0,
+      "audio_peak": 0.790274,
+      "audio_rms": 0.078121,
+      "scene_samples": [
+        {
+          "time": 3.0,
+          "scene": 1,
+          "mean_pixel_error": 1.4152
+        },
+        {
+          "time": 17.033,
+          "scene": 2,
+          "mean_pixel_error": 1.4213
+        },
+        {
+          "time": 32.2,
+          "scene": 3,
+          "mean_pixel_error": 1.4241
+        },
+        {
+          "time": 40.533,
+          "scene": 4,
+          "mean_pixel_error": 1.4249
+        },
+        {
+          "time": 52.933,
+          "scene": 5,
+          "mean_pixel_error": 1.4124
+        },
+        {
+          "time": 64.2,
+          "scene": 6,
+          "mean_pixel_error": 1.3639
+        },
+        {
+          "time": 73.7,
+          "scene": 7,
+          "mean_pixel_error": 1.4231
+        }
+      ],
+      "verification_passed": true
+    },
+    {
+      "page": 21,
+      "video": "/Users/yingyuhsieh/Desktop/mcp/arts/Sandro Botticelli/tw_slides/animation/slide_021/波提切利_021_圖文解說動畫_4k.mp4",
+      "bytes": 9983467,
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "fps": 30,
+      "video_codec": "h264",
+      "pixel_format": "yuv420p",
+      "audio_codec": "aac",
+      "video_duration_seconds": 68.5333,
+      "audio_duration_seconds": 68.53,
+      "expected_duration_seconds": 68.53,
+      "subtitle_streams": 0,
+      "audio_peak": 0.618962,
+      "audio_rms": 0.06329,
+      "scene_samples": [
+        {
+          "time": 22.0,
+          "scene": 1,
+          "mean_pixel_error": 1.396
+        },
+        {
+          "time": 26.567,
+          "scene": 2,
+          "mean_pixel_error": 1.3645
+        },
+        {
+          "time": 38.733,
+          "scene": 3,
+          "mean_pixel_error": 1.3662
+        },
+        {
+          "time": 50.667,
+          "scene": 4,
+          "mean_pixel_error": 1.3659
+        },
+        {
+          "time": 60.067,
+          "scene": 5,
+          "mean_pixel_error": 1.419
+        }
+      ],
+      "verification_passed": true
+    },
+    {
+      "page": 24,
+      "video": "/Users/yingyuhsieh/Desktop/mcp/arts/Sandro Botticelli/tw_slides/animation/slide_024/波提切利_024_圖文解說動畫_4k.mp4",
+      "bytes": 12894975,
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "fps": 30,
+      "video_codec": "h264",
+      "pixel_format": "yuv420p",
+      "audio_codec": "aac",
+      "video_duration_seconds": 67.4,
+      "audio_duration_seconds": 67.4,
+      "expected_duration_seconds": 67.4,
+      "subtitle_streams": 0,
+      "audio_peak": 0.648114,
+      "audio_rms": 0.069183,
+      "scene_samples": [
+        {
+          "time": 1.833,
+          "scene": 1,
+          "mean_pixel_error": 1.4102
+        },
+        {
+          "time": 6.667,
+          "scene": 2,
+          "mean_pixel_error": 1.3451
+        },
+        {
+          "time": 18.233,
+          "scene": 3,
+          "mean_pixel_error": 1.4326
+        },
+        {
+          "time": 30.3,
+          "scene": 4,
+          "mean_pixel_error": 1.4337
+        },
+        {
+          "time": 42.0,
+          "scene": 5,
+          "mean_pixel_error": 1.3649
+        },
+        {
+          "time": 47.067,
+          "scene": 6,
+          "mean_pixel_error": 1.368
+        },
+        {
+          "time": 54.967,
+          "scene": 7,
+          "mean_pixel_error": 1.4332
+        }
+      ],
+      "verification_passed": true
+    },
+    {
+      "page": 25,
+      "video": "/Users/yingyuhsieh/Desktop/mcp/arts/Sandro Botticelli/tw_slides/animation/slide_025/波提切利_025_圖文解說動畫_4k.mp4",
+      "bytes": 8520326,
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "fps": 30,
+      "video_codec": "h264",
+      "pixel_format": "yuv420p",
+      "audio_codec": "aac",
+      "video_duration_seconds": 60.5,
+      "audio_duration_seconds": 60.5,
+      "expected_duration_seconds": 60.5,
+      "subtitle_streams": 0,
+      "audio_peak": 0.677865,
+      "audio_rms": 0.063209,
+      "scene_samples": [
+        {
+          "time": 3.0,
+          "scene": 1,
+          "mean_pixel_error": 1.4142
+        },
+        {
+          "time": 9.4,
+          "scene": 2,
+          "mean_pixel_error": 1.3617
+        },
+        {
+          "time": 21.133,
+          "scene": 3,
+          "mean_pixel_error": 1.364
+        },
+        {
+          "time": 30.467,
+          "scene": 4,
+          "mean_pixel_error": 1.3639
+        },
+        {
+          "time": 41.267,
+          "scene": 5,
+          "mean_pixel_error": 1.3624
+        },
+        {
+          "time": 48.267,
+          "scene": 6,
+          "mean_pixel_error": 1.4185
+        },
+        {
+          "time": 57.667,
+          "scene": 7,
+          "mean_pixel_error": 1.4218
+        }
+      ],
+      "verification_passed": true
+    }
+  ]
+}

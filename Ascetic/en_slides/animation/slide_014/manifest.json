@@ -1,0 +1,263 @@
+{
+  "slide": 14,
+  "source_slide": "/Users/yingyuhsieh/Desktop/mcp/arts/Ascetic/en_slides/ascetic_en/ascetic_en.014.png",
+  "narration_source": "/Users/yingyuhsieh/Desktop/mcp/arts/Ascetic/en_slides/ascetic_subtitle_en_20min.txt",
+  "video": "/Users/yingyuhsieh/Desktop/mcp/arts/Ascetic/en_slides/video/ascetic_en_014_explainer_4k.mp4",
+  "audio": "/Users/yingyuhsieh/Desktop/mcp/arts/Ascetic/en_slides/audio/ascetic_en_014_explainer_narration.wav",
+  "duration_seconds": 57.62401360544218,
+  "dimensions": [
+    3840,
+    2160
+  ],
+  "fps": 30,
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-3%",
+  "scenes": [
+    {
+      "start": 0,
+      "heading": [
+        "Saint Francis",
+        "in Meditation"
+      ],
+      "eyebrow": "C. 1635–1639",
+      "notes": [
+        [
+          3.31,
+          [
+            "Francisco de Zurbarán"
+          ]
+        ],
+        [
+          7.35,
+          [
+            "National Gallery, London"
+          ]
+        ]
+      ],
+      "layout": "hero",
+      "arts": [
+        "meditation"
+      ],
+      "captions": [
+        "A rough habit · a skull · concentrated prayer"
+      ]
+    },
+    {
+      "start": 9.86,
+      "heading": [
+        "Light finds",
+        "the rough cloth."
+      ],
+      "eyebrow": "POVERTY MADE VISIBLE",
+      "notes": [
+        [
+          10.2,
+          [
+            "Patches and heavy folds."
+          ]
+        ],
+        [
+          14.8,
+          [
+            "A face held in shadow."
+          ]
+        ],
+        [
+          16.74,
+          [
+            "Raised head.",
+            "Hands around a skull."
+          ]
+        ]
+      ],
+      "layout": "hero",
+      "arts": [
+        "meditation"
+      ],
+      "captions": [
+        "Follow the light, then the hands"
+      ],
+      "focus": [
+        [
+          10.2,
+          0.44,
+          0.55,
+          0.14
+        ],
+        [
+          14.8,
+          0.64,
+          0.19,
+          0.1
+        ],
+        [
+          16.74,
+          0.7,
+          0.48,
+          0.13
+        ]
+      ]
+    },
+    {
+      "start": 21.45,
+      "heading": [
+        "A skull becomes",
+        "a focus for prayer."
+      ],
+      "eyebrow": "MORTALITY AND DEVOTION",
+      "notes": [
+        [
+          21.8,
+          [
+            "Mortality and Christ’s",
+            "crucifixion."
+          ]
+        ],
+        [
+          26.11,
+          [
+            "Catholic reform’s",
+            "devotional culture."
+          ]
+        ],
+        [
+          28.84,
+          [
+            "An image that sustains prayer."
+          ]
+        ]
+      ],
+      "layout": "hero",
+      "arts": [
+        "meditation"
+      ],
+      "captions": [
+        "The skull invites reflection"
+      ],
+      "focus": [
+        [
+          21.8,
+          0.68,
+          0.43,
+          0.12
+        ]
+      ]
+    },
+    {
+      "start": 31.42,
+      "heading": [
+        "An expansive world.",
+        "A concentrated image."
+      ],
+      "eyebrow": "TWO VISUAL EXPERIENCES",
+      "notes": [
+        [
+          33.77,
+          [
+            "Cloth."
+          ]
+        ],
+        [
+          35.81,
+          [
+            "Light."
+          ]
+        ],
+        [
+          36.76,
+          [
+            "Gesture."
+          ]
+        ]
+      ],
+      "layout": "duo",
+      "arts": [
+        "bellini",
+        "meditation"
+      ],
+      "captions": [
+        "Bellini · the open landscape",
+        "Zurbarán · a spare setting"
+      ]
+    },
+    {
+      "start": 39.68,
+      "heading": [
+        "Where does",
+        "your eye settle?"
+      ],
+      "eyebrow": "LOOKING WITH ATTENTION",
+      "notes": [
+        [
+          42.3,
+          [
+            "Little surrounding detail."
+          ]
+        ],
+        [
+          44.84,
+          [
+            "Stillness becomes",
+            "hard to leave."
+          ]
+        ]
+      ],
+      "layout": "hero",
+      "arts": [
+        "meditation"
+      ],
+      "captions": [
+        "A head raised · hands gathered"
+      ],
+      "focus": [
+        [
+          40,
+          0.64,
+          0.19,
+          0.1
+        ],
+        [
+          44.84,
+          0.7,
+          0.48,
+          0.13
+        ]
+      ]
+    },
+    {
+      "start": 49.5,
+      "heading": [
+        "Stillness.",
+        "Different responses."
+      ],
+      "eyebrow": "A HISTORY OF RECEPTION",
+      "notes": [
+        [
+          50,
+          [
+            "Its austerity once",
+            "drew criticism."
+          ]
+        ],
+        [
+          52.63,
+          [
+            "Viewers have not always",
+            "responded in the same way."
+          ]
+        ]
+      ],
+      "layout": "hero",
+      "arts": [
+        "meditation"
+      ],
+      "captions": [
+        "A spare image can hold a complex response"
+      ]
+    }
+  ],
+  "artwork_files": {
+    "bellini": "/Users/yingyuhsieh/Desktop/mcp/arts/Ascetic/images/Ascetic_images/IMG-002_Saint_Francis_in_the_Desert.jpg",
+    "meditation": "/Users/yingyuhsieh/Desktop/mcp/arts/Ascetic/images/Francisco de Zurbarán 默想中的聖方濟各 Saint Francis in Meditation.jpg"
+  }
+}

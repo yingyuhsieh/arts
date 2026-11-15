@@ -78,11 +78,11 @@ Use $youtube-and-social-media-post with
 Use $tw-video-integrate-audio-slide to combine my 中文 narration audio, slide images, script, and timing manifest into a YouTube-ready MP4.Use $tw-video-integrate-audio-slide to create a YouTube-ready video from:
 
 - Narration script:
-  ./Sandro Botticelli/tw_slides/subtitle/.txt
+  ./Sandro Botticelli/tw_slides/subtitle/波提切利的線條：超越維納斯的視野.txt
 - PNG slides:
   ./Sandro Botticelli/tw_slides/update
 - Narration audio:
-  ./Sandro Botticelli/tw_slides/.m4a
+  ./Sandro Botticelli/tw_slides/Sounds.m4a
 - Timing manifest:
   ./Sandro Botticelli/tw_slides/slide_manifest.json
 
@@ -116,3 +116,18 @@ Format
 <深度作品分析>
 <畫家生平>
 Example: search 超現實主義 in $Google Drive
+
+
+
+用 Sandro Botticelli/tw_slides/updaqte/波提切利的線條：超越維納斯的視野_slide_0003.png 參考它的旁白 in Sandro Botticelli/tw_slides/subtitle/波提切利的線條：超越維納斯的視野.txt 做出 圖文解說動畫 size 3840x2160
+用 Sandro Botticelli/tw_slides/updaqte/波提切利的線條：超越維納斯的視野_slide_0008.png 參考它的旁白 in Sandro Botticelli/tw_slides/subtitle/波提切利的線條：超越維納斯的視野.txt 做出 圖文解說動畫 size 3840x2160
+用 Sandro Botticelli/tw_slides/updaqte/波提切利的線條：超越維納斯的視野_slide_0009.png 參考它的旁白 in Sandro Botticelli/tw_slides/subtitle/波提切利的線條：超越維納斯的視野.txt 做出 圖文解說動畫 size 3840x2160
+用 Sandro Botticelli/tw_slides/updaqte/波提切利的線條：超越維納斯的視野_slide_0010.png 參考它的旁白 in Sandro Botticelli/tw_slides/subtitle/波提切利的線條：超越維納斯的視野.txt 做出 圖文解說動畫 size 3840x2160
+用 Sandro Botticelli/tw_slides/updaqte/波提切利的線條：超越維納斯的視野_slide_0012.png 參考它的旁白 in Sandro Botticelli/tw_slides/subtitle/波提切利的線條：超越維納斯的視野.txt 做出 圖文解說動畫 size 3840x2160
+用 Sandro Botticelli/tw_slides/updaqte/波提切利的線條：超越維納斯的視野_slide_0013.png 參考它的旁白 in Sandro Botticelli/tw_slides/subtitle/波提切利的線條：超越維納斯的視野.txt 做出 圖文解說動畫 size 3840x2160用 Sandro Botticelli/tw_slides/updaqte/波提切利的線條：超越維納斯的視野_slide_0015.png 參考它的旁白 in Sandro Botticelli/tw_slides/subtitle/波提切利的線條：超越維納斯的視野.txt 做出 圖文解說動畫 size 3840x216
+用 Sandro Botticelli/tw_slides/updaqte/波提切利的線條：超越維納斯的視野_slide_0021.png 參考它的旁白 in Sandro Botticelli/tw_slides/subtitle/波提切利的線條：超越維納斯的視野.txt 做出 圖文解說動畫 size 3840x216
+用 Sandro Botticelli/tw_slides/updaqte/波提切利的線條：超越維納斯的視野_slide_0024.png 參考它的旁白 in Sandro Botticelli/tw_slides/subtitle/波提切利的線條：超越維納斯的視野.txt 做出 圖文解說動畫 size 3840x216
+用 Sandro Botticelli/tw_slides/updaqte/波提切利的線條：超越維納斯的視野_slide_0025.png 參考它的旁白 in Sandro Botticelli/tw_slides/subtitle/波提切利的線條：超越維納斯的視野.txt 做出 圖文解說動畫 size 3840x2160
+
+
+用 Sandro Botticelli/en_slides/updaqte/Botticelli_Beyond_Venus_slide_0004.png 參考它的旁白 in Sandro Botticelli/en_slides/subtitle/Botticelli_Beyond_Venus.txt 做出 圖文解說動畫 size 3840x2160

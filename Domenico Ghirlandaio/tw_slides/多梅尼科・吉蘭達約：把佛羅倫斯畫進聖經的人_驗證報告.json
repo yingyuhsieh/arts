@@ -1,0 +1,51 @@
+{
+  "language": "zh",
+  "traditional_chinese": "Taiwan wording",
+  "source_duration_seconds": 452.905215,
+  "audio_duration_seconds": 452.905011,
+  "original_slide_count": 23,
+  "supplemental_slide_count": 4,
+  "final_slide_count": 27,
+  "dimensions": [
+    1280,
+    720
+  ],
+  "reviewed_markdown_files": [
+    "Domenico Ghirlandaio (complete).md",
+    "Domenico Ghirlandaio chatgpt.md",
+    "Domenico Ghirlandaio claude.md",
+    "Domenico Ghirlandaio 最重要的的作品.md",
+    "artworks.md",
+    "domenico_ghirlandaio_youtube_en.md",
+    "domenico_ghirlandaio_youtube_tw.md"
+  ],
+  "direct_author_images": [],
+  "visual_review": "Every final PNG opened at native 1280×720, including all revised slides. Background-only final slide receives full end sticker. Original wording retained in rewrapped titles and labels.",
+  "background_generation": "Built-in imagegen; final full prompt saved with the video-name prefix.",
+  "pre_sticker_original_final_sha256_verified": "2b813e19ab78be9010a59c830b4650077d5591d5e6d0884b82f332348f813afd",
+  "original_final_occurrences": 1,
+  "sticker_pixel_comparison": "exact match to original ending plus centered 468×468 bundled sticker",
+  "subtitle_headers": "27, exact contiguous PNG filenames in matching order",
+  "notebooklm_mark": "removed; visually inspected on every slide",
+  "audio_scope": "Complete source audio, unaccelerated. Supplemental pages have written narration only; no supplemental speech or reconstructed video generated.",
+  "source_conflicts": "Spoken claims about neutrality and 1485 family commissions preserved in transcript; explicit corrections supplied on supplemental slides 0023 and 0024.",
+  "supplemental_sources": {
+    "0023": [
+      "Domenico Ghirlandaio (complete).md: 身後評價／影響與比較座標",
+      "Domenico Ghirlandaio chatgpt.md: 以利沙伯與撒迦利亞"
+    ],
+    "0024": [
+      "Domenico Ghirlandaio (complete).md: 一年之內的兩份合約／作品表",
+      "domenico_ghirlandaio_youtube_tw.md: Segment 6"
+    ],
+    "0025": [
+      "Domenico Ghirlandaio (complete).md: 小幅木板畫中的吉蘭達約",
+      "domenico_ghirlandaio_youtube_tw.md: Segment 7"
+    ],
+    "0026": [
+      "Domenico Ghirlandaio (complete).md: 一個十三歲的學徒／整合紀錄",
+      "domenico_ghirlandaio_youtube_tw.md: Segment 8"
+    ]
+  },
+  "source_file_sha256": "b2a20fefd5f1d9828697872e035b23e0aee430e74854e7a92d9e91f6e1883078"
+}
