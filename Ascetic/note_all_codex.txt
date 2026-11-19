@@ -110,3 +110,11 @@ Example: search 超現實主義 in $Google Drive
 用 Ascetic/en_slides/ascetic_en.024.png 參考它的旁白 in Ascetic/en_slides/subtitle/ascetic_subtitle_en_20min.txt 做出 圖文解說動畫 size 3840x2160
 用 Ascetic/en_slides/ascetic_en.024.png 參考它的旁白 in Ascetic/en_slides/subtitle/ascetic_subtitle_en_20min.txt 做出 圖文解說動畫 size 3840x2160
 用 Ascetic/en_slides/ascetic_en.029.png 參考它的旁白 in Ascetic/en_slides/subtitle/ascetic_subtitle_en_20min.txt 做出 圖文解說動畫 size 3840x2160
+
+用 Ascetic/tw_slides/ascetic_tw/ascetic_tw.002.png 參考它的旁白 in Ascetic/tw_slides/ascetic_subtitle_short.txt 做出 圖文解說動畫 size 3840x2160
+用 Ascetic/tw_slides/ascetic_tw/ascetic_tw.003.png 參考它的旁白 in Ascetic/tw_slides/ascetic_subtitle_short.txt 做出 圖文解說動畫 size 3840x2160
+用 Ascetic/tw_slides/ascetic_tw/ascetic_tw.005.png 參考它的旁白 in Ascetic/tw_slides/ascetic_subtitle_short.txt 做出 圖文解說動畫 size 3840x2160
+用 Ascetic/tw_slides/ascetic_tw/ascetic_tw.011.png 參考它的旁白 in Ascetic/tw_slides/ascetic_subtitle_short.txt 做出 圖文解說動畫 size 3840x2160
+用 Ascetic/tw_slides/ascetic_tw/ascetic_tw.015.png 參考它的旁白 in Ascetic/tw_slides/ascetic_subtitle_short.txt 做出 圖文解說動畫 size 3840x2160
+用 Ascetic/tw_slides/ascetic_tw/ascetic_tw.020.png 參考它的旁白 in Ascetic/tw_slides/ascetic_subtitle_short.txt 做出 圖文解說動畫 size 3840x2160
+用 Ascetic/tw_slides/ascetic_tw/ascetic_tw.029.png 參考它的旁白 in Ascetic/tw_slides/ascetic_subtitle_short.txt 做出 圖文解說動畫 size 3840x2160
