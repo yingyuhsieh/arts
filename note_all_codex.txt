@@ -69,17 +69,46 @@ Use $youtube-and-social-media-post with
 
 ------------------
 
+# 將中文音檔做影片
+Use $tw-video-integrate-audio-slide to combine my 中文 narration audio, slide images, script, and timing manifest into a YouTube-ready MP4.Use $tw-video-integrate-audio-slide to create a YouTube-ready video from:
+- Narration script:
+  ./<topic>/tw_slides/subtitle/.txt
+- PNG slides:
+  ./<topic>/tw_slides/update
+- Narration audio:
+  ./<topic>/tw_slides/Sounds.m4a
+- Timing manifest:
+  ./<topic>/tw_slides/slide_manifest.json
+
+
+
 # 將英文音檔做影片
 Use $en-video-integrate-audio-slide to combine my English narration audio, slide images, script, and timing manifest into a YouTube-ready MP4.Use $en-video-integrate-audio-slide to create a YouTube-ready video from:
 
 - Narration script:
-  ./<topic>/tw_slides/subtitle/.txt
+  ./<topic>/en_slides/<topic>_tw/.txt
 - PNG slides:
-  ./<topic>/tw_slides/
+  ./<topic>/en_slides/update
 - Narration audio:
-  ./<topic>/tw_slides/audio/Sounds.m4a
+  ./<topic>/en_slides/Sounds.m4a
 - Timing manifest:
-  ./<topic>/tw_slides/slide_manifest.json
+  ./<topic>/en_slides/slide_manifest.json
+
+
+
+
+# 將英文音檔做影片
+Use $en-video-integrate-audio-slide to combine my English narration audio, slide images, script, and timing manifest into a YouTube-ready MP4.Use $en-video-integrate-audio-slide to create a YouTube-ready video from:
+
+- Narration script:
+  ./<topic>/en_slides/<topic>_en/.txt
+- PNG slides:
+  ./<topic>/en_slides/update
+- Narration audio:
+  ./<topic>/en_slides/.m4a
+- Timing manifest:
+  ./<topic>/en_slides/slide_manifest.json
+
 
 # Podcast thumbnail
 Based on md file and images create a Podcast thumb image with size 720x720 Title: 戴珍珠耳環的少女

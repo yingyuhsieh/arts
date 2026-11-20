@@ -47,9 +47,9 @@ Replace ./Ascetic/en_slides/Ascetic_EN/ascetic_en.001.PNG by ./Ascetic/YouTube/W
 # 產生中文 video
 使用 $tw-make-video
 旁白 path：
-./Ascetic/tw_slides/Ascetic_TW.txt
+./Ascetic/tw_slides/ascetic_subtitle_short.txt
 圖片 path：
-./Ascetic/tw_slides/Ascetic_TW
+./Ascetic/tw_slides/ascetic_tw
 
 # 產生English video
 Use $en-make-video.
@@ -69,17 +69,16 @@ Use $youtube-and-social-media-post with
 
 ------------------
 
-# 將英文音檔做影片
-Use $en-video-integrate-audio-slide to combine my English narration audio, slide images, script, and timing manifest into a YouTube-ready MP4.Use $en-video-integrate-audio-slide to create a YouTube-ready video from:
-
+Use $tw-video-integrate-audio-slide to combine my 中文 narration audio, slide images, script, and timing manifest into a YouTube-ready MP4.Use $tw-video-integrate-audio-slide to create a YouTube-ready video from:
 - Narration script:
-  ./Ascetic/tw_slides/subtitle/Ascetic：一場注意力與欲望的視覺之旅.txt
+  ./<topic>/tw_slides/ascetic_subtitle_short.txt
 - PNG slides:
-  ./Ascetic/tw_slides/
+  ./Ascetic/tw_slides/ascetic_tw
 - Narration audio:
-  ./Ascetic/tw_slides/audio/Sounds.m4a
+  ./<topic>/tw_slides/Sounds.m4a
 - Timing manifest:
-  ./Ascetic/tw_slides/slide_manifest.json
+  ./<topic>/tw_slides/slide_manifest.json
+
 
 # Podcast thumbnail
 Based on md file and images create a Podcast thumb image with size 720x720 Title: 戴珍珠耳環的少女

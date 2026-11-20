@@ -81,7 +81,7 @@ Use $tw-video-integrate-audio-slide to combine my 中文 narration audio, slide 
 - PNG slides:
   ./<topic>/tw_slides/update
 - Narration audio:
-  ./<topic>/tw_slides/.m4a
+  ./<topic>/tw_slides/Sounds.m4a
 - Timing manifest:
   ./<topic>/tw_slides/slide_manifest.json
 
@@ -93,7 +93,7 @@ Use $en-video-integrate-audio-slide to combine my English narration audio, slide
 - Narration script:
   ./<topic>/en_slides/subtitle/.txt
 - PNG slides:
-  ./<topic>/en_slides/updateß
+  ./<topic>/en_slides/update
 - Narration audio:
   ./<topic>/en_slides/.m4a
 - Timing manifest:

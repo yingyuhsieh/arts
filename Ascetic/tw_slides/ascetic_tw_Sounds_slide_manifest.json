@@ -1,0 +1,245 @@
+{
+  "source_audio": "Sounds.m4a",
+  "timing_method": "Whisper word timestamps matched to source script; boundaries refined to detected audio silence midpoints (-35 dB, >=0.35 seconds)",
+  "transcript_match_ratio": 0.8804,
+  "slides": [
+    {
+      "filename": "ascetic_tw.001.png",
+      "start": 0,
+      "speech_start": 1.68,
+      "script_prefix": "大家好欢迎来到我们的频道一位老人被魔鬼拖向半空一位修士朝著光张开双手还有一位女子"
+    },
+    {
+      "filename": "ascetic_tw.002.png",
+      "start": 53.487,
+      "speech_start": 54.04,
+      "script_prefix": "这支影片的起点其实是我最近学到的一个英文单字ascetic起初我只是想弄懂它的意",
+      "pause_start": 52.522354,
+      "pause_end": 54.452292
+    },
+    {
+      "filename": "ascetic_tw.003.png",
+      "start": 110.307,
+      "speech_start": 111.62,
+      "script_prefix": "先来认识ascetic这个字当名词用时可以指苦修者或禁欲者当形容词用时则是在描述",
+      "pause_start": 109.180333,
+      "pause_end": 111.433271
+    },
+    {
+      "filename": "ascetic_tw.004.png",
+      "start": 171.51,
+      "speech_start": 172.36,
+      "script_prefix": "这些作品背后的基督教传统中苦修是让生活重新朝向上帝的一种方式节制欲望以及日常的祈",
+      "pause_start": 170.352125,
+      "pause_end": 172.667542
+    },
+    {
+      "filename": "ascetic_tw.005.png",
+      "start": 205.709,
+      "speech_start": 206.87,
+      "script_prefix": "接下来我们分成五段先看圣安东尼在荒野面对诱惑再认识圣方济各的清贫以及圣耶柔米的研",
+      "pause_start": 204.421687,
+      "pause_end": 206.997146
+    },
+    {
+      "filename": "ascetic_tw.006.png",
+      "start": 230.428,
+      "speech_start": 231.22,
+      "script_prefix": "第一站我们跟著圣安东尼走进荒野圣人传记中他虽然远离人群仍不断受到魔鬼侵扰米开朗基",
+      "pause_start": 229.346021,
+      "pause_end": 231.510854
+    },
+    {
+      "filename": "ascetic_tw.007.png",
+      "start": 253.287,
+      "speech_start": 253.92,
+      "script_prefix": "这是米开朗基罗的圣安东尼受魔鬼折磨金贝尔艺术博物馆将它定年为一四八七年当时画家约",
+      "pause_start": 252.341854,
+      "pause_end": 254.231708
+    },
+    {
+      "filename": "ascetic_tw.008.png",
+      "start": 289.681,
+      "speech_start": 290.47,
+      "script_prefix": "这幅画后来曾以吉兰达奥工作室作品的身分交易经过清理和研究才受到新的关注二〇〇九年",
+      "pause_start": 288.589354,
+      "pause_end": 290.772958
+    },
+    {
+      "filename": "ascetic_tw.009.png",
+      "start": 321.281,
+      "speech_start": 321.79,
+      "script_prefix": "接著来看波希的圣安东尼的诱惑这件三联画现藏于里斯本的葡萄牙国立古代艺术博物馆馆方",
+      "pause_start": 320.442,
+      "pause_end": 322.120583
+    },
+    {
+      "filename": "ascetic_tw.010.png",
+      "start": 351.542,
+      "speech_start": 352.38,
+      "script_prefix": "中央画板里安东尼转头望向我们他身后较幽暗的地方还能找到基督和覆著白布的祭坛有些怪",
+      "pause_start": 350.380437,
+      "pause_end": 352.704104
+    },
+    {
+      "filename": "ascetic_tw.011.png",
+      "start": 381.72,
+      "speech_start": 380.44,
+      "script_prefix": "接下来走近圣方济各他放下富裕的生活以清贫与祈祷回应信仰贝利尼让他站在开阔的风景里",
+      "pause_start": 380.513646,
+      "pause_end": 382.925563
+    },
+    {
+      "filename": "ascetic_tw.012.png",
+      "start": 402.983,
+      "speech_start": 403.7,
+      "script_prefix": "这是贝利尼的沙漠中的圣方济各约作于一四七五到一四八〇年间现藏纽约弗里克收藏馆方济",
+      "pause_start": 401.964937,
+      "pause_end": 404.001375
+    },
+    {
+      "filename": "ascetic_tw.013.png",
+      "start": 440.147,
+      "speech_start": 441.81,
+      "script_prefix": "方济各身后的书本棚架和器物让人想到研读与日常劳动清贫并不是空无一物而是一种简朴生",
+      "pause_start": 438.987042,
+      "pause_end": 441.306979
+    },
+    {
+      "filename": "ascetic_tw.014.png",
+      "start": 478.093,
+      "speech_start": 479.4,
+      "script_prefix": "祖巴兰的默想中的圣方济各约作于一六三五到一六三九年现藏于伦敦国家美术馆侧光照亮粗",
+      "pause_start": 476.894021,
+      "pause_end": 479.292958
+    },
+    {
+      "filename": "ascetic_tw.015.png",
+      "start": 512.716,
+      "speech_start": 513.5,
+      "script_prefix": "接下来是圣耶柔米他是重要的圣经学者与拉丁文翻译者也曾退居荒野实践苦修四位艺术家各",
+      "pause_start": 511.313167,
+      "pause_end": 514.119083
+    },
+    {
+      "filename": "ascetic_tw.016.png",
+      "start": 538.206,
+      "speech_start": 538.78,
+      "script_prefix": "达文西的旷野中的圣耶柔米是一件未完成的木板画梵蒂冈博物馆定年为约一四八一到一四八",
+      "pause_start": 537.214687,
+      "pause_end": 539.197229
+    },
+    {
+      "filename": "ascetic_tw.017.png",
+      "start": 577.762,
+      "speech_start": 578.08,
+      "script_prefix": "杜勒一五一四年的书房中的圣耶柔米把我们带进安静的房间圣人低头工作狮子与狗在前景休",
+      "pause_start": 577.047125,
+      "pause_end": 578.477479
+    },
+    {
+      "filename": "ascetic_tw.018.png",
+      "start": 607.087,
+      "speech_start": 608.0,
+      "script_prefix": "葛雷柯的忏悔中的圣耶柔米约作于一五九五到一六〇〇年现藏苏格兰国家美术馆耶柔米一手",
+      "pause_start": 606.246146,
+      "pause_end": 607.927979
+    },
+    {
+      "filename": "ascetic_tw.019.png",
+      "start": 639.257,
+      "speech_start": 640.3,
+      "script_prefix": "拉图尔约一六三〇年的忏悔中的圣耶柔米现藏于瑞典国家博物馆圣人一膝著地手持十字架与",
+      "pause_start": 637.908021,
+      "pause_end": 640.605521
+    },
+    {
+      "filename": "ascetic_tw.020.png",
+      "start": 664.237,
+      "speech_start": 664.93,
+      "script_prefix": "第四站我们来看隐修生活中的相遇圣人传记记载安东尼得知还有另一位隐修者便出发寻找底",
+      "pause_start": 663.165542,
+      "pause_end": 665.307708
+    },
+    {
+      "filename": "ascetic_tw.021.png",
+      "start": 689.964,
+      "speech_start": 690.57,
+      "script_prefix": "维拉斯奎兹的圣安东尼院长与隐修士圣保罗约作于一六三四年现藏于普拉多博物馆前景的两",
+      "pause_start": 688.941521,
+      "pause_end": 690.985729
+    },
+    {
+      "filename": "ascetic_tw.022.png",
+      "start": 721.605,
+      "speech_start": 722.05,
+      "script_prefix": "这幅画也把不同时间放进同一片风景安东尼在远处寻人靠近洞口最后来到前景其他场景则连",
+      "pause_start": 720.820875,
+      "pause_end": 722.389167
+    },
+    {
+      "filename": "ascetic_tw.023.png",
+      "start": 750.984,
+      "speech_start": 751.97,
+      "script_prefix": "里贝拉的隐修士圣保罗约作于一六三八年现藏于巴尔的摩沃尔特斯艺术博物馆强光照出老人",
+      "pause_start": 750.088583,
+      "pause_end": 751.879062
+    },
+    {
+      "filename": "ascetic_tw.024.png",
+      "start": 777.783,
+      "speech_start": 778.37,
+      "script_prefix": "最后两件作品带我们走到苦修主题的边界圣塞拉皮翁是修会纪念的殉道者他遭受的暴力与主",
+      "pause_start": 776.781792,
+      "pause_end": 778.7845
+    },
+    {
+      "filename": "ascetic_tw.025.png",
+      "start": 805.352,
+      "speech_start": 806.76,
+      "script_prefix": "祖巴兰一六二八年的圣塞拉皮翁现藏于沃兹沃思艺术博物馆塞拉皮翁所属的梅塞德会致力赎",
+      "pause_start": 804.040167,
+      "pause_end": 806.664479
+    },
+    {
+      "filename": "ascetic_tw.026.png",
+      "start": 840.094,
+      "speech_start": 840.68,
+      "script_prefix": "这幅画在二〇一五至一六年修复去除泛黄保护层与旧补彩后白色衣袍重新显出细腻层次圣者",
+      "pause_start": 839.064188,
+      "pause_end": 841.124375
+    },
+    {
+      "filename": "ascetic_tw.027.png",
+      "start": 872.2,
+      "speech_start": 872.64,
+      "script_prefix": "最后来到拉图尔约一六四〇年的忏悔的抹大拉现藏于纽约大都会艺术博物馆福音书中的抹大",
+      "pause_start": 871.397542,
+      "pause_end": 873.002792
+    },
+    {
+      "filename": "ascetic_tw.028.png",
+      "start": 909.374,
+      "speech_start": 910.18,
+      "script_prefix": "纽约藏本有两道火焰一根蜡烛以及它在镜中的倒影镜子常让人想到外貌与虚荣但这里并没有",
+      "pause_start": 908.186979,
+      "pause_end": 910.560062
+    },
+    {
+      "filename": "ascetic_tw.029.png",
+      "start": 943.212,
+      "speech_start": 943.76,
+      "script_prefix": "最初我只是想弄懂ascetic这个字看完十二件作品它有了不同的面貌安东尼在混乱中",
+      "pause_start": 942.243333,
+      "pause_end": 944.180625
+    },
+    {
+      "filename": "ascetic_tw.030.png",
+      "start": 971.5,
+      "speech_start": 972.49,
+      "script_prefix": "下次看画不妨找一个小动作合起的手低头阅读的姿势或转向光的目光问问自己画中人正把注",
+      "pause_start": 970.41625,
+      "pause_end": 972.5835
+    }
+  ]
+}
