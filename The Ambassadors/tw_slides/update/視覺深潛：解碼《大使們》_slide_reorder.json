@@ -1,0 +1,17 @@
+{
+  "manifest": "/Users/yingyuhsieh/Desktop/mcp/arts/The Ambassadors/tw_slides/視覺深潛：解碼《大使們》_slide_manifest.json",
+  "original_count": 22,
+  "supplemental_count": 1,
+  "original_final": {
+    "from": "視覺深潛：解碼《大使們》_slide_0022.png",
+    "to": "視覺深潛：解碼《大使們》_slide_0023.png",
+    "sha256": "e94aa87e71e8fe6fec3d211ca54ccef159e3c883214e1c6369512a7f80472327"
+  },
+  "supplemental_renames": [
+    {
+      "from": "視覺深潛：解碼《大使們》_slide_0023.png",
+      "to": "視覺深潛：解碼《大使們》_slide_0022.png"
+    }
+  ],
+  "subtitle": "/Users/yingyuhsieh/Desktop/mcp/arts/The Ambassadors/tw_slides/subtitle/視覺深潛：解碼《大使們》.txt"
+}

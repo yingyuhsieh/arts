@@ -1,0 +1,180 @@
+{
+  "video": "/Users/yingyuhsieh/Desktop/mcp/arts/Ascetic/tw_slides/video/ascetic_short_4k.mp4",
+  "bytes": 613202461,
+  "slides": 30,
+  "hard_cuts_checked": 29,
+  "source_dimensions": [
+    [
+      1280,
+      720
+    ],
+    [
+      1671,
+      941
+    ]
+  ],
+  "output_dimensions": [
+    3840,
+    2160
+  ],
+  "fps": 30,
+  "duration_seconds": 990.433,
+  "audio_duration_seconds": 990.399,
+  "source_audio_duration_seconds": 990.443,
+  "audio_packets_identical_to_source": true,
+  "video_codec": "h264",
+  "audio_codec": "aac",
+  "subtitle_streams": 0,
+  "slide_checks": [
+    {
+      "slide": 1,
+      "midpoint": 26.744,
+      "mean_pixel_error_0_255": 1.404
+    },
+    {
+      "slide": 2,
+      "midpoint": 81.897,
+      "mean_pixel_error_0_255": 2.491
+    },
+    {
+      "slide": 3,
+      "midpoint": 140.909,
+      "mean_pixel_error_0_255": 1.387
+    },
+    {
+      "slide": 4,
+      "midpoint": 188.609,
+      "mean_pixel_error_0_255": 1.434
+    },
+    {
+      "slide": 5,
+      "midpoint": 218.069,
+      "mean_pixel_error_0_255": 1.518
+    },
+    {
+      "slide": 6,
+      "midpoint": 241.858,
+      "mean_pixel_error_0_255": 1.46
+    },
+    {
+      "slide": 7,
+      "midpoint": 271.484,
+      "mean_pixel_error_0_255": 1.398
+    },
+    {
+      "slide": 8,
+      "midpoint": 305.481,
+      "mean_pixel_error_0_255": 1.53
+    },
+    {
+      "slide": 9,
+      "midpoint": 336.411,
+      "mean_pixel_error_0_255": 1.482
+    },
+    {
+      "slide": 10,
+      "midpoint": 366.631,
+      "mean_pixel_error_0_255": 1.41
+    },
+    {
+      "slide": 11,
+      "midpoint": 392.351,
+      "mean_pixel_error_0_255": 1.416
+    },
+    {
+      "slide": 12,
+      "midpoint": 421.565,
+      "mean_pixel_error_0_255": 1.385
+    },
+    {
+      "slide": 13,
+      "midpoint": 459.12,
+      "mean_pixel_error_0_255": 1.392
+    },
+    {
+      "slide": 14,
+      "midpoint": 495.404,
+      "mean_pixel_error_0_255": 1.425
+    },
+    {
+      "slide": 15,
+      "midpoint": 525.461,
+      "mean_pixel_error_0_255": 1.431
+    },
+    {
+      "slide": 16,
+      "midpoint": 557.984,
+      "mean_pixel_error_0_255": 1.416
+    },
+    {
+      "slide": 17,
+      "midpoint": 592.424,
+      "mean_pixel_error_0_255": 1.42
+    },
+    {
+      "slide": 18,
+      "midpoint": 623.172,
+      "mean_pixel_error_0_255": 1.481
+    },
+    {
+      "slide": 19,
+      "midpoint": 651.747,
+      "mean_pixel_error_0_255": 1.515
+    },
+    {
+      "slide": 20,
+      "midpoint": 677.101,
+      "mean_pixel_error_0_255": 1.477
+    },
+    {
+      "slide": 21,
+      "midpoint": 705.784,
+      "mean_pixel_error_0_255": 1.417
+    },
+    {
+      "slide": 22,
+      "midpoint": 736.294,
+      "mean_pixel_error_0_255": 1.412
+    },
+    {
+      "slide": 23,
+      "midpoint": 764.384,
+      "mean_pixel_error_0_255": 1.464
+    },
+    {
+      "slide": 24,
+      "midpoint": 791.567,
+      "mean_pixel_error_0_255": 1.413
+    },
+    {
+      "slide": 25,
+      "midpoint": 822.723,
+      "mean_pixel_error_0_255": 1.414
+    },
+    {
+      "slide": 26,
+      "midpoint": 856.147,
+      "mean_pixel_error_0_255": 1.434
+    },
+    {
+      "slide": 27,
+      "midpoint": 890.787,
+      "mean_pixel_error_0_255": 1.415
+    },
+    {
+      "slide": 28,
+      "midpoint": 926.293,
+      "mean_pixel_error_0_255": 1.36
+    },
+    {
+      "slide": 29,
+      "midpoint": 957.356,
+      "mean_pixel_error_0_255": 1.303
+    },
+    {
+      "slide": 30,
+      "midpoint": 980.949,
+      "mean_pixel_error_0_255": 1.484
+    }
+  ]
+}
