@@ -1,0 +1,25 @@
+{
+  "manifest": "/Users/yingyuhsieh/Desktop/mcp/arts/The Ambassadors/en_slides/Holbein_s_The_Ambassadors_slide_manifest.json",
+  "original_count": 20,
+  "supplemental_count": 3,
+  "original_final": {
+    "from": "Holbein_s_The_Ambassadors_slide_0020.png",
+    "to": "Holbein_s_The_Ambassadors_slide_0023.png",
+    "sha256": "9d035f193336d1a234b252d2773c04d8d90345acb36c8bcb3ee068848ac68124"
+  },
+  "supplemental_renames": [
+    {
+      "from": "Holbein_s_The_Ambassadors_slide_0021.png",
+      "to": "Holbein_s_The_Ambassadors_slide_0020.png"
+    },
+    {
+      "from": "Holbein_s_The_Ambassadors_slide_0022.png",
+      "to": "Holbein_s_The_Ambassadors_slide_0021.png"
+    },
+    {
+      "from": "Holbein_s_The_Ambassadors_slide_0023.png",
+      "to": "Holbein_s_The_Ambassadors_slide_0022.png"
+    }
+  ],
+  "subtitle": "/Users/yingyuhsieh/Desktop/mcp/arts/The Ambassadors/en_slides/subtitle/Holbein_s_The_Ambassadors.txt"
+}

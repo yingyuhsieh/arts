@@ -38,7 +38,7 @@ Use a meticulously detailed Northern Renaissance oil-painting style inspired by 
 
 # English Video 產生 slide images 並加上背景
 使用 $video-to-slides
-Video path: ./The Ambassadors/.mp4
+Video path: ./The Ambassadors/Holbein_s_The_Ambassadors.mp4
 背景風格描述：
 Use a meticulously detailed Northern Renaissance oil-painting style inspired by Hans Holbein the Younger’s The Ambassadors (1533), with deep emerald green, rich burgundy, muted crimson, warm golden ochre, antique ivory, dark walnut brown, and subtle metallic silver tones, combining exquisitely smooth oil-glaze textures with razor-sharp naturalistic precision, luxurious velvet and silk fabrics, intricate embroidery, polished wood, reflective metal, and richly patterned Oriental carpets, incorporating subtle references to the painting’s celestial and terrestrial globes, astronomical instruments, mathematical tools, musical objects, scholarly books, and the enigmatic anamorphic skull, with monumental full-length figures, balanced symmetrical compositions, carefully controlled linear perspective, and soft directional lighting that reveals extraordinary material detail, creating an intellectually sophisticated atmosphere of Renaissance humanism, diplomatic power, scientific discovery, religious tension, and the fleeting nature of earthly life, while preserving expansive deep-green curtain textures, restrained symbolic ornament, and carefully balanced negative space so the artwork, titles, and subtitles remain visually dominant.
 
