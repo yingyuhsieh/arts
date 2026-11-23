@@ -45,8 +45,8 @@ Use a refined French Early Renaissance style inspired by Jean Fouquet, with lumi
 
 # 中文 Replace 1st slide with youtbute thumimage
 # English Replace 1st slide with youtbute thumimage
-Replace ./Jean Fouquet/tw_slides/update/.png by ./Jean Fouquet/YouTube/.png with size 1280x720
-Replace ./Jean Fouquet/en_slides/update/.png by ./Jean Fouquet/YouTube/.png with size 1280x720
+Replace ./Jean Fouquet/tw_slides/update/重建讓・傅凱：權威、微觀世界與歷史_slide_0001.png by ./Jean Fouquet/YouTube/沒有王冠的國王：讓・傅凱如何畫出法國的權力？.png.png with size 1280x720
+Replace ./Jean Fouquet/en_slides/update/Fouquet_s_Visual_Power_slide_0001.png by ./Jean Fouquet/YouTube/Framing Power - How Jean Fouquet Rebuilt the French Royal Image.png with size 1280x720
 
 
 # 產生中文 video

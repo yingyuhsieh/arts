@@ -7,5 +7,4 @@ Based on <title>\tw_slides\update\<topic>_slide_00.png to create new slide as ne
 
 
 以下是 png 要用在 YouTubbe 影片的 slides，請將它們做成可以吸引觀看者。輸出 size 1280x720
-Background 使用 <background_image> and 使用 YouTube_PNG_設計風格_Prompt.md
-讀取 slide 內容 <slide_script>
+Background 使用 <background_image> and 使用 YouTube_PNG_設計風格_Prompt.md and 讀取 slide 內容 <slide_script>

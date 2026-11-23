@@ -1,0 +1,59 @@
+
+Based on Jean Fouquet\tw_slides\update\重建讓・傅凱：權威、微觀世界與歷史_slide_00.png to create new slide as new_重建讓・傅凱：權威、微觀世界與歷史_slide_00.png
+ and add image Jean Fouquet\images\
+ and use image Jean Fouquet\images\
+ and make description large and clear
+ and make description clear
+ 
+以下是 png 要用在 YouTubbe 影片的 slides，請將它們做成可以吸引觀看者。輸出 size 1280x720
+Background 使用 Jean Fouquet\en_slides\Fouquet_s_Visual_Power_background.png and 使用 YouTube_PNG_設計風格_Prompt.md
+讀取 slide 內容 Jean Fouquet\tw_slides\subtitle\重建讓・傅凱：權威、微觀世界與歷史.txt
+Based on Jean Fouquet\tw_slides\update\重建讓・傅凱：權威、微觀世界與歷史_slide_0009.png to create new slide as new_重建讓・傅凱：權威、微觀世界與歷史_slide_0009.png and make description large and clear
+Based on Jean Fouquet\tw_slides\update\重建讓・傅凱：權威、微觀世界與歷史_slide_0011.png to create new slide as new_重建讓・傅凱：權威、微觀世界與歷史_slide_0011.png and use image Jean Fouquet\images\艾蒂安·謝瓦利埃時禱書 Hours of Étienne Chevalier\St_Veran_exorcising_the_possessed_-_Jean_Fouquet,_Hours_of_Étienne_Chevalier_(c.1452-1460).jpg and make the image large mark "聖維蘭在巴黎聖母院北側廊為被附身者驅魔" and make description large and clear
+Based on Jean Fouquet\tw_slides\update\重建讓・傅凱：權威、微觀世界與歷史_slide_0012.png to create new slide as new_重建讓・傅凱：權威、微觀世界與歷史_slide_0012.png and use image Jean Fouquet\images\艾蒂安・舍瓦利耶時禱書 Hours of Étienne Chevalier\The Annunciation.jpg mark "聖母領報" and make description large and clear
+Based on Jean Fouquet\tw_slides\update\重建讓・傅凱：權威、微觀世界與歷史_slide_0013.png to create new slide as new_重建讓・傅凱：權威、微觀世界與歷史_slide_0013.png and move the image to left and add right image Jean Fouquet\images\艾蒂安・舍瓦利耶時禱書 Hours of Étienne Chevalier\艾蒂安・舍瓦利耶時禱書 Hours of Étienne Chevalier 3x3.png mark "艾蒂安・舍瓦利耶時禱書" and make description clear
+Based on Jean Fouquet\tw_slides\update\重建讓・傅凱：權威、微觀世界與歷史_slide_0015.png to create new slide as new_重建讓・傅凱：權威、微觀世界與歷史_slide_0015.png and use left image Jean Fouquet\images\La Crucifixion 耶穌受難.jpg mark "耶穌受難" and use right image Bataille entre Romains et Carthaginois, dite la Bataille de Cannes 坎尼會戰.jpg mark "羅馬人與迦太基人之戰" and make two image the same height
+Based on Jean Fouquet\tw_slides\update\重建讓・傅凱：權威、微觀世界與歷史_slide_0016.png to create new slide as new_重建讓・傅凱：權威、微觀世界與歷史_slide_0016.png and make the flow and description clear
+Based on Jean Fouquet\tw_slides\update\重建讓・傅凱：權威、微觀世界與歷史_slide_0017.png to create new slide as new_重建讓・傅凱：權威、微觀世界與歷史_slide_0017.png and make the image better and make description large and clear
+Based on Jean Fouquet\tw_slides\update\重建讓・傅凱：權威、微觀世界與歷史_slide_0018.png to create new slide as new_重建讓・傅凱：權威、微觀世界與歷史_slide_0018.png
+ and add image Jean Fouquet\images\Portrait of Charles VII, King of France 法國國王查理七世肖像 約 1445–1450 年.jpg, Melun Diptych 默倫雙聯畫 - Virgin and Child Surrounded by Angels, right wing of the diptych, Royal Museum of Fine Arts, Antwerp.jpg, La Crucifixion 耶穌受難.jpg, Pietà of Nouans 努昂哀悼基督 約 1460–1465.jpg and make description large and clear
+
+
+
+Based on Jean Fouquet\en_slides\update\Fouquet_s_Visual_Power_slide_00.png to create new slide as new_Fouquet_s_Visual_Power_slide_00.png
+ and add image Jean Fouquet\images\
+ and use image Jean Fouquet\images\
+ and make description large and clear
+ and make description clear
+ 
+以下是 png 要用在 YouTubbe 影片的 slides，請將它們做成可以吸引觀看者。輸出 size 1280x720
+Background 使用 Jean Fouquet\en_slides\Fouquet_s_Visual_Power_background.png and 使用 YouTube_PNG_設計風格_Prompt.md and 讀取 slide 內容 Jean Fouquet\en_slides\subtitle\Fouquet_s_Visual_Power.txt
+
+Based on Jean Fouquet\en_slides\update\Fouquet_s_Visual_Power_slide_0008.png to create new slide as new_Fouquet_s_Visual_Power_slide_0008.png and make description large and clear
+
+Based on Jean Fouquet\en_slides\update\Fouquet_s_Visual_Power_slide_0009.png to create new slide as new_Fouquet_s_Visual_Power_slide_0009.png and make description large and clear
+
+Based on Jean Fouquet\en_slides\update\Fouquet_s_Visual_Power_slide_0010.png to create new slide as new_Fouquet_s_Visual_Power_slide_0010.png and make description large and clear
+
+Based on Jean Fouquet\en_slides\update\Fouquet_s_Visual_Power_slide_0011.png to create new slide as new_Fouquet_s_Visual_Power_slide_0011.png and use left image Jean Fouquet\images\艾蒂安・舍瓦利耶時禱書 Hours of Étienne Chevalier\艾蒂安・舍瓦利耶時禱書 Hours of Étienne Chevalier 1450.jpg mark "Jean Fouquet Saint Jean à Patmos" and use left image Jean Fouquet\images\艾蒂安・舍瓦利耶時禱書 Hours of Étienne Chevalier\The Annunciation.jpg mark "Annunciation" and make images the same height
+
+Based on Jean Fouquet\en_slides\update\Fouquet_s_Visual_Power_slide_0012.png to create new slide as new_Fouquet_s_Visual_Power_slide_0012.png and add image Jean Fouquet\images\艾蒂安・舍瓦利耶時禱書 Hours of Étienne Chevalier\艾蒂安・舍瓦利耶時禱書 Hours of Étienne Chevalier 3x3.png mark "Hours of Étienne Chevalier"
+ and make description clear
+
+Based on Jean Fouquet\en_slides\update\Fouquet_s_Visual_Power_slide_0013.png to create new slide as new_Fouquet_s_Visual_Power_slide_0013.png and make description clear
+
+Based on Jean Fouquet\en_slides\update\Fouquet_s_Visual_Power_slide_0014.png to create new slide as new_Fouquet_s_Visual_Power_slide_0014.png and make description clear
+
+Based on Jean Fouquet\en_slides\update\Fouquet_s_Visual_Power_slide_0015.png to create new slide as new_Fouquet_s_Visual_Power_slide_0015.png and make description clear
+
+Based on Jean Fouquet\en_slides\update\Fouquet_s_Visual_Power_slide_0016.png to create new slide as new_Fouquet_s_Visual_Power_slide_0016.png and make description clear
+
+Based on Jean Fouquet\en_slides\update\Fouquet_s_Visual_Power_slide_0017.png to create new slide as new_Fouquet_s_Visual_Power_slide_0017.png and make description clear
+
+Based on Jean Fouquet\en_slides\update\Fouquet_s_Visual_Power_slide_0018.png to create new slide as new_Fouquet_s_Visual_Power_slide_0018.png and make description clear
+
+Based on Jean Fouquet\en_slides\update\Fouquet_s_Visual_Power_slide_0019.png to create new slide as new_Fouquet_s_Visual_Power_slide_0019.png and make description clear
+
+Based on Jean Fouquet\en_slides\update\Fouquet_s_Visual_Power_slide_0020.png to create new slide as new_Fouquet_s_Visual_Power_slide_0019.png and add image Jean Fouquet\images\Melun Diptych 默倫雙聯畫 - Left wing of the diptych depicts Étienne Chevalier with his patron saint St. Stephen, now in Gemäldegalerie, Berlin.jpg, Melun Diptych 默倫雙聯畫 - Virgin and Child Surrounded by Angels, right wing of the diptych, Royal Museum of Fine Arts, Antwerp.jpg, La Crucifixion 耶穌受難.jpg, Pietà of Nouans 努昂哀悼基督 約 1460–1465.jpg and make description large and clear
+
+Based on Jean Fouquet\en_slides\update\Fouquet_s_Visual_Power_slide_0021.png to create new slide as new_Fouquet_s_Visual_Power_slide_0013.png and add image Jean Fouquet\images\Portrait of Charles VII, King of France 法國國王查理七世肖像 約 1445–1450 年.jpg, Portrait of Guillaume Jouvenel des Ursins 紀堯姆・朱韋內爾・德・于爾桑肖像 約 1450–1460.jpg and make description clear
