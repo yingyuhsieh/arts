@@ -116,7 +116,7 @@ Format
 <畫家生平>
 Example: search 超現實主義 in $Google Drive
 
-用 The Ambassadors>/tw_slides/update/.png 參考它的旁白 in The Ambassadors/tw_slides/subtitle/.txt 做出 圖文解說動畫 size 3840x2160
+用 The Ambassadors/tw_slides/update/.png 參考它的旁白 in The Ambassadors/tw_slides/subtitle/.txt 做出 圖文解說動畫 size 3840x2160
 
-用 The Ambassadors>/en_slides/update/.png 參考它的旁白 in The Ambassadors/en_slides/subtitle/.txt 做出 圖文解說動畫 size 3840x2160
+用 The Ambassadors/en_slides/update/.png 參考它的旁白 in The Ambassadors/en_slides/subtitle/.txt 做出 圖文解說動畫 size 3840x2160
 

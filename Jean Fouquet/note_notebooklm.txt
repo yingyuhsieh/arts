@@ -57,9 +57,9 @@ Replace ./Jean Fouquet/en_slides/update/Fouquet_s_Visual_Power_slide_0001.png by
 ./Jean Fouquet/tw_slides/tw_slides/update
 
 # 產生English video
-Use $en-make-video.
+Use $en-make-video
 Narration:
-./Jean Fouquet/en_slides/subtitle/.txt
+./Jean Fouquet/en_slides/subtitle/Fouquet_s_Visual_Power.txt
 Images:
 ./Jean Fouquet/en_slides/update
 
@@ -115,3 +115,14 @@ Format
 <深度作品分析>
 <畫家生平>
 Example: search 超現實主義 in $Google Drive
+
+
+用 The Jean Fouquet/tw_slides/update/.png 參考它的旁白 in The Jean Fouquet/tw_slides/subtitle/Fouquet_s_Visual_Power.txt 做出 圖文解說動畫 size 3840x2160, don't zoom in/out
+
+用 The Jean Fouquet/en_slides/update/.png 參考它的旁白 in The Jean Fouquet/en_slides/subtitle/.txt 做出 圖文解說動畫 size 3840x2160, don't zoom in/out
+
+==========
+用 The Jean Fouquet/en_slides/update/Fouquet_s_Visual_Power_slide_0003.png 參考它的旁白 in The Jean Fouquet/en_slides/subtitle/Fouquet_s_Visual_Power.txt 做出 圖文解說動畫 size 3840x2160, don't zoom in/out
+用 The Jean Fouquet/en_slides/update/Fouquet_s_Visual_Power_slide_0005.png 參考它的旁白 in The Jean Fouquet/en_slides/subtitle/Fouquet_s_Visual_Power.txt 做出 圖文解說動畫 size 3840x2160, don't zoom in/out
+用 The Jean Fouquet/en_slides/update/Fouquet_s_Visual_Power_slide_0015.png 參考它的旁白 in The Jean Fouquet/en_slides/subtitle/Fouquet_s_Visual_Power.txt 做出 圖文解說動畫 size 3840x2160, don't zoom in/out
+用 The Jean Fouquet/en_slides/update/Fouquet_s_Visual_Power_slide_0019.png 參考它的旁白 in The Jean Fouquet/en_slides/subtitle/Fouquet_s_Visual_Power.txt 做出 圖文解說動畫 size 3840x2160, don't zoom in/out
